@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Irbesartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -90,7 +90,7 @@ Altri documenti recuperati sono solo marginalmente pertinenti (estratti di medic
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni (tutte monocomponente):
+Il testo dell'indicazione approvata non è riportato.
 
 <!-- review:begin it-lic-20261106-irbesartan-1 -->
 
@@ -98,13 +98,35 @@ Il testo dell'indicazione approvata non è riportato. Principali autorizzazioni 
 
 <!-- review:end it-lic-20261106-irbesartan-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare |
-|---------|------|------|
-| 033263043 | Karvea 28 cpr 150 mg | Sanofi Winthrop Industrie |
-| 033263070 | Karvea 28 cpr 300 mg | Sanofi Winthrop Industrie |
-| 033264045 | Aprovel 28 cpr 150 mg | Sanofi Winthrop Industrie |
-| 041666088 | Ifirmasta 28 cpr rivestite 150 mg | Krka d.d. Novo Mesto |
-| 041888025 | Irbetens 28 cpr rivestite 150 mg | Lanova Farmaceutici Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042107019 | IRBESARTAN\*28 cpr 150 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041458314 | IRBESARTAN\*28 cpr 300 mg | MYLAN SpA | Autorizzata |
+| 033263070 | KARVEA\*28 cpr 300 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 040836684 | IRBESARTAN\*28 cpr rivestite 300 mg | SANDOZ SpA | Autorizzata |
+| 042107045 | IRBESARTAN\*28 cpr 300 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041458175 | IRBESARTAN\*28 cpr 150 mg | MYLAN SpA | Autorizzata |
+| 041888025 | IRBETENS\*28 cpr rivestite 150 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 033264045 | APROVEL\*28 cpr 150 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 040915098 | ABESART\*28 cpr rivestite 150 mg | GENETIC SpA | Autorizzata |
+| 041974243 | IRBESARTAN\*28 cpr rivestite 150 mg | ZENTIVA K.S. | Autorizzata |
+| 033263043 | KARVEA\*28 cpr 150 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 040755086 | IRBESARTAN\*28 cpr rivestite 150 mg | EG SpA | Autorizzata |
+| 040865103 | IRBESARTAN\*28 cpr 300 mg | DOC GENERICI Srl | Autorizzata |
+| 040836292 | IRBESARTAN\*28 cpr rivestite 150 mg | SANDOZ SpA | Autorizzata |
+| 041666088 | IFIRMASTA\*28 cpr rivestite 150 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041888037 | IRBETENS\*28 cpr rivestite 300 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 039734025 | RABESAT\*28 cpr rivestite 300 mg | GENETIC SpA | Autorizzata |
+| 033263272 | KARVEA\*28 cpr rivestite 300 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 041974306 | IRBESARTAN\*28 cpr rivestite 300 mg | ZENTIVA K.S. | Autorizzata |
+| 039735028 | RETENSIR\*28 cpr rivestite 300 mg | S.F. GROUP Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -134,7 +156,13 @@ La previsione per l'ipertensione renovascolare maligna si basa solo sul modello 
 - I dati sul meccanismo d'azione da DrugBank
 - Una revisione sistematica della letteratura clinica su sartani e ipertensione renovascolare/maligna, con particolare attenzione al rischio di danno renale acuto
 - Per l'ipertensione polmonare, studi clinici o almeno evidenze traslazionali più solide rispetto agli attuali modelli animali
-- Una verifica della possibilità di commercializzazione, dato lo stato di autorizzazioni solo cancellate
+- Una verifica della possibilità di commercializzazione
+
+<!-- review:begin it-lic-20261124-irbesartan-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una verifica della possibilità di commercializzazione, dato lo stato di autorizzazioni solo cancellate» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni raccolte risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-irbesartan-1 -->
 
 <!-- review:begin log -->
 
@@ -146,6 +174,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

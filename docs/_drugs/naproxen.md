@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 9)"
@@ -83,15 +83,26 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 023177189 | NAPROSYN 20 cpr 750 mg rilascio modificato | Recordati SpA | Non più autorizzata |
-| 023886082 | LASER 20 cpr 750 mg rilascio modificato | Euro-Pharma Srl | Valida |
-| 050505027 | NAPROSSENE 30 cpr rivestite 550 mg | Aurobindo Pharma Italia Srl | Valida |
-| 024667139 | NAPRIUS 30 cpr 500 mg | Aesculapius Farmaceutici Srl | Valida |
-| 034792010 | NAPROXENE SODICO 30 cpr rivestite 550 mg | DOC Generici Srl | Valida |
+<!-- licenses:begin -->
 
-Elencate le prime 5 delle 11 autorizzazioni.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023886082 | LASER\*20 cpr 750 mg rilascio modificato | EURO-PHARMA Srl | Autorizzata |
+| 050505027 | NAPROSSENE\*30 cpr rivestite 550 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 024667139 | NAPRIUS\*30 cpr 500 mg | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 034792010 | NAPROXENE SODICO\*30 cpr rivestite 550 mg | DOC GENERICI Srl | Autorizzata |
+| 023177138 | NAPROSYN\*30 bust grat 500 mg | RECORDATI SpA | Autorizzata |
+| 023177215 | NAPROSYN\*30 cpr gastrores 500 mg | RECORDATI SpA | Autorizzata |
+| 024722047 | SYNFLEX FORTE\*30 cpr rivestite 550 mg | RECORDATI SpA | Autorizzata |
+| 045715036 | NAPROXENE SODICO\*30x1 cpr rivestite 550 mg | HCS BV | Autorizzata |
+| 024722086 | SYNFLEX FORTE\*30 bust grat 550 mg | RECORDATI SpA | Autorizzata |
+| 023177189 | NAPROSYN\*20 cpr 750 mg rilascio modificato | RECORDATI SpA | Non più autorizzata |
+| 033294012 | NAPROSSENE\*30 cpr 500 mg | EG SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,7 +124,7 @@ La previsione si basa solo sul modello (livello L5), senza sperimentazioni né p
 
 <!-- review:begin it-lic-20261106-naproxen-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione si basa solo sul modello (livello L5), senza sperimentazioni né pubblicazioni, e non vi è alcun legame meccanicistico plausibile tra l'inibizione delle COX e una malformazione scheletrica congenita di origine genetica. Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-naproxen-1 -->
 
@@ -126,7 +137,7 @@ La previsione si basa solo sul modello (livello L5), senza sperimentazioni né p
 
 <!-- review:begin it-lic-20261106-naproxen-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verificare la disponibilità attuale di formulazioni di naprossene sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-naproxen-2 -->
 
@@ -138,8 +149,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane del prodotto risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

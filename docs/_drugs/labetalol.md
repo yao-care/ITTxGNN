@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -74,7 +74,7 @@ Per la previsione principale (ipertensione renovascolare maligna):
 
 <!-- review:begin it-lic-20261106-labetalol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-labetalol-1 -->
 
@@ -84,10 +84,16 @@ Per la previsione principale (ipertensione renovascolare maligna):
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023578014 | TRANDATE*30 cpr 100 mg | Non disponibile | Non disponibile (autorizzazione valida) |
-| 023578038 | TRANDATE*30 cpr 200 mg | Non disponibile | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023578014 | TRANDATE\*30 cpr 100 mg | TEOFARMA Srl | Autorizzata |
+| 023578038 | TRANDATE\*30 cpr 200 mg | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -123,7 +129,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni, intestate a TEOFARMA Srl, risultano revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55) |
 
 <!-- review:end log -->

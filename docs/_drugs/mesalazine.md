@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: nuova indicazione prevista, Congenital hypotrichosis with juvenile macular dystrophy (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -77,7 +77,7 @@ Tra le altre previsioni del modello, solo due presentano un minimo di letteratur
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 <!-- review:begin it-lic-20261106-mesalazine-1 -->
 
@@ -85,13 +85,35 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:end it-lic-20261106-mesalazine-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 026416154 | ASACOL 7 clismi 4 g 100 ml sospensione rettale | Giuliani SpA | Valida |
-| 034836039 | MESALAZINA 7 clismi 4 g sospensione rettale + 7 cannule | Sandoz SpA | Valida |
-| 035509013 | PROCTASACOL 20 dosi 500 mg gel rettale | Giuliani SpA | Valida |
-| 034836027 | MESALAZINA 7 clismi 2 g sospensione rettale + 7 cannule | Sandoz SpA | Valida |
-| 037734011 | MESAVANCOL 60 cpr gastroresistenti 1.200 mg a rilascio prolungato | Giuliani SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 026416154 | ASACOL\*7 clismi 4 g 100 ml sosp rett | GIULIANI SpA | Autorizzata |
+| 034836039 | MESALAZINA\*7 clismi 4 g sosp rett + 7 cannule | SANDOZ SpA | Autorizzata |
+| 035509013 | PROCTASACOL\*20 dosi 500 mg gel rettale | GIULIANI SpA | Autorizzata |
+| 034836027 | MESALAZINA\*7 clismi 2 g sosp rett + 7 cannule | SANDOZ SpA | Autorizzata |
+| 037734011 | MESAVANCOL\*60 cpr gastrores 1.200 mg rilascio prolungato | GIULIANI SpA | Autorizzata |
+| 026416255 | ASACOL\*50 cps 400 mg rilascio modificato | GIULIANI SpA | Autorizzata |
+| 033081035 | MESAFLOR\*7 clismi 4 g + 7 cannule rett | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 026925230 | PENTACOL\*120 cpr 1.200 mg rilascio modificato | ALFASIGMA SpA | Autorizzata |
+| 034462061 | MESALAZINA\*60 cpr gastrores 400 mg | TEVA ITALIA Srl | Autorizzata |
+| 026925154 | PENTACOL\*20 supp 500 mg | ALFASIGMA SpA | Autorizzata |
+| 034462022 | MESALAZINA\*24 cpr gastrores 800 mg | TEVA ITALIA Srl | Autorizzata |
+| 026416305 | ASACOL\*28 supp 1 g | GIULIANI SpA | Autorizzata |
+| 026416141 | ASACOL\*7 clismi 2 g 50 ml sosp rett | GIULIANI SpA | Autorizzata |
+| 034254060 | ARGONAL\*60 cpr gastrores 800 mg | DICOFARM SpA | Autorizzata |
+| 026925127 | PENTACOL 2\*14 g schiuma rett + 7 cannule rett | ALFASIGMA SpA | Autorizzata |
+| 034298051 | ASAMAX\*20 supp 500 mg | CA.DI.GROUP SpA | Autorizzata |
+| 034298024 | ASAMAX\*24 cpr gastrores 800 mg | CA.DI.GROUP SpA | Autorizzata |
+| 027122098 | ASALEX\*sosp rett 7 clismi 4 g + 7 cannule | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 027130044 | PENTASA\*7 clismi 4 g 100 ml sosp rett | FERRING SpA | Autorizzata |
+| 026416139 | ASACOL\*20 supp 500 mg | GIULIANI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

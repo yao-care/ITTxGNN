@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Griseofulvin"
 predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
 description: "Griseofulvin: nuova indicazione prevista, Myiasis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -72,10 +72,16 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
-|---------|------|------|------|-----------|
-| 016762041 | FULCIN 500 mg, 10 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Valida | Non riportata |
-| 016762015 | FULCIN 125 mg, 20 compresse (SIT Laboratorio Farmaceutico Srl) | Compresse | Valida | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 016762041 | FULCIN 500\*10 cpr 500 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 016762015 | FULCIN 125\*20 cpr 125 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -100,7 +106,7 @@ Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinoc
 
 <!-- review:begin it-lic-20261106-griseofulvin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi. Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono ben consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinococcosi) sono al livello L5, senza sperimentazioni né letteratura, e senza un legame meccanicistico plausibile, salvo un'ipotesi speculativa per l'echinococcosi. Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono ben consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-griseofulvin-1 -->
 
@@ -112,7 +118,7 @@ Tutte le predizioni (miasi, miasi da ferita, strisciante, furuncolare ed echinoc
 
 <!-- review:begin it-lic-20261106-griseofulvin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutare la fattibilità regolatoria, dato che il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-griseofulvin-2 -->
 
@@ -124,8 +130,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono be» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia le autorizzazioni della griseofulvina risultano tutte cancellate, e le alternative standard per queste condizioni sono be» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d) |
 
 <!-- review:end log -->

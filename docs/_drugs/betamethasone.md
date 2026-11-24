@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Betamethasone: nuova indicazione prevista, Mucinosi follicolare (alopecia mucinosa) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -72,13 +72,35 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Secondo i dati compilati per questo report, risultano 20 autorizzazioni valide; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045799020 | BETAMETASONE*10 cpr eff 1 mg | Non indicata | Non registrata |
-| 039604020 | IBET*3 fiale 2 ml 4 mg/2 ml | Non indicata | Non registrata |
-| 039659014 | BETAMETASONE*6 fiale 2 ml 1,5 mg | Non indicata | Non registrata |
-| 019655051 | BENTELAN*10 cpr eff 1 mg | Non indicata | Non registrata |
-| 034226011 | BETTAMOUSSE*schiuma cutanea 100 g 1 mg/g | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045799020 | BETAMETASONE\*10 cpr eff 1 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 039604020 | IBET\*3 fiale 2 ml 4 mg/2 ml | BIOPHARMA Srl | Autorizzata |
+| 039659014 | BETAMETASONE\*6 fiale 2 ml 1,5 mg | DOC GENERICI Srl | Autorizzata |
+| 039731029 | BETAMETASONE\*3 fiale 2 ml 4 mg/2 ml | EG SpA | Autorizzata |
+| 042821037 | ETASON\*30 cpr eff 0,5 mg | GENETIC SpA | Autorizzata |
+| 041354010 | ALBAFLO\*6 fiale 2 ml 1,5 mg/2 ml | ESSETI FARMACEUTICI Srl | Autorizzata |
+| 042821013 | ETASON\*10 cpr eff 0,5 mg | GENETIC SpA | Autorizzata |
+| 034030015 | BETAMETASONE\*3 fiale 4 mg 1 ml | LAB.FARMACOLOGICO MILANESE Srl | Autorizzata |
+| 042863011 | BETAMETASONE\*10 cpr eff 0,5 mg | DOC GENERICI Srl | Autorizzata |
+| 041354022 | ALBAFLO\*3 fiale 2 ml 4 mg/2 ml | ESSETI FARMACEUTICI Srl | Autorizzata |
+| 019655051 | BENTELAN\*10 cpr eff 1 mg | ALFASIGMA SpA | Autorizzata |
+| 042821052 | ETASON\*30 cpr eff 1 mg | GENETIC SpA | Autorizzata |
+| 019655012 | BENTELAN\*10 cpr eff 0,5 mg | ALFASIGMA SpA | Autorizzata |
+| 039731017 | BETAMETASONE\*6 fiale 2 ml 1,5 mg/2 ml | EG SpA | Autorizzata |
+| 042863023 | BETAMETASONE\*10 cpr eff 1 mg | DOC GENERICI Srl | Autorizzata |
+| 045799018 | BETAMETASONE\*10 cpr eff 0,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 019655315 | BENTELAN\*6 fiale 2 ml 1,5 mg/2 ml | ALFASIGMA SpA | Autorizzata |
+| 034226011 | BETTAMOUSSE\*schiuma cutanea 100 g 1 mg/g | GIULIANI SpA | Autorizzata |
+| 042827016 | BETAMETASONE\*10 cpr eff 0,5 mg | GENETIC SpA | Autorizzata |
+| 039659026 | BETAMETASONE\*3 fiale 2 ml 4 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baclofen: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Non disponibile (i testi di indicazione delle autorizzaz…"
 monitor_inn: "baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -90,17 +90,23 @@ Nessuna pubblicazione è specifica per baclofene nell'ADHD. Le più pertinenti s
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 022999027 | LIORESAL*50 cpr 25 mg | Novartis Farma SpA | Valida |
-| 037930029 | BACLOFENE*50 cpr div 25 mg | Mylan SpA | Valida |
-| 048166019 | BACLOFENE*50 cpr div 25 mg | DOC Generici Srl | Valida |
+|------|------|------|------|
+| 022999027 | LIORESAL\*50 cpr 25 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 037930029 | BACLOFENE\*50 cpr div 25 mg | MYLAN SpA | Autorizzata |
+| 048166019 | BACLOFENE\*50 cpr div 25 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.
 
 <!-- review:begin it-lic-20261106-baclofen-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nei dati compilati non risultano autorizzazioni valide. Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Nei dati compilati non risultano autorizzazioni valide. Forma farmaceutica e testo dell'indicazione approvata non sono disponibili.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-baclofen-1 -->
 
@@ -143,7 +149,7 @@ Per l'ADHD esistono solo una previsione computazionale e letteratura indiretta, 
 
 <!-- review:begin it-lic-20261106-baclofen-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Mancano inoltre i dati di sicurezza ufficiali, e in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Mancano inoltre i dati di sicurezza ufficiali, e in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-baclofen-2 -->
 
@@ -162,8 +168,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Nei dati compilati non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Nei dati compilati non risultano autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->

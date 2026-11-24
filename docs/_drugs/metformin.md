@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: nuova indicazione prevista, Sindrome della gamba rigida focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -97,13 +97,35 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili
 
 <!-- review:end it-lic-20261106-metformin-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 017758020 | GLUCOPHAGE 40 cpr rivestite 850 mg | Bruno Farmaceutici SpA | Valida |
-| 039066509 | METFORMINA 30 cpr rivestite 500 mg | DOC Generici Srl | Valida |
-| 035195205 | METFORMINA 30 cpr rivestite 500 mg | Teva Italia Srl | Valida |
-| 050624093 | METFORMINA 60 cpr 750 mg a rilascio prolungato | Sandoz SpA | Valida |
-| 049629013 | METFORMINA 30 cpr rivestite 500 mg | EG SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 017758020 | GLUCOPHAGE\*40 cpr rivestite 850 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 039066509 | METFORMINA\*30 cpr rivestite 500 mg | DOC GENERICI Srl | Autorizzata |
+| 035195205 | METFORMINA\*30 cpr rivestite 500 mg | TEVA ITALIA Srl | Autorizzata |
+| 050624093 | METFORMINA\*60 cpr 750 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 049629013 | METFORMINA\*30 cpr rivestite 500 mg | EG SpA | Autorizzata |
+| 040628063 | GLUCOPHAGE UNIDIE\*60 cpr 1.000 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 017758069 | GLUCOPHAGE\*60 cpr rivestite 1.000 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 049661034 | METFORMINA\*30 cpr rivestite 500 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 039066687 | METFORMINA\*30 cpr rivestite 850 mg | DOC GENERICI Srl | Autorizzata |
+| 040629026 | SLOWMET\*60 cpr 500 mg rilascio prolungato | I.B.N. SAVIO Srl | Autorizzata |
+| 039846086 | METFORMINA\*30 cpr rivestite 850 mg | MYLAN SpA | Autorizzata |
+| 035215019 | METFONORM\*30 cpr rivestite 500 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 049629025 | METFORMINA\*50 cpr rivestite 500 mg | EG SpA | Autorizzata |
+| 035195217 | METFORMINA\*50 cpr rivestite 500 mg | TEVA ITALIA Srl | Autorizzata |
+| 040668079 | METFORMINA\*50 cpr rivestite 500 mg blister opaco | EG SpA | Autorizzata |
+| 049661301 | METFORMINA\*60 cpr rivestite 1.000 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 046719050 | METFORMINA\*60 cpr rivestite 1.000 mg | PHARMACARE Srl | Autorizzata |
+| 048259030 | METFORMINA\*60 cpr 1.000 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 038257022 | ZUGLIMET\*30 cpr rivestite 500 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 035215021 | METFONORM\*40 cpr rivestite 850 mg | ABIOGEN PHARMA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 309
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20"
@@ -104,13 +104,35 @@ Sono riportati i 10 studi più rilevanti (su 16 registrati per questa indicazion
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034001014 | Singulair, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034003057 | Montegen, 28 cpr masticabili 4 mg (Neopharmed Gentili) | Compresse masticabili | Non disponibile (autorizzazione valida) |
-| 034004010 | Lukasm, 28 cpr rivestite 10 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 040398051 | Monkasta, 28 cpr masticabili 4 mg (Krka) | Compresse masticabili | Non disponibile (autorizzazione valida) |
-| 041361039 | Leukast, 28 cpr rivestite 10 mg (Konpharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040649030 | SASLONG\*28 cpr mast 4 mg | SO.SE.PHARM Srl | Autorizzata |
+| 040471029 | MONTELUKAST\*28 cpr mast 5 mg | DOC GENERICI Srl | Autorizzata |
+| 042125029 | MONTELUKAST\*28 cpr mast 4 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040368021 | MONTELUKAST\*28 cpr rivestite 10 mg | DOC GENERICI Srl | Autorizzata |
+| 041361039 | LEUKAST\*28 cpr rivestite 10 mg | KONPHARMA Srl | Autorizzata |
+| 043948049 | SINGULAIR\*28 cpr rivestite 10 mg | GMM FARMA Srl | Autorizzata |
+| 040398051 | MONKASTA\*28 cpr mast 4 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040193118 | MONTELUKAST\*28 cpr mast 5 mg | EG SpA | Autorizzata |
+| 040672178 | MONTELUKAST\*28 cpr mast 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 042125056 | MONTELUKAST\*28 cpr mast 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040398202 | MONKASTA\*28 cpr mast 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 034001014 | SINGULAIR\*28 cpr rivestite 10 mg | ORGANON ITALIA Srl | Autorizzata |
+| 039994013 | MONTELUKAST\*28 cpr rivestite 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 041855026 | MONTELUKAST\*28 cpr mast 4 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041356039 | BROKAST\*28 cpr rivestite 10 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 034003057 | MONTEGEN\*28 cpr mast 4 mg con calendario | NEOPHARMED GENTILI SpA | Autorizzata |
+| 034004010 | LUKASM\*28 cpr rivestite 10 mg | ORGANON ITALIA Srl | Autorizzata |
+| 040649170 | SASLONG\*28 cpr rivestite 10 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041358033 | ELUNKAST\*28 cpr rivestite 10 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 042170011 | SINGULAIR\*28 cpr rivestite 10 mg | BB FARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

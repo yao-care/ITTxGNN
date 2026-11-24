@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 461
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "velpatasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Velpatasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (livello di evidenza L3)."
@@ -96,7 +96,7 @@ Tutta la letteratura riguarda l'HCV o la co-infezione; nessuna pubblicazione dim
 
 <!-- review:begin it-lic-20261106-velpatasvir-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-velpatasvir-1 -->
 
@@ -104,13 +104,19 @@ Tutta la letteratura riguarda l'HCV o la co-infezione; nessuna pubblicazione dim
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044928024 | EPCLUSA 28 cpr rivestite 200 mg + 50 mg | — | — |
-| 044928048 | EPCLUSA 28 bustine granulato 200 mg + 50 mg | — | — |
-| 044928036 | EPCLUSA 28 bustine granulato 150 mg + 37,5 mg | — | — |
-| 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg | — | — |
-| 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg | — | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044928024 | EPCLUSA\*28 cpr rivestite 200 mg + 50 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928048 | EPCLUSA\*28 bust grat 200 mg + 50 mg | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928036 | EPCLUSA\*28 bust grat 150 mg + 37,5 mg | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928012 | EPCLUSA\*28 cpr rivestite 400 mg + 100 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 045494010 | VOSEVI\*28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,7 +142,7 @@ Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenz
 
 <!-- review:begin it-lic-20261106-velpatasvir-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV. Il prodotto non ha inoltre autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenze disponibili riguardano il trattamento dell'HCV in pazienti co-infetti, non un'attività anti-HBV. Il prodotto non ha inoltre autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-velpatasvir-2 -->
 
@@ -148,7 +154,7 @@ Non esiste un legame meccanicistico tra un inibitore di NS5A e HBV, e le evidenz
 
 <!-- review:begin it-lic-20261106-velpatasvir-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio italiano (autorizzazioni attualmente cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio italiano (autorizzazioni attualmente cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-velpatasvir-3 -->
 
@@ -162,9 +168,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Il prodotto non ha inoltre autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni attualmente cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e cinque le autorizzazioni (titolare: Gilead Sciences Ireland UC) risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il prodotto non ha inoltre autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni attualmente cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 319
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Niclosamide: nuova indicazione prevista, Malattia cardiaca (heart disease) (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati"
 monitor_inn: "NICLOSAMIDE"
 drugbank_id: DB06803
@@ -43,7 +43,7 @@ Niclosamide è un antielmintico. Il modello TxGNN ne predice un possibile effett
 
 <!-- review:begin it-lic-20261106-niclosamide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Niclosamide è un antielmintico, la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Niclosamide è un antielmintico, la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-niclosamide-1 -->
 
@@ -91,9 +91,15 @@ Al momento non risulta alcuna sperimentazione clinica registrata correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 018725010 | YOMESAN*4 cpr mast 500 mg (BAYER AG) | Compresse masticabili | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 018725010 | YOMESAN\*4 cpr mast 500 mg | BAYER AG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -122,7 +128,7 @@ L'evidenza è solo preclinica (animale e in vitro), senza sperimentazioni clinic
 
 <!-- review:begin it-lic-20261106-niclosamide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità del prodotto in Italia, dato che l'unica autorizzazione è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità del prodotto in Italia, dato che l'unica autorizzazione è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-niclosamide-2 -->
 
@@ -134,8 +140,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che l'unica autorizzazione è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «la cui unica autorizzazione italiana censita (Yomesan) risulta cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che l'unica autorizzazione è cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL1448 (niclosamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1448) |
 
 <!-- review:end log -->

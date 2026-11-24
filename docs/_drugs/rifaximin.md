@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 380
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rifaximin: nuova indicazione prevista, Candidiasi orale (livello di evidenza L5). Indicazione originale: Encefalopatia epatica, coma epatico"
 monitor_inn: "rifaximin"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
@@ -69,7 +69,7 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-rifaximin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rifaximin-1 -->
 
@@ -81,10 +81,16 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025300029 | NORMIX*12 cpr rivestite 200 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 041924046 | TIXTELLER*56 cpr rivestite 550 mg (ALFASIGMA SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025300029 | NORMIX\*12 cpr rivestite 200 mg | ALFASIGMA SpA | Autorizzata |
+| 041924046 | TIXTELLER\*56 cpr rivestite 550 mg | ALFASIGMA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -102,7 +108,7 @@ Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cli
 
 <!-- review:begin it-lic-20261106-rifaximin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cliniche e l'unica evidenza disponibile indica un possibile rischio (selezione di *Candida* resistente) anziché un beneficio. Inoltre, in Italia non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cliniche e l'unica evidenza disponibile indica un possibile rischio (selezione di *Candida* resistente) anziché un beneficio. Inoltre, in Italia non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rifaximin-2 -->
 
@@ -113,7 +119,7 @@ Non esiste un meccanismo antifungino plausibile, non ci sono sperimentazioni cli
 
 <!-- review:begin it-lic-20261106-rifaximin-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Studi preclinici o clinici specifici che valutino la candidiasi orale come esito, con attenzione al segnale di rischio già osservato / Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Studi preclinici o clinici specifici che valutino la candidiasi orale come esito, con attenzione al segnale di rischio già osservato / Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rifaximin-3 -->
 
@@ -125,9 +131,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non ci sono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Chiarimento dello stato regolatorio in Italia, considerato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
 
 <!-- review:end log -->

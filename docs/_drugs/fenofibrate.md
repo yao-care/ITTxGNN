@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenofibrate: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
@@ -74,15 +74,28 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029257019 | LIPSIN 20 cps 200 mg | – | – |
-| 033557036 | FENOFIBRATO 20 cps 200 mg (Zentiva) | – | – |
-| 037160049 | LIPERIAL 30 cpr rivestite 145 mg | – | – |
-| 048413025 | FENOFIBRATO 30 cpr rivestite 145 mg (Aurobindo) | – | – |
-| 041071046 | FENOFIBRATO 30 cpr 145 mg (DOC Generici) | – | – |
+<!-- licenses:begin -->
 
-Sono presenti 12 autorizzazioni valide, tutte per il principio attivo singolo; qui sono elencate le prime 5. Il testo delle indicazioni approvate non è presente nei dati compilati.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029257019 | LIPSIN\*20 cps 200 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 033557036 | FENOFIBRATO\*20 cps 200 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037160049 | LIPERIAL\*30 cpr rivestite 145 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 048413025 | FENOFIBRATO\*30 cpr rivestite 145 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041071046 | FENOFIBRATO\*30 cpr 145 mg | DOC GENERICI Srl | Autorizzata |
+| 050784040 | FENOFIBRATO\*30 cpr rivestite 145 mg | MYLAN SpA | Autorizzata |
+| 043837018 | FENOFIBRATO\*30 cpr 145 mg | EG SpA | Autorizzata |
+| 028590014 | FULCRO\*20 cps 200 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 049493012 | FENOFIBRATO\*30 cpr rivestite 145 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 035928151 | FULCROSUPRA\*30 cpr rivestite 145 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 036054017 | FENOFIBRATO\*20 cps 200 mg | SANDOZ SpA | Autorizzata |
+| 024157036 | LIPOFENE\*50 cps 100 mg | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 12 autorizzazioni valide, tutte per il principio attivo singolo. Il testo delle indicazioni approvate non è presente nei dati compilati.
 
 ## Considerazioni sulla sicurezza
 

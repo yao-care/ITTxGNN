@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 description: "Entecavir: nuova indicazione prevista, Infezione cronica da virus dell'epatite C (chronic hepatitis C virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 18)"
@@ -94,21 +94,43 @@ Il punteggio elevato del modello va letto come un segnale di associazione comput
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati AIFA, delle 20 autorizzazioni 18 risultano valide. Il testo dell'indicazione approvata non è registrato nei dati locali. Di seguito le principali autorizzazioni:
+Secondo i dati AIFA, accanto alle autorizzazioni valide figurano anche confezioni uscite dall'elenco AIFA delle confezioni autorizzate (vedi la tabella qui sotto). Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 <!-- review:begin it-lic-20261117-entecavir-1 -->
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «Secondo i dati locali, tutte le 20 autorizzazioni risultano valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Secondo i dati locali, tutte le 20 autorizzazioni risultano valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
 
 <!-- review:end it-lic-20261117-entecavir-1 -->
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037221076 | BARACLUDE 30 cpr rivestite 0,5 mg (Bristol-Myers Squibb) | Compresse rivestite | Non disponibile |
-| 037221088 | BARACLUDE 30 cpr rivestite 1 mg (Bristol-Myers Squibb) | Compresse rivestite | Non disponibile |
-| 045276019 | ENTECAVIR 30x1 cpr rivestite 0,5 mg (DOC Generici) | Compresse rivestite | Non disponibile |
-| 047070014 | ENTECAVIR 30 cpr rivestite 0,5 mg (Sun Pharma Italia) | Compresse rivestite | Non disponibile |
-| 045155013 | ENTECAVIR 30 cpr rivestite 0,5 mg (Sandoz) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037221076 | BARACLUDE\*30 cpr rivestite 0,5 mg | BRISTOL M.SQUIBB PHARMA EEIG | Autorizzata |
+| 045276019 | ENTECAVIR\*30x1 cpr rivestite 0,5 mg | DOC GENERICI Srl | Autorizzata |
+| 045276033 | ENTECAVIR\*30x1 cpr rivestite 1 mg | DOC GENERICI Srl | Autorizzata |
+| 047070014 | ENTECAVIR\*30 cpr rivestite 0,5 mg | SUN PHARMA ITALIA Srl | Autorizzata |
+| 047070053 | ENTECAVIR\*30 cpr rivestite 1 mg | SUN PHARMA ITALIA Srl | Autorizzata |
+| 045672021 | ENTECAVIR\*30 cpr rivestite 0,5 mg | VIATRIS LIMITED | Autorizzata |
+| 045447063 | ENTECAVIR\*30 cpr rivestite 1 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045675028 | ENTECAVIR\*30x1 cpr rivestite 0,5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045065087 | ENTECAVIR\*30x1 cpr rivestite 0,5 mg dose unitaria | TEVA ITALIA Srl | Autorizzata |
+| 044996041 | ENTECAVIR\*30 cpr rivestite 1 mg | FRESENIUS KABI ITALIA Srl | Autorizzata |
+| 045155052 | ENTECAVIR\*30 cpr rivestite 1 mg | SANDOZ SpA | Autorizzata |
+| 045155013 | ENTECAVIR\*30 cpr rivestite 0,5 mg | SANDOZ SpA | Autorizzata |
+| 037221088 | BARACLUDE\*30 cpr rivestite 1 mg | BRISTOL M.SQUIBB PHARMA EEIG | Autorizzata |
+| 045065202 | ENTECAVIR\*30x1 cpr rivestite 1 mg dose unitaria | TEVA ITALIA Srl | Autorizzata |
+| 045447012 | ENTECAVIR\*30 cpr rivestite 0,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044996015 | ENTECAVIR\*30 cpr rivestite 0,5 mg | FRESENIUS KABI ITALIA Srl | Autorizzata |
+| 045675055 | ENTECAVIR\*30x1 cpr rivestite 1 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045672072 | ENTECAVIR\*30 cpr rivestite 1 mg | VIATRIS LIMITED | Autorizzata |
+| 045443049 | ENTECAVIR\*30 cpr rivestite 1 mg | ARISTO PHARMA GMBH | Non più autorizzata |
+| 045443013 | ENTECAVIR\*30 cpr rivestite 0,5 mg | ARISTO PHARMA GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +163,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-17 | «tutte le 20 autorizzazioni risultano valide» → 18 valide su 20 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-24 | «tutte le 20 autorizzazioni risultano valide» → 18 valide su 20 | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 
 <!-- review:end log -->
 

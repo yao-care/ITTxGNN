@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "roxithromycin"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
 description: "Roxithromycin: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -74,12 +74,18 @@ Attualmente nessuno studio clinico correlato risulta registrato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 026919011 | ASSORAL 12 cpr rivestite 150 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 026919047 | ASSORAL 6 cpr rivestite 300 mg (I.B.N. Savio) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 026727040 | RULID 6 cpr rivestite 300 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 026727014 | RULID 12 cpr rivestite 150 mg (Amdipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 026919011 | ASSORAL\*12 cpr rivestite 150 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 026919047 | ASSORAL\*6 cpr rivestite 300 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 026727040 | RULID\*6 cpr rivestite 300 mg | AMDIPHARM LTD | Autorizzata |
+| 026727014 | RULID\*12 cpr rivestite 150 mg | AMDIPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

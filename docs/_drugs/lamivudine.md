@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lamivudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: nuova indicazione prevista, Feline acquired immunodeficiency syndrome (livello di evidenza L5)."
@@ -82,13 +82,19 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 041140017 | Lamivudina 28 cpr rivestite 100 mg (TEVA B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034506016 | Zeffix 28 cpr rivestite 100 mg (GlaxoSmithKline) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034506030 | Zeffix soluzione orale 240 ml 5 mg/ml (GlaxoSmithKline) | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 043569019 | Lamivudina 28 cpr rivestite 100 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 049113018 | Lamivudina 28 cpr rivestite 100 mg (Aurobindo Pharma Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041140017 | LAMIVUDINA\*28 cpr rivestite 100 mg | TEVA B.V. | Autorizzata |
+| 034506016 | ZEFFIX\*28 cpr rivestite 100 mg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 034506030 | ZEFFIX\*orale soluz 240 ml 5 mg/ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043569019 | LAMIVUDINA\*28 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 049113018 | LAMIVUDINA\*28 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -106,7 +112,7 @@ La previsione principale riguarda una malattia veterinaria, supportata solo da s
 
 <!-- review:begin it-lic-20261106-lamivudine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento, e in Italia tutte le autorizzazioni della lamivudina risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Nessuna delle altre indicazioni previste ha evidenza che giustifichi un avanzamento, e in Italia tutte le autorizzazioni della lamivudina risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lamivudine-1 -->
 
@@ -118,7 +124,7 @@ La previsione principale riguarda una malattia veterinaria, supportata solo da s
 
 <!-- review:begin it-lic-20261106-lamivudine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sulla situazione regolatoria in Italia, dato che tutte le licenze sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento sulla situazione regolatoria in Italia, dato che tutte le licenze sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lamivudine-2 -->
 
@@ -130,8 +136,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e in Italia tutte le autorizzazioni della lamivudina risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le licenze sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia tutte le autorizzazioni della lamivudina risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le licenze sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 181
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease"]
 description: "Etelcalcetide: nuova indicazione prevista, Iperfosfatemia (hyperphosphatemia (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -75,11 +75,17 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045182108 | PARSABIV 6 flaconcini soluz. iniett. 10 mg/2 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
-| 045182060 | PARSABIV 6 flaconcini soluz. iniett. 5 mg/1 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
-| 045182021 | PARSABIV 6 flaconcini soluz. iniett. 2,5 mg/0,5 ml (Amgen Europe B.V.) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045182108 | PARSABIV\*6 flaconcini soluz iniett 10 mg 2 ml | AMGEN EUROPE B.V. | Autorizzata |
+| 045182060 | PARSABIV\*6 flaconcini soluz iniett 5 mg 1 ml | AMGEN EUROPE B.V. | Autorizzata |
+| 045182021 | PARSABIV\*6 flaconcini soluz iniett 2,5 mg 0,5 ml | AMGEN EUROPE B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

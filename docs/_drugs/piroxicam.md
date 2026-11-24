@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: nuova indicazione prevista, Colobomatous microphthalmia-rhizomelic dysplasia syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
@@ -68,21 +68,31 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Delle 11 autorizzazioni, sono elencate le prime 5.
-
 <!-- review:begin it-lic-20261106-piroxicam-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Delle 11 autorizzazioni, sono elencate le prime 5; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Rimossa anche la frase sul numero di autorizzazioni elencate nella vecchia tabella: la tabella delle autorizzazioni è ora generata dal programma dai dati AIFA (2026-11-24). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-piroxicam-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 033788011 | PIROXICAM 30 cps 20 mg | DOC Generici Srl | Valida |
-| 034919035 | IPSOFLOG 6 fiale IM 20 mg 1 ml | Tecnopharma Italia Srl | Valida |
-| 026446056 | BREXIN 30 cpr 20 mg | Promedica Srl | Valida |
-| 029534031 | PIROXICAM 30 cpr solubili 20 mg | EG SpA | Valida |
-| 024249029 | FELDENE 30 cps 20 mg | Pfizer Italia Srl | Valida |
+|------|------|------|------|
+| 033788011 | PIROXICAM\*30 cps 20 mg | DOC GENERICI Srl | Autorizzata |
+| 034919035 | IPSOFLOG\*6 fiale IM 20 mg 1 ml | TECNOPHARMA ITALIA Srl | Autorizzata |
+| 026446056 | BREXIN\*30 cpr 20 mg | PROMEDICA Srl | Autorizzata |
+| 029534031 | PIROXICAM\*30 cpr solub 20 mg | EG SpA | Autorizzata |
+| 024249029 | FELDENE\*30 cps 20 mg | PFIZER ITALIA Srl | Autorizzata |
+| 034919047 | IPSOFLOG\*30 cpr solub 20 mg | TECNOPHARMA ITALIA Srl | Autorizzata |
+| 029534029 | PIROXICAM\*30 cps 20 mg | EG SpA | Autorizzata |
+| 029534017 | PIROXICAM\*6 fiale IM 20 mg 1 ml | EG SpA | Autorizzata |
+| 034859037 | PIROXICAM\*6 fiale IM 20 mg 1 ml | DOC GENERICI Srl | Autorizzata |
+| 028437022 | FELDENE FAST\*20 cpr sublinguali 20 mg | PFIZER ITALIA Srl | Autorizzata |
+| 025262066 | REUMAGIL\*6 fiale IM 20 mg 1 ml | LANOVA FARMACEUTICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -109,7 +119,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-piroxicam-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile. / Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione si fonda solo sul punteggio del modello (livello L5), senza studi clinici né letteratura, e senza un razionale meccanicistico plausibile. / Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-piroxicam-2 -->
 
@@ -117,7 +127,13 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 - Dati sul meccanismo d'azione e un'ipotesi biologica che colleghi il piroxicam alla patogenesi della sindrome.
 - Studi preclinici o descrizioni di casi a supporto.
 - I testi di avvertenze e controindicazioni dal foglio illustrativo AIFA.
-- Una verifica della fattibilità regolatoria, data l'assenza di autorizzazioni valide.
+- Una verifica della fattibilità regolatoria.
+
+<!-- review:begin it-lic-20261124-piroxicam-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una verifica della fattibilità regolatoria, data l'assenza di autorizzazioni valide.» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-piroxicam-1 -->
 
 **Nota:** tra le altre indicazioni previste, solo l'**artrite idiopatica giovanile** ha una base di letteratura. Comprende uno studio multicentrico del 1986 che confronta piroxicam e naprossene, dati farmacocinetici pediatrici e revisioni sistematiche con meta-analisi di rete sui FANS. Questa indicazione (livello L3) merita una valutazione separata come domanda di ricerca, perché è vicina all'uso originale del farmaco nelle artropatie.
 
@@ -129,8 +145,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «tutte risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «tutte risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, quindi il farmaco non è praticamente disponibile» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

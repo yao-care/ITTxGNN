@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 285
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (thrombocytopenia due to immune destruction) (livello di evidenza L4). Indicazione originale: Non riportata nei dat…"
@@ -66,7 +66,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 <!-- review:begin it-lic-20261106-mepolizumab-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mepolizumab-1 -->
 
@@ -78,13 +78,20 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044648057 | NUCALA siringa preriempita SC 100 mg 1 ml (1 pz) | Non indicata | Non disponibile (autorizzazione valida) |
-| 044648095 | NUCALA siringa preriempita SC 40 mg 0,4 ml (1 pz) | Non indicata | Non disponibile (autorizzazione valida) |
-| 044648069 | NUCALA siringhe preriempite SC 100 mg 1 ml (3 pz) | Non indicata | Non disponibile (autorizzazione valida) |
-| 044648032 | NUCALA penna preriempita SC 100 mg 1 ml (1 pz) | Non indicata | Non disponibile (autorizzazione valida) |
-| 044648044 | NUCALA penne preriempite SC 100 mg 1 ml (3 pz) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044648057 | NUCALA\*1 siringa preriempita SC 100 mg 1 ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 044648095 | NUCALA\*1 siringa preriempita SC 40 mg 0,4 ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 044648069 | NUCALA\*3 siringhe preriempite SC 100 mg 1 ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 044648032 | NUCALA\*1 penna preriempita SC 100 mg 1 ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 044648044 | NUCALA\*3 penne preriempite SC 100 mg 1 ml | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 044648018 | NUCALA\*1 flaconcino SC 100 mg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Altre predizioni TxGNN (a titolo informativo)
 
@@ -110,7 +117,7 @@ La predizione si basa quasi esclusivamente sul modello computazionale: nessuno s
 
 <!-- review:begin it-lic-20261106-mepolizumab-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa quasi esclusivamente sul modello computazionale: nessuno studio clinico e un solo caso clinico in un contesto di HES/microangiopatia trombotica, non di trombocitopenia immune primaria. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mepolizumab-2 -->
 
@@ -123,7 +130,7 @@ La predizione si basa quasi esclusivamente sul modello computazionale: nessuno s
 
 <!-- review:begin it-lic-20261106-mepolizumab-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (le autorizzazioni elencate sono cancellate) e del testo delle indicazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (le autorizzazioni elencate sono cancellate) e del testo delle indicazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mepolizumab-3 -->
 
@@ -135,9 +142,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(le autorizzazioni elencate sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Titolare: GlaxoSmithKline Trading Services Ltd. Una sesta autorizzazione (044648018, flaconcino SC 100 mg) è anch'essa cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(le autorizzazioni elencate sono cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
 
 <!-- review:end log -->

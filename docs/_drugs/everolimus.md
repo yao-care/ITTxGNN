@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 185
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Everolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L2). Indicazione originale: Carcinoma a cellule renali (altre indicazioni nella base di conoscenz…"
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
@@ -89,13 +89,19 @@ Il legame con l'indicazione originale è la via mTOR, già bersaglio terapeutico
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
-|---------|------|------|-----------|
-| 041397100 | VOTUBIA 30 cpr dispers. 2 mg | Non indicata | Valida |
-| 036373025 | CERTICAN 60 cpr 0,25 mg | Non indicata | Valida |
-| 036373227 | CERTICAN 60 cpr dispers. 0,25 mg | Non indicata | Valida |
-| 036373102 | CERTICAN 60 cpr 0,75 mg | Non indicata | Valida |
-| 041397124 | VOTUBIA 30 cpr dispers. 3 mg | Non indicata | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041397100 | VOTUBIA\*30 cpr dispers 2 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 036373025 | CERTICAN\*60 cpr 0,25 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 036373227 | CERTICAN\*60 cpr dispers 0,25 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 036373102 | CERTICAN\*60 cpr 0,75 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 041397124 | VOTUBIA\*30 cpr dispers 3 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte le 5 autorizzazioni risultano valide; il farmaco è in commercio.
 
@@ -142,7 +148,7 @@ Per il liposarcoma esiste un solo studio di fase 2 a braccio singolo in combinaz
 
 <!-- review:begin it-lic-20261106-everolimus-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sullo stato regolatorio in Italia (autorizzazioni attualmente tutte revocate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento sullo stato regolatorio in Italia (autorizzazioni attualmente tutte revocate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-everolimus-1 -->
 
@@ -160,7 +166,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «(autorizzazioni attualmente tutte revocate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni attualmente tutte revocate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

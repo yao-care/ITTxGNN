@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi di indicazione delle auto…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -88,7 +88,7 @@ Nessuna di queste pubblicazioni studia l'efficacia del rivaroxaban nell'artrite 
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili. Di seguito le principali (le prime 5 dell'elenco):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili.
 
 <!-- review:begin it-lic-20261106-rivaroxaban-1 -->
 
@@ -96,13 +96,35 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili
 
 <!-- review:end it-lic-20261106-rivaroxaban-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049197078 | Rivaroxaban 30 cpr rivestite 10 mg (Sandoz) | Compresse rivestite | Non disponibile |
-| 050706035 | Mirebax 42 cpr rivestite 15 mg (Aurora Licensing) | Compresse rivestite | Non disponibile |
-| 049197080 | Rivaroxaban 42 cpr rivestite 15 mg (Sandoz) | Compresse rivestite | Non disponibile |
-| 038744138 | Xarelto 42 cpr rivestite 15 mg (Bayer) | Compresse rivestite | Non disponibile |
-| 038744518 | Xarelto granuli per sospensione orale 1 mg/ml (Bayer) | Granuli per sospensione orale | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049197078 | RIVAROXABAN\*30 cpr rivestite 10 mg | SANDOZ SpA | Autorizzata |
+| 050706035 | MIREBAX\*42 cpr rivestite 15 mg | AURORA LICENSING Srl | Autorizzata |
+| 049197080 | RIVAROXABAN\*42 cpr rivestite 15 mg | SANDOZ SpA | Autorizzata |
+| 049793209 | RIVAROXABAN\*30x1 cpr rivestite 10 mg | VIATRIS LIMITED | Autorizzata |
+| 049197015 | RIVAROXABAN\*56x1 cpr rivestite 2,5 mg | SANDOZ SpA | Autorizzata |
+| 049651033 | RIVAROXABAN\*30 cpr rivestite 10 mg | DOC GENERICI Srl | Autorizzata |
+| 038744138 | XARELTO\*42 cpr rivestite 15 mg | BAYER AG | Autorizzata |
+| 048343038 | RIVAROXABAN\*56 cpr rivestite 2,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049197066 | RIVAROXABAN\*10 cpr rivestite 10 mg | SANDOZ SpA | Autorizzata |
+| 038744518 | XARELTO\*1 flacone granuli sosp orale bambini di peso sup o uguale a 4 kg 5,25 g 1 mg/ml +… | BAYER AG | Autorizzata |
+| 049674120 | RIVAROXABAN\*10x1 cpr rivestite 10 mg | EG SpA | Autorizzata |
+| 049793185 | RIVAROXABAN\*10x1 cpr rivestite 10 mg | VIATRIS LIMITED | Autorizzata |
+| 049674144 | RIVAROXABAN\*30x1 cpr rivestite 10 mg | EG SpA | Autorizzata |
+| 049793351 | RIVAROXABAN\*42x1 cpr rivestite 15 mg | VIATRIS LIMITED | Autorizzata |
+| 049674284 | RIVAROXABAN\*28x1 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 049224328 | RIVAROXABAN\*28x1 cpr rivestite 20 mg | TEVA ITALIA Srl | Autorizzata |
+| 048423053 | RIVAROXABAN\*56 cpr rivestite 2,5 mg | DR.REDDY'S Srl | Autorizzata |
+| 049651045 | RIVAROXABAN\*42 cpr rivestite 15 mg | DOC GENERICI Srl | Autorizzata |
+| 049651019 | RIVAROXABAN\*56 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 049224037 | RIVAROXABAN\*56x1 cpr rivestite 2,5 mg | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

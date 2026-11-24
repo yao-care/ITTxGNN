@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefazolin: nuova indicazione prevista, Otite media infettiva (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite batterica, colangite, endocardite…"
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
@@ -87,13 +87,19 @@ Nota: per le altre indicazioni predette, l'unico dato clinico umano diretto è u
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023853031 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – TEVA ITALIA | Non indicata | Non disponibile (autorizzazione valida) |
-| 033575010 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – S.F. GROUP | Non indicata | Non disponibile (autorizzazione valida) |
-| 033123011 | NEFAZOL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – NEW RESEARCH | Non indicata | Non disponibile (autorizzazione valida) |
-| 023916051 | CEFAZIL (1 fiala IM 1 g + 1 fiala solvente 4 ml) – ITALFARMACO | Non indicata | Non disponibile (autorizzazione valida) |
-| 024127019 | CEFAZOLINA (1 fiala IM 1 g + 1 fiala solvente 4 ml) – PHARMACARE | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023853031 | CEFAZOLINA\*1 fiala IM 1 g + 1 fiala solv 4 ml | TEVA ITALIA Srl | Autorizzata |
+| 033575010 | CEFAZOLINA\*1 fiala IM 1 g + 1 fiala solv 4 ml | S.F. GROUP Srl | Autorizzata |
+| 033123011 | NEFAZOL\*1 fiala IM 1 g + 1 fiala solv 4 ml | NEW RESEARCH Srl | Autorizzata |
+| 023916051 | CEFAZIL\*1 fiala IM 1 g + 1 fiala solv 4 ml | ITALFARMACO SpA | Autorizzata |
+| 024127019 | CEFAZOLINA\*1 fiala IM 1 g + 1 fiala solv 4 ml | PHARMACARE Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,7 +121,7 @@ La predizione si basa solo sul modello, senza studi clinici registrati e con let
 
 <!-- review:begin it-lic-20261106-cefazolin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni italiane sono tutte cancellate, e la cefazolina ha un'attività limitata contro i principali patogeni dell'otite media.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le autorizzazioni italiane sono tutte cancellate, e la cefazolina ha un'attività limitata contro i principali patogeni dell'otite media.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-cefazolin-1 -->
 
@@ -134,7 +140,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e autorizzazioni italiane sono tutte cancellate, e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e autorizzazioni italiane sono tutte cancellate, e l» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
 
 <!-- review:end log -->

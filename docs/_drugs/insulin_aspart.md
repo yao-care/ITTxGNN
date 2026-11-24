@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
@@ -98,19 +98,29 @@ Per il diabete neonatale permanente è disponibile una revisione ([28527303](htt
 
 <!-- review:begin it-lic-20261106-insulin_aspart-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_aspart-1 -->
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 035563079 | NOVOMIX 30 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Valida |
-| 045249051 | FIASP flextouch 5 penne 100 U/ml 3 ml | Novo Nordisk A/S | Valida |
-| 035563194 | NOVOMIX 70 FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml | Novo Nordisk A/S | Valida |
-| 045249101 | FIASP penfill 5 cartucce 100 U/ml 3 ml | Novo Nordisk A/S | Valida |
-| 048857027 | INSULINA ASPART 5 penne preriempite SC 3 ml 100 U/ml | Sanofi-Aventis Groupe | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035563079 | NOVOMIX 30\*FLEXPEN 5 cartucce SC in penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+| 045249051 | FIASP\*flextouch 5 penne 100 u/ml 3 ml | NOVO NORDISK A/S | Autorizzata |
+| 035563194 | NOVOMIX 70\*FLEXPEN 5 cartucce SC in penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+| 045249101 | FIASP\*penfill 5 cartucce 100 u/ml 3 ml | NOVO NORDISK A/S | Autorizzata |
+| 048857027 | INSULINA ASPART\*5 penne preriempite SC 3 ml 100 U/ml | SANOFI-AVENTIS GROUPE | Autorizzata |
+| 035563131 | NOVOMIX 50\*FLEXPEN 5 cartucce SC in penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+| 034498093 | NOVORAPID FLEXPEN\*5 cartucce SC in penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+| 048857041 | INSULINA ASPART\*5 cartucce SC 3 ml 100 U/ml | SANOFI-AVENTIS GROUPE | Autorizzata |
+| 034498030 | NOVORAPID PENFILL\*5 cartucce SC 300 U 3 ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -125,7 +135,7 @@ Per il diabete di tipo 1 esistono numerosi studi di fase 3 completati e revision
 
 <!-- review:begin it-lic-20261106-insulin_aspart-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Si tratta però di un uso già consolidato e non di un vero riposizionamento, e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Si tratta però di un uso già consolidato e non di un vero riposizionamento, e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_aspart-2 -->
 
@@ -144,8 +154,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 9 le autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
 
 <!-- review:end log -->

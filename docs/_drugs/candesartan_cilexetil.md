@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -70,15 +70,38 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
-Il prodotto risulta commercializzato in Italia. Nei dati locali il testo dell'indicazione approvata non è registrato. L'elenco può essere parziale; di seguito sono riportate cinque autorizzazioni a titolo di esempio.
+Il prodotto risulta commercializzato in Italia. Nei dati locali il testo dell'indicazione approvata non è registrato.
 
-| N. autorizzazione | Prodotto | Titolare |
-|---------|------|------|
-| 033577469 | RATACAND 28 cpr 32 mg | Cheplapharm Arzneimittel GmbH |
-| 033451360 | BLOPRESS 28 cpr 32 mg | Cheplapharm Arzneimittel GmbH |
-| 044804021 | BLOPRESS 28 cpr 32 mg | Medifarm Srl |
-| 043896012 | BLOPRESS 28 cpr 16 mg | GMM Farma Srl |
-| 041376310 | CANDESARTAN 28 cpr 16 mg | EG SpA |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041376310 | CANDESARTAN\*28 cpr 16 mg | EG SpA | Autorizzata |
+| 040161376 | CANDESARTAN\*28 cpr 32 mg | TEVA ITALIA Srl | Autorizzata |
+| 042841027 | CANDESARTAN\*28 cpr 16 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039742097 | CANDESARTAN\*28 cpr div 16 mg | LABORATORI ALTER Srl | Autorizzata |
+| 033577469 | RATACAND\*28 cpr 32 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 033577180 | RATACAND\*28 cpr 8 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 041376486 | CANDESARTAN\*28 cpr 32 mg | EG SpA | Autorizzata |
+| 041259110 | CANDESARTAN\*28 cpr 8 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041259197 | CANDESARTAN\*28 cpr 16 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 040161059 | CANDESARTAN\*28 cpr 8 mg | TEVA ITALIA Srl | Autorizzata |
+| 033577305 | RATACAND\*28 cpr 16 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 042739185 | CANDESARTAN\*28 cpr 16 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 041993407 | CANDESARTAN\*28 cpr 32 mg | HCS BV | Autorizzata |
+| 033451360 | BLOPRESS\*28 cpr 32 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 040913182 | CANDESARTAN\*28 cpr 32 mg | MYLAN SpA | Non più autorizzata |
+| 044804021 | BLOPRESS\*28 cpr 32 mg | MEDIFARM Srl | Non più autorizzata |
+| 040913131 | CANDESARTAN\*28 cpr 16 mg | MYLAN SpA | Non più autorizzata |
+| 043896012 | BLOPRESS\*28 cpr 16 mg | GMM FARMA Srl | Non più autorizzata |
+| 044804033 | BLOPRESS\*28 cpr 8 mg | MEDIFARM Srl | Non più autorizzata |
+| 044804019 | BLOPRESS\*28 cpr 16 mg | MEDIFARM Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

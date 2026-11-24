@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Lonoctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia"
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
@@ -87,7 +87,7 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 <!-- review:begin it-lic-20261106-lonoctocog_alfa-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicazione approvata né la forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicazione approvata né la forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lonoctocog_alfa-1 -->
 
@@ -95,13 +95,19 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 045255041 | AFSTYLA, 1 flaconcino EV polv. 1.500 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
-| 045255054 | AFSTYLA, 1 flaconcino EV polv. 2.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
-| 045255078 | AFSTYLA, 1 flaconcino EV polv. 3.000 UI + 1 flaconcino 5 ml | CSL Behring GmbH | Valida |
-| 045255039 | AFSTYLA, 1 flaconcino EV polv. 1.000 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Valida |
-| 045255027 | AFSTYLA, 500 UI + 1 flaconcino 2,5 ml | CSL Behring GmbH | Valida |
+|------|------|------|------|
+| 045255041 | AFSTYLA\*1 flaconcino EV polv 1.500 Unita' Internazionali + 1 flaconcino 5 ml | CSL BEHRING GmbH | Autorizzata |
+| 045255054 | AFSTYLA\*1 flaconcino EV polv 2.000 Unita' Internazionali + 1 flaconcino 5 ml | CSL BEHRING GmbH | Autorizzata |
+| 045255078 | AFSTYLA\*1 flaconcino EV polv 3.000 Unita' Internazionali + 1 flaconcino 5 ml | CSL BEHRING GmbH | Autorizzata |
+| 045255039 | AFSTYLA\*1 flaconcino EV polv 1.000 Unita' Internazionali + 1 flaconcino 2,5 ml | CSL BEHRING GmbH | Autorizzata |
+| 045255027 | AFSTYLA\*1 flaconcino EV polv 500 Unita' Internazionali + 1 flaconcino 2,5 ml | CSL BEHRING GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +126,7 @@ La previsione si basa solo sul modello (evidenza L5), senza studi clinici né le
 
 <!-- review:begin it-lic-20261106-lonoctocog_alfa-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste. Inoltre il farmaco non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione si basa solo sul modello (evidenza L5), senza studi clinici né letteratura, e il razionale meccanicistico è debole o solo indiretto per tutte le indicazioni previste. Inoltre il farmaco non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lonoctocog_alfa-2 -->
 
@@ -133,7 +139,7 @@ La previsione si basa solo sul modello (evidenza L5), senza studi clinici né le
 
 <!-- review:begin it-lic-20261106-lonoctocog_alfa-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità commerciale del prodotto o di alternative, dato lo stato di autorizzazioni cessate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verificare la disponibilità commerciale del prodotto o di alternative, dato lo stato di autorizzazioni cessate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lonoctocog_alfa-3 -->
 
@@ -145,9 +151,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicaz» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cessate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 5 le autorizzazioni (CSL Behring GmbH, prodotto AFSTYLA) risultano cessate; nei dati compilati non è riportato il testo dell'indicaz» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre il farmaco non ha autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato lo stato di autorizzazioni cessate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

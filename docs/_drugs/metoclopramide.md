@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: nuova indicazione prevista, Gastroduodenitis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -93,10 +93,16 @@ Altre predizioni nella stessa area (gastroduodenite, ulcera peptica, ulcera gast
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042091013 | Metoclopramide, 5 fiale IM EV 10 mg/2 ml (SALF SpA) | Fiale iniettabili | Non disponibile (autorizzazione valida) |
-| 020766010 | Plasil, 10 mg/2 ml soluzione iniettabile, 5 fiale (Sanofi Srl) | Soluzione iniettabile | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042091013 | METOCLOPRAMIDE\*5 fiale IM EV 10 mg 2 ml | SALF SpA | Autorizzata |
+| 020766010 | PLASIL\*10 mg/2 ml soluzione iniettabile 5 fiale 2 ml | SANOFI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +125,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 
 <!-- review:begin it-lic-20261106-metoclopramide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva. / Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il meccanismo è solo sintomatico e le controindicazioni nel grafo includono l'ulcera peptica attiva. / Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-metoclopramide-1 -->
 
@@ -132,7 +138,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo, 
 
 <!-- review:begin it-lic-20261106-metoclopramide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare lo stato regolatorio attuale e le formulazioni disponibili, dato che le autorizzazioni note sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutare lo stato regolatorio attuale e le formulazioni disponibili, dato che le autorizzazioni note sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-metoclopramide-2 -->
 
@@ -144,8 +150,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le autorizzazioni note sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le autorizzazioni note sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
 
 <!-- review:end log -->

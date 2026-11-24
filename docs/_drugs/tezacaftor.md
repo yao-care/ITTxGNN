@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tezacaftor: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Fibrosi cistica"
 monitor_inn: "tezacaftor"
 predicted_indications: ["HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
@@ -72,19 +72,25 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 047307018 | SYMKEVI*28 cpr rivestite 100 mg + 150 mg | Compresse rivestite | – |
-| 048984037 | KAFTRIO*28 orale grat 60 mg + 40 mg + 80 mg | Granulato orale | – |
-| 048984025 | KAFTRIO*56 cpr rivestite 37,5 mg + 25 mg + 50 mg | Compresse rivestite | – |
-| 048984013 | KAFTRIO*56 cpr rivestite 100 mg + 50 mg + 75 mg | Compresse rivestite | – |
-| 048984049 | KAFTRIO*28 orale grat 75 mg + 50 mg + 100 mg | Granulato orale | – |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047307018 | SYMKEVI\*28 cpr rivestite 100 mg + 150 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 048984037 | KAFTRIO\*28 orale grat 60 mg + 40 mg + 80 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 048984025 | KAFTRIO\*56 cpr rivestite 37,5 mg + 25 mg + 50 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 048984013 | KAFTRIO\*56 cpr rivestite 100 mg + 50 mg + 75 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 048984049 | KAFTRIO\*28 orale grat 75 mg + 50 mg + 100 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Vertex Pharmaceuticals (Ireland) Ltd.
 
 <!-- review:begin it-lic-20261106-tezacaftor-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono attualmente cancellate. Titolare: Vertex Pharmaceuticals (Ireland) Ltd.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni sono attualmente cancellate. Titolare: Vertex Pharmaceuticals (Ireland) Ltd.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tezacaftor-1 -->
 
@@ -103,7 +109,7 @@ La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livell
 
 <!-- review:begin it-lic-20261106-tezacaftor-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'HIV si basa esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura e senza un razionale meccanicistico dimostrato. Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tezacaftor-2 -->
 
@@ -121,8 +127,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni sono attualmente cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate e mancano i dati di sicurezza del foglio illustrativo» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Alyftrek (vanzacaftor, tezacaftor, and deutivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e635909-c6fd-4f0d-ae77-cdff03653a20) |
 
 <!-- review:end log -->

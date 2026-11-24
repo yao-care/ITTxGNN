@@ -21,12 +21,12 @@
   "items_current": 1822
  },
  "reviews": {
-  "records": 762,
-  "pages": 345,
-  "public_pages_with_records": 340,
+  "records": 772,
+  "pages": 346,
+  "public_pages_with_records": 341,
   "by_action": {
    "annotate": 3,
-   "correct": 519,
+   "correct": 529,
    "mechanism": 240
   }
  },
@@ -131,6 +131,15 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
+   "t": "Galantamine",
+   "u": "/drugs/galantamine/",
+   "l": "L5",
+   "lt": 6,
+   "lv": 6,
+   "r": 5,
+   "i": "Disturbi del movimento psicogeni"
+  },
+  {
    "t": "Gemfibrozil",
    "u": "/drugs/gemfibrozil/",
    "l": "L4",
@@ -174,15 +183,6 @@
    "lv": 4,
    "r": 4,
    "i": "hypertrichosis (disease)"
-  },
-  {
-   "t": "Clobetasol",
-   "u": "/drugs/clobetasol/",
-   "l": "L3",
-   "lt": 7,
-   "lv": 7,
-   "r": 4,
-   "i": "primary cutaneous T-cell lymphoma"
   }
  ],
  "example": {
@@ -196,198 +196,198 @@
  },
  "recent_reviews": [
   {
-   "t": "Quinapril",
-   "u": "/drugs/quinapril/",
-   "s": "Tabella: la confezione 037301227 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Silodosin",
+   "u": "/drugs/silodosin/",
+   "s": "Le altre confezioni di silodosina risultano autorizzate",
+   "d": "2026-11-24"
   },
   {
-   "t": "Misoprostol",
-   "u": "/drugs/misoprostol/",
-   "s": "Tabella: la confezione 029316041 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Salmeterol",
+   "u": "/drugs/salmeterol/",
+   "s": "Tabella: la frase «solo prodotti a singolo principio attivo» non vale per la nuova tabella",
+   "d": "2026-11-24"
   },
   {
-   "t": "Gemfibrozil",
-   "u": "/drugs/gemfibrozil/",
-   "s": "Tabella: la confezione 026737039 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Reboxetine",
+   "u": "/drugs/reboxetine/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
-   "t": "Atomoxetine",
-   "u": "/drugs/atomoxetine/",
-   "s": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
-   "d": "2026-11-17"
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tobramycin",
-   "u": "/drugs/tobramycin/",
-   "s": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
-   "d": "2026-11-17"
+   "t": "Nebivolol",
+   "u": "/drugs/nebivolol/",
+   "s": "Nebiscon e Nobistar risultano autorizzate",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Midazolam",
+   "u": "/drugs/midazolam/",
+   "s": "Le confezioni BUCCOLAM risultano autorizzate, non cancellate",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Irbesartan",
+   "u": "/drugs/irbesartan/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Insulin Degludec",
+   "u": "/drugs/insulin-degludec/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Galantamine",
+   "u": "/drugs/galantamine/",
+   "s": "REMINYL 24 mg (034752170) risulta autorizzata, non cancellata",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Fluorouracil",
+   "u": "/drugs/fluorouracil/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
    "t": "Salbutamol",
    "u": "/drugs/salbutamol/",
    "s": "«18 autorizzazioni valide» → 17 valide su 18",
-   "d": "2026-11-17"
+   "d": "2026-11-24"
   },
   {
-   "t": "Meloxicam",
-   "u": "/drugs/meloxicam/",
-   "s": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
-   "d": "2026-11-17"
+   "t": "Misoprostol",
+   "u": "/drugs/misoprostol/",
+   "s": "«4 autorizzazioni valide su 4» → 3 su 4",
+   "d": "2026-11-24"
   },
   {
    "t": "Ketorolac",
    "u": "/drugs/ketorolac/",
    "s": "«13 autorizzazioni valide su 13» → 11 su 13",
-   "d": "2026-11-17"
+   "d": "2026-11-24"
   },
   {
    "t": "Fluvastatin",
    "u": "/drugs/fluvastatin/",
    "s": "«8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide",
-   "d": "2026-11-17"
+   "d": "2026-11-24"
   },
   {
    "t": "Entecavir",
    "u": "/drugs/entecavir/",
    "s": "«tutte le 20 autorizzazioni risultano valide» → 18 valide su 20",
-   "d": "2026-11-17"
+   "d": "2026-11-24"
   },
   {
    "t": "Doxazosina",
    "u": "/drugs/doxazosina/",
    "s": "«almeno 20 autorizzazioni…, tutte valide» → 2 delle 20 raccolte non più autorizzate",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Lenograstim",
-   "u": "/drugs/lenograstim/",
-   "s": "Frase ripristinata: l'autorizzazione non è più presente nell'elenco AIFA (2026-11-17)",
-   "d": "2026-11-17"
+   "d": "2026-11-24"
   },
   {
    "t": "Abacavir",
    "u": "/drugs/abacavir/",
    "s": "«Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide",
-   "d": "2026-11-16"
-  },
-  {
-   "t": "Norfloxacin",
-   "u": "/drugs/norfloxacin/",
-   "s": "Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Levonorgestrel",
-   "u": "/drugs/levonorgestrel/",
-   "s": "Tabella: la confezione 036489019 è autorizzata, non revocata",
-   "d": "2026-11-12"
+   "d": "2026-11-24"
   },
   {
    "t": "Zuclopenthixol",
    "u": "/drugs/zuclopenthixol/",
    "s": "Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata»",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Zonisamide",
-   "u": "/drugs/zonisamide/",
-   "s": "Rimosso: «Sono mostrate 5 delle 9 autorizzazioni totali (tutte monocomponente e annullate)»",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Zolmitriptan",
    "u": "/drugs/zolmitriptan/",
    "s": "Rimosso: «dato che tutte le autorizzazioni sono cancellate»",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Warfarin",
    "u": "/drugs/warfarin/",
    "s": "Rimosso: «dato che l'autorizzazione è revocata»",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Voxilaprevir",
    "u": "/drugs/voxilaprevir/",
    "s": "Rimosso: «e l'unica autorizzazione italiana è cancellata»",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vinorelbine",
    "u": "/drugs/vinorelbine/",
    "s": "Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi…",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Vildagliptin",
    "u": "/drugs/vildagliptin/",
    "s": "Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente…",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   },
   {
    "t": "Verapamil",
    "u": "/drugs/verapamil/",
    "s": "Rimosso: «(autorizzazioni tutte cancellate)»",
-   "d": "2026-11-06"
-  },
-  {
-   "t": "Velpatasvir",
-   "u": "/drugs/velpatasvir/",
-   "s": "Rimosso: «(autorizzazioni attualmente cancellate)»",
-   "d": "2026-11-06"
+   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Quinapril",
-   "u": "/drugs/quinapril/",
-   "s": "Tabella: la confezione 037301227 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Silodosin",
+   "u": "/drugs/silodosin/",
+   "s": "Le altre confezioni di silodosina risultano autorizzate",
+   "d": "2026-11-24"
   },
   {
-   "t": "Misoprostol",
-   "u": "/drugs/misoprostol/",
-   "s": "Tabella: la confezione 029316041 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Salmeterol",
+   "u": "/drugs/salmeterol/",
+   "s": "Tabella: la frase «solo prodotti a singolo principio attivo» non vale per la nuova tabella",
+   "d": "2026-11-24"
   },
   {
-   "t": "Gemfibrozil",
-   "u": "/drugs/gemfibrozil/",
-   "s": "Tabella: la confezione 026737039 non è più autorizzata",
-   "d": "2026-11-17"
+   "t": "Reboxetine",
+   "u": "/drugs/reboxetine/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
-   "t": "Atomoxetine",
-   "u": "/drugs/atomoxetine/",
-   "s": "Tabella: le 5 confezioni STRATTERA non sono più autorizzate",
-   "d": "2026-11-17"
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tobramycin",
-   "u": "/drugs/tobramycin/",
-   "s": "Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate",
-   "d": "2026-11-17"
+   "t": "Nebivolol",
+   "u": "/drugs/nebivolol/",
+   "s": "Nebiscon e Nobistar risultano autorizzate",
+   "d": "2026-11-24"
   },
   {
-   "t": "Salbutamol",
-   "u": "/drugs/salbutamol/",
-   "s": "«18 autorizzazioni valide» → 17 valide su 18",
-   "d": "2026-11-17"
+   "t": "Midazolam",
+   "u": "/drugs/midazolam/",
+   "s": "Le confezioni BUCCOLAM risultano autorizzate, non cancellate",
+   "d": "2026-11-24"
   },
   {
-   "t": "Meloxicam",
-   "u": "/drugs/meloxicam/",
-   "s": "MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate",
-   "d": "2026-11-17"
+   "t": "Irbesartan",
+   "u": "/drugs/irbesartan/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ketorolac",
-   "u": "/drugs/ketorolac/",
-   "s": "«13 autorizzazioni valide su 13» → 11 su 13",
-   "d": "2026-11-17"
+   "t": "Insulin Degludec",
+   "u": "/drugs/insulin-degludec/",
+   "s": "Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA",
+   "d": "2026-11-24"
   }
  ],
  "files": {

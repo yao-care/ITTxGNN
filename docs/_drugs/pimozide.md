@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 351
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Pimozide: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L3). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -90,9 +90,15 @@ Attualmente non risulta registrato alcuno studio clinico correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 022907036 | ORAP*20 cpr 4 mg (EUMEDICA PHARMACEUTICALS S.A.) | Non specificata | Non specificata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022907036 | ORAP\*20 cpr 4 mg | EUMEDICA PHARMACEUTICALS S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -115,7 +121,7 @@ L'evidenza è limitata a un piccolo studio del 1992 e a revisioni, senza studi c
 
 <!-- review:begin it-lic-20261106-pimozide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e presenta un rischio significativo di prolungamento del QT, con numerose interazioni.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e presenta un rischio significativo di prolungamento del QT, con numerose interazioni.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pimozide-1 -->
 
@@ -127,7 +133,7 @@ L'evidenza è limitata a un piccolo studio del 1992 e a revisioni, senza studi c
 
 <!-- review:begin it-lic-20261106-pimozide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Una valutazione della fattibilità regolatoria, dato che il prodotto non è più in commercio in Italia» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una valutazione della fattibilità regolatoria, dato che il prodotto non è più in commercio in Italia» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pimozide-2 -->
 
@@ -139,8 +145,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che il prodotto non è più in commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il farmaco non è più autorizzato in Italia (autorizzazione revocata) e p» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che il prodotto non è più in commercio in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

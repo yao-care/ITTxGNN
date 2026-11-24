@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 description: "Liothyronine: nuova indicazione prevista, Renal hypodysplasia/aplasia (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -107,12 +107,18 @@ Queste pubblicazioni riflettono gli usi noti della liotironina e **non costituis
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
-|---------|------|------|-----------|
-| 036906030 | LIOTIR orale, 30 contenitori monodose da 1 ml, 10 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 036906042 | LIOTIR orale, 30 contenitori monodose da 1 ml, 15 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 036906016 | LIOTIR orale gocce, 20 ml, 20 mcg/ml (IBSA) | Gocce orali | Non disponibile (autorizzazione valida) |
-| 036906055 | LIOTIR orale, 30 contenitori monodose da 1 ml, 20 mcg/ml (IBSA) | Soluzione orale | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036906030 | LIOTIR\*orale 30 contenitori monodose 1 ml 10 mcg/ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 036906042 | LIOTIR\*orale 30 contenitori monodose 1 ml 15 mcg/ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 036906016 | LIOTIR\*orale gtt 20 ml 20 mcg/ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 036906055 | LIOTIR\*orale 30 contenitori monodose 1 ml 20 mcg/ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -142,7 +148,7 @@ La predizione si basa solo sul modello (livello di evidenza L5), senza studi cli
 
 <!-- review:begin it-lic-20261106-liothyronine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa solo sul modello (livello di evidenza L5), senza studi clinici né letteratura pertinente, e le malattie predette (malformazioni renali strutturali) non hanno un razionale terapeutico plausibile per un ormone tiroideo. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-liothyronine-2 -->
 
@@ -161,7 +167,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
 | 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni risultano cancellate: in Italia non vi sono attualmente autorizzazioni valide per il principio attivo sing» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

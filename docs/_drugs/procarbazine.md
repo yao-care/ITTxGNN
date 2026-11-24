@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 363
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Procarbazine: nuova indicazione prevista, Linfoma follicolare (livello di evidenza L3). Indicazione originale: Linfoma di Hodgkin (incluso il linfoma di Hodgkin classico)"
 monitor_inn: "Procarbazine"
 predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
@@ -92,9 +92,15 @@ Va sottolineato che l'effetto della procarbazina da sola non può essere isolato
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 020846010 | NATULAN 50 cps 50 mg flacone (LEADIANT GmbH) | Capsule | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 020846010 | NATULAN\*50 cps 50 mg flacone | LEADIANT GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +139,7 @@ L'evidenza si limita a plausibilità biologica, un case report in revisione e sc
 
 <!-- review:begin it-lic-20261106-procarbazine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nel linfoma follicolare moderno la procarbazina non è un agente standard, e in Italia l'unica autorizzazione è stata cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Nel linfoma follicolare moderno la procarbazina non è un agente standard, e in Italia l'unica autorizzazione è stata cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-procarbazine-1 -->
 
@@ -153,7 +159,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e in Italia l'unica autorizzazione è stata cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia l'unica autorizzazione è stata cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

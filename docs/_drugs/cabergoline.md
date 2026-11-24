@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Cabergoline: nuova indicazione prevista, Sindrome progeria-bassa statura-nevi pigmentati (progeria-short stature-pigmented nevi syndrome) (livello di evidenza L5). Indicazione originale: Non riportat…"
 ---
 
@@ -68,15 +68,24 @@ Attualmente non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Nei dati locali sono presenti 7 autorizzazioni, tutte di medicinali a singolo principio attivo. Le principali sono elencate di seguito. Il testo dell'indicazione approvata non è registrato nei dati locali.
+Nei dati locali sono presenti 7 autorizzazioni, tutte di medicinali a singolo principio attivo. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 037576016 | CABERGOLINA 2 cpr 0,5 mg | RATIOPHARM GMBH |
-| 028988032 | DOSTINEX 8 cpr 0,5 mg | PFIZER ITALIA Srl |
-| 028988018 | DOSTINEX 2 cpr 0,5 mg | PFIZER ITALIA Srl |
-| 033359035 | ACTUALENE 8 cpr 0,5 mg | PFIZER ITALIA Srl |
-| 050868025 | CABERGOLINA 8 cpr 0,5 mg | AUROBINDO PHARMA ITALIA Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037576016 | CABERGOLINA\*2 cpr 0,5 mg flacone | RATIOPHARM GMBH | Autorizzata |
+| 028988032 | DOSTINEX\*8 cpr 0,5 mg flacone | PFIZER ITALIA Srl | Autorizzata |
+| 028988018 | DOSTINEX\*2 cpr 0,5 mg flacone | PFIZER ITALIA Srl | Autorizzata |
+| 050868025 | CABERGOLINA\*8 cpr 0,5 mg flacone | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045770017 | DOSTINEX\*8 cpr 0,5 mg flacone | GMM FARMA Srl | Autorizzata |
+| 037576028 | CABERGOLINA\*8 cpr 0,5 mg flacone | RATIOPHARM GMBH | Autorizzata |
+| 033359035 | ACTUALENE\*8 cpr 0,5 mg flacone | PFIZER ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

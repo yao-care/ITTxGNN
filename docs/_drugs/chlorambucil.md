@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Chlorambucil: nuova indicazione prevista, ALK-positive large B-cell lymphoma (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
@@ -72,9 +72,15 @@ Attualmente non risulta registrato alcuno studio clinico correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 024790026 | LEUKERAN*25 cpr rivestite 2 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 024790026 | LEUKERAN\*25 cpr rivestite 2 mg | ASPEN PHARMA TRADING LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

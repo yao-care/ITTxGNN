@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Fluconazole: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
@@ -70,15 +70,37 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Esempi di autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati.
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 027267020 | DIFLUCAN 2 cps 150 mg | Pfizer Italia Srl | Valida |
-| 027267095 | DIFLUCAN 7 cps 200 mg | Pfizer Italia Srl | Valida |
-| 037380298 | FLUCONAZOLO 2 cps 150 mg | Sandoz SpA | Valida |
-| 038646016 | FLUCONAZOLO 10 cps 100 mg | Mylan SpA | Valida |
-| 027268097 | ELAZOR 7 cps 200 mg | Alfasigma SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043055021 | FLUCONAZOLO\*2 cps 150 mg | TECNIGEN Srl | Autorizzata |
+| 038646016 | FLUCONAZOLO\*10 cps 100 mg | MYLAN SpA | Autorizzata |
+| 040916140 | FLUCONAZOLO\*7 cps 200 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 037237056 | LEFUNZOL\*10 cps 100 mg | EPIFARMA Srl | Autorizzata |
+| 037766019 | WINCH\*10 cps 100 mg | SO.SE.PHARM Srl | Autorizzata |
+| 037672045 | FLUCONAZOLO\*7 cps 200 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037766021 | WINCH\*2 cps 150 mg | SO.SE.PHARM Srl | Autorizzata |
+| 037649023 | FLUMOS\*2 cps 150 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 037901030 | TEDIM\*7 cps 200 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 045623028 | DIFLUCAN\*2 cps 150 mg | GMM FARMA Srl | Autorizzata |
+| 027267095 | DIFLUCAN\*7 cps 200 mg | PFIZER ITALIA Srl | Autorizzata |
+| 037237070 | LEFUNZOL\*7 cps 200 mg | EPIFARMA Srl | Autorizzata |
+| 050863012 | DIFLUCAN\*2 cps 150 mg | FARMED Srl | Autorizzata |
+| 037380298 | FLUCONAZOLO\*2 cps 150 mg | SANDOZ SpA | Autorizzata |
+| 040916114 | FLUCONAZOLO\*2 cps 150 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 027268097 | ELAZOR\*7 cps 200 mg | ALFASIGMA SpA | Autorizzata |
+| 047334038 | AZOLIX\*7 cps 200 mg | GENETIC SpA | Autorizzata |
+| 037691033 | LUCANDIOL\*7 cps 200 mg | JUST PHARMA Srl | Autorizzata |
+| 037902020 | TRIMIKOS\*2 cps 150 mg | EURO-PHARMA Srl | Autorizzata |
+| 027267020 | DIFLUCAN\*2 cps 150 mg | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

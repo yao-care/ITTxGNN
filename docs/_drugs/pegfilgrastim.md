@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegfilgrastim: nuova indicazione prevista, Retinopatia diabetica non proliferante grave (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni …"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -70,19 +70,25 @@ Al momento non è disponibile letteratura correlata.
 
 <!-- review:begin it-lic-20261106-pegfilgrastim-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni elencate risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni elencate risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pegfilgrastim-1 -->
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 047090016 | Pelgraz, siringa SC 6 mg/0,6 ml con copriago + tampone alcolico | Accord Healthcare SLU | Valida |
-| 047364017 | Ziextenzo, siringa SC 6 mg/0,6 ml | Sandoz GmbH | Valida |
-| 047401029 | Fulphila, siringa SC 6 mg/0,6 ml con cappuccio dell'ago | Biosimilar Collaborations Ireland Ltd | Valida |
-| 047090028 | Pelgraz, iniettore preriempito SC 6 mg/0,6 ml + tampone imbevuto di alcol | Accord Healthcare SLU | Valida |
-| 035716036 | Neulasta, siringa SC 6 mg/0,6 ml con protezione ago | Amgen Europe B.V. | Valida |
+|------|------|------|------|
+| 047090016 | PELGRAZ\*1 siringa SC 6 mg 0,6 ml con copriago + 1 tampone alcol | ACCORD HEALTHCARE SLU | Autorizzata |
+| 047364017 | ZIEXTENZO\*1 siringa SC 6 mg 0,6 ml | SANDOZ GMBH | Autorizzata |
+| 047401029 | FULPHILA\*1 siringa SC 6 mg 0,6 ml con cappuccio dell'ago | BIOSIMILAR COLLABORAT.IREL.LTD | Autorizzata |
+| 047090028 | PELGRAZ\*1 iniettore preriemp SC 6 mg 0,6 ml + 1 tampone imbevuto di alcol | ACCORD HEALTHCARE SLU | Autorizzata |
+| 035716036 | NEULASTA\*1 siringa SC 6 mg 0,6 ml con protezione ago | AMGEN EUROPE B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -103,7 +109,7 @@ La previsione si basa unicamente su un punteggio computazionale elevato, senza s
 
 <!-- review:begin it-lic-20261106-pegfilgrastim-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare) e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esiste inoltre un rischio biologico plausibile (effetti pro-angiogenici e pro-infiammatori in una patologia retinica neovascolare) e tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pegfilgrastim-2 -->
 
@@ -122,8 +128,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni elencate risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni elencate risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
 
 <!-- review:end log -->

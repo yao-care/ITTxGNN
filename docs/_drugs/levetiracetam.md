@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -118,13 +118,36 @@ Elenco delle principali (5 su 20):
 
 <!-- review:end it-lic-20261106-levetiracetam-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 035039229 | KEPPRA 30 cpr rivestite 1.000 mg | UCB PHARMA S.A. | Non disponibile |
-| 051131011 | KEPPRA 30 cpr rivestite 1.000 mg | DIFARMED S.L.U. | Non disponibile |
-| 041466119 | MATEVER 60 cpr rivestite 500 mg | PHARMATHEN S.A. | Non disponibile |
-| 040273017 | ITALEPT 60 cpr rivestite 500 mg | SO.SE.PHARM Srl | Non disponibile |
-| 045107024 | Levetiracetam soluzione orale 100 mg/ml | AUROBINDO PHARMA ITALIA Srl | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040273017 | ITALEPT\*60 cpr rivestite 500 mg | SO.SE.PHARM Srl | Autorizzata |
+| 040846040 | LEVETIRACETAM\*60 cpr rivestite 500 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045107024 | LEVETIRACETAM\*orale soluz 1 flacone 150 ml 100 mg/ml + 1 siringa 3 ml | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043273034 | LEVETIRACETAM\*orale soluz 1 flacone 150 ml 100 mg/ml + 1 siringa 1 ml con adattatore | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040440570 | LEVETIRACETAM\*30 cpr rivestite 1.000 mg | SANDOZ SpA | Autorizzata |
+| 051131011 | KEPPRA\*30 cpr rivestite 1.000 mg | DIFARMED S.L.U. | Autorizzata |
+| 051823019 | MATEVER\*30 cpr rivestite 1.000 mg | FARMED Srl | Autorizzata |
+| 046005031 | LEVETIRACETAM\*orale soluz 300 ml 100 mg/ml + 1 siringa 10 ml | EG SpA | Autorizzata |
+| 051827018 | KEPPRA\*30 cpr rivestite 1.000 mg | FARMED Srl | Autorizzata |
+| 041122084 | EPITIRAM\*orale soluz 1 flacone 300 ml 100 mg/ml con siringa dosatrice da 10 ml | NEURAXPHARM ITALY SpA | Autorizzata |
+| 046005017 | LEVETIRACETAM\*orale soluz 150 ml 100 mg/ml + 1 siringa 1 ml | EG SpA | Autorizzata |
+| 040455014 | LEVETIRACETAM\*60 cpr rivestite 500 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 041466160 | MATEVER\*30 cpr rivestite 750 mg | PHARMATHEN S.A. | Autorizzata |
+| 041125016 | GRIFOXINA\*60 cpr rivestite 500 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 041396110 | LEVETIRACETAM\*60 cpr rivestite 500 mg | TEVA B.V. | Autorizzata |
+| 041466119 | MATEVER\*60 cpr rivestite 500 mg | PHARMATHEN S.A. | Autorizzata |
+| 040329171 | LEVETIRACETAM\*30 cpr rivestite 1.000 mg | MYLAN SpA | Autorizzata |
+| 035039229 | KEPPRA\*30 cpr rivestite 1.000 mg | UCB PHARMA S.A. | Autorizzata |
+| 043036019 | LEVETIRACETAM\*60 cpr rivestite 500 mg | BB FARMA Srl | Non più autorizzata |
+| 043036021 | LEVETIRACETAM\*30 cpr rivestite 1.000 mg | BB FARMA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

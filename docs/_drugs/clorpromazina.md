@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00477
 monitor_inn: "Chlorpromazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clorpromazina: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5)."
 ---
 
@@ -74,11 +74,17 @@ Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 007899026 | LARGACTIL*25 cpr rivestite 25 mg | Compresse rivestite | Non registrata nei dati locali |
-| 007899038 | LARGACTIL*20 cpr rivestite 100 mg | Compresse rivestite | Non registrata nei dati locali |
-| 007899014 | LARGACTIL*5 fiale IM 50 mg 2 ml | Fiale per uso intramuscolare | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 007899026 | LARGACTIL\*25 cpr rivestite 25 mg | TEOFARMA Srl | Autorizzata |
+| 007899038 | LARGACTIL\*20 cpr rivestite 100 mg | TEOFARMA Srl | Autorizzata |
+| 007899014 | LARGACTIL\*5 fiale IM 50 mg 2 ml | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

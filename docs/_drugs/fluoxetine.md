@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Fluoxetine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5)."
 ---
 
@@ -80,15 +80,38 @@ Attualmente non risultano studi clinici registrati correlati al disturbo schizot
 
 ## Informazioni sul mercato italiano
 
-Risultano almeno 20 autorizzazioni valide per medicinali a base di fluoxetina (singolo principio attivo); l'elenco potrebbe essere parziale. Le principali:
+Risultano almeno 20 autorizzazioni valide per medicinali a base di fluoxetina (singolo principio attivo); l'elenco potrebbe essere parziale.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|-----------|
-| 025970043 | Prozac, 28 capsule da 20 mg | Eli Lilly Italia SpA |
-| 039430018 | Prozac, 28 capsule da 20 mg | BB Farma Srl |
-| 025959026 | Fluoxeren, soluzione orale 60 ml, 20 mg/5 ml | A. Menarini Ind. Farm. Riun. Srl |
-| 025959053 | Fluoxeren, 28 compresse dispersibili da 20 mg | A. Menarini Ind. Farm. Riun. Srl |
-| 034974042 | Xeredien, 28 compresse dispersibili da 20 mg | Neopharmed Gentili SpA |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034667028 | FLUOXETINA\*12 cpr orodispers 20 mg | EG SpA | Autorizzata |
+| 035301136 | FLUOXETINA\*28 cps 20 mg | MYLAN SpA | Autorizzata |
+| 033555018 | FLUOXETINA\*12 cps 20 mg | DOC GENERICI Srl | Autorizzata |
+| 037053105 | FLUOXETINA\*28 cpr dispers 20 mg | MYLAN SpA | Autorizzata |
+| 034207011 | FLUOXETINA\*12 cps 20 mg | EG SpA | Autorizzata |
+| 025959026 | FLUOXEREN\*orale soluz 60 ml 20 mg/5 ml | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 034917043 | FLUOXETINA\*28 cpr solub 20 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 033555020 | FLUOXETINA\*orale soluz 60 ml 20 mg/5 ml | DOC GENERICI Srl | Autorizzata |
+| 034917056 | FLUOXETINA\*28 cps 20 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 025959053 | FLUOXEREN\*28 cpr dispers 20 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 034207047 | FLUOXETINA\*28 cps 20 mg | EG SpA | Autorizzata |
+| 033569056 | FLUOXETINA\*28 cps 20 mg | SANDOZ GMBH | Autorizzata |
+| 041111042 | FLUOXETINA\*28 cps 20 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 025970043 | PROZAC\*28 cps 20 mg | ELI LILLY ITALIA SpA | Autorizzata |
+| 033555032 | FLUOXETINA\*28 cps 20 mg | DOC GENERICI Srl | Autorizzata |
+| 034850026 | FLUOXETINA\*12 cpr solub 20 mg | RATIOPHARM GMBH | Autorizzata |
+| 035033024 | FLUOXETINA\*28 cps 20 mg | ALMUS Srl | Autorizzata |
+| 034850053 | FLUOXETINA\*28 cpr solub 20 mg | RATIOPHARM GMBH | Autorizzata |
+| 034974042 | XEREDIEN\*28 cpr dispers 20 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 039430018 | PROZAC\*28 cps 20 mg | BB FARMA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

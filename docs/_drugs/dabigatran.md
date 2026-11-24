@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -76,6 +76,36 @@ In assenza di "nuove indicazioni predette", non è possibile confrontare la sovr
 ---
 
 ## Informazioni sul mercato italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 051110082 | DABIGATRAN ETEXILATO\*10 cps 110 mg | TEVA GmbH | Autorizzata |
+| 051110029 | DABIGATRAN ETEXILATO\*10 cps 75 mg | TEVA GmbH | Autorizzata |
+| 049846052 | DABIKASTE\*30 cps 110 mg | GLENMARK ARZNEIMITTEL GMBH | Autorizzata |
+| 050696145 | DABIGATRAN ETEXILATO\*60 cps 110 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 049675085 | DABIGATRAN ETEXILATO\*6x10 cps 150 mg | DOC GENERICI Srl | Autorizzata |
+| 050696057 | DABIGATRAN ETEXILATO\*30x1 cps 75 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 050854025 | DABIGATRAN ETEXILATO\*30 cps 75 mg | SANDOZ SpA | Autorizzata |
+| 050854379 | DABIGATRAN ETEXILATO\*60 cps 150 mg | SANDOZ SpA | Autorizzata |
+| 050696234 | DABIGATRAN ETEXILATO\*60x1 cps 150 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 049675061 | DABIGATRAN ETEXILATO\*6x10 cps 110 mg | DOC GENERICI Srl | Autorizzata |
+| 049099132 | DABIGATRAN ETEXILATO\*60 cps 150 mg | EG SpA | Autorizzata |
+| 049846114 | DABIKASTE\*60 cps 150 mg | GLENMARK ARZNEIMITTEL GMBH | Autorizzata |
+| 051110106 | DABIGATRAN ETEXILATO\*30 cps 110 mg | TEVA GmbH | Autorizzata |
+| 051110207 | DABIGATRAN ETEXILATO\*60 cps 150 mg | TEVA GmbH | Autorizzata |
+| 038451011 | PRADAXA\*10x1 cps 75 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 049099068 | DABIGATRAN ETEXILATO\*30 cps 110 mg | EG SpA | Autorizzata |
+| 049099070 | DABIGATRAN ETEXILATO\*60 cps 110 mg | EG SpA | Autorizzata |
+| 051110120 | DABIGATRAN ETEXILATO\*60 cps 110 mg | TEVA GmbH | Autorizzata |
+| 050696121 | DABIGATRAN ETEXILATO\*10 cps 110 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 038451112 | PRADAXA\*60x1 cps 150 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -78,10 +78,16 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 030822011 | TALOXA sospensione orale 230 ml 600 mg/5 ml (ORGANON ITALIA Srl) | Sospensione orale | Non disponibile (autorizzazione valida) |
-| 030822035 | TALOXA 40 compresse 600 mg (ORGANON ITALIA Srl) | Compresse | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 030822011 | TALOXA\*orale sosp 230 ml 600 mg/5ml | ORGANON ITALIA Srl | Autorizzata |
+| 030822035 | TALOXA\*40 cpr 600 mg | ORGANON ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -100,7 +106,7 @@ L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio cl
 
 <!-- review:begin it-lic-20261106-felbamate-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il farmaco non è più commercializzato in Italia e per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il farmaco non è più commercializzato in Italia e per la nevralgia del trigemino esistono alternative più sicure e meglio documentate, prima fra tutte la carbamazepina.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-felbamate-1 -->
 
@@ -112,7 +118,7 @@ L'evidenza a supporto è debole (un solo case report del 1995, nessuno studio cl
 
 <!-- review:begin it-lic-20261106-felbamate-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto, dato lo stato di autorizzazioni revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Definire un piano di monitoraggio ematologico ed epatico e valutare la disponibilità effettiva del prodotto, dato lo stato di autorizzazioni revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-felbamate-2 -->
 
@@ -124,8 +130,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Il farmaco non è più commercializzato in Italia e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il farmaco non è più commercializzato in Italia e p» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato lo stato di autorizzazioni revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amikacin: nuova indicazione prevista, Febbre paratifoide (paratyphoid fever) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
 ---
 
@@ -91,13 +91,23 @@ Attualmente non risultano studi clinici correlati registrati.
 
 Secondo i dati compilati, risultano 9 autorizzazioni, tutte di tipo monocomponente. I testi delle indicazioni approvate e le forme farmaceutiche non sono riportati.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025513033 | CHEMACIN fiala IM EV 500 mg 2 ml | Non riportata | Non riportata |
-| 024475067 | LIKACIN flaconcino IM EV 1 g 4 ml | Non riportata | Non riportata |
-| 024475055 | LIKACIN flaconcino IM EV 500 mg 2 ml | Non riportata | Non riportata |
-| 028423022 | MIKAN fiala IM EV 1 g 4 ml | Non riportata | Non riportata |
-| 024527071 | LUKADIN fiala IM EV 1 g 4 ml | Non riportata | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025513033 | CHEMACIN\*1 fiala IM EV 500 mg 2 ml | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 024475067 | LIKACIN\*1 flaconcino IM EV 1 g 4 ml | LISAPHARMA SpA | Autorizzata |
+| 024475055 | LIKACIN\*1 flaconcino IM EV 500 mg 2 ml | LISAPHARMA SpA | Autorizzata |
+| 028423022 | MIKAN\*1 fiala IM EV 1 g 4 ml | S.F. GROUP Srl | Autorizzata |
+| 024527071 | LUKADIN\*1 fiala IM EV 1 g 4 ml | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 033586025 | AMIKACINA\*1 fiala IM EV 1 g 4 ml | TEVA ITALIA Srl | Autorizzata |
+| 033190036 | NEKACIN\*1 fiala IM EV 1 g 4 ml | NEW RESEARCH Srl | Autorizzata |
+| 027484043 | AMIKAN\*1 fiala IM EV 0,5 g 2 ml | SO.SE.PHARM Srl | Autorizzata |
+| 027484031 | AMIKAN\*1 fiala IM EV 1 g 4 ml | SO.SE.PHARM Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

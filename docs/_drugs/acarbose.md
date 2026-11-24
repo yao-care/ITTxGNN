@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Acarbose: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
@@ -72,13 +72,24 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 Stato di mercato: commercializzato. Le autorizzazioni registrate nei dati locali non riportano il testo dell'indicazione approvata.
 
-| Numero di autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038835144 | ACARPHAGE 40 cpr 100 mg (Bruno Farmaceutici) | Non indicata | Non registrata |
-| 039716182 | ACARBOSIO 40 cpr 100 mg (Tecnimede) | Non indicata | Non registrata |
-| 044155012 | ACARBOSIO 40 cpr 50 mg (Doc Generici) | Non indicata | Non registrata |
-| 026851028 | GLUCOBAY 40 cpr 50 mg (Bayer) | Non indicata | Non registrata |
-| 038835043 | ACARPHAGE 40 cpr 50 mg (Bruno Farmaceutici) | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038835144 | ACARPHAGE\*40 cpr 100 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 039716182 | ACARBOSIO\*40 cpr 100 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 044155012 | ACARBOSIO\*40 cpr 50 mg | DOC GENERICI Srl | Autorizzata |
+| 026851028 | GLUCOBAY\*40 cpr 50 mg | BAYER SpA | Autorizzata |
+| 038835043 | ACARPHAGE\*40 cpr 50 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 045430016 | GLUCOBAY\*40 cpr 50 mg | GMM FARMA Srl | Autorizzata |
+| 044155024 | ACARBOSIO\*40 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 039716170 | ACARBOSIO\*40 cpr 50 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 047612027 | ACARBOSIO\*40 cpr 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 026851016 | GLUCOBAY\*40 cpr 100 mg | BAYER SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Alfuzosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -71,15 +71,32 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è presente nei dati. Di seguito le principali:
+Il testo dell'indicazione approvata non è presente nei dati.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 027314044 | XATRAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Valida |
-| 027314018 | XATRAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Valida |
-| 026670051 | MITTOVAL 30 cpr 10 mg rilascio prolungato | Sanofi Srl | Valida |
-| 026670024 | MITTOVAL 30 cpr rivestite 2,5 mg | Sanofi Srl | Valida |
-| 038422010 | FARALZIN 30 cpr 10 mg rilascio prolungato | Farma Group Srl | Valida |
+|------|------|------|------|
+| 038155038 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 038422010 | FARALZIN\*30 cpr 10 mg rilascio prolungato | FARMA GROUP Srl | Autorizzata |
+| 041657014 | OFUXAL\*30 cpr rivestite 10 mg rilascio prolungato | LAMPUGNANI FARMACEUTICI SpA | Autorizzata |
+| 038661029 | PROFUZO\*30 cpr 10 mg rilascio prolungato | ECUPHARMA Srl | Autorizzata |
+| 037197050 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | RATIOPHARM GMBH | Autorizzata |
+| 026670024 | MITTOVAL\*30 cpr rivestite 2,5 mg | SANOFI Srl | Autorizzata |
+| 037419064 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | EG SpA | Autorizzata |
+| 037413034 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 043043013 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 027314044 | XATRAL\*30 cpr 10 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 027878038 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | ZENTIVA ITALIA Srl | Autorizzata |
+| 026670051 | MITTOVAL\*30 cpr 10 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 037589037 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 038423012 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 027314018 | XATRAL\*30 cpr rivestite 2,5 mg | SANOFI Srl | Autorizzata |
+| 038779031 | ALFUZOSINA\*30 cpr 10 mg rilascio prolungato | TOWA PHARMACEUTICAL SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -97,7 +114,7 @@ La previsione si basa solo sul modello (L5), senza studi clinici, letteratura o 
 
 <!-- review:begin it-lic-20261106-alfuzosin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esistono autorizzazioni valide in Italia e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre non esistono autorizzazioni valide in Italia e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-alfuzosin-1 -->
 
@@ -109,7 +126,7 @@ La previsione si basa solo sul modello (L5), senza studi clinici, letteratura o 
 
 <!-- review:begin it-lic-20261106-alfuzosin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutare la compatibilità delle vie di somministrazione e lo stato regolatorio, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-alfuzosin-2 -->
 
@@ -121,8 +138,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «noltre non esistono autorizzazioni valide in Italia e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «noltre non esistono autorizzazioni valide in Italia e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

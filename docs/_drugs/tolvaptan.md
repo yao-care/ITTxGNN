@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: nuova indicazione prevista, Renal-hepatic-pancreatic dysplasia (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
@@ -81,13 +81,22 @@ Al momento non risultano studi clinici correlati registrati per questa indicazio
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044202036 | JINARC 7 cpr 30 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
-| 044202012 | JINARC 7 cpr 15 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
-| 044202101 | JINARC 28 cpr 30 mg + 28 cpr 60 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
-| 044202075 | JINARC 28 cpr 15 mg + 28 cpr 45 mg (Otsuka) | n.d. | n.d. (autorizzazione valida) |
-| 048669269 | Tolvaptan 28 cpr 30 mg + 28 cpr 60 mg (Teva) | n.d. | n.d. (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044202036 | JINARC\*7 cpr 30 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 044202012 | JINARC\*7 cpr 15 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 044202101 | JINARC\*28 cpr 30 mg + 28 cpr 60 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 044202075 | JINARC\*28 cpr 15 mg + 28 cpr 45 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 048669269 | TOLVAPTAN\*28 cpr 30 mg + 28 cpr 60 mg | TEVA B.V. | Autorizzata |
+| 044202137 | JINARC\*28 cpr 30 mg + 28 cpr 90 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 048669360 | TOLVAPTAN\*28 cpr 30 mg + 28 cpr 90 mg | TEVA B.V. | Autorizzata |
+| 048669168 | TOLVAPTAN\*28 cpr 15 mg + 28 cpr 45 mg | TEVA B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Lo stato va verificato rispetto all'etichettatura regionale attuale.
 
@@ -115,7 +124,7 @@ Esistono RCT pivotal (TEMPO 3:4, REPRISE) e una revisione Cochrane nella ADPKD, 
 
 <!-- review:begin it-lic-20261106-tolvaptan-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Mancano però dati specifici per la malattia associata a GANAB, l'epatotossicità richiede un monitoraggio stretto e in Italia le autorizzazioni risultano tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Mancano però dati specifici per la malattia associata a GANAB, l'epatotossicità richiede un monitoraggio stretto e in Italia le autorizzazioni risultano tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tolvaptan-1 -->
 
@@ -136,7 +145,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e in Italia le autorizzazioni risultano tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia le autorizzazioni risultano tutte revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

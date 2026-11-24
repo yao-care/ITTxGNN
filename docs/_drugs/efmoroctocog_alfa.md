@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "EFMOROCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Efmoroctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
 ---
 
@@ -72,15 +72,20 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 Sono presenti 6 autorizzazioni per il prodotto a singolo principio attivo Elocta (titolare: Swedish Orphan Biovitrum AB). Il testo delle indicazioni approvate non è riportato nei dati locali.
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044563082 | Elocta, 1 flaconcino EV 3.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
-| 044563070 | Elocta, 1 flaconcino EV 2.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
-| 044563029 | Elocta, 1 flaconcino EV 500 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
-| 044563068 | Elocta, 1 flaconcino EV 1.500 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
-| 044563056 | Elocta, 1 flaconcino EV 1.000 UI + 1 siringa preriempita 3 ml | Non indicata | Non indicata |
+<!-- licenses:begin -->
 
-L'elenco mostra le prime 5 delle 6 autorizzazioni.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044563082 | ELOCTA\*1 flaconcino EV 3.000 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044563070 | ELOCTA\*1 flaconcino EV 2.000 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044563029 | ELOCTA\*1 flaconcino EV 500 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044563068 | ELOCTA\*1 flaconcino EV 1.500 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044563056 | ELOCTA\*1 flaconcino EV 1.000 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044563017 | ELOCTA\*1 flaconcino EV 250 Unita' Internazionali + 1 siringa preriempita 3 ml | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

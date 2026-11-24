@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L4). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -83,19 +83,26 @@ Per la congiuntivite, attualmente non risultano studi clinici registrati correla
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 021110135 | RIFADIN 1 fiala EV 600 mg + 1 fiala solvente 10 ml | Non disponibile | Non disponibile |
-| 021110059 | RIFADIN 1 flacone 60 ml 20 mg/ml sciroppo | Non disponibile | Non disponibile |
-| 021110034 | RIFADIN 8 cps 300 mg | Non disponibile | Non disponibile |
-| 021110097 | RIFADIN 8 cpr rivestite 450 mg | Non disponibile | Non disponibile |
-| 025377033 | RIFINAH 24 cpr rivestite 300 mg + 150 mg | Non disponibile | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 021110135 | RIFADIN\*1 fiala EV 600 mg + 1 fiala solv 10 ml | SANOFI Srl | Autorizzata |
+| 021110059 | RIFADIN\*1 flacone 60 ml 20 mg/ml sciroppo | SANOFI Srl | Autorizzata |
+| 021110034 | RIFADIN\*8 cps 300 mg | SANOFI Srl | Autorizzata |
+| 021110097 | RIFADIN\*8 cpr rivestite 450 mg | SANOFI Srl | Autorizzata |
+| 025377033 | RIFINAH\*24 cpr rivestite 300 mg + 150 mg | SANOFI Srl | Autorizzata |
+| 026981011 | RIFATER\*40 cpr rivestite 50 mg + 300 mg + 120 mg | SANOFI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Esiste una sesta autorizzazione (RIFATER, 40 cpr rivestite, n. 026981011).
 
 <!-- review:begin it-lic-20261106-rifampicin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «026981011). Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «026981011). Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rifampicin-1 -->
 
@@ -115,7 +122,7 @@ La predizione è biologicamente plausibile per le congiuntiviti batteriche e cla
 
 <!-- review:begin it-lic-20261106-rifampicin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esistono inoltre alternative topiche più sicure e consolidate, e in Italia non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esistono inoltre alternative topiche più sicure e consolidate, e in Italia non vi sono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rifampicin-2 -->
 
@@ -142,8 +149,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e in Italia non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni sono intestate a SANOFI Srl e risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
 
 <!-- review:end log -->

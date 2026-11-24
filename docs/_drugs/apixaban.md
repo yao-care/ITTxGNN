@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L5)."
@@ -76,13 +76,19 @@ Il punteggio elevato deriva da una predizione basata su reti di relazioni e non 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 041225145 | ELIQUIS 28 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione valida) |
-| 041225020 | ELIQUIS 20 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
-| 041225095 | ELIQUIS 60 cpr rivestite 5 mg | Non specificata | Non disponibile (autorizzazione valida) |
-| 041225018 | ELIQUIS 10 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
-| 041225032 | ELIQUIS 60 cpr rivestite 2,5 mg | Non specificata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041225145 | ELIQUIS\*28 cpr rivestite 5 mg | BRISTOL-MYERS SQUIBB/PFIZER EE | Autorizzata |
+| 041225020 | ELIQUIS\*20 cpr rivestite 2,5 mg | BRISTOL-MYERS SQUIBB/PFIZER EE | Autorizzata |
+| 041225095 | ELIQUIS\*60 cpr rivestite 5 mg | BRISTOL-MYERS SQUIBB/PFIZER EE | Autorizzata |
+| 041225018 | ELIQUIS\*10 cpr rivestite 2,5 mg | BRISTOL-MYERS SQUIBB/PFIZER EE | Autorizzata |
+| 041225032 | ELIQUIS\*60 cpr rivestite 2,5 mg | BRISTOL-MYERS SQUIBB/PFIZER EE | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Bristol-Myers Squibb/Pfizer EEIG. Tutte e 5 le autorizzazioni risultano valide.
 

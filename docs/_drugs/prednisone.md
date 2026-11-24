@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 360
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PREDNISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisone: nuova indicazione prevista, Alopecia areata (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20"
@@ -82,13 +82,35 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 Le autorizzazioni sono 20, tutte in corso di validità; l'elenco dei dati disponibili potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 045262058 | CISON 10 cpr 25 mg | Genetic SpA | Valida |
-| 010089035 | DELTACORTENE 10 cpr 25 mg | Bruno Farmaceutici SpA | Valida |
-| 038986067 | LODOTRA 30 cpr 2 mg a rilascio modificato | Mundipharma Pharmaceuticals Srl | Valida |
-| 045261068 | SOFLON 20 cpr 25 mg | S.F. Group Srl | Valida |
-| 043411040 | PREDNISONE 10 cpr 25 mg | Teva Italia Srl | Valida |
+|------|------|------|------|
+| 045262058 | CISON\*10 cpr 25 mg | GENETIC SpA | Autorizzata |
+| 045262045 | CISON\*20 cpr 20 mg | GENETIC SpA | Autorizzata |
+| 049525064 | PREDNISONE\*10 cpr 25 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 038986067 | LODOTRA\*30 cpr 2 mg rilascio modificato flacone | MUNDIPHARMA PHARMACEUTIC. Srl | Autorizzata |
+| 045261068 | SOFLON\*20 cpr 25 mg | S.F. GROUP Srl | Autorizzata |
+| 010089035 | DELTACORTENE\*10 cpr 25 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 043401049 | PREDNISONE\*10 cpr 25 mg | DOC GENERICI Srl | Autorizzata |
+| 010089011 | DELTACORTENE\*10 cpr 5 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 049521040 | DISOX\*20 cpr 20 mg | GENETIC SpA | Autorizzata |
+| 045261056 | SOFLON\*10 cpr 25 mg | S.F. GROUP Srl | Autorizzata |
+| 043411040 | PREDNISONE\*10 cpr 25 mg | TEVA ITALIA Srl | Autorizzata |
+| 045261043 | SOFLON\*20 cpr 20 mg | S.F. GROUP Srl | Autorizzata |
+| 049521026 | DISOX\*20 cpr 5 mg | GENETIC SpA | Autorizzata |
+| 043411026 | PREDNISONE\*20 cpr 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 045261029 | SOFLON\*20 cpr 5 mg | S.F. GROUP Srl | Autorizzata |
+| 049525025 | PREDNISONE\*20 cpr 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 038986117 | LODOTRA\*30 cpr 5 mg rilascio modificato flacone | MUNDIPHARMA PHARMACEUTIC. Srl | Autorizzata |
+| 042725010 | PREDNISONE\*10 cpr 5 mg | EG SpA | Autorizzata |
+| 042725022 | PREDNISONE\*20 cpr 5 mg | EG SpA | Autorizzata |
+| 043410024 | PREDNISONE\*20 cpr 5 mg | PHARMACARE Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

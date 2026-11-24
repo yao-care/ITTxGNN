@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefuroxime: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 12)"
 ---
 
@@ -71,13 +71,29 @@ Al momento non è disponibile letteratura correlata.
 
 Nei dati compilati per questo report risultano 14 autorizzazioni a medicinali monocomponente a base di cefuroxima. Per questi prodotti il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037732308 | CEFUROXIMA 6 cpr rivestite 500 mg (Sandoz) | Compresse rivestite | Non registrata |
-| 026915025 | ZINNAT 12 cpr rivestite 250 mg (Sandoz) | Compresse rivestite | Non registrata |
-| 027002029 | ORAXIM 12 cpr rivestite 250 mg (Malesci) | Compresse rivestite | Non registrata |
-| 026915037 | ZINNAT 6 cpr rivestite 500 mg (Sandoz) | Compresse rivestite | Non registrata |
-| 023576022 | CUROXIM 1 flacone IM 500 mg + 1 fiala solvente 2 ml (Sandoz) | Flacone + solvente per uso intramuscolare | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037732308 | CEFUROXIMA\*6 cpr rivestite 500 mg | SANDOZ SpA | Autorizzata |
+| 026915025 | ZINNAT\*12 cpr rivestite 250 mg | SANDOZ SpA | Autorizzata |
+| 027002029 | ORAXIM\*12 cpr rivestite 250 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 026915037 | ZINNAT\*6 cpr rivestite 500 mg | SANDOZ SpA | Autorizzata |
+| 023576022 | CUROXIM\*1 flacone IM 500 mg + 1 fiala solv 2 ml | SANDOZ SpA | Autorizzata |
+| 027002070 | ORAXIM\*orale sosp grat 50 ml 250 mg/5 ml | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 023576046 | CUROXIM\*1 flacone IM 1 g + 1 fiala solv 4 ml | SANDOZ SpA | Autorizzata |
+| 048025062 | CEFUROXIMA\*6 cpr rivestite 500 mg | MYLAN SpA | Autorizzata |
+| 026915076 | ZINNAT\*orale sosp grat 50 ml 250 mg/5 ml | SANDOZ SpA | Autorizzata |
+| 027002031 | ORAXIM\*6 cpr rivestite 500 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 027020039 | TILEXIM\*6 cpr rivestite 500 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 048025035 | CEFUROXIMA\*12 cpr rivestite 250 mg | MYLAN SpA | Autorizzata |
+| 024105013 | ITOREX\*1 fiala IM 1 g + 1 fiala solv 4 ml | TECNOPHARMA ITALIA Srl | Non più autorizzata |
+| 026917031 | CEFUROXIMA\*6 cpr rivestite 500 mg | EG SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

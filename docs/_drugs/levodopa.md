@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 description: "Levodopa: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -72,15 +72,35 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Le principali (testo dell'indicazione approvata non disponibile):
+<!-- licenses:begin -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 023145028 | SINEMET 50 cpr 100 mg + 25 mg | Organon Italia Srl |
-| 023145042 | SINEMET 50 cpr 100 mg + 25 mg rilascio modificato | Organon Italia Srl |
-| 023142045 | MADOPAR 30 cps 100 mg + 25 mg rilascio prolungato | Roche SpA |
-| 023142019 | MADOPAR 30 cps 100 mg + 25 mg | Roche SpA |
-| 023145016 | SINEMET 50 cpr 250 mg + 25 mg | Organon Italia Srl |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023145028 | SINEMET\*50 cpr 100 mg + 25 mg | ORGANON ITALIA Srl | Autorizzata |
+| 023145042 | SINEMET\*50 cpr 100 mg + 25 mg rilascio modificato | ORGANON ITALIA Srl | Autorizzata |
+| 023142045 | MADOPAR\*30 cps 100 mg + 25 mg rilascio prolungato | ROCHE SpA | Autorizzata |
+| 023142019 | MADOPAR\*30 cps 100 mg + 25 mg | ROCHE SpA | Autorizzata |
+| 023145016 | SINEMET\*50 cpr 250 mg + 25 mg | ORGANON ITALIA Srl | Autorizzata |
+| 023142058 | MADOPAR\*30 cpr dispers 100 mg + 25 mg | ROCHE SpA | Autorizzata |
+| 036514053 | LEVODOPA CARBIDOPA\*30 cpr 200 mg + 50 mg rilasco prolungato | SANDOZ SpA | Autorizzata |
+| 023145030 | SINEMET\*30 cpr 200 mg + 50 mg rilascio modificato | ORGANON ITALIA Srl | Autorizzata |
+| 050818018 | ORIDOPA\*100 cpr 25 mg + 100 mg flacone | ORION CORPORATION | Autorizzata |
+| 036514026 | LEVODOPA CARBIDOPA\*50 cpr 100 mg + 25 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 023142033 | MADOPAR\*50 cpr div 200 mg + 50 mg | ROCHE SpA | Autorizzata |
+| 043152141 | CORBILTA\*100 cpr rivestite 100 mg + 25 mg + 200 mg | ORION CORPORATION | Autorizzata |
+| 044193124 | LEVODOPA CARBIDOPA ENTACAPONE\*100 cpr 100 mg + 25 mg + 200 mg flacone | MYLAN SpA | Autorizzata |
+| 044193047 | LEVODOPA CARBIDOPA ENTACAPONE\*100 cpr 50 mg + 12,5 mg + 200 mg flacone | MYLAN SpA | Autorizzata |
+| 043152255 | CORBILTA\*100 cpr rivestite 150 mg + 37,5 mg + 200 mg | ORION CORPORATION | Autorizzata |
+| 043128875 | LEVODOPA CARBIDOPA ENTACAPONE\*100 cpr rivestite 200 mg + 50mg + 200 mg | TEVA ITALIA Srl | Autorizzata |
+| 036825242 | STALEVO\*100 cpr 75 mg + 18,75 mg + 200 mg | ORION CORPORATION | Autorizzata |
+| 036825115 | STALEVO\*100 cpr 150 mg + 37,5 mg + 200 mg | ORION CORPORATION | Autorizzata |
+| 043152091 | CORBILTA\*100 cpr rivestite 75 mg + 18,75 mg + 200 mg | ORION CORPORATION | Autorizzata |
+| 036825255 | STALEVO\*100 cpr 125 mg + 31,25 mg + 200 mg | ORION CORPORATION | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

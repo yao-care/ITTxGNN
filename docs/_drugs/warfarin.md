@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 468
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin: nuova indicazione prevista, Carenza di cofattore eparinico II (heparin cofactor 2 deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -90,9 +90,15 @@ Per completezza, per la predizione di rango 4 (trombofilia) è presente uno stud
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 016366027 | COUMADIN*30 cpr div 5 mg (TEOFARMA Srl) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 016366027 | COUMADIN\*30 cpr div 5 mg | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +124,7 @@ Per la carenza di cofattore eparinico II esistono solo case report, senza studi 
 
 <!-- review:begin it-lic-20261106-warfarin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo. Inoltre l'unica autorizzazione italiana è revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'indicazione si sovrappone agli usi già noti del warfarin e non costituisce un riposizionamento nuovo. Inoltre l'unica autorizzazione italiana è revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-warfarin-1 -->
 
@@ -131,7 +137,7 @@ Per la carenza di cofattore eparinico II esistono solo case report, senza studi 
 
 <!-- review:begin it-lic-20261106-warfarin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verificare la disponibilità commerciale del farmaco in Italia, dato che l'autorizzazione è revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verificare la disponibilità commerciale del farmaco in Italia, dato che l'autorizzazione è revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-warfarin-2 -->
 
@@ -143,8 +149,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che l'autorizzazione è revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre l'unica autorizzazione italiana è revocata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che l'autorizzazione è revocata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730) |
 
 <!-- review:end log -->

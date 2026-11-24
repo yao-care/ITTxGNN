@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 371
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Rabeprazole: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -73,30 +73,36 @@ Il modello TxGNN ha prodotto candidati per Rabeprazole con un punteggio ≥ 0,99
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
-|------|------|------|------|
-| 041541018 | Rabeprazolo |  | Non più autorizzata |
-| 041599186 | Rabeprazolo |  | Valida |
-| 034216022 | Rabeprazolo |  | Valida |
-| 041541020 | Rabeprazolo |  | Non più autorizzata |
-| 041591052 | Rabeprazolo |  | Valida |
-| 039995067 | Rabeprazolo |  | Valida |
-| 041110141 | Rabeprazolo |  | Valida |
-| 041984016 | Rabeprazolo |  | Valida |
-| 040681025 | Rabeprazolo |  | Valida |
-| 039995028 | Rabeprazolo |  | Valida |
-| 041591165 | Rabeprazolo |  | Valida |
-| 041110053 | Rabeprazolo |  | Valida |
-| 041110127 | Rabeprazolo |  | Valida |
-| 040681013 | Rabeprazolo |  | Valida |
-| 041599150 | Rabeprazolo |  | Valida |
-| 040681049 | Rabeprazolo |  | Valida |
-| 041161035 | Rabeprazolo |  | Valida |
-| 041591140 | Rabeprazolo |  | Valida |
-| 041970029 | Rabeprazolo |  | Valida |
-| 041110038 | Rabeprazolo |  | Valida |
+<!-- licenses:begin -->
 
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041599186 | RABEPRAZOLO\*28 cpr gastrores 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 034216022 | PARIET\*14 cpr gastrores 10 mg | JANSSEN CILAG SpA | Autorizzata |
+| 041591052 | RABEPRAZOLO\*28 cpr gastrores 10 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 039995067 | RABEPRAZOLO\*14 cpr gastrores 20 mg | LABORATORI ALTER Srl | Autorizzata |
+| 041110141 | RABEPRAZOLO\*28 cpr gastrores 20 mg | SANDOZ SpA | Autorizzata |
+| 041984016 | AKIRAB\*14 cpr gastrores 10 mg | SO.SE.PHARM Srl | Autorizzata |
+| 040681025 | RABEPRAZOLO\*14 cpr gastrores 20 mg | DOC GENERICI Srl | Autorizzata |
+| 039995028 | RABEPRAZOLO\*14 cpr gastrores 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 041591165 | RABEPRAZOLO\*28 cpr gastrores 20 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041110053 | RABEPRAZOLO\*28 cpr gastrores 10 mg | SANDOZ SpA | Autorizzata |
+| 041110127 | RABEPRAZOLO\*14 cpr gastrores 20 mg | SANDOZ SpA | Autorizzata |
+| 040681013 | RABEPRAZOLO\*14 cpr gastrores 10 mg | DOC GENERICI Srl | Autorizzata |
+| 041599150 | RABEPRAZOLO\*14 cpr gastrores 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 040681049 | RABEPRAZOLO\*28 cpr gastrores 20 mg | DOC GENERICI Srl | Autorizzata |
+| 041161035 | RABEPRAZOLO\*28 cpr gastrores 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041591140 | RABEPRAZOLO\*14 cpr gastrores 20 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041970029 | RABEX\*14 cpr gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 041110038 | RABEPRAZOLO\*14 cpr gastrores 10 mg | SANDOZ SpA | Autorizzata |
+| 041541018 | RABEPRAZOLO\*14 cpr gastrores 10 mg | TOWA PHARMACEUTICAL SpA | Non più autorizzata |
+| 041541020 | RABEPRAZOLO\*14 cpr gastrores 20 mg | TOWA PHARMACEUTICAL SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
 I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

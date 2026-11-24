@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: nuova indicazione prevista, Prinzmetal angina (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -125,7 +125,7 @@ Per l'**emorragia intracerebrale**, la riduzione della pressione arteriosa è il
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è disponibile nei dati compilati. Principali autorizzazioni:
+Il testo dell'indicazione approvata non è disponibile nei dati compilati.
 
 <!-- review:begin it-lic-20261106-telmisartan-1 -->
 
@@ -133,13 +133,36 @@ Il testo dell'indicazione approvata non è disponibile nei dati compilati. Princ
 
 <!-- review:end it-lic-20261106-telmisartan-1 -->
 
-| Numero autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034326076 | PRITOR 28 cpr 80 mg | Bayer AG | Non più autorizzata |
-| 034326126 | PRITOR 28 cpr 20 mg | Bayer AG | Non più autorizzata |
-| 042284099 | TOLURA 28 cpr 40 mg | Krka d.d. Novo Mesto | Valida |
-| 040773210 | Telmisartan 28 cpr 80 mg | Zentiva Italia Srl | Valida |
-| 040121030 | Telmisartan 28 cpr 80 mg | Mylan SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041637036 | TELMISARTAN\*28 cpr 80 mg | ALMUS Srl | Autorizzata |
+| 040773210 | TELMISARTAN\*28 cpr 80 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041637024 | TELMISARTAN\*28 cpr 40 mg | ALMUS Srl | Autorizzata |
+| 049831011 | TELMISARTAN\*28 cpr 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 042284099 | TOLURA\*28 cpr 40 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041409044 | TELMISARTAN\*28 cpr 20 mg | TEVA ITALIA Srl | Autorizzata |
+| 040926026 | TELMISARTAN\*28 cpr 20 mg | SANDOZ SpA | Autorizzata |
+| 040866030 | TELMISARTAN\*28 cpr 80 mg | DOC GENERICI Srl | Autorizzata |
+| 040926103 | TELMISARTAN\*28 cpr 80 mg | SANDOZ SpA | Autorizzata |
+| 040121030 | TELMISARTAN\*28 cpr 80 mg | MYLAN SpA | Autorizzata |
+| 040121016 | TELMISARTAN\*28 cpr 20 mg | MYLAN SpA | Autorizzata |
+| 042866032 | TELMISARTAN\*28 cpr 80 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 041183118 | TELMISARTAN\*28 cpr rivestite 40 mg | EG SpA | Autorizzata |
+| 049831023 | TELMISARTAN\*28 cpr 40 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 049831035 | TELMISARTAN\*28 cpr 80 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040866028 | TELMISARTAN\*28 cpr 40 mg | DOC GENERICI Srl | Autorizzata |
+| 042866020 | TELMISARTAN\*28 cpr 40 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040866016 | TELMISARTAN\*28 cpr 20 mg | DOC GENERICI Srl | Autorizzata |
+| 034326076 | PRITOR\*28 cpr 80 mg | BAYER AG | Non più autorizzata |
+| 034326126 | PRITOR\*28 cpr 20 mg | BAYER AG | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

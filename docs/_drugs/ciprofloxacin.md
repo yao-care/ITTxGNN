@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin: nuova indicazione prevista, Sclerodermia diffusa (diffuse scleroderma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -75,13 +75,35 @@ Al momento non risultano studi clinici correlati registrati.
 
 Il farmaco risulta commercializzato in Italia, con 20 autorizzazioni valide; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049695012 | CIPROXIN 6 cpr rivestite 500 mg | Compresse rivestite | — |
-| 037718018 | CIPROFLOXACINA 10 cpr rivestite 250 mg | Compresse rivestite | — |
-| 037913035 | CIPERUS 12 cpr rivestite 750 mg | Compresse rivestite | — |
-| 037285069 | BOSIX 12 cpr rivestite 500 mg | Compresse rivestite | — |
-| 037929027 | CIPROFLOXACINA 6 cpr rivestite 500 mg | Compresse rivestite | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049695012 | CIPROXIN\*6 cpr rivestite 500 mg | BB FARMA Srl | Autorizzata |
+| 037718018 | CIPROFLOXACINA\*10 cpr rivestite 250 mg | DOC GENERICI Srl | Autorizzata |
+| 037913035 | CIPERUS\*12 cpr rivestite 750 mg | S.F. GROUP Srl | Autorizzata |
+| 037285069 | BOSIX\*12 cpr rivestite 500 mg | GENETIC SpA | Autorizzata |
+| 037929027 | CIPROFLOXACINA\*6 cpr rivestite 500 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 037464029 | CIPROFLOXACINA\*10 cpr rivestite 250 mg | SANDOZ SpA | Autorizzata |
+| 037321039 | BASEMAR\*12 cpr rivestite 750 mg | S.F. GROUP Srl | Autorizzata |
+| 037718020 | CIPROFLOXACINA\*6 cpr rivestite 500 mg | DOC GENERICI Srl | Autorizzata |
+| 037938038 | SAMPER\*12 cpr rivestite 750 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 037661028 | CIPROFLOXACINA\*6 cpr rivestite 500 mg | EG SpA | Autorizzata |
+| 037342033 | PROCIFLOR\*12 cpr rivestite 750 mg | EPIFARMA Srl | Autorizzata |
+| 038208017 | CIPROFLOXACINA\*10 cpr rivestite 250 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037219452 | CIPROFLOXACINA\*12 cpr rivestite 750 mg | MYLAN SpA | Autorizzata |
+| 041019252 | CIPROFLOXACINA\*12 cpr rivestite 750 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045858014 | CIPROXIN\*6 cpr rivestite 500 mg | GEKOFAR Srl | Autorizzata |
+| 037321027 | BASEMAR\*6 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 041019011 | CIPROFLOXACINA\*10 cpr rivestite 250 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 037270016 | ULLAX\*6 cpr rivestite 500 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 037904024 | CIPROFLOXACINA\*6 cpr rivestite 500 mg | ALMUS Srl | Autorizzata |
+| 043270014 | CIPROXIN\*6 cpr rivestite 500 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

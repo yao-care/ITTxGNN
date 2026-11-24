@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Detemir: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -83,7 +83,7 @@ Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità
 
 <!-- review:begin it-lic-20261106-insulin_detemir-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_detemir-2 -->
 
@@ -102,9 +102,15 @@ Sono riportate le pubblicazioni più rilevanti, tra le 20 disponibili (priorità
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036850055 | LEVEMIR FLEXPEN 5 cartucce SC in penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Penna preriempita per uso sottocutaneo (stato: valida) | Testo non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036850055 | LEVEMIR\*FLEXPEN 5 cartucce SC in penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -129,7 +135,7 @@ Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revi
 
 <!-- review:begin it-lic-20261031-insulin_detemir-1 -->
 
-> **Correzione di verifica (2026-10-31)**: Testo originale: «Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazioni revocate".» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per il diabete di tipo 1 esistono più studi di fase 3 completati e diverse revisioni sistematiche, quindi il livello di evidenza è L1. Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazioni revocate".» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261031-insulin_detemir-1 -->
 
@@ -148,8 +154,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Rimosso: «Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazion» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Si tratta però dell'uso già consolidato del farmaco, non di un nuovo riposizionamento, e lo stato di mercato in Italia è "solo autorizzazion» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «L'unica autorizzazione registrata risulta revocata: nei dati compilati non vi sono prodotti attualmente validi in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
 
 <!-- review:end log -->

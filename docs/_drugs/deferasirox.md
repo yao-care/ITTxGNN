@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Deferasirox: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -83,15 +83,37 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-Nei dati locali risultano 20 autorizzazioni a medicinali a base di solo deferasirox (il elenco potrebbe essere parziale). Il testo dell'indicazione approvata non è registrato nei dati locali. Principali autorizzazioni:
+Nei dati locali risultano 20 autorizzazioni a medicinali a base di solo deferasirox (il elenco potrebbe essere parziale). Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037421118 | EXJADE 30 cpr rivestite 90 mg | Compresse rivestite | Non registrata |
-| 037421144 | EXJADE 30 cpr rivestite 180 mg | Compresse rivestite | Non registrata |
-| 037421171 | EXJADE 30 cpr rivestite 360 mg | Compresse rivestite | Non registrata |
-| 049404015 | DEFERASIROX 30 cpr rivestite 90 mg (Sandoz) | Compresse rivestite | Non registrata |
-| 048730055 | DEFERASIROX 30 cpr rivestite 360 mg (Abdi Farma) | Compresse rivestite | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049404015 | DEFERASIROX\*30 cpr rivestite 90 mg | SANDOZ SpA | Autorizzata |
+| 049556160 | DEFERASIROX\*30 cpr rivestite 360 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 048730055 | DEFERASIROX\*30 cpr rivestite 360 mg | ABDI FARMA GMBH | Autorizzata |
+| 048730016 | DEFERASIROX\*30 cpr rivestite 90 mg | ABDI FARMA GMBH | Autorizzata |
+| 048432025 | DEFERASIROX\*30x1 cpr rivestite 90 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 048252062 | DEFERASIROX\*30 cpr rivestite 180 mg | MYLAN PHARMACEUTICALS LIMITED | Autorizzata |
+| 047674054 | DEFERASIROX\*30 cpr rivestite 360 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 048501023 | DEFERASIROX\*30 cpr rivestite 180 mg | DOC GENERICI Srl | Autorizzata |
+| 049556044 | DEFERASIROX\*30 cpr rivestite 90 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 048432102 | DEFERASIROX\*30x1 cpr rivestite 360 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 049404217 | DEFERASIROX\*30 cpr rivestite 360 mg | SANDOZ SpA | Autorizzata |
+| 049556107 | DEFERASIROX\*30 cpr rivestite 180 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 048730030 | DEFERASIROX\*30 cpr rivestite 180 mg | ABDI FARMA GMBH | Autorizzata |
+| 050861032 | DEFERASIROX\*30 cpr rivestite 360 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 037421144 | EXJADE\*30 cpr rivestite 180 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 048501011 | DEFERASIROX\*30 cpr rivestite 90 mg | DOC GENERICI Srl | Autorizzata |
+| 048252112 | DEFERASIROX\*30 cpr rivestite 360 mg | MYLAN PHARMACEUTICALS LIMITED | Autorizzata |
+| 047674015 | DEFERASIROX\*30 cpr rivestite 90 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037421118 | EXJADE\*30 cpr rivestite 90 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 037421171 | EXJADE\*30 cpr rivestite 360 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

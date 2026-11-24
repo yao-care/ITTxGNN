@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 description: "Enoxaparin: nuova indicazione prevista, Trombofilia da deficit di proteina C, autosomico recessivo (thrombophilia due to protein C deficiency… (livello di evidenza L5). Indicazione originale: Non rip…"
@@ -70,7 +70,7 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
+Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati.
 
 <!-- review:begin it-lic-20261106-enoxaparin-1 -->
 
@@ -78,13 +78,35 @@ Testo dell'indicazione e forma farmaceutica non sono disponibili nei dati. Princ
 
 <!-- review:end it-lic-20261106-enoxaparin-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 044040145 | ROVINADIL*10 siringhe preriempite 6.000 UI 0,6 ml | Laboratorios Farmaceut. Rovi SA | Valida |
-| 029111046 | CLEXANE T*2 siringhe SC 6.000 UI 0,6 ml | Sanofi Srl | Valida |
-| 045104369 | INHIXA*6 siringhe preriempite 4.000 UI 0,4 ml con copriago | Techdow Pharma Netherlands BV | Valida |
-| 044269393 | GHEMAXAN*10 siringhe preriempite 4.000 UI 0,4 ml | Chemi SpA | Valida |
-| 029111109 | CLEXANE T*10 siringhe SC 10.000 UI 1 ml | Sanofi Srl | Valida |
+|------|------|------|------|
+| 044040145 | ROVINADIL\*10 siringhe preriempite 6.000 UI 0,6 ml | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 029111046 | CLEXANE T\*2 siringhe SC 6.000 UI 0,6 ml | SANOFI Srl | Autorizzata |
+| 045104369 | INHIXA\*6 siringhe preriempite 4.000 UI 0,4 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 044269393 | GHEMAXAN\*10 siringhe preriempite 4.000 UI 0,4 ml | CHEMI SpA | Autorizzata |
+| 029111109 | CLEXANE T\*10 siringhe SC 10.000 UI 1 ml | SANOFI Srl | Autorizzata |
+| 044040071 | ROVINADIL\*6 siringhe preriempite 4.000 UI 0,4 ml | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 045104193 | INHIXA\*2 siringhe preriempite 10.000 UI 1 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 045104128 | INHIXA\*10 siringhe preriempite 2.000 UI 0,2 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 044269037 | GHEMAXAN\*10 siringhe preriempite 2.000 UI 0,2 ml con sistema di sicurezza | CHEMI SpA | Autorizzata |
+| 044039028 | ENOXAPARINA\*6 siringhe preriempite 2.000 UI 0,2 ml | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 044039143 | ENOXAPARINA\*10 siringhe preriempite 6.000 UI 0,6 ml | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 044269064 | GHEMAXAN\*10 siringhe preriempite 4.000 UI 0,4 ml con sistema di sicurezza | CHEMI SpA | Autorizzata |
+| 045104205 | INHIXA\*10 siringhe preriempite 10.000 UI 1 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 045104142 | INHIXA\*10 siringhe preriempite 4.000 UI 0,4 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 044039079 | ENOXAPARINA\*6 siringhe preriempite 4.000 UI 0,4 ml | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 044039535 | ENOXAPARINA\*10 siringhe preriempite 8.000 UI 0,8 ml con sistema di sicurezza | LABORATORIOS FARMACEUT.ROVI SA | Autorizzata |
+| 026966061 | CLEXANE\*6 siringhe 4.000 UI 0,4 ml con sistema di sicurezza | SANOFI Srl | Autorizzata |
+| 029111061 | CLEXANE T\*2 siringhe SC 10.000 UI 1 ml | SANOFI Srl | Autorizzata |
+| 045104066 | INHIXA\*10 siringhe preriempite 6.000 UI 0,6 ml | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+| 045104181 | INHIXA\*10 siringhe preriempite 8.000 UI 0,8 ml con copriago | TECHDOW PHARMA NETHERLANDS BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 115
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobetasol: nuova indicazione prevista, Linfoma cutaneo primario a cellule T (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 monitor_inn: "clobetasol"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -70,7 +70,7 @@ Sono elencate le pubblicazioni più rilevanti (studi di coorte per primi, poi ca
 
 <!-- review:begin it-lic-20261106-clobetasol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-clobetasol-1 -->
 
@@ -89,13 +89,21 @@ Sono elencate le pubblicazioni più rilevanti (studi di coorte per primi, poi ca
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 023639040 | CLOBESOL unguento dermatologico 30 g 0,05% | GlaxoSmithKline SpA | Valida |
-| 023639026 | CLOBESOL crema cutanea 30 g 0,05% | GlaxoSmithKline SpA | Valida |
-| 050172016 | SUBLASOL shampoo flacone 125 ml 500 mcg/g | Substipharm | Valida |
-| 047968019 | CLOBECARE shampoo flacone 125 ml 500 mcg/g | Difa Cooper SpA | Valida |
-| 043114014 | CLOBETASOLO soluzione cutanea 100 ml 500 mcg/ml | ISDIN Srl | Valida |
+|------|------|------|------|
+| 023639040 | CLOBESOL\*ung derm 30 g 0,05% | GLAXOSMITHKLINE SpA | Autorizzata |
+| 050172016 | SUBLASOL\*shampoo flacone 125 ml 500 mcg/g | SUBSTIPHARM | Autorizzata |
+| 023639026 | CLOBESOL\*crema cut 30 g 0,05% | GLAXOSMITHKLINE SpA | Autorizzata |
+| 047968019 | CLOBECARE\*shampoo flacone 125 ml 500 mcg/g | DIFA COOPER SpA | Autorizzata |
+| 043114014 | CLOBETASOLO\*soluz cut 100 ml 500 mcg/ml | ISDIN Srl | Autorizzata |
+| 037769039 | ETRIVEX\*shampoo flacone 125 ml 500 mcg/g | GALDERMA ITALIA SpA | Autorizzata |
+| 036580025 | OLUX\*schiuma cutanea 100 g 500 mcg/g | GIULIANI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -113,7 +121,7 @@ Esistono coorti osservazionali coerenti, tra cui una grande serie storica con ri
 
 <!-- review:begin it-lic-20261106-clobetasol-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, e i dati di sicurezza del foglio illustrativo non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, e i dati di sicurezza del foglio illustrativo non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-clobetasol-2 -->
 
@@ -127,7 +135,7 @@ Esistono coorti osservazionali coerenti, tra cui una grande serie storica con ri
 
 <!-- review:begin it-lic-20261106-clobetasol-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità di formulazioni topiche di clobetasolo attualmente autorizzate in Italia, dato che tutte le licenze elencate sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità di formulazioni topiche di clobetasolo attualmente autorizzate in Italia, dato che tutte le licenze elencate sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-clobetasol-3 -->
 
@@ -139,9 +147,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le licenze elencate sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 7 autorizzazioni risultano cancellate; i testi delle indicazioni e le forme farmaceutiche non sono riportati nei dati compilati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le licenze elencate sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
 
 <!-- review:end log -->

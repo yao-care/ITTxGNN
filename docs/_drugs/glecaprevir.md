@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "glecaprevir"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Glecaprevir: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L5)."
@@ -88,10 +88,16 @@ Tutta la letteratura riguarda l'epatite C; nessuna pubblicazione valuta un effet
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
-| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (ABBVIE DEUTSCHLAND) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045445018 | MAVIRET\*4x21 cpr rivestite 100 mg + 40 mg confezione multipla | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+| 045445032 | MAVIRET\*28 bust orale grat 50 mg + 20 mg | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: AbbVie Deutschland GmbH & Co. KG. Entrambe le autorizzazioni risultano valide.
 

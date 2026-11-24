@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 359
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20"
@@ -108,7 +108,7 @@ Sono presenti altri due studi di fase 1 nei dati compilati (NCT00017758 e NCT000
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Di seguito le prime 5 autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-pravastatin-1 -->
 
@@ -116,13 +116,35 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili
 
 <!-- review:end it-lic-20261106-pravastatin-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 037517226 | Pravastatina 14 cpr 40 mg | Teva Italia Srl | Valida |
-| 041337167 | Pravastatina 10 cpr 20 mg | Aurobindo Pharma Italia Srl | Valida |
-| 039239280 | Pravastatina 14 cpr 40 mg | Sandoz GmbH | Valida |
-| 027309032 | Pravaselect 14 cpr 40 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
-| 027776032 | Prasterol 14 cpr 40 mg | Ist. Lusofarmaco d'Italia SpA | Valida |
+|------|------|------|------|
+| 037517226 | PRAVASTATINA\*14 cpr 40 mg | TEVA ITALIA Srl | Autorizzata |
+| 041337167 | PRAVASTATINA\*10 cpr 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039239280 | PRAVASTATINA\*14 cpr 40 mg | SANDOZ GMBH | Autorizzata |
+| 041337193 | PRAVASTATINA\*28 cpr 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041337332 | PRAVASTATINA\*28 cpr 40 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037824024 | SETAC\*14 cpr 40 mg | S.F. GROUP Srl | Autorizzata |
+| 037682251 | PRAVASTATINA\*28 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 039239191 | PRAVASTATINA\*28 cpr 20 mg | SANDOZ GMBH | Autorizzata |
+| 027776032 | PRASTEROL\*14 cpr 40 mg | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+| 037033026 | PRAVASTATINA\*14 cpr 40 mg | LABORATORI ALTER Srl | Autorizzata |
+| 037683339 | PRAVASTATINA\*14 cpr 40 mg | DOC GENERICI Srl | Autorizzata |
+| 027309032 | PRAVASELECT\*14 cpr 40 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 039239153 | PRAVASTATINA\*10 cpr 20 mg | SANDOZ GMBH | Autorizzata |
+| 037682236 | PRAVASTATINA\*10 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 037682364 | PRAVASTATINA\*28 cpr rivestite 40 mg | EG SpA | Autorizzata |
+| 037143017 | PRAVASTATINA\*10 cpr 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037517240 | PRAVASTATINA\*28 cpr 40 mg | TEVA ITALIA Srl | Autorizzata |
+| 027786033 | APLACTIN\*14 cpr 40 mg | F.I.R.M.A. SpA | Autorizzata |
+| 041216019 | PRAVASTATINA\*10 cpr 20 mg | MYLAN SpA | Autorizzata |
+| 037143118 | PRAVASTATINA\*14 cpr 40 mg | ZENTIVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

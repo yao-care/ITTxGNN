@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 361
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: nuova indicazione prevista, Tendinitis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -86,7 +86,7 @@ Il collegamento con le indicazioni originali è il dolore cronico con componente
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Si elencano le prime 5.
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 <!-- review:begin it-lic-20261106-pregabalin-1 -->
 
@@ -94,13 +94,36 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:end it-lic-20261106-pregabalin-1 -->
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 043740113 | Pregabalin 14 cps 75 mg | Aurobindo Pharma Italia Srl | Valida |
-| 045399019 | Utufar 14 cps 25 mg | Genetic SpA | Valida |
-| 036476113 | Lyrica 14 cps rigide 75 mg | Upjohn EESV | Valida |
-| 045561014 | Pregenaq soluzione orale 20 mg/ml, flacone 250 ml | Neuraxpharm Italy SpA | Valida |
-| 049706029 | Lyrica 56 cps rigide 150 mg | GMM Farma Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043740113 | PREGABALIN\*14 cps 75 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045399019 | UTUFAR\*14 cps 25 mg | GENETIC SpA | Autorizzata |
+| 043690015 | PREGABALIN\*14 cps 25 mg | HCS BV | Autorizzata |
+| 044316420 | PREGABALIN\*14 cps 150 mg | SANDOZ GMBH | Autorizzata |
+| 043690130 | PREGABALIN\*14 cps 150 mg | HCS BV | Autorizzata |
+| 049706017 | LYRICA\*56 cps 75 mg | GMM FARMA Srl | Autorizzata |
+| 043670013 | PREGABALIN\*14 cps 25 mg | LABORATORI ALTER Srl | Autorizzata |
+| 043749478 | PREGABALIN\*14 cps 75 mg | TEVA ITALIA Srl | Autorizzata |
+| 045561014 | PREGENAQ\*20 mg/ml soluzione orale 1 flacone 250 ml | NEURAXPHARM ITALY SpA | Autorizzata |
+| 044316014 | PREGABALIN\*14 cps 25 mg | SANDOZ GMBH | Autorizzata |
+| 050197019 | LYRICA\*56 cps 75 mg | BB FARMA Srl | Autorizzata |
+| 036476113 | LYRICA\*14 cps rigide 75 mg | UPJOHN EESV | Autorizzata |
+| 049706029 | LYRICA\*56 cps rigide 150 mg | GMM FARMA Srl | Autorizzata |
+| 043670037 | PREGABALIN\*14 cps 75 mg | LABORATORI ALTER Srl | Autorizzata |
+| 044293191 | PREGABALIN\*14x1 cps 75 mg dose singola | VIATRIS LIMITED | Autorizzata |
+| 043674047 | PREGABALIN\*56 cps 75 mg | DOC GENERICI Srl | Autorizzata |
+| 043677057 | ECUBALIN\*56 cps 150 mg | ECUPHARMA Srl | Autorizzata |
+| 050935028 | LYRICA\*56 cps 150 mg | ABACUS MEDICINE A/S COPENHAGEN | Autorizzata |
+| 043686070 | PREGABALIN\*14 cps 75 mg | ARISTO PHARMA GMBH | Non più autorizzata |
+| 043571013 | PREGABALIN\*14 cps 25 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

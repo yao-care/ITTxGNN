@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfacalcidolo: nuova indicazione prevista, craniofacial conodysplasia (livello di evidenza L5). Indicazione originale: Iperparatiroidismo, osteite fibrosa, ipoparatiroidismo…"
 ---
 
@@ -70,15 +70,24 @@ Attualmente non è disponibile letteratura correlata alla conodisplasia craniofa
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025487036 | DEDIOL gocce orali 10 ml 2 mcg/ml | Non specificata | Non riportata |
-| 032333027 | DISERINAL 30 capsule molli 1 mcg | Non specificata | Non riportata |
-| 032936027 | OSTIDIL D3 30 capsule molli 1 mcg | Non specificata | Non riportata |
-| 025487024 | DEDIOL 30 capsule molli 0,25 mcg | Non specificata | Non riportata |
-| 029008024 | ALPHA D3 30 capsule molli 1 mcg | Non specificata | Non riportata |
+<!-- licenses:begin -->
 
-Sono elencate 5 delle 10 autorizzazioni valide (tutte per prodotti a singolo principio attivo).
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025487036 | DEDIOL\*orale gtt 10 ml 2 mcg/ml | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 032333027 | DISERINAL\*30 cps molli 1 mcg | S.F. GROUP Srl | Autorizzata |
+| 032936027 | OSTIDIL D3\*30 cps molli 1 mcg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 025487024 | DEDIOL\*30 cps molli 0,25 mcg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 029008024 | ALPHA D3\*30 cps molli 1 mcg | THERAMEX IRELAND LIMITED | Autorizzata |
+| 034112033 | GENIAD\*orale gtt 10 ml 2 mcg/ml | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 032832026 | DERIL\*30 cps 1 mcg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 033819020 | SEFAL\*30 cps molli 1 mcg | FARMA GROUP Srl | Autorizzata |
+| 025447020 | DISEON\*30 cps molli 1 mcg | THERAMEX IRELAND LIMITED | Autorizzata |
+| 025447018 | DISEON\*30 cps molli 0,25 mcg | THERAMEX IRELAND LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

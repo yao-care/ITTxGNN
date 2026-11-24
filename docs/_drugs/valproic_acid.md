@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Valproic Acid: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -82,15 +82,37 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco è commercializzato e risultano 20 autorizzazioni valide; il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
+Il farmaco è commercializzato e risultano 20 autorizzazioni valide; il testo dell'indicazione approvata non è disponibile.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038485037 | DEPAKIN CHRONO 30 cpr 300 mg rilascio prolungato (BB Farma) | Compresse a rilascio prolungato | Non disponibile |
-| 043953013 | DEPAKIN CHRONO 30 cpr 500 mg rilascio prolungato, flacone (General Pharma Solutions) | Compresse a rilascio prolungato | Non disponibile |
-| 022483109 | DEPAKIN CHRONO 30 cpr 300 mg rilascio prolungato (Sanofi) | Compresse a rilascio prolungato | Non disponibile |
-| 022483147 | DEPAKIN orale granulato 30 bustine 100 mg rilascio modificato (Sanofi) | Granulato a rilascio modificato | Non disponibile |
-| 036334023 | ACIDO VALPROICO 30 cpr 500 mg rilascio prolungato (Sandoz) | Compresse a rilascio prolungato | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038485037 | DEPAKIN CHRONO\*30 cpr 300 mg rilascio prolungato | BB FARMA Srl | Autorizzata |
+| 043953013 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | GENERAL PHARMA SOLUTIONS SpA | Autorizzata |
+| 043250063 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | FARMA 1000 Srl | Autorizzata |
+| 022483109 | DEPAKIN CHRONO\*30 cpr 300 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 022483147 | DEPAKIN\*orale grat 30 bust 100 mg rilascio modificato | SANOFI Srl | Autorizzata |
+| 048522015 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | NEW PHARMASHOP Srl | Autorizzata |
+| 038485049 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | BB FARMA Srl | Autorizzata |
+| 022483111 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 036334023 | ACIDO VALPROICO\*30 cpr 500 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 040965030 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 051978017 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | FARMED Srl | Autorizzata |
+| 051085013 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | DIFARMED S.L.U. | Autorizzata |
+| 022483186 | DEPAKIN\*orale grat 30 bust 500 mg rilascio modificato | SANOFI Srl | Autorizzata |
+| 043718055 | DEPAKIN CHRONO\*30 cpr 300 mg rilascio prolungato | MEDIFARM Srl | Autorizzata |
+| 043718042 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato | MEDIFARM Srl | Autorizzata |
+| 040965028 | DEPAKIN CHRONO\*30 cpr 300 mg rilascio prolungato | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 022483224 | DEPAKIN\*orale grat 30 bust 1.000 mg rilascio modificato | SANOFI Srl | Autorizzata |
+| 022483200 | DEPAKIN\*orale grat 30 bust 750 mg rilascio modificato | SANOFI Srl | Autorizzata |
+| 046716027 | SODIO VALPROATO\*30 cpr 300 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043250024 | DEPAKIN CHRONO\*30 cpr 500 mg rilascio prolungato flacone | FARMA 1000 Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

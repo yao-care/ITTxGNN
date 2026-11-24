@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -80,15 +80,38 @@ Al momento non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione autorizzata e la forma farmaceutica non sono presenti nei dati. Tutti i prodotti sono colliri. Di seguito le principali 5:
+Il testo dell'indicazione autorizzata e la forma farmaceutica non sono presenti nei dati. Tutti i prodotti sono colliri.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 045967015 | Lastafry collirio 2,5 ml 50 mcg/ml | DOC Generici Srl | Valida |
-| 039468018 | Latanoprost collirio 2,5 ml 50 mcg/ml | Teva B.V. | Valida |
-| 041429061 | Monoprost collirio 50 mcg/ml 6 ml | Laboratoires Théa | Valida |
-| 039983010 | Latanoprost collirio 2,5 ml 50 mcg/ml | Mylan SpA | Valida |
-| 033219015 | Xalatan collirio 2,5 ml 50 mcg/ml | Viatris Pharma Srl | Valida |
+|------|------|------|------|
+| 045967015 | LASTAFRY\*collirio 1 flaconcino 2,5 ml 50 mcg/ml | DOC GENERICI Srl | Autorizzata |
+| 039468018 | LATANOPROST\*collirio 2,5 ml 50 mcg/ml | TEVA B.V. | Autorizzata |
+| 041429061 | MONOPROST\*collirio 50 mcg/ml 6 ml | LABORATOIRES THEA | Autorizzata |
+| 039983010 | LATANOPROST\*collirio 2,5 ml 50 mcg/ml | MYLAN SpA | Autorizzata |
+| 039874019 | DROPLATAN\*collirio 2,5 ml 0,005% | OMNIVISION ITALIA Srl | Autorizzata |
+| 039795012 | XALOST\*collirio 2,5 ml 50 mcg/ml | FARMIGEA SpA | Autorizzata |
+| 049958010 | XALATAN\*collirio 2,5 ml 50 mcg/ml | BB FARMA Srl | Autorizzata |
+| 039118017 | LATANOPROST\*collirio 2,5 ml 50 mcg/ml | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 038612038 | OCUSYNT\*collirio 30 monod 0,2 ml 50 mcg/ml | GENETIC SpA | Autorizzata |
+| 049646019 | MONOLAN\*collirio 3x10 monodose 50 mcg/ml 0,2 ml | OMNIVISION ITALIA Srl | Autorizzata |
+| 033219015 | XALATAN\*collirio 2,5 ml 50 mcg/ml | VIATRIS PHARMA Srl | Autorizzata |
+| 039238011 | LATANOPROST\*collirio 1 flaconcino 2,5 ml 0,005% | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 049747025 | LIFOG\*collirio 7,5 ml 50 mcg/ml con contagocce | ALFA INTES (IND.TER.SPLENDORE) | Autorizzata |
+| 041001013 | LATANOPROST\*collirio 2,5 ml 50 mcg/ml | SANDOZ SpA | Autorizzata |
+| 051957013 | XALATAN\*collirio 2,5 ml 50 mcg/ml | FARMED Srl | Autorizzata |
+| 038622015 | GALAXIA\*collirio 2,5 ml 0,005% | ALFA INTES (IND.TER.SPLENDORE) | Autorizzata |
+| 044895011 | XALATAN\*collirio 2,5 ml 50 mcg/ml | MEDIFARM Srl | Autorizzata |
+| 039119019 | OCULATAX\*collirio 1 flaconcino 2,5 ml 50 mcg/ml | BIONATIVA SpA | Autorizzata |
+| 039276011 | IOPIZE\*collirio 2,5 ml 50 mcg/ml | SIFI SpA | Autorizzata |
+| 050015015 | XALATAN\*collirio 2,5 ml 50 mcg/ml | PROGRAMMI SANIT.INTEGRATI Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

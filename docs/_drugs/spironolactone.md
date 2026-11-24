@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
@@ -84,17 +84,29 @@ I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibil
 
 <!-- review:begin it-lic-20261106-spironolactone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofur, Spiridazide).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofur, Spiridazide).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-spironolactone-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare |
-|---------|------|------|
-| 019913033 | Spirolang 10 cps 100 mg | SIT Laboratorio Farmaceutico Srl |
-| 019408018 | Uractone 10 cpr 100 mg | SPA (Società Prodotti Antibiotici) SpA |
-| 019913021 | Spirolang 10 cps 50 mg | SIT Laboratorio Farmaceutico Srl |
-| 019913019 | Spirolang 16 cps 25 mg | SIT Laboratorio Farmaceutico Srl |
-| 019822030 | Aldactone 10 cpr rivestite 100 mg | Cheplapharm Arzneimittel GmbH |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 019913033 | SPIROLANG\*10 cps 100 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 019408018 | URACTONE\*10 cpr 100 mg | SPA (SOC.PRO.ANTIBIOTICI) SpA | Autorizzata |
+| 019913021 | SPIROLANG\*10 cps 50 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 019913019 | SPIROLANG\*16 cps 25 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 019822030 | ALDACTONE\*10 cpr rivestite 100 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 019822028 | ALDACTONE\*16 cps 25 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 022702017 | ALDACTAZIDE\*20 cpr 25 mg + 25 mg | SPA (SOC.PRO.ANTIBIOTICI) SpA | Autorizzata |
+| 023770011 | LASITONE\*20 cps 25 mg + 37 mg | SANOFI Srl | Autorizzata |
+| 023749017 | SPIROFUR\*10 cps 50 mg + 20 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 022447015 | SPIRIDAZIDE\*20 cps 25 mg + 25 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 023749056 | SPIROFUR\*20 cps 50 mg + 20 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,7 +129,7 @@ La previsione è sostenuta solo dal punteggio TxGNN, senza studi clinici né let
 
 <!-- review:begin it-lic-20261106-spironolactone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglietto illustrativo, un vuoto informativo bloccante per la fase successiva.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-spironolactone-2 -->
 
@@ -135,8 +147,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofu» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti inoltre 6 ulteriori autorizzazioni cancellate, per lo più associazioni a dose fissa (ad esempio Aldactazide, Lasitone, Spirofu» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e m» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->

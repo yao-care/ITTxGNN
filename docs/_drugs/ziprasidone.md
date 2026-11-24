@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 469
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZIPRASIDONE"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 description: "Ziprasidone: nuova indicazione prevista, Tricotillomania (trichotillomania) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -68,11 +68,17 @@ Attualmente non risulta letteratura correlata disponibile per la tricotillomania
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 041339060 | ZIPRASIDONE 56 cps 20 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
-| 041339161 | ZIPRASIDONE 56 cps 40 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
-| 041339262 | ZIPRASIDONE 56 cps 60 mg (SANDOZ SpA) | Capsule | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041339060 | ZIPRASIDONE\*56 cps 20 mg | SANDOZ SpA | Autorizzata |
+| 041339262 | ZIPRASIDONE\*56 cps 60 mg | SANDOZ SpA | Autorizzata |
+| 041339161 | ZIPRASIDONE\*56 cps 40 mg | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e 3 le autorizzazioni risultano valide.
 

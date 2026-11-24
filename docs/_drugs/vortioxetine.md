@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: nuova indicazione prevista, Disturbo nevrotico (neurotic disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -70,11 +70,17 @@ Attualmente non risultano sperimentazioni cliniche registrate correlate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043187020 | BRINTELLIX 28 cpr rivestite 5 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 043187107 | BRINTELLIX 28 cpr rivestite 10 mg (H. Lundbeck A/S) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 043187362 | BRINTELLIX gocce orali 15 ml 20 mg/ml (H. Lundbeck A/S) | Gocce orali | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043187020 | BRINTELLIX\*28 cpr rivestite 5 mg | H.LUNDBECK A/S | Autorizzata |
+| 043187107 | BRINTELLIX\*28 cpr rivestite 10 mg | H.LUNDBECK A/S | Autorizzata |
+| 043187362 | BRINTELLIX\*orale gtt 15 ml 20 mg/ml | H.LUNDBECK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: H. Lundbeck A/S. Tutte e 3 le autorizzazioni risultano valide.
 

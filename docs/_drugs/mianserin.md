@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
 description: "Mianserin: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
@@ -101,9 +101,15 @@ Per la predizione di rank 1 non è disponibile letteratura correlata. Di seguito
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023695036 | LANTANON 30 cpr rivestite 30 mg (ORGANON ITALIA Srl) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023695036 | LANTANON\*30 cpr rivestite 30 mg | ORGANON ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +131,7 @@ La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza s
 
 <!-- review:begin it-lic-20261106-mianserin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile; inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile; inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mianserin-1 -->
 
@@ -138,7 +144,7 @@ La predizione di rank 1 si basa esclusivamente sul modello (livello L5), senza s
 
 <!-- review:begin it-lic-20261106-mianserin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione del profilo di sicurezza ematologico e dello stato regolatorio (autorizzazione revocata)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione del profilo di sicurezza ematologico e dello stato regolatorio (autorizzazione revocata)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mianserin-2 -->
 
@@ -150,8 +156,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazione revocata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «inoltre il prodotto è presente in Italia solo con un'autorizzazione revocata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazione revocata)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

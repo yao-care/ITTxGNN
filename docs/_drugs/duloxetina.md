@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00476
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Duloxetina: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5)."
 ---
 
@@ -69,15 +69,38 @@ Al momento non risulta letteratura correlata disponibile per questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-In Italia sono presenti almeno 20 autorizzazioni valide per medicinali a base di duloxetina in monocomponente (l'elenco potrebbe essere parziale). Nei dati locali non è riportato il testo dell'indicazione approvata. Di seguito le principali:
+In Italia sono presenti almeno 20 autorizzazioni valide per medicinali a base di duloxetina in monocomponente (l'elenco potrebbe essere parziale). Nei dati locali non è riportato il testo dell'indicazione approvata.
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 044267452 | DULOXETINA 28 cps gastroresistenti 30 mg | Capsule gastroresistenti | Viatris Limited |
-| 044699015 | DULOXETINA 7 cps gastroresistenti 30 mg | Capsule gastroresistenti | Sandoz SpA |
-| 043590013 | SILOXEZOL 28 cps gastroresistenti 30 mg | Capsule gastroresistenti | S.F. Group Srl |
-| 050340013 | CYMBALTA 28 cps gastroresistenti 60 mg | Capsule gastroresistenti | Farma 1000 Srl |
-| 036683062 | CYMBALTA 7 cps gastroresistenti 30 mg | Capsule gastroresistenti | Eli Lilly Nederland BV |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044267452 | DULOXETINA\*28X1 cps gastrores 30 mg | VIATRIS LIMITED | Autorizzata |
+| 044699015 | DULOXETINA\*7 cps gastrores 30 mg | SANDOZ SpA | Autorizzata |
+| 043859026 | DULOXETINA\*28 cps gastrores 30 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 050340013 | CYMBALTA\*28 cps gastrores 60 mg | FARMA 1000 Srl | Autorizzata |
+| 044408019 | DULEX\*7 cps gastrores 30 mg | ECUPHARMA Srl | Autorizzata |
+| 043595040 | DULOXETINA\*28 cps gastrores 30 mg | DOC GENERICI Srl | Autorizzata |
+| 044472153 | DULOXETINA\*28 cps gastrores 60 mg | ZENTIVA K.S. | Autorizzata |
+| 043548041 | EZEQUA\*28 cps gastrores 30 mg | MYLAN SpA | Autorizzata |
+| 050339011 | CYMBALTA\*28 cps gastrores 60 mg | BB FARMA Srl | Autorizzata |
+| 044267425 | DULOXETINA\*7x1 cps gastrores 30 mg | VIATRIS LIMITED | Autorizzata |
+| 048010019 | DULOXETINA\*7 cps gastrores 30 mg | TEVA B.V. | Autorizzata |
+| 043859065 | DULOXETINA\*28 cps gastrores 60 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 044472102 | DULOXETINA\*7 cps gastrores 30 mg | ZENTIVA K.S. | Autorizzata |
+| 043943024 | DULOXETINA\*28 cps gastrores 30 mg | EG SpA | Autorizzata |
+| 043594047 | DULOXETINA\*7 cps gastrorestenti 30 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 044267502 | DULOXETINA\*28x1 cps gastrores 60 mg | VIATRIS LIMITED | Autorizzata |
+| 049202070 | DULXETENON\*28 cps gastrores 120 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 036683062 | CYMBALTA\*7 cps gastrores 30 mg | ELI LILLY NEDERLAND BV | Autorizzata |
+| 043590013 | SILOXEZOL\*28 cps gastrores 30 mg flacone | S.F. GROUP Srl | Non più autorizzata |
+| 043590025 | SILOXEZOL\*28 cps gastrores 60 mg flacone | S.F. GROUP Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

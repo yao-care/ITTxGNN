@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: nuova indicazione prevista, Sindrome dell'intestino irritabile (irritable bowel syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -82,10 +82,16 @@ Le pubblicazioni riguardano soprattutto il GLP-1 e i suoi agonisti, non il gluca
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048407011 | BAQSIMI*1 flacone polv nasale 3 mg (AMPHASTAR FRANCE PHARMACEUTIC.) | Non indicata | Non indicata (autorizzazione valida) |
-| 027489018 | GLUCAGEN HYPOKIT*1 fiala 1 mg + 1 siringa 1 ml (NOVO NORDISK A/S) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048407011 | BAQSIMI\*1 flacone polv nasale 3 mg | AMPHASTAR FRANCE PHARMACEUTIC. | Autorizzata |
+| 027489018 | GLUCAGEN HYPOKIT\*1 fiala 1 mg + 1 siringa 1 ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

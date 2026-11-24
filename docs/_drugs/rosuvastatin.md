@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin: nuova indicazione prevista, Cholesterol-ester transfer protein deficiency (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -106,7 +106,7 @@ Per l'ipercolesterolemia familiare sono riportati 12 studi; di seguito i 10 più
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è disponibile. Di seguito le principali 5.
+Il testo dell'indicazione approvata non è disponibile.
 
 <!-- review:begin it-lic-20261106-rosuvastatin-1 -->
 
@@ -114,13 +114,35 @@ Il testo dell'indicazione approvata non è disponibile. Di seguito le principali
 
 <!-- review:end it-lic-20261106-rosuvastatin-1 -->
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035885058 | CRESTOR 28 cpr rivestite 10 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile |
-| 035883180 | PROVISACOR 28 cpr rivestite 20 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile |
-| 035884206 | SIMESTAT 28 cpr rivestite 20 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile |
-| 045245026 | STAROS 28 cpr rivestite 10 mg (S.F. Group) | Compresse rivestite | Non disponibile |
-| 044810063 | ROSUVASTATINA 28 cpr rivestite 20 mg (DOC Generici) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035884206 | SIMESTAT\*28 cpr rivestite 20 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 045175027 | SNAPTAG\*28 cpr rivestite 10 mg | GENETIC SpA | Autorizzata |
+| 044264012 | LIPIDOVER\*28 cpr rivestite 5 mg | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 035885058 | CRESTOR\*28 cpr rivestite 10 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 044810063 | ROSUVASTATINA\*28 cpr rivestite 20 mg | DOC GENERICI Srl | Autorizzata |
+| 048435034 | ROSUVASTATINA\*28 cpr rivestite 10 mg | ADAMED Srl | Autorizzata |
+| 045245026 | STAROS\*28 cpr rivestite 10 mg | S.F. GROUP Srl | Autorizzata |
+| 045245038 | STAROS\*28 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 043806025 | ROSUVASTATINA\*28 cpr rivestite 5 mg | LABORATORI ALTER Srl | Autorizzata |
+| 044432033 | COLCARDIOL\*28 cpr rivestite 20 mg | EURO-PHARMA Srl | Autorizzata |
+| 043277033 | ROSUVASTATINA\*28 cpr rivestite 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 044203077 | ROSUVASTATINA\*28 cpr rivestite 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 048435059 | ROSUVASTATINA\*28 cpr rivestite 20 mg | ADAMED Srl | Autorizzata |
+| 045245040 | STAROS\*28 cpr rivestite 40 mg | S.F. GROUP Srl | Autorizzata |
+| 045029028 | ROSUVASTATINA\*28 cpr rivestite 10 mg | TECNIGEN Srl | Autorizzata |
+| 035883180 | PROVISACOR\*28 cpr rivestite 20 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 042575720 | ROSUVASTATINA\*28 cpr rivestite 10 mg | MYLAN SpA | Autorizzata |
+| 043975046 | ROSUBEROL\*28 cpr rivestite 40 mg | PHARMEXTRACTA SpA | Autorizzata |
+| 044203091 | ROSUVASTATINA\*28 cpr rivestite 40 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 035884509 | SIMESTAT\*28 cpr rivestite 5 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

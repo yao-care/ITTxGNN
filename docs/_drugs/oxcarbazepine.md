@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 333
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: nuova indicazione prevista, Restless legs syndrome (livello di evidenza L4). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -78,13 +78,20 @@ Attualmente non risultano studi clinici registrati correlati a questa indicazion
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048388021 | ZIGABAL*50 cpr 600 mg | Compresse | Non disponibile (valida) |
-| 028304018 | TOLEP*50 cpr div 300 mg | Compresse | Non disponibile (valida) |
-| 028304020 | TOLEP*50 cpr div 600 mg | Compresse | Non disponibile (valida) |
-| 042353021 | OXCARBAZEPINA*50 cpr 600 mg | Compresse | Non disponibile (valida) |
-| 048388019 | ZIGABAL*50 cpr 300 mg | Compresse | Non disponibile (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048388021 | ZIGABAL\*50 cpr 600 mg | TECNIGEN Srl | Autorizzata |
+| 028304018 | TOLEP\*50 cpr div 300 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 028304020 | TOLEP\*50 cpr div 600 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 042353021 | OXCARBAZEPINA\*50 cpr 600 mg | TECNIGEN Srl | Autorizzata |
+| 048388019 | ZIGABAL\*50 cpr 300 mg | TECNIGEN Srl | Autorizzata |
+| 042353019 | OXCARBAZEPINA\*50 cpr 300 mg | TECNIGEN Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -101,7 +108,7 @@ Per le avvertenze complete fare riferimento al foglietto illustrativo.
 
 <!-- review:begin it-lic-20261106-oxcarbazepine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «**Motivazione:** / Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «**Motivazione:** / Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oxcarbazepine-1 -->
 
@@ -121,7 +128,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, il che complica qualsiasi percorso di riposizionamento» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

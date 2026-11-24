@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Siponimod: nuova indicazione prevista, Ipertensione polmonare (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati (la letteratura associa sipon…"
 monitor_inn: "SIPONIMOD"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
@@ -84,11 +84,17 @@ Per l'ipertensione polmonare, l'indicazione principale, non risulta alcuna lette
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048440073 | MAYZENT 28 cpr rivestite 1 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 048440010 | MAYZENT 12 cpr rivestite 0,25 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 048440034 | MAYZENT 28 cpr rivestite 2 mg (Novartis Europharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048440073 | MAYZENT\*28 cpr rivestite 1 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 048440010 | MAYZENT\*12 cpr rivestite 0,25 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 048440034 | MAYZENT\*28 cpr rivestite 2 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -106,7 +112,7 @@ Per avvertenze e controindicazioni complete, consultare il foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-siponimod-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico. In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'ipertensione polmonare ha un punteggio elevato ma è priva di studi clinici e di letteratura (livello L5), con un legame meccanicistico solo teorico. In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-siponimod-1 -->
 
@@ -126,7 +132,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e le avvertenze di sicurezza non sono disponibili» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Lamotrigine: nuova indicazione prevista, Neoplasma del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -107,15 +107,35 @@ Il meccanismo è plausibile: come la carbamazepina, di prima scelta, la lamotrig
 
 ## Informazioni sul mercato italiano
 
-Di seguito le prime 5.
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 041087471 | AMALESS 56 cpr dispersibili 50 mg | Aurobindo Pharma Italia Srl | Valida |
-| 041087673 | AMALESS 56 cpr dispersibili 100 mg | Aurobindo Pharma Italia Srl | Valida |
-| 049549037 | LAMICTAL 56 cpr masticabili/dispersibili 100 mg | Farma 1000 Srl | Valida |
-| 036486049 | LAMOTRIGINA 56 cpr dispersibili 100 mg | Sandoz SpA | Valida |
-| 036780993 | LAMOTRIGINA 56 cpr dispersibili 200 mg | EG SpA | Valida |
+|------|------|------|------|
+| 041087471 | AMALESS\*56 cpr dipers 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041087673 | AMALESS\*56 cpr dipers 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 049549037 | LAMICTAL\*56 cpr masticabili/dispersibili 100 mg | FARMA 1000 Srl | Autorizzata |
+| 036486049 | LAMOTRIGINA\*56 cpr dispers 100 mg | SANDOZ SpA | Autorizzata |
+| 036780993 | LAMOTRIGINA\*56 cpr dispers 200 mg | EG SpA | Autorizzata |
+| 027807472 | LAMICTAL\*56 cpr dispers 200 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 036780373 | LAMOTRIGINA\*28 cpr dispers 25 mg | EG SpA | Autorizzata |
+| 027807179 | LAMICTAL\*30 cpr dispers 2 mg flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 036821635 | LAMOTRIGINA\*56 cpr dispers 50 mg | DOC GENERICI Srl | Autorizzata |
+| 036821991 | LAMOTRIGINA\*56 cpr dispers 200 mg | DOC GENERICI Srl | Autorizzata |
+| 047461076 | LAMICTAL\*56 cpr dispersibili 100 mg | GMM FARMA Srl | Autorizzata |
+| 036780854 | LAMOTRIGINA\*56 cpr dispers 100 mg | EG SpA | Autorizzata |
+| 049549013 | LAMICTAL\*28 cpr masticabili/dispersibili 25 mg | FARMA 1000 Srl | Autorizzata |
+| 047461064 | LAMICTAL\*56 cpr dispersibili 50 mg | GMM FARMA Srl | Autorizzata |
+| 049549025 | LAMICTAL\*56 cpr masticabili/dispersibili 50 mg | FARMA 1000 Srl | Autorizzata |
+| 036780637 | LAMOTRIGINA\*56 cpr dispers 50 mg | EG SpA | Autorizzata |
+| 041087875 | AMALESS\*56 cpr dispers 200 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 027807205 | LAMICTAL\*30 cpr dispers 5 mg flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 049954047 | LAMICTAL\*28 cpr dispers 25 mg | BB FARMA Srl | Autorizzata |
+| 027807243 | LAMICTAL\*28 cpr dispers 25 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

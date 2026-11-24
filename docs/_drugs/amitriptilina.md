@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -80,7 +80,7 @@ Attualmente nessuna letteratura correlata disponibile in questo pacchetto di evi
 
 <!-- review:begin it-lic-20261106-amitriptilina-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Nessuna autorizzazione di commercializzazione registrata. L'amitriptilina non sembra possedere licenze approvate AIFA attuali nel dataset esaminato (0 licenze trovate).» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Nessuna autorizzazione di commercializzazione registrata. L'amitriptilina non sembra possedere licenze approvate AIFA attuali nel dataset esaminato (0 licenze trovate).» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-amitriptilina-1 -->
 
@@ -134,7 +134,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Nessuna autorizzazione di commercializzazione registrata. L'amitriptilina non sembra possedere licenze approvate AIFA attuali nel dataset es» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Nessuna autorizzazione di commercializzazione registrata. L'amitriptilina non sembra possedere licenze approvate AIFA attuali nel dataset es» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ezetimibe: nuova indicazione prevista, Carenza di proteina di trasferimento degli esteri del colesterolo (livello di evidenza L5). Indicazione originale: Iperlipidemia e forme correlate"
 ---
 
@@ -75,15 +75,37 @@ Le due pubblicazioni raccolte non studiano direttamente la carenza di CETP, e so
 
 ## Informazioni sul mercato italiano
 
-L'elenco può essere parziale (almeno 20 autorizzazioni; sono riportate le prime 5). Nei dati compilati non sono presenti testi dell'indicazione approvata né la forma farmaceutica (le denominazioni indicano compresse da 10 mg).
+Nei dati compilati non sono presenti testi dell'indicazione approvata né la forma farmaceutica (le denominazioni indicano compresse da 10 mg).
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 045314162 | EZETIMIBE*30 cpr 10 mg | Accord Healthcare SLU | Valida |
-| 044521033 | EZETIMIBE*50 cpr 10 mg | Laboratori Alter Srl | Valida |
-| 045008137 | EZETIMIBE*50 cpr 10 mg | Zentiva Italia Srl | Valida |
-| 036017147 | ZETIA*30 cpr 10 mg | Neopharmed Gentili SpA | Valida |
-| 042752461 | EZETIMIBE*30 cpr 10 mg | Mylan SpA | Valida |
+|------|------|------|------|
+| 045314162 | EZETIMIBE\*30 cpr 10 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044521033 | EZETIMIBE\*50 cpr 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 045008137 | EZETIMIBE\*50 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 036017147 | ZETIA\*30 cpr 10 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 042752461 | EZETIMIBE\*30 cpr 10 mg | MYLAN SpA | Autorizzata |
+| 044272045 | EZETIMIBE\*30 cpr 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 050670013 | DYSLIZET\*3x10 cpr 10 mg | EGIS PHARMACEUTICALS PLC | Autorizzata |
+| 044282046 | EZETIMIBE\*30 cpr 10 mg | EG SpA | Autorizzata |
+| 051959017 | EZETROL\*30 cpr 10 mg | FARMED Srl | Autorizzata |
+| 044115172 | KOBEY\*50 cpr 10 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 049957032 | EZETROL\*30 cpr 10 mg | BB FARMA Srl | Autorizzata |
+| 045963028 | EZETIMIBE\*30 cpr 10 mg | TECNIGEN Srl | Autorizzata |
+| 046620011 | TRIZIBE\*30 cpr 10 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 045008125 | EZETIMIBE\*30 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 045008214 | EZETIMIBE\*30 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 045223017 | EZETIMIBE\*30 cpr 10 mg | ALMUS Srl | Autorizzata |
+| 044272185 | EZETIMIBE\*30 cpr 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 049957018 | EZETROL\*30 cpr 10 mg | BB FARMA Srl | Autorizzata |
+| 050529015 | EZETROL\*30 cpr 10 mg | DIFARMED S.L.U. | Autorizzata |
+| 036016145 | EZETROL\*30 cpr 10 mg | ORGANON ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

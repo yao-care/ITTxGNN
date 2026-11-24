@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ceftazidime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Ceftazidime: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: 17 (autorizzate: 17)"
 ---
 
@@ -68,17 +68,33 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali, tutte le 17 autorizzazioni registrate risultano valide e riferite a prodotti monocomponente (ceftazidima). I principali sono:
+Secondo i dati locali, tutte le 17 autorizzazioni registrate risultano valide e riferite a prodotti monocomponente (ceftazidima).
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036579035 | CEFTAZIDIMA 1 flacone IM 1 g + fiala solvente 3 ml (ALMUS) | Non indicata | Non registrata nei dati locali |
-| 036568032 | FRIBAT 1 fiala IM 1 g + solvente 3 ml (EPIFARMA) | Non indicata | Non registrata nei dati locali |
-| 036571038 | CEFTAZIDIMA 1 flaconcino IM 1 g + solvente 3 ml (DOC GENERICI) | Non indicata | Non registrata nei dati locali |
-| 036590038 | DELTAZIME 1 fiala IM 1 g (C.T. LAB. FARMACEUTICO) | Non indicata | Non registrata nei dati locali |
-| 025212022 | GLAZIDIM 1 flaconcino IM 500 mg + solvente 1,5 ml (SANDOZ) | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco mostra solo cinque delle autorizzazioni disponibili.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036579035 | CEFTAZIDIMA\*1 flacone IM 1 g + fiala solv 3 ml | ALMUS Srl | Autorizzata |
+| 036568032 | FRIBAT\*1 fiala IM 1 g + 1 fiala solv 3 ml | EPIFARMA Srl | Autorizzata |
+| 036571038 | CEFTAZIDIMA\*1 flaconcino IM 1 g + 1 fiala solv 3 ml | DOC GENERICI Srl | Autorizzata |
+| 036590038 | DELTAZIME\*1 fiala IM 1 g + 1 fiala 3 ml | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 025212022 | GLAZIDIM\*1 flaconcino IM 500 mg + 1 fiala solv 1,5 ml | SANDOZ SpA | Autorizzata |
+| 036459016 | CEFTAZIDIMA\*1 flacone IM 1 g 3 ml | ASTRO-PHARMA VERTRIEB GMBH | Autorizzata |
+| 025859024 | STARCEF\*1 flacone polv 500 mg + 1 fiala solv 1,5 ml | F.I.R.M.A. SpA | Autorizzata |
+| 036490023 | ETAZIM\*1 flacone IM 1 g + 1 fiala solv 3 ml | S.F. GROUP Srl | Autorizzata |
+| 036545010 | LIOTIXIL\*1 fiala IM 1 g + 1 fiala solv 3 ml | ESSETI FARMACEUTICI Srl | Autorizzata |
+| 036501029 | TOTTIZIM\*1 fiala IM 1 g + 1 fiala solv 3 ml | SO.SE.PHARM Srl | Autorizzata |
+| 025212034 | GLAZIDIM 1\*1 flaconcino IM 1 g + 1 fiala solv 3 ml | SANDOZ SpA | Autorizzata |
+| 036566038 | CEFTAZIDIMA\*1 fiala IM 1 g/3 ml + 1 fiala 3 ml | FG Srl | Autorizzata |
+| 025859036 | STARCEF\*1 flacone polv 1 g/3 ml + 1 fiala solv 3 ml | F.I.R.M.A. SpA | Autorizzata |
+| 025212010 | GLAZIDIM\*1 flaconcino IM 250 mg + 1 fiala solv 1 ml | SANDOZ SpA | Autorizzata |
+| 036209017 | CEFTAZIDIMA\*1 fiala IM 1 g + 1 fiala solv 3 ml | SANDOZ SpA | Autorizzata |
+| 036495024 | TAZIDIF\*1 fiala IM 1 g + 1 fiala solv 3 ml | S.F. GROUP Srl | Autorizzata |
+| 036604027 | CEFTAZIDIMA\*1 flacone IM 1 g + 1 fiala solv 3 ml | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bisoprolol: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -80,15 +80,35 @@ Attualmente non è disponibile letteratura correlata per questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044048015 | CONGESCOR*28 cpr rivestite 2,5 mg | – | Non registrata |
-| 037130174 | BISOPROLOLO*28 cpr rivestite 10 mg | – | Non registrata |
-| 048314304 | BISOPROLOLO*28 cpr 3,75 mg | – | Non registrata |
-| 039829066 | CONGESCOR*28 cpr rivestite 2,5 mg | – | Non registrata |
-| 034954420 | CARDICOR*28 cpr rivestite 10 mg | – | Non registrata |
+<!-- licenses:begin -->
 
-L'elenco delle autorizzazioni è parziale: sono riportate solo le prime cinque.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044048015 | CONGESCOR\*28 cpr rivestite 2,5 mg | GEKOFAR Srl | Autorizzata |
+| 037130174 | BISOPROLOLO\*28 cpr rivestite 10 mg | EG SpA | Autorizzata |
+| 048314304 | BISOPROLOLO\*28 cpr 3,75 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 039829066 | CONGESCOR\*28 cpr rivestite 2,5 mg | FARMA 1000 Srl | Autorizzata |
+| 034954420 | CARDICOR\*28 cpr rivestite 10 mg | RECORDATI SpA | Autorizzata |
+| 039870213 | BISOPROLOLO\*28 cpr rivestite 3,75 mg | EG SpA | Autorizzata |
+| 044644019 | BISOPROLOLO\*28 cpr 1,25 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 039870124 | BISOPROLOLO\*28 cpr 2,5 mg | EG SpA | Autorizzata |
+| 034954267 | CARDICOR\*28 cpr rivestite 5 mg | RECORDATI SpA | Autorizzata |
+| 040147340 | BISOPROLOLO\*28 cpr 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 044640011 | BISOPROLOLO\*28 cpr 2,5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 048314544 | BISOPROLOLO\*28 cpr 7,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 043654058 | CONGESCOR\*28 cpr rivestite 1,25 mg | GMM FARMA Srl | Autorizzata |
+| 048314203 | BISOPROLOLO\*28 cpr 2,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 034952263 | SEQUACOR\*28 cpr rivestite 5 mg | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 042667105 | CONGESCOR\*28 cpr rivestite 2,5 mg | BB FARMA Srl | Autorizzata |
+| 034953416 | CONGESCOR\*28 cpr rivestite 10 mg | MERCK SERONO SpA | Autorizzata |
+| 038811042 | BISOPROLOLO\*28 cpr rivestite 1,25 mg | SANDOZ SpA | Autorizzata |
+| 040486134 | BISOPROLOLO\*28 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 040486019 | BISOPROLOLO\*28 cpr rivestite 1,25 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

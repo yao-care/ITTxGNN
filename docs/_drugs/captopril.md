@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Captopril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
@@ -74,12 +74,18 @@ Questa pubblicazione non fornisce prove di efficacia terapeutica nella malattia 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035036161 | CAPTOPRIL*24 cpr 50 mg (EG SpA) | — | — |
-| 035317561 | CAPTOPRIL*24 cpr 50 mg (MYLAN SpA) | — | — |
-| 035317559 | CAPTOPRIL*50 cpr 25 mg (MYLAN SpA) | — | — |
-| 035036159 | CAPTOPRIL*50 cpr 25 mg (EG SpA) | — | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035036161 | CAPTOPRIL\*24 cpr 50 mg | EG SpA | Autorizzata |
+| 035317561 | CAPTOPRIL\*24 cpr 50 mg | MYLAN SpA | Autorizzata |
+| 035317559 | CAPTOPRIL\*50 cpr 25 mg | MYLAN SpA | Autorizzata |
+| 035036159 | CAPTOPRIL\*50 cpr 25 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

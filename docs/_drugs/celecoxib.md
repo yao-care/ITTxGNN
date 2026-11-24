@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CELECOXIB"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Celecoxib: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata nei…"
 ---
 
@@ -68,15 +68,32 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-I dati compilati riportano 16 autorizzazioni per prodotti a base di solo celecoxib. Il testo delle indicazioni approvate non è registrato nei dati locali. Principali autorizzazioni:
+I dati compilati riportano 16 autorizzazioni per prodotti a base di solo celecoxib. Il testo delle indicazioni approvate non è registrato nei dati locali.
 
-| N. autorizzazione | Prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 034624460 | CELEBREX 20 cps 200 mg | Capsule | Viatris Pharma Srl |
-| 034624066 | CELEBREX 40 cps 100 mg blister AL/PVC trasparente | Capsule | Viatris Pharma Srl |
-| 043133026 | COXIBEN 20 cps 200 mg | Capsule | S.F. Group Srl |
-| 045187034 | COXART 20 cps 200 mg | Capsule | S.F. Group Srl |
-| 042559031 | CELARTROX 20 cps 200 mg | Capsule | S.F. Group Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042258095 | CELECOXIB\*20 cps 200 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 043133026 | COXIBEN\*20 cps 200 mg | S.F. GROUP Srl | Autorizzata |
+| 044073017 | CELECOXIB\*20 cps 200 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040788198 | CELECOXIB\*20 cps 200 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 041955028 | CELECOXIB\*20 cps 200 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 045187034 | COXART\*20 cps 200 mg | S.F. GROUP Srl | Autorizzata |
+| 042328082 | CELECOXIB\*20 cps 200 mg | SANDOZ SpA | Autorizzata |
+| 041938174 | CELECOXIB\*20 cps 200 mg | DOC GENERICI Srl | Autorizzata |
+| 051224018 | CELECOXIB\*20 cps 200 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040512220 | CELECOXIB\*20 cps 200 mg | TEVA ITALIA Srl | Autorizzata |
+| 042533125 | CELECOXIB\*20 cps 200 mg | MYLAN SpA | Autorizzata |
+| 042559031 | CELARTROX\*20 cps 200 mg | S.F. GROUP Srl | Autorizzata |
+| 034624066 | CELEBREX\*40 cps 100 mg blister AL/PVC trasparente | VIATRIS PHARMA Srl | Autorizzata |
+| 043500014 | CELECOXIB\*20 cps 200 mg | LABORATORI ALTER Srl | Autorizzata |
+| 042332181 | CELECOXIB\*20 cps 200 mg | EG SpA | Autorizzata |
+| 034624460 | CELEBREX\*20 cps 200 mg | VIATRIS PHARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

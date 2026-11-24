@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cladribine"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cladribine: nuova indicazione prevista, Rabdomiosarcoma embrionale parameningeo (parameningeal embryonal rhabdomyosarcoma) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loca…"
 ---
 
@@ -68,11 +68,17 @@ Attualmente non risulta alcuna letteratura correlata per il rabdomiosarcoma embr
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045615010 | MAVENCLAD*1 cpr 10 mg | Non indicata | Non registrata nei dati locali |
-| 045615046 | MAVENCLAD*6 cpr 10 mg | Non indicata | Non registrata nei dati locali |
-| 045615022 | MAVENCLAD*4 cpr 10 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045615010 | MAVENCLAD\*1 cpr 10 mg | MERCK EUROPE BV | Autorizzata |
+| 045615046 | MAVENCLAD\*6 cpr 10 mg | MERCK EUROPE BV | Autorizzata |
+| 045615022 | MAVENCLAD\*4 cpr 10 mg | MERCK EUROPE BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Merck Europe BV. I dati locali sulle autorizzazioni sono incoerenti tra i campi di stato, quindi lo stato dettagliato delle singole autorizzazioni non viene commentato.
 

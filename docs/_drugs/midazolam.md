@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 301
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L3). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -82,14 +82,26 @@ Vi sono però limiti importanti: si tratta di studi datati e di piccole dimensio
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042021028 | BUCCOLAM 4 siringhe soluz. mucosa orale 5 mg/1 ml | Soluzione per mucosa orale | Autorizzazione valida |
-| 042021030 | BUCCOLAM 4 siringhe soluz. mucosa orale 7,5 mg/1,5 ml | Soluzione per mucosa orale | Autorizzazione valida |
-| 042021042 | BUCCOLAM 4 siringhe soluz. mucosa orale 10 mg/2 ml | Soluzione per mucosa orale | Autorizzazione valida |
-| 042021016 | BUCCOLAM 4 siringhe soluz. mucosa orale 2,5 mg/0,5 ml | Soluzione per mucosa orale | Autorizzazione valida |
+<!-- licenses:begin -->
 
-Tutte le autorizzazioni sono intestate a Neuraxpharm Pharmaceuticals S.L. e risultano cancellate.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042021028 | BUCCOLAM\*4 siringhe soluz mucosa orale 5 mg 1 ml | NEURAXPHARM PHARMACEUT. S.L. | Autorizzata |
+| 042021030 | BUCCOLAM\*4 siringhe soluz mucosa orale 7,5 mg 1,5 ml | NEURAXPHARM PHARMACEUT. S.L. | Autorizzata |
+| 042021042 | BUCCOLAM\*4 siringhe soluz mucosa orale 10 mg 2 ml | NEURAXPHARM PHARMACEUT. S.L. | Autorizzata |
+| 042021016 | BUCCOLAM\*4 siringhe soluz mucosa orale 2,5 mg 0,5 ml | NEURAXPHARM PHARMACEUT. S.L. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Tutte le autorizzazioni sono intestate a Neuraxpharm Pharmaceuticals S.L.
+
+<!-- review:begin it-lic-20261124-midazolam-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni sono intestate a Neuraxpharm Pharmaceuticals S.L. e risultano cancellate.» Corretto: nell'elenco AIFA delle confezioni autorizzate (dati al 2026-11-23) le confezioni BUCCOLAM (042021016, 042021028, 042021030, 042021042) risultano «Autorizzata»; l'indicazione che fossero cancellate non corrispondeva ai dati ed è stata rimossa. Lo stato aggiornato è nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-midazolam-1 -->
 
 ## Considerazioni sulla sicurezza
 
@@ -108,7 +120,7 @@ Il meccanismo è plausibile e esistono studi clinici storici sul midazolam orale
 
 <!-- review:begin it-lic-20261106-midazolam-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni italiane sono tutte cancellate, il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le autorizzazioni italiane sono tutte cancellate, il carico di interazioni è elevato e alternative più recenti hanno sostituito le benzodiazepine in questo ambito.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-midazolam-1 -->
 
@@ -127,7 +139,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le autorizzazioni italiane sono tutte cancellate, i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Le confezioni BUCCOLAM risultano autorizzate, non cancellate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

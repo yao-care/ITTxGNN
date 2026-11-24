@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
 description: "Rasagiline: nuova indicazione prevista, Neurodegenerazione associata a PLA2G6 (PLA2G6-associated neurodegeneration) (livello di evidenza L5). In Italia, confezioni AIFA: 20 (autorizzate: 20)"
@@ -88,15 +88,36 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5 autorizzazioni.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 044400012 | RASAGILINA*28 cpr 1 mg | DOC Generici Srl | Valida |
-| 044372023 | AIDEX*28 cpr 1 mg | Ecupharma Srl | Valida |
-| 043902016 | RASARAL*28 cpr 1 mg | Ralpharma Srl | Valida |
-| 044945095 | RASABON*28 cpr 1 mg | Neuraxpharm Italy SpA | Valida |
-| 036983029 | AZILECT*28 cpr 1 mg | Teva B.V. | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044400012 | RASAGILINA\*28 cpr 1 mg | DOC GENERICI Srl | Autorizzata |
+| 044372023 | AIDEX\*28 cpr 1 mg | ECUPHARMA Srl | Autorizzata |
+| 043902016 | RASARAL\*28 cpr 1 mg | RALPHARMA Srl | Autorizzata |
+| 044945095 | RASABON\*28 cpr 1 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 044841031 | RASAGILINA\*28 cpr 1 mg | VIATRIS LIMITED | Autorizzata |
+| 044206035 | RASAGILINA\*28 cpr 1 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044180026 | RASAGILINA\*28 cpr 1 mg | SANDOZ SpA | Autorizzata |
+| 044372011 | AIDEX\*28 cpr 1 mg | ECUPHARMA Srl | Autorizzata |
+| 050331014 | AZILECT\*28 cpr 1 mg | DIFARMED S.L.U. | Autorizzata |
+| 051129017 | AZILECT\*28 cpr 1 mg | GMM FARMA Srl | Autorizzata |
+| 044710010 | ROLDAP\*28 cpr 1 mg | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+| 036983029 | AZILECT\*28 cpr 1 mg | TEVA B.V. | Autorizzata |
+| 044097032 | RASAGILINA\*28 cpr 1 mg | TEVA ITALIA Srl | Autorizzata |
+| 044354037 | RASAGILINA\*28 cpr 1 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 044352045 | RASAGILINA\*28 cpr 1 mg | EG SpA | Autorizzata |
+| 043934037 | RASAGILINA\*28 cpr 1 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 051822017 | AZILECT\*28 cpr 1 mg | FARMED Srl | Autorizzata |
+| 050041019 | NALISAR\*28 cpr 1 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 044400024 | RASAGILINA\*28 cpr 1 mg | DOC GENERICI Srl | Autorizzata |
+| 044841094 | RASAGILINA\*28 cpr 1 mg | VIATRIS LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +139,7 @@ La predizione si basa solo sul modello (livello L5): non ci sono studi clinici n
 
 <!-- review:begin it-lic-20261106-rasagiline-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 20 autorizzazioni per questo farmaco, di cui 20 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa solo sul modello (livello L5): non ci sono studi clinici né letteratura, il legame meccanicistico è solo ipotetico e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rasagiline-1 -->
 
@@ -136,7 +157,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60) |
 
 <!-- review:end log -->

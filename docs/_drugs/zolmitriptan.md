@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
@@ -68,7 +68,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-zolmitriptan-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-zolmitriptan-1 -->
 
@@ -89,13 +89,23 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 033345012 | ZOMIG 3 cpr rivestite 2,5 mg (Grunenthal Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 033345149 | ZOMIG RAPIMELT 6 cpr orodispersibili 2,5 mg (Grunenthal Italia) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
-| 040164081 | HEADZOL 6 cpr orodispersibili 2,5 mg (Lanova Farmaceutici) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
-| 039887031 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (DOC Generici) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
-| 039771035 | ZOLMITRIPTAN 6 cpr orodispersibili 2,5 mg (Aurobindo Pharma Italia) | Compresse orodispersibili | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040164081 | HEADZOL\*6 cpr orodispers 2,5 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 033345012 | ZOMIG\*3 cpr rivestite 2,5 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 039887031 | ZOLMITRIPTAN\*6 cpr orodispers 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 033345149 | ZOMIG RAPIMELT\*6 cpr orodispers 2,5 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 039887068 | ZOLMITRIPTAN\*3 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 039771035 | ZOLMITRIPTAN\*6 cpr orodispers 2,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039887070 | ZOLMITRIPTAN\*6 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 039387028 | ZOLMITRIPTAN\*6 cpr rivestite 2,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039771023 | ZOLMITRIPTAN\*3 cpr orodispers 2,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -114,7 +124,7 @@ La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmit
 
 <!-- review:begin it-lic-20261106-zolmitriptan-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmitriptan; l'elevato punteggio TxGNN riflette probabilmente la vicinanza all'emicrania già nota. A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmitriptan; l'elevato punteggio TxGNN riflette probabilmente la vicinanza all'emicrania già nota. A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-zolmitriptan-2 -->
 
@@ -127,7 +137,7 @@ La nuova indicazione non ha sperimentazioni cliniche né studi diretti su zolmit
 
 <!-- review:begin it-lic-20261106-zolmitriptan-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità commerciale del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-zolmitriptan-3 -->
 
@@ -139,9 +149,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti in tutto 9 autorizzazioni, tutte cancellate; la tabella riporta le prime 5» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «A ciò si aggiungono le preoccupazioni di sicurezza per la vasocostrizione nell'aura del tronco encefalico e il fatto che in Italia tutte le » | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->

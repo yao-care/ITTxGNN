@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Fosfomycin: nuova indicazione prevista, Uterine inflammatory disease (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)"
 ---
 
@@ -75,15 +75,30 @@ Poiché nessuno studio citato riguarda direttamente la malattia prevista, il liv
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037993021 | FOSFOMICINA*AD orale grat polv 2 bust 3 g (Ratiopharm) | Granulato/polvere per uso orale | Testo non disponibile |
-| 042195026 | INTERFOS*AD orale grat soluz 2 bust 3 g (Pharmextracta) | Granulato per soluzione orale | Testo non disponibile |
-| 038040022 | FOSFOMICINA*AD orale 2 bust 3 g (EG) | Uso orale | Testo non disponibile |
-| 038516023 | FOSFOMICINA*AD orale 2 bust 3 g (DOC Generici) | Uso orale | Testo non disponibile |
-| 025680024 | MONURIL*AD orale grat 2 bust 3 g (Zambon Italia) | Granulato per uso orale | Testo non disponibile |
+<!-- licenses:begin -->
 
-Sono presenti in totale 14 autorizzazioni valide per il principio attivo singolo; qui ne sono elencate 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037993021 | FOSFOMICINA\*AD orale grat polv 2 bust 3 g | RATIOPHARM GMBH | Autorizzata |
+| 042195026 | INTERFOS\*AD orale grat soluz 2 bust 3 g | PHARMEXTRACTA SpA | Autorizzata |
+| 038040022 | FOSFOMICINA\*AD orale 2 bust 3 g | EG SpA | Autorizzata |
+| 038516023 | FOSFOMICINA\*AD orale 2 bust 3 g | DOC GENERICI Srl | Autorizzata |
+| 037273048 | FOSFOMICINA\*AD orale 2 bust 3 g | SANDOZ SpA | Autorizzata |
+| 037995026 | FOSFOMICINA\*AD orale grat 2 bust 3 g | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038556027 | UROFOS\*AD orale 2 bust 3 g | KONPHARMA Srl | Autorizzata |
+| 025680024 | MONURIL\*AD orale grat 2 bust 3 g | ZAMBON ITALIA Srl | Autorizzata |
+| 037031046 | FOSFOMICINA\*AD orale 2 bust 3 g | ZENTIVA ITALIA Srl | Autorizzata |
+| 037943026 | BERNY\*AD orale 2 bust 3 g | SO.SE.PHARM Srl | Autorizzata |
+| 038597023 | FOSFOMICINA\*AD orale 2 bust 3 g | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037994023 | FOSFOMICINA\*ad orale grat 2 bust 3 g | MYLAN SpA | Autorizzata |
+| 042196028 | INFEUR\*AD orale grat 2 bust 3 g | S.F. GROUP Srl | Autorizzata |
+| 041355025 | DANIFOS\*AD orale grat 2 bust 3 g | PHARMACARE Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti in totale 14 autorizzazioni valide per il principio attivo singolo.
 
 ## Considerazioni di sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Capecitabine: nuova indicazione prevista, adenocarcinoma gastrico e poliposi prossimale dello stomaco (gastric adenocarcinoma and proximal polyposis of the stoma… (livello di evidenza L5). Indicazion…"
 ---
 
@@ -70,15 +70,25 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 042640274 | CAPECITABINA*120x1 cpr rivestite 500 mg | Compresse rivestite | Accord Healthcare SLU |
-| 042640209 | CAPECITABINA*60x1 cpr rivestite 150 mg | Compresse rivestite | Accord Healthcare SLU |
-| 035219029 | XELODA*120 cpr rivestite 500 mg | Compresse rivestite | Cheplapharm Arzneimittel GmbH |
-| 041928045 | CAPECITABINA*120 cpr rivestite 500 mg | Compresse rivestite | Zentiva Italia Srl |
-| 041927043 | CAPECITABINA*120 cpr rivestite 500 mg | Compresse rivestite | Mylan SpA |
+<!-- licenses:begin -->
 
-Sono presenti 9 autorizzazioni valide a base del solo principio attivo; qui sono elencate le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042640274 | CAPECITABINA\*120x1 cpr rivestite 500 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042640209 | CAPECITABINA\*60x1 cpr rivestite 150 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 035219029 | XELODA\*120 cpr rivestite 500 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 041928045 | CAPECITABINA\*120 cpr rivestite 500 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041927043 | CAPECITABINA\*120 cpr rivestite 500 mg | MYLAN SpA | Autorizzata |
+| 035219017 | XELODA\*60 cpr rivestite 150 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 051594012 | XELODA\*120 cpr rivestite 500 mg | ABACUS MEDICINE A/S COPENHAGEN | Autorizzata |
+| 042501357 | CAPECITABINA\*120 cpr rivestite 500 mg | MEDAC GMBH | Autorizzata |
+| 042501041 | CAPECITABINA\*60 cpr rivestite 150 mg | MEDAC GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 9 autorizzazioni valide a base del solo principio attivo.
 
 ## Citotossicità
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiloride: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
@@ -70,9 +70,15 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 023070016 | MODURETIC*20 cpr 5 mg + 50 mg | NEOPHARMED GENTILI SpA |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023070016 | MODURETIC\*20 cpr 5 mg + 50 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il nome del prodotto indica un'associazione a dose fissa (5 mg + 50 mg). Questa autorizzazione non descrive quindi la situazione regolatoria del singolo principio attivo.
 

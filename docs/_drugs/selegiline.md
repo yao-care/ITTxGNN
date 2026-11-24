@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 description: "Selegiline: nuova indicazione prevista, Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -106,11 +106,17 @@ Gli altri documenti recuperati riguardano temi adiacenti (disfunzione sessuale d
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025462021 | JUMEX*25 cpr 10 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione valida) |
-| 032010011 | SELECOM*50 cpr 5 mg (Fulton Medicinali) | Compresse | Non disponibile (autorizzazione valida) |
-| 025462019 | JUMEX*50 cpr 5 mg (Chiesi Italia) | Compresse | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025462021 | JUMEX\*25 cpr 10 mg | CHIESI ITALIA SpA | Autorizzata |
+| 032010011 | SELECOM\*50 cpr 5 mg | FULTON MEDICINALI SpA | Autorizzata |
+| 025462019 | JUMEX\*50 cpr 5 mg | CHIESI ITALIA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -139,7 +145,7 @@ Il testo del foglio illustrativo AIFA con avvertenze e controindicazioni non è 
 
 <!-- review:begin it-lic-20261106-selegiline-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio, dato che tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio, dato che tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-selegiline-1 -->
 
@@ -151,7 +157,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0) |
 
 <!-- review:end log -->

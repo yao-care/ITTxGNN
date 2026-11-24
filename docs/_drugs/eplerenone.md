@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EPLERENONE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
 description: "Eplerenone: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
@@ -91,13 +91,26 @@ Per l'indicazione principale (rank 1) non è disponibile letteratura. Di seguito
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 037298092 | INSPRA 30 cpr rivestite 25 mg | Viatris Pharma Srl | Valida |
-| 037298217 | INSPRA 30 cpr rivestite 50 mg | Viatris Pharma Srl | Valida |
-| 043802014 | Eplerenone 30 cpr rivestite 25 mg | Tecnigen Srl | Valida |
-| 043626023 | Eplerenone 30 cpr rivestite 25 mg | Mylan SpA | Valida |
-| 046618043 | Eplerenone 30 cpr rivestite 25 mg | Krka d.d. Novo Mesto | Valida |
+|------|------|------|------|
+| 043802026 | EPLERENONE\*30 cpr rivestite 50 mg | TECNIGEN Srl | Autorizzata |
+| 043802014 | EPLERENONE\*30 cpr rivestite 25 mg | TECNIGEN Srl | Autorizzata |
+| 046618043 | EPLERENONE\*30 cpr rivestite 25 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 044092043 | EPLERENONE\*30 cpr rivestite 25 mg | DOC GENERICI Srl | Autorizzata |
+| 037298217 | INSPRA\*30x1 cpr rivestite 50 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 037298092 | INSPRA\*30x1 cpr rivestite 25 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 043722038 | EPLERENONE\*30 cpr rivestite 25 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 043626023 | EPLERENONE\*30 cpr rivestite 25 mg | MYLAN SpA | Autorizzata |
+| 046618183 | EPLERENONE\*30 cpr rivestite 50 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 043626062 | EPLERENONE\*30 cpr rivestite 50 mg | MYLAN SpA | Autorizzata |
+| 043722139 | EPLERENONE\*30 cpr rivestite 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044092120 | EPLERENONE\*30 cpr rivestite 50 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

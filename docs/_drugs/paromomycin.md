@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "paromomycin"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
 description: "Paromomycin: nuova indicazione prevista, Idiopathic copper-associated cirrhosis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -84,10 +84,16 @@ Nessuna di queste pubblicazioni supporta un uso della paromomicina nella periton
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 020177010 | KAMAN*16 cps 250 mg (I.B.N. Savio Srl) | Non indicata | Non disponibile (autorizzazione valida) |
-| 016531016 | HUMATIN*16 cps 250 mg (Pfizer Italia Srl) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 020177010 | KAMAN\*16 cps 250 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 016531016 | HUMATIN\*16 cps 250 mg | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -107,7 +113,7 @@ La predizione si basa solo sul modello (L5), senza studi clinici né letteratura
 
 <!-- review:begin it-lic-20261106-paromomycin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre in Italia le due autorizzazioni sono entrambe cancellate e i dati di sicurezza da etichetta mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre in Italia le due autorizzazioni sono entrambe cancellate e i dati di sicurezza da etichetta mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-paromomycin-1 -->
 
@@ -126,7 +132,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «noltre in Italia le due autorizzazioni sono entrambe cancellate e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «noltre in Italia le due autorizzazioni sono entrambe cancellate e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

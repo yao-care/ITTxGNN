@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Amoxicillin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non è disponibile letteratura correlata per questa previsione.
 
 ## Informazioni sul mercato italiano
 
-Nei dati locali risultano 20 autorizzazioni di medicinali monocomponente a base di amoxicillina; l'elenco potrebbe essere parziale. I dati sullo stato sono contraddittori (indicano sia autorizzazioni valide sia annullate), per cui non si può affermare con certezza quante siano effettivamente in commercio. Le principali:
+Nei dati locali risultano 20 autorizzazioni di medicinali monocomponente a base di amoxicillina; l'elenco potrebbe essere parziale. I dati sullo stato sono contraddittori (indicano sia autorizzazioni valide sia annullate), per cui non si può affermare con certezza quante siano effettivamente in commercio.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 023097102 | VELAMOX*12 cpr orodispers 1 g | Neopharmed Gentili SpA | Non registrata |
-| 033151034 | Amoxicillina*orale sosp polv 5 g/100 ml | Sandoz SpA | Non registrata |
-| 032892010 | Amoxicillina*12 cpr 1 g | Tecnigen Srl | Non registrata |
-| 023966106 | Amoxina*orale sosp 250 mg/5 ml 100 ml | Aesculapius Farmaceutici Srl | Non registrata |
-| 023966094 | Amoxina*12 cpr dispers 1 g | Aesculapius Farmaceutici Srl | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023097102 | VELAMOX\*12 cpr orodispers 1 g | NEOPHARMED GENTILI SpA | Autorizzata |
+| 033151034 | AMOXICILLINA\*orale sosp polv 5 g/100 ml | SANDOZ SpA | Autorizzata |
+| 032892010 | AMOXICILLINA\*12 cpr 1 g | TECNIGEN Srl | Autorizzata |
+| 023966106 | AMOXINA\*orale sosp 250 mg/5 ml 100 ml | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 023966094 | AMOXINA\*12 cpr dispers 1 g | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 044067027 | AMOXICILLINA\*12 cpr dispers 1.000 mg | MYLAN SpA | Autorizzata |
+| 039493034 | AMOXICILLINA\*12 cpr rivestite 1 g | HEXAL AG | Autorizzata |
+| 029487016 | AMOXICILLINA\*12 cpr 1 g | EG SpA | Autorizzata |
+| 049038033 | AMOXICILLINA\*12 cpr dispers 1.000 mg | HCS BV | Autorizzata |
+| 023097037 | VELAMOX\*orale sosp 100 ml 37,5 mg/ml | NEOPHARMED GENTILI SpA | Autorizzata |
+| 034981011 | SIEVERT\*12 cpr solub 1 g | TECNOPHARMA ITALIA Srl | Autorizzata |
+| 033290014 | AMOXICILLINA\*12 cpr 1 g | S.F. GROUP Srl | Autorizzata |
+| 033676014 | AMOXICILLINA\*12 cpr 1 g | PHARMACARE Srl | Autorizzata |
+| 023108184 | AMOXICILLINA\*12 cpr 1 g | DOC GENERICI Srl | Autorizzata |
+| 035223015 | AMOXICILLINA\*12 cpr solub 1 g | ABC FARMACEUTICI SpA | Autorizzata |
+| 045674090 | AMOXICILLINA\*12 cpr dispers 1.000 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044209068 | AMOXICILLINA\*orale sosp polv 250 mg/5 ml 100 ml con bicchiere dosatore | ZENTIVA ITALIA Srl | Autorizzata |
+| 045674025 | AMOXICILLINA\*12 cpr dispers 500 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 046905028 | AMOXICILLINA\*12 cpr dispers 1.000 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 032918029 | AMOXICILLINA\*12 cpr 1 g | ARISTO PHARMA GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

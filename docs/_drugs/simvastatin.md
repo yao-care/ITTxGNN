@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: nuova indicazione prevista, Brain stem infarction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -94,7 +94,7 @@ Solo due studi (ENHANCE e NCT00129402) hanno la simvastatina come parte centrale
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
 <!-- review:begin it-lic-20261106-simvastatin-1 -->
 
@@ -102,13 +102,35 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati n
 
 <!-- review:end it-lic-20261106-simvastatin-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037398118 | Simvastatina compresse rivestite 40 mg (Mylan) | Compresse rivestite | Non disponibile |
-| 037134261 | Simvastatina compresse rivestite 20 mg (Sun Pharmaceutical) | Compresse rivestite | Non disponibile |
-| 038559023 | Sinvalip compresse rivestite 20 mg (Genetic) | Compresse rivestite | Non disponibile |
-| 037364054 | Omistat compresse rivestite 40 mg (Agips Farmaceutici) | Compresse rivestite | Non disponibile |
-| 037593175 | Simvastatina compresse rivestite 20 mg (Zentiva Italia) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037398118 | SIMVASTATINA\*28 cpr rivestite 40 mg | MYLAN SpA | Autorizzata |
+| 037134261 | SIMVASTATINA\*28 cpr rivestite 20 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 038559023 | SINVALIP\*28 cpr rivestite 20 mg | GENETIC SpA | Autorizzata |
+| 037364054 | OMISTAT\*28 cpr rivestite 40 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 037593175 | SIMVASTATINA\*28 cpr rivestite 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037412158 | SIMVASTATINA\*28 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 037367051 | SIMVASTATINA\*28 cpr rivestite 40 mg | LABORATORI ALTER Srl | Autorizzata |
+| 027208103 | SIVASTIN\*28 cpr rivestite 20 mg | ALFASIGMA SpA | Autorizzata |
+| 037213079 | SIMVASTATINA\*28 cpr rivestite 10 mg | SANDOZ SpA | Autorizzata |
+| 037331028 | SIMBATRIX\*28 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 037134362 | SIMVASTATINA\*28 cpr rivestite 40 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 038560025 | VASTGEN\*28 cpr rivestite 20 mg | GENETIC SpA | Autorizzata |
+| 048382016 | SIMVASTATINA\*28 cpr rivestite div 40 mg | FARMED Srl | Autorizzata |
+| 028370106 | MEDIPO\*28 cpr rivestite 20 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 028370043 | MEDIPO\*10 cpr rivestite 40 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 038561039 | SIMVASTATINA\*28 cpr rivestite 40 mg | TECNIGEN Srl | Autorizzata |
+| 037326028 | SINCOL\*28 cpr rivestite 20 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 037364039 | OMISTAT\*28 cpr rivestite 20 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 037708144 | SIMVASTATINA\*28 cpr rivestite 20 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 037317029 | SINVAT\*28 cpr rivestite 20 mg | EPIFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

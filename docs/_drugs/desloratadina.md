@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00967
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desloratadina: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)"
 ---
 
@@ -74,15 +74,30 @@ Al momento non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 035201096 | AERIUS 20 cpr rivestite 5 mg | Compresse rivestite | ORGANON N.V. |
-| 051189013 | AERIUS 20 cpr rivestite 5 mg | Compresse rivestite | DIFARMED S.L.U. |
-| 043766017 | AERIUS 20 cpr rivestite 5 mg | Compresse rivestite | PRICETAG SpA |
-| 042376044 | DESLORATADINA 20 cpr rivestite 5 mg | Compresse rivestite | TOWA PHARMACEUTICAL SpA |
-| 040855037 | EFESTAD 20 cpr rivestite 5 mg | Compresse rivestite | EG SpA |
+<!-- licenses:begin -->
 
-Elenco parziale: sono mostrate 5 delle 16 autorizzazioni, tutte valide.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035201096 | AERIUS\*20 cpr rivestite 5 mg | ORGANON N.V. | Autorizzata |
+| 051189013 | AERIUS\*20 cpr rivestite 5 mg | DIFARMED S.L.U. | Autorizzata |
+| 043766017 | AERIUS\*20 cpr rivestite 5 mg | PRICETAG SpA | Autorizzata |
+| 042376044 | DESLORATADINA\*20 cpr rivestite 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040855037 | EFESTAD\*20 cpr rivestite 5 mg | EG SpA | Autorizzata |
+| 049800016 | AERIUS\*20 cpr rivestite 5 mg | FARMA 1000 Srl | Autorizzata |
+| 045156015 | DESLORATADINA\*20 cpr rivestite 5mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040722098 | DESLORATADINA\*20 cpr rivestite 5 mg | SANDOZ SpA | Autorizzata |
+| 040872044 | DESLORATADINA\*20 cpr rivestite 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041081074 | DESLORATADINA\*20 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 040983025 | AREMAS\*20 cpr rivestite 5 mg | S.F. GROUP Srl | Autorizzata |
+| 041621044 | DESLORATADINA\*20 cpr rivestite 5 mg | TEVA B.V. | Autorizzata |
+| 041725033 | DASSELTA\*20 cpr rivestite 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040718037 | DESLORATADINA\*20 cpr rivestite 5 mg | DOC GENERICI Srl | Autorizzata |
+| 040810071 | DESLORATADINA\*20 cpr orodispers 5 mg | MYLAN SpA | Autorizzata |
+| 040733040 | DESLORATADINA\*20 cpr rivestite 5 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

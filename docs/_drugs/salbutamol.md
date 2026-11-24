@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: nuova indicazione prevista, Congiuntivite papillare (papillary conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 18 (autorizzate: 17)"
@@ -68,21 +68,41 @@ Al momento non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il salbutamolo risulta commercializzato in Italia, con 17 autorizzazioni valide su 18. Le principali sono riportate di seguito; il testo dell'indicazione approvata non è registrato nei dati locali.
+Il salbutamolo risulta commercializzato in Italia; accanto alle autorizzazioni valide figurano anche confezioni uscite dall'elenco AIFA delle confezioni autorizzate (vedi la tabella delle autorizzazioni). Le principali sono riportate di seguito; il testo dell'indicazione approvata non è registrato nei dati locali.
 
 <!-- review:begin it-lic-20261117-salbutamol-1 -->
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «Il salbutamolo risulta commercializzato in Italia, con 18 autorizzazioni valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il salbutamolo risulta commercializzato in Italia, con 18 autorizzazioni valide.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
 
 <!-- review:end it-lic-20261117-salbutamol-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 022984052 | VENTOLIN sospensione inalatoria 200 erogazioni 100 mcg | GlaxoSmithKline SpA | Valida |
-| 022991158 | BRONCOVALEAS sospensione inalatoria 200 erogazioni 100 mcg | Neopharmed Gentili SpA | Valida |
-| 022991057 | BRONCOVALEAS soluzione per nebulizzatore 15 ml 0,5% | Neopharmed Gentili SpA | Valida |
-| 039221015 | SALBUTAMOLO sospensione inalatoria 200 erogazioni 100 mcg | Sandoz SpA | Non più autorizzata |
-| 044646014 | BUTAPRAL soluzione per nebulizzatore 30 monodosi 2,5 ml (0,5 mg + 2,5 mg) | Genetic SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022984052 | VENTOLIN\*sosp inal 200 erog 100 mcg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 022991158 | BRONCOVALEAS\*sosp inal 200 erog 100 mcg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 022991057 | BRONCOVALEAS\*soluz nebul 15 ml 0,5% | NEOPHARMED GENTILI SpA | Autorizzata |
+| 044646014 | BUTAPRAL\*soluz nebul 30 monodosi 2,5 ml 0,5 mg + 2,5 mg | GENETIC SpA | Autorizzata |
+| 023440062 | CLENIL COMPOSITUM\*sosp inal 200 erog jet 250 mcg + 100 mcg | PROMEDICA Srl | Autorizzata |
+| 036739011 | ALMEIDA\*nebul soluz 15 ml 0,375% + 0,075% | I.B.N. SAVIO Srl | Autorizzata |
+| 023440098 | CLENIL COMPOSITUM\*sosp inal 200 erogazioni 250 mcg + 100 mcg | PROMEDICA Srl | Autorizzata |
+| 024154066 | BREVA\*nebul soluz 15 ml 0,375% + 0,075% | NEOPHARMED GENTILI SpA | Autorizzata |
+| 036739023 | ALMEIDA\*nebul soluz 30 monodosi 0,5 ml 1,875 mg/0,5 ml + 0,375 mg/ml | I.B.N. SAVIO Srl | Autorizzata |
+| 036738021 | BIWIND\*nebul 30 monodosi 0,5 ml 1,875 mg/0,5 ml + 0,375 mg/0,5 ml | NEOPHARMED GENTILI SpA | Autorizzata |
+| 036737029 | NAOS\*nebul 30 monodosi 0,5 ml 1,875 mg/0,5 ml + 0,375 mg/0,5 ml | NEOPHARMED GENTILI SpA | Autorizzata |
+| 023440086 | CLENIL COMPOSITUM\*sosp nebul 20 fiale 0,8 mg + 1,6 mg 2 ml | PROMEDICA Srl | Autorizzata |
+| 036737017 | NAOS\*nebul soluz 15 ml 375 mg/100 ml + 75 mg/100 ml | NEOPHARMED GENTILI SpA | Autorizzata |
+| 044647016 | MENYELES\*soluz nebul 30 monodosi 2,5 ml 0,5 mg + 2,5 mg | GENETIC SpA | Autorizzata |
+| 039524018 | INASAL\*nebul soluz 15 ml 375 mg/100 ml + 75 mg/100 ml | KONPHARMA Srl | Autorizzata |
+| 039523016 | SALBUTAMOLO IPRATROPIO BROMURO\*nebul soluz 15 ml 3,75 mg/ml + 0,75 mg/ml | EG SpA | Autorizzata |
+| 039303019 | SOSARIA\*nebul soluz 15 ml 3,75 mg/ml + 0,75 mg/ml | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 039221015 | SALBUTAMOLO\*sosp inal 200 erog 100 mcg | SANDOZ SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -112,7 +132,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-17 | «18 autorizzazioni valide» → 17 valide su 18 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-24 | «18 autorizzazioni valide» → 17 valide su 18 | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->

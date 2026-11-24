@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "BEXAROTENE"
 predicted_indications: ["primary cutaneous B-cell lymphoma", "lymphosarcoma"]
 description: "Bexarotene: nuova indicazione prevista, Linfoma cutaneo primario a cellule B (primary cutaneous B-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -81,10 +81,16 @@ Nessuna di queste pubblicazioni valuta direttamente bexarotene nel linfoma cutan
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035710019 | TARGRETIN 100 capsule molli 75 mg, flacone (H.A.C. Pharma) | Capsule molli | Non riportata (autorizzazione valida) |
-| 048410017 | BEXAROTENE 100 capsule molli 75 mg, flacone (Cipla Europe NV) | Capsule molli | Non riportata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035710019 | TARGRETIN\*100 cps molli 75 mg flacone | H.A.C.PHARMA | Autorizzata |
+| 048410017 | BEXAROTENE\*100 cps molli 75 mg flacone | CIPLA EUROPE NV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

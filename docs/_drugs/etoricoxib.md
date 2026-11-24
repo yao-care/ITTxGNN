@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoricoxib: nuova indicazione prevista, Emicrania (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati AIFA compilati"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -92,7 +92,7 @@ Per indicazioni correlate (cefalee e altre forme):
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si elencano le prime 5:
+Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 <!-- review:begin it-lic-20261106-etoricoxib-1 -->
 
@@ -100,13 +100,35 @@ Il testo delle indicazioni approvate non è disponibile nei dati compilati. Si e
 
 <!-- review:end it-lic-20261106-etoricoxib-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043747068 | Etoricoxib 60 mg, 20 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
-| 043004252 | Etoricoxib 90 mg, 20 cpr rivestite (Sandoz) | Compresse rivestite | Non disponibile |
-| 035821204 | Algix 90 mg, 20 cpr rivestite (Neopharmed Gentili) | Compresse rivestite | Non disponibile |
-| 044969020 | Etoricoxib 90 mg, 20 cpr rivestite (Tecnigen) | Compresse rivestite | Non disponibile |
-| 043004151 | Etoricoxib 60 mg, 20 cpr rivestite (Sandoz) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043747068 | ETORICOXIB\*20 cpr rivestite 60 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 043004252 | ETORICOXIB\*20 cpr rivestite 90 mg | SANDOZ SpA | Autorizzata |
+| 035821204 | ALGIX\*20 cpr rivestite 90 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 044969020 | ETORICOXIB\*20 cpr rivestite 90 mg | TECNIGEN Srl | Autorizzata |
+| 043004151 | ETORICOXIB\*20 cpr rivestite 60 mg | SANDOZ SpA | Autorizzata |
+| 044451250 | ETORICOXIB\*5 cpr rivestite 120 mg | EG SpA | Autorizzata |
+| 044821039 | ETORICOXIB\*20 cpr rivestite 60 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043684164 | ETORICOXIB\*20 cpr rivestite 90 mg | TEVA ITALIA Srl | Autorizzata |
+| 044969032 | ETORICOXIB\*5 cpr rivestite 120 mg | TECNIGEN Srl | Autorizzata |
+| 043546086 | ETORICOXIB\*20 cpr rivestite 90 mg | MYLAN SpA | Autorizzata |
+| 043688011 | ETORICOXIB\*20 cpr rivestite 60 mg | DOC GENERICI Srl | Autorizzata |
+| 035821065 | ALGIX\*20 cpr rivestite 60 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 045220050 | ETORICOXIB\*20x1 cpr rivestite 90 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 043546112 | ETORICOXIB\*5 cpr rivestite 120 mg | MYLAN SpA | Autorizzata |
+| 043688023 | ETORICOXIB\*20 cpr rivestite 90 mg | DOC GENERICI Srl | Autorizzata |
+| 044451084 | ETORICOXIB\*20 cpr rivestite 60 mg | EG SpA | Autorizzata |
+| 043747120 | ETORICOXIB\*20 cpr rivestite 90 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 044969018 | ETORICOXIB\*20 cpr rivestite 60 mg | TECNIGEN Srl | Autorizzata |
+| 049864236 | QUANTICO\*20 cpr rivestite 60 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 044821066 | ETORICOXIB\*20 cpr rivestite 90 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALIROCUMAB"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Alirocumab: nuova indicazione prevista, Ittiosi legata all'X senza deficit di steroide solfatasi (ichthyosis, X-linked, without steroid sulfatase deficiency) (livello di evidenza L5). Indicazione ori…"
 ---
 
@@ -68,13 +68,19 @@ Attualmente non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044500027 | PRALUENT*2 penne preriempite SC 1 ml 75 mg | Penna preriempita | Non registrata |
-| 044500078 | PRALUENT*1 penna preriempita SC 1 ml 150 mg | Penna preriempita | Non registrata |
-| 044500015 | PRALUENT*1 penna preriempita SC 1 ml 75 mg | Penna preriempita | Non registrata |
-| 044500080 | PRALUENT*2 penne preriempite SC 150 mg 1 ml | Penna preriempita | Non registrata |
-| 044500193 | PRALUENT*1 penna preriempita SC 2 ml 300 mg 150 mg/ml | Penna preriempita | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044500027 | PRALUENT\*2 penne preriempite SC 1 ml 75 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 044500078 | PRALUENT\*1 penna preriempita SC 1 ml 150 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 044500015 | PRALUENT\*1 penna preriempita SC 1 ml 75 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 044500080 | PRALUENT\*2 penne preriempite SC 150 mg 1 ml | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 044500193 | PRALUENT\*1 penna preriempita SC 2 ml 300 mg 150 mg/ml | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Sanofi Winthrop Industrie.
 

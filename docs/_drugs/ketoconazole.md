@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 248
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazole: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Micosi cutanee e sistemiche (tinea pedis, tinea corporis…"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
@@ -93,9 +93,15 @@ Nota: le altre pubblicazioni recuperate (ad es. PCOS, sindrome di Cushing, adapa
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043781018 | KETOCONAZOLE*60 cpr 200 mg (Esteve Pharmaceuticals SA) | Compresse (200 mg) | Non disponibile; autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043781018 | KETOCONAZOLE\*60 cpr 200 mg | ESTEVE PHARMACEUTICALS SA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +124,7 @@ La predizione si basa su un punteggio computazionale elevato e su un solo piccol
 
 <!-- review:begin it-lic-20261106-ketoconazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'unica autorizzazione italiana è cancellata e le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'unica autorizzazione italiana è cancellata e le informazioni di sicurezza ufficiali mancano, perciò non si può procedere oltre la fase di domanda di ricerca.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ketoconazole-1 -->
 
@@ -137,7 +143,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «'unica autorizzazione italiana è cancellata e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «'unica autorizzazione italiana è cancellata e l» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->

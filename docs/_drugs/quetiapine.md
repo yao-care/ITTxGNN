@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
 description: "Quetiapine: nuova indicazione prevista, Distrofia retinica con o senza anomalie extraoculari (retinal dystrophy with or without extraocular anomalies) (livello di evidenza L5)."
@@ -70,13 +70,36 @@ Attualmente non è disponibile letteratura correlata.
 
 Secondo i dati locali, il farmaco risulta commercializzato in Italia, con 20 autorizzazioni valide. L'elenco seguente può essere parziale; non è riportato il testo dell'indicazione approvata.
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 032944151 | SEROQUEL 60 cpr 400 mg rilascio prolungato | Cheplapharm Arzneimittel GmbH | Valida |
-| 041195823 | QUENTIAX 60 cpr 400 mg rilascio prolungato | KRKA d.d. Novo Mesto | Valida |
-| 042175024 | QUETAMED 30 cpr rivestite 25 mg | Fairmed Healthcare GmbH | Non più autorizzata |
-| 046412110 | XETAMED 30 cpr rivestite 25 mg | Neuraxpharm Italy SpA | Valida |
-| 040510683 | QUETIAPINA 60 cpr rivestite 200 mg | Teva Italia Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045989023 | QUETIAPINA\*30 cpr rivestite 25 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040968063 | QUETIAPINA\*60 cpr rivestite 100 mg | SANDOZ GMBH | Autorizzata |
+| 043696083 | QUETIAPINA\*60 cpr 50 mg rilascio prolungato | EG SpA | Autorizzata |
+| 043695295 | QUETIAPINA\*60 cpr 400 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 040433474 | QUETIAPINA\*60 cpr 150 mg rilascio prolungatO | TEVA ITALIA Srl | Autorizzata |
+| 041024035 | QUETIAPINA\*60 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 032944151 | SEROQUEL\*60 cpr 400 mg rilascio prolungato | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 043057088 | QUETIAPINA\*60 cpr 200 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 043695170 | QUETIAPINA\*60 cpr 200 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 040433221 | QUETIAPINA\*60 cpr 300 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 041195823 | QUENTIAX\*60 cpr 400 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 043695232 | QUETIAPINA\*60 cpr 300 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 040402051 | QUETIAPINA\*30 cpr rivestite 25 mg | SANDOZ SpA | Autorizzata |
+| 043696160 | QUETIAPINA\*60 cpr 150 mg rilascio prolungato | EG SpA | Autorizzata |
+| 040510683 | QUETIAPINA\*60 cpr rivestite 200 mg | TEVA ITALIA Srl | Autorizzata |
+| 041503386 | QUETIAPINA\*60 cpr rivestite 200 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040510986 | QUETIAPINA\*60 cpr rivestite 300 mg | TEVA ITALIA Srl | Autorizzata |
+| 046412110 | XETAMED\*30 cpr rivestite 25 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 050577016 | QUETIAPINA\*60 cpr rivestite 50 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 042175024 | QUETAMED\*30 cpr rivestite 25 mg | FAIRMED HEALTHCARE GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

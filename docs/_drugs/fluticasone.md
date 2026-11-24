@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUTICASONE"
 drugbank_id: DB13867
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
@@ -88,15 +88,36 @@ Al momento non risulta alcuno studio clinico registrato correlato.
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Di seguito le prime 5 autorizzazioni (la forma è desunta dal nome del prodotto).
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029014014 | FLIXODERM crema derm 30 g 0,5 mg/g (GlaxoSmithKline) | Crema dermatologica | Non disponibile |
-| 028667020 | FLIXOTIDE 50 sospensione inalatoria 120 erogazioni 50 mcg (GlaxoSmithKline) | Sospensione per inalazione | Non disponibile |
-| 043082015 | FLUTICASONE sospensione inalatoria 120 erogazioni 125 mcg (DOC Generici) | Sospensione per inalazione | Non disponibile |
-| 028675104 | FLUSPIRAL sospensione inalatoria 120 dosi 50 mcg (A. Menarini) | Sospensione per inalazione | Non disponibile |
-| 028675270 | FLUSPIRAL DISKUS polvere inalatoria 60 dosi 250 mcg (A. Menarini) | Polvere per inalazione | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029014014 | FLIXODERM\*crema derm 30 g 0,5 mg/g | GLAXOSMITHKLINE SpA | Autorizzata |
+| 028667020 | FLIXOTIDE 50\*sosp inal 120 erog 50 mcg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 043082015 | FLUTICASONE\*sosp inal 120 erog 125 mcg | DOC GENERICI Srl | Autorizzata |
+| 028675104 | FLUSPIRAL\*sosp inal 120 dosi 50 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 028675270 | FLUSPIRAL\*DISKUS polv inal 60 dosi 250 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 028667208 | FLIXOTIDE 500\*60 dosi 500 mcg polv inal | GLAXOSMITHKLINE SpA | Autorizzata |
+| 028675181 | FLUSPIRAL\*sosp inal 120 dosi 250 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 028667107 | FLIXOTIDE 250\*sosp inal 120 erog 250 mcg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 029014038 | FLIXODERM\*ung derm 30 g 0,05 mg/g | GLAXOSMITHKLINE SpA | Autorizzata |
+| 043088020 | FLUGENIX\*sosp nebul 20 contenitori monod 2 ml 500 mcg/2 ml | GENETIC SpA | Autorizzata |
+| 043084021 | PAVETOD\*sosp nebul 20 contenitori monod 500 mcg 2 ml | GENETIC SpA | Autorizzata |
+| 043082027 | FLUTICASONE\*sosp inal 120 erog 250 mcg | DOC GENERICI Srl | Autorizzata |
+| 028675179 | FLUSPIRAL\*sosp inal 120 dosi 125 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 028675282 | FLUSPIRAL\*DISKUS polv inal 60 dosi 500 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 028667095 | FLIXOTIDE 125\*sosp inal 120 erog 125 mcg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 028675268 | FLUSPIRAL\*DISKUS polv inal 60 dosi 100 mcg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 043084045 | PAVETOD\*sosp nebul 20 contenitori monod 2 mg 2 ml | GENETIC SpA | Autorizzata |
+| 039738012 | FLUTICREM\*crema derm 30 g 0,05% | DIFA COOPER SpA | Autorizzata |
+| 028667184 | FLIXOTIDE 250\*polv inal 60 dosi 250 mcg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 043088044 | FLUGENIX\*sosp nebul 20 contenitori monod 2 ml 2 mg/2 ml | GENETIC SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +141,7 @@ La previsione si basa quasi esclusivamente sul punteggio del modello TxGNN. Non 
 
 <!-- review:begin it-lic-20261106-fluticasone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Non ci sono studi clinici, l'unica pubblicazione riguarda eventi avversi e non efficacia, il meccanismo non è dimostrato e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 20 autorizzazioni per questo farmaco, di cui 20 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Non ci sono studi clinici, l'unica pubblicazione riguarda eventi avversi e non efficacia, il meccanismo non è dimostrato e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fluticasone-1 -->
 
@@ -139,7 +160,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2) |
 
 <!-- review:end log -->

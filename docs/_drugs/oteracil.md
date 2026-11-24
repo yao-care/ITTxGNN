@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "oteracil"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 description: "Oteracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -99,7 +99,7 @@ La letteratura è composta quasi esclusivamente da casi clinici e da uno studio 
 
 <!-- review:begin it-lic-20261106-oteracil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oteracil-1 -->
 
@@ -107,10 +107,16 @@ La letteratura è composta quasi esclusivamente da casi clinici e da uno studio 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
-| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042291017 | TEYSUNO\*42 cps 15 mg + 4,35 mg + 11,8 mg | NORDIC GROUP BV | Autorizzata |
+| 042291031 | TEYSUNO\*42 cps 20 mg + 5,8 mg + 15,8 mg | NORDIC GROUP BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -145,7 +151,7 @@ Esiste un ampio studio di fase 3 completato (NCT00660894, n=1535) e un secondo s
 
 <!-- review:begin it-lic-20261106-oteracil-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità. Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tuttavia, l'efficacia è attribuibile al tegafur: oteracil ha solo funzione protettiva sulla tollerabilità. Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo screening di sicurezza).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oteracil-2 -->
 
@@ -165,8 +171,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo scree» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni risultano cancellate: attualmente non vi sono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, le autorizzazioni italiane sono tutte cancellate, e mancano i dati su avvertenze e controindicazioni (lacuna bloccante per lo scree» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

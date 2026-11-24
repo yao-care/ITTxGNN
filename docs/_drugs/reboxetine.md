@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Reboxetine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (livello di evidenza L5). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "Reboxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
@@ -100,10 +100,16 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 033632011 | EDRONAX*20 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
-| 033632023 | EDRONAX*60 cpr 4 mg (Pfizer Italia Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 033632011 | EDRONAX\*20 cpr 4 mg | PFIZER ITALIA Srl | Autorizzata |
+| 033632023 | EDRONAX\*60 cpr 4 mg | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +131,7 @@ Per le altre informazioni di sicurezza (avvertenze, controindicazioni) si rimand
 
 <!-- review:begin it-lic-20261106-reboxetine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea. Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per l'agorafobia l'evidenza è indiretta (riferita al disturbo di panico), basata su studi piccoli o in aperto, senza studi clinici registrati; la reboxetina non rientra tra le opzioni di prima linea. Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-reboxetine-1 -->
 
@@ -133,7 +139,13 @@ Per le altre informazioni di sicurezza (avvertenze, controindicazioni) si rimand
 - Recupero del foglio illustrativo AIFA (avvertenze e controindicazioni), attualmente un blocco per lo screening di sicurezza
 - Dati sul meccanismo d'azione da DrugBank
 - Studi controllati specifici sull'agorafobia o sul disturbo di panico con agorafobia
-- Chiarimento sulle ragioni della revoca delle autorizzazioni e sulla fattibilità regolatoria di una eventuale riautorizzazione
+- Chiarimento sulla fattibilità regolatoria
+
+<!-- review:begin it-lic-20261124-reboxetine-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento sulle ragioni della revoca delle autorizzazioni e sulla fattibilità regolatoria di una eventuale riautorizzazione» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-reboxetine-1 -->
 
 <!-- review:begin log -->
 
@@ -143,8 +155,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia le autorizzazioni risultano solo revocate, il che limita lo sviluppo pratico» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

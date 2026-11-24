@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Zonisamide: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L5). Indicazione originale: Epilessia (crisi parziali)"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -93,13 +93,23 @@ Il modello ha prodotto altre previsioni con punteggi simili. Nessuna ha evidenza
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Titolare |
-|---------|------|------|-----------|-----------|
-| 036959017 | ZONEGRAN 14 cps 25 mg | Capsule | Valida | AMDIPHARM LTD |
-| 036959094 | ZONEGRAN 28 cps 50 mg | Capsule | Valida | AMDIPHARM LTD |
-| 036959043 | ZONEGRAN 56 cps 100 mg | Capsule | Valida | AMDIPHARM LTD |
-| 044231013 | ZONISAMIDE 14 cps 25 mg | Capsule | Valida | DOC GENERICI Srl |
-| 044836070 | ZONISAMIDE 28 cps 50 mg | Capsule | Valida | VIATRIS LIMITED |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036959017 | ZONEGRAN\*14 cps 25 mg | AMDIPHARM LTD | Autorizzata |
+| 044231013 | ZONISAMIDE\*14 cps 25 mg | DOC GENERICI Srl | Autorizzata |
+| 044231037 | ZONISAMIDE\*56 cps 100 mg | DOC GENERICI Srl | Autorizzata |
+| 044836070 | ZONISAMIDE\*28 cps 50 mg | VIATRIS LIMITED | Autorizzata |
+| 044231025 | ZONISAMIDE\*28 cps 50 mg | DOC GENERICI Srl | Autorizzata |
+| 044836106 | ZONISAMIDE\*56 cps 100 mg | VIATRIS LIMITED | Autorizzata |
+| 036959094 | ZONEGRAN\*28 cps 50 mg | AMDIPHARM LTD | Autorizzata |
+| 044836017 | ZONISAMIDE\*14 cps 25 mg | VIATRIS LIMITED | Autorizzata |
+| 036959043 | ZONEGRAN\*56 cps 100 mg | AMDIPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 

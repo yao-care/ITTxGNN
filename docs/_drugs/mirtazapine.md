@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 304
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). In Italia, confezioni AIFA: 17 (autorizzate: 17)"
@@ -73,15 +73,33 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco è in commercio: tutte le 17 autorizzazioni risultano valide (17 su 17). Di seguito le principali 5 (il testo dell'indicazione approvata non è disponibile).
+Il farmaco è in commercio: tutte le 17 autorizzazioni risultano valide (17 su 17).
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 037988211 | MIRTAZAPINA 30 cpr orosolubili 30 mg | ALMUS Srl | Valida |
-| 038514030 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | TEVA ITALIA Srl | Valida |
-| 037885249 | MIRTAZAPINA 30 cpr orodispersibili 30 mg | SANDOZ GMBH | Valida |
-| 050628015 | ZAPIN 30 cpr rivestite 30 mg | ECUPHARMA Srl | Valida |
-| 029444181 | REMERON 30 cpr orodispersibili 30 mg | ORGANON ITALIA Srl | Valida |
+|------|------|------|------|
+| 037988211 | MIRTAZAPINA\*30 cpr orosol 30 mg | ALMUS Srl | Autorizzata |
+| 038514030 | MIRTAZAPINA\*30 cpr orodisp 30 mg | TEVA ITALIA Srl | Autorizzata |
+| 037885249 | MIRTAZAPINA\*30 cpr orodispers 30 mg | SANDOZ GMBH | Autorizzata |
+| 050628015 | ZAPIN\*30 cpr rivestite 30 mg | ECUPHARMA Srl | Autorizzata |
+| 037094125 | MIRTAZAPINA\*30 cpr rivestite div 30 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 038546038 | MIRTAZAPINA\*30 cpr rivestite 30 mg | DOC GENERICI Srl | Autorizzata |
+| 038701090 | MIRTAZAPINA\*30 cpr orodispers 30 mg | DOC GENERICI Srl | Autorizzata |
+| 036621050 | MIRTAZAPINA\*30 cpr rivestite 30 mg | MYLAN SpA | Autorizzata |
+| 043380068 | MIRTAZAPINA\*30 cpr rivestite 30 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 051142026 | MIRTAZAPINA\*30 cpr rivestite 30 mg | SANDOZ B.V. | Autorizzata |
+| 036854014 | MIRTAZAPINA\*30 cpr rivestite 30 mg | LABORATORI ALTER Srl | Autorizzata |
+| 038014128 | MIRTAZAPINA\*30 cpr orodispers 30 mg | MYLAN SpA | Autorizzata |
+| 038103141 | MIRTAZAPINA\*30 cpr orodispers 30 mg | EG SpA | Autorizzata |
+| 029444181 | REMERON\*30 cpr orodispers 30 mg | ORGANON ITALIA Srl | Autorizzata |
+| 036555050 | MIRTAZAPINA\*30 cpr rivestite 30 mg | EG SpA | Autorizzata |
+| 036555023 | MIRTAZAPINA\*14 cpr rivestite 30 mg | EG SpA | Autorizzata |
+| 039836010 | MIRTAZAPINA\*30 cpr orodispers 30 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -104,7 +122,7 @@ La predizione si basa solo sul modello (livello L5), senza studi clinici né let
 
 <!-- review:begin it-lic-20261031-mirtazapine-1 -->
 
-> **Correzione di verifica (2026-10-31)**: Testo originale: «La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 17 autorizzazioni per questo farmaco, di cui 17 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa solo sul modello (livello L5), senza studi clinici né letteratura e senza un legame meccanicistico plausibile. A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-10-31). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261031-mirtazapine-1 -->
 
@@ -117,7 +135,7 @@ La predizione si basa solo sul modello (livello L5), senza studi clinici né let
 
 <!-- review:begin it-lic-20261106-mirtazapine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione dell'accesso al farmaco, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 17 autorizzazioni per questo farmaco, di cui 17 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione dell'accesso al farmaco, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mirtazapine-2 -->
 
@@ -129,8 +147,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-10-31 | Rimosso: «A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «A ciò si aggiungono lo stato di mercato "solo autorizzazioni revocate" e le preoccupazioni di sicurezza, soprattutto in ambito pediatrico» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
 
 <!-- review:end log -->

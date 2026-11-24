@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Clarithromycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -74,15 +74,36 @@ Nessuno degli studi citati indaga direttamente l'iperamilasemia come bersaglio t
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038887028 | CLARITROL 14 cpr rivestite 500 mg | Non indicata | Non registrata nei dati locali |
-| 027530056 | MACLADIN 12 cpr rivestite 250 mg | Non indicata | Non registrata nei dati locali |
-| 038889022 | KRUKLAR 14 cpr rivestite 500 mg | Non indicata | Non registrata nei dati locali |
-| 037559212 | CLARITROMICINA 14 cpr rivestite 500 mg (Teva Italia) | Non indicata | Non registrata nei dati locali |
-| 037720036 | CLARITROMICINA 12 cpr rivestite 250 mg (Sandoz) | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco è parziale: i dati locali contengono altre autorizzazioni non riportate qui.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038887028 | CLARITROL\*14 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 027530056 | MACLADIN\*12 cpr rivestite 250 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 038889022 | KRUKLAR\*14 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 037559212 | CLARITROMICINA\*14 cpr rivestite 500 mg | TEVA ITALIA Srl | Autorizzata |
+| 037720036 | CLARITROMICINA\*12 cpr rivestite 250 mg | SANDOZ SpA | Autorizzata |
+| 027529130 | VECLAM RM\*7 cpr rivestite 500 mg rilascio modificato | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 027529116 | VECLAM\*14 cpr rivestite 500 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 041557099 | CLARITROMICINA\*orale grat 100 ml 50 mg/ml flacone | SANDOZ GMBH | Autorizzata |
+| 027530118 | MACLADIN\*14 cpr rivestite 500 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 038658023 | CLAMODIN\*14 cpr rivestite 500 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041557051 | CLARITROMICINA\*orale granulato 100 ml 25 mg/ml flacone | SANDOZ GMBH | Autorizzata |
+| 037586144 | CLARITROMICINA\*14 cpr rivestite 500 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 044759088 | CLARITROMICINA\*14 cpr rivestite 500 mg | HCS BV | Autorizzata |
+| 037374257 | CLARITROMICINA\*14 cpr rivestite 500 mg | EG SpA | Autorizzata |
+| 044779027 | CLARITROMICINA\*12 cpr rivestite 250 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 027530068 | MACLADIN\*BB orale grat 100 ml 125 mg/5 ml flacone | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 037559085 | CLARITROMICINA\*12 cpr rivestite 250 mg | TEVA ITALIA Srl | Autorizzata |
+| 038728022 | CLARMAC\*14 cpr rivestite 500 mg | EPIFARMA Srl | Autorizzata |
+| 037833151 | CLARITROMICINA\*14 cpr rivestite 500 mg | SANDOZ SpA | Autorizzata |
+| 041395029 | CLARITROMICINA\*7 cpr rivestite 500 mg rilascio prolungato | EG SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

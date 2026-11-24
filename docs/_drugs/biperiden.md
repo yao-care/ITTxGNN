@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Biperiden: nuova indicazione prevista, Encefalite subacuta di Rasmussen (Rasmussen subacute encephalitis) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
@@ -68,11 +68,17 @@ Al momento non è disponibile letteratura correlata per l'encefalite subacuta di
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 028330037 | AKINETON*50 cpr 4 mg rilascio prolungato | Non indicata | Non registrata nei dati locali |
-| 028330013 | AKINETON*60 cpr 2 mg | Non indicata | Non registrata nei dati locali |
-| 016479040 | AKINETON*5 fiale IM EV 5 mg 1 ml | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 028330037 | AKINETON\*50 cpr 4 mg rilascio prolungato | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 028330013 | AKINETON\*60 cpr 2 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 016479040 | AKINETON\*5 fiale IM EV 5 mg 1 ml | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

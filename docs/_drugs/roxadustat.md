@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 391
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ROXADUSTAT"
 predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma"]
 description: "Roxadustat: nuova indicazione prevista, Sindrome dell'occhio secco (dry eye syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
@@ -70,19 +70,25 @@ Al momento non risulta letteratura correlata.
 
 <!-- review:begin it-lic-20261106-roxadustat-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul mercato italiano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul mercato italiano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-roxadustat-1 -->
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049685050 | EVRENZO 12 compresse rivestite 150 mg | Compressa rivestita | Non disponibile |
-| 049685047 | EVRENZO 12 compresse rivestite 100 mg | Compressa rivestita | Non disponibile |
-| 049685035 | EVRENZO 12 compresse rivestite 70 mg | Compressa rivestita | Non disponibile |
-| 049685023 | EVRENZO 12 compresse rivestite 50 mg | Compressa rivestita | Non disponibile |
-| 049685011 | EVRENZO 12 compresse rivestite 20 mg | Compressa rivestita | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049685050 | EVRENZO\*12x1 cpr rivestite 150 mg dose unitaria | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+| 049685047 | EVRENZO\*12x1 cpr rivestite 100 mg dose unitaria | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+| 049685035 | EVRENZO\*12x1 cpr rivestite 70 mg dose unitaria | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+| 049685011 | EVRENZO\*12x1 cpr rivestite 20 mg dose unitaria | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+| 049685023 | EVRENZO\*12x1 cpr rivestite 50 mg dose unitaria | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -122,7 +128,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni (titolare: Astellas Pharma Europe B.V.) risultano annullate; non esiste quindi attualmente alcun prodotto valido sul» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

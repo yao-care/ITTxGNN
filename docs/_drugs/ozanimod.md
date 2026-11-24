@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 335
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Ozanimod: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,10 +72,16 @@ Tutti i candidati proposti dal modello TxGNN per Ozanimod corrispondono a usi gi
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 048818013 | Ozanimod |  | Valida |
-| 048818025 | Ozanimod |  | Valida |
+| 048818013 | ZEPOSIA\*4 cps 0,23 mg + 3 cps 0,46 mg | BRISTOL M.SQUIBB PHARMA EEIG | Autorizzata |
+| 048818025 | ZEPOSIA\*28 cps 0,92 mg | BRISTOL M.SQUIBB PHARMA EEIG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

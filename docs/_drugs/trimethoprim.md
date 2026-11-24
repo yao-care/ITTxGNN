@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Trimethoprim: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5)."
 monitor_inn: "trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -79,10 +79,16 @@ Per la cheratocongiuntivite epiteliale puntata non è disponibile alcuna lettera
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (valida) | Non specificata | Non specificata |
-| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (valida) | Non specificata | Non specificata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 028313029 | BACTRIM PERFUSIONE\*5 fiale EV 80 mg/5 ml + 400 mg/5 ml | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+| 021978046 | BACTRIM\*16 cpr 160 mg + 800 mg | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -108,7 +114,7 @@ Avvertenze e controindicazioni da foglio illustrativo AIFA non sono disponibili:
 
 <!-- review:begin it-lic-20261106-trimethoprim-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica. La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica. La congiuntivite batterica è un uso già noto (evidenza L3, conservativa), non un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-trimethoprim-1 -->
 
@@ -127,7 +133,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate, il che limita la disponibilità pratica» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

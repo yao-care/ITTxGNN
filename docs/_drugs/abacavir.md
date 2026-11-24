@@ -74,7 +74,7 @@ Secondo i dati AIFA sulle confezioni autorizzate, abacavir è in commercio in It
 
 <!-- review:begin it-lic-20261116-abacavir-1 -->
 
-> **Correzione di verifica (2026-11-16)**: Testo originale: «Nei dati locali non risultano autorizzazioni; il farmaco risulta non commercializzato in Italia.» Corretto: l'affermazione che non risultassero autorizzazioni non corrispondeva ai dati AIFA. Nell'elenco delle confezioni autorizzate (stato «Autorizzata», dati al 2026-11-12) risultano 9 confezioni contenenti abacavir: 3 a base di solo abacavir e 6 in associazione. Fonte: [AIFA – Liste dei farmaci di Classe H per principio attivo](https://www.aifa.gov.it/liste-farmaci-a-h); [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Nei dati locali non risultano autorizzazioni; il farmaco risulta non commercializzato in Italia.» Corretto: l'affermazione che non risultassero autorizzazioni non corrispondeva ai dati AIFA. Nell'elenco delle confezioni autorizzate (stato «Autorizzata», dati al 2026-11-12) risultano confezioni contenenti abacavir, sia a base di solo abacavir sia in associazione. Fonte: [AIFA – Liste dei farmaci di Classe H per principio attivo](https://www.aifa.gov.it/liste-farmaci-a-h); [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261116-abacavir-1 -->
 
@@ -105,7 +105,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-16 | «Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide | Corretto | [AIFA – Liste dei farmaci di Classe H per principio attivo](https://www.aifa.gov.it/liste-farmaci-a-h); [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | «Nei dati locali non risultano autorizzazioni…» → in commercio, con autorizzazioni valide | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Liste dei farmaci di Classe H per principio attivo](https://www.aifa.gov.it/liste-farmaci-a-h); [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

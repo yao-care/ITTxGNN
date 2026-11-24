@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati compilati, lo stato di mercato è "autorizzata in commercio". Le autorizzazioni elencate sono 20 e l'elenco potrebbe essere parziale. Alcune delle principali:
+Secondo i dati compilati, lo stato di mercato è "autorizzata in commercio". Le autorizzazioni elencate sono 20 e l'elenco potrebbe essere parziale.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039256019 | REZAN*3 cpr rivestite 500 mg | Non indicata | Non registrata |
-| 038557017 | AZIPROME*3 cpr rivestite 500 mg | Non indicata | Non registrata |
-| 039257011 | AZITROMICINA*3 cpr rivestite 500 mg | Non indicata | Non registrata |
-| 037555341 | AZITROMICINA*3 cpr rivestite 500 mg | Non indicata | Non registrata |
-| 027860042 | ZITROMAX*3 cpr rivestite 500 mg | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039256019 | REZAN\*3 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 038557017 | AZIPROME\*3 cpr rivestite 500 mg | PROGE FARM Srl | Autorizzata |
+| 039257011 | AZITROMICINA\*3 cpr rivestite 500 mg | ALMUS Srl | Autorizzata |
+| 037555341 | AZITROMICINA\*3 cpr rivestite 500 mg | TEVA ITALIA Srl | Autorizzata |
+| 038733010 | ZITRONOVA\*3 cpr rivestite 500 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 037495025 | AZITROMICINA\*3 cpr rivestite 500 mg | EG SpA | Autorizzata |
+| 037972054 | AZITROMICINA\*orale sosp 1.500 mg 200 mg/5 ml | MYLAN SpA | Autorizzata |
+| 037973056 | AZITROMICINA\*orale sosp 1.500 mg 200 mg/5 ml | SANDOZ GMBH | Autorizzata |
+| 027860042 | ZITROMAX\*3 cpr rivestite 500 mg | PFIZER ITALIA Srl | Autorizzata |
+| 027948064 | TROZOCINA\*3 cpr rivestite 500 mg | ALFASIGMA SpA | Autorizzata |
+| 040104022 | AZITROMICINA\*3 cpr rivestite 500 mg | MYLAN SpA | Autorizzata |
+| 039123017 | MACROZIT\*3 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 038757011 | AZITROMICINA\*3 cpr rivestite 500 mg | PHARMEG Srl | Autorizzata |
+| 038929042 | AZITROMICINA\*orale sosp 1.500 mg 200 mg/5 ml | TEVA ITALIA Srl | Autorizzata |
+| 042798090 | AZITROMICINA\*orale sosp 1.500 mg 40 mg/ml | KRKA D.D.NOVO MESTO | Autorizzata |
+| 044589012 | AZITROMICINA\*3 cpr rivestite div 500 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039213018 | AZITREDIL\*3 cpr rivestite 500 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 027860143 | ZITROMAX AVIUM 600\*8 cpr 600 mg | PFIZER ITALIA Srl | Autorizzata |
+| 039214010 | PORTEX\*3 cpr rivestite 500 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 027897026 | AZITROMICINA\*BB orale sosp 1.500 mg 200 mg/5 ml | PFIZER ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

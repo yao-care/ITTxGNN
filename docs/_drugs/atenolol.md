@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non risulta letteratura correlata disponibile per questa indicazione
 
 ## Informazioni sul mercato italiano
 
-L'elenco delle autorizzazioni è parziale: sono presenti almeno 20 autorizzazioni valide, tutte per medicinali a base di solo atenololo. Di seguito le principali.
+L'elenco delle autorizzazioni è parziale: sono presenti almeno 20 autorizzazioni valide, tutte per medicinali a base di solo atenololo.
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 033378023 | ATENOLOLO 42 cpr rivestite 100 mg | — | ABC Farmaceutici SpA |
-| 029486014 | ATENOLOLO 50 cpr rivestite 50 mg | — | Sandoz SpA |
-| 029468028 | ATENOLOLO 42 cpr 100 mg | — | Mylan SpA |
-| 036541011 | TENSIBLOCK 42 cpr 100 mg | — | Jakinmed Srl |
-| 024016038 | TENORMIN 42 cpr 100 mg | — | Atnahs Pharma Netherlands BV |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 033378023 | ATENOLOLO\*42 cpr rivestite 100 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 029486014 | ATENOLOLO\*50 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+| 029468028 | ATENOLOLO\*42 cpr 100 mg | MYLAN SpA | Autorizzata |
+| 036541011 | TENSIBLOCK\*42 cpr 100 mg | JAKINMED Srl | Autorizzata |
+| 033378035 | ATENOLOLO\*50 cpr rivestite 100 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 036542013 | ATENOLOLO\*42 cpr 100 mg | ALMUS Srl | Autorizzata |
+| 046688038 | ATENOLOLO\*50 cpr rivestite 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 024325060 | SELES BETA\*50 cpr 100 mg | TEOFARMA Srl | Autorizzata |
+| 029776059 | ATENOLOLO\*50 cpr 100 mg | EG SpA | Autorizzata |
+| 041098221 | ATENOLOLO\*50 cpr 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 029486026 | ATENOLOLO\*50 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+| 034052035 | ATENOLOLO\*42 cpr rivestite 100 mg | RATIOPHARM GMBH | Autorizzata |
+| 029776073 | ATENOLOLO\*42 cpr rivestite 100 mg | EG SpA | Autorizzata |
+| 033789025 | ATENOLOLO\*42 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 025070020 | ATENOL\*50 cpr 100 mg | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 034052023 | ATENOLOLO\*50 cpr rivestite 100 mg | RATIOPHARM GMBH | Autorizzata |
+| 046688089 | ATENOLOLO\*50 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 024016038 | TENORMIN\*42 cpr 100 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 036543027 | ATENOLOLO\*50 cpr 100 mg | ZENTIVA ITALIA Srl | Non più autorizzata |
+| 036544017 | ATENOLOLO\*42 cpr 100 mg | FG Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

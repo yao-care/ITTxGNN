@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 465
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 description: "Vinorelbine: nuova indicazione prevista, Sarcoma di Ewing (Ewing sarcoma) (livello di evidenza L2). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -90,13 +90,20 @@ Il sarcoma di Ewing è un tumore osseo maligno altamente proliferativo, con alti
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049928017 | Vinorelbina capsule molli 20 mg (Medac) | Capsule molli | Valida |
-| 049928031 | Vinorelbina capsule molli 30 mg (Medac) | Capsule molli | Valida |
-| 046717017 | Vinorelbina capsule molli 20 mg (DOC Generici) | Capsule molli | Valida |
-| 046717031 | Vinorelbina capsule molli 30 mg (DOC Generici) | Capsule molli | Valida |
-| 027865106 | Navelbine capsule molli 20 mg (Pierre Fabre) | Capsule molli | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049928017 | VINORELBINA\*1 cps molle 20 mg | MEDAC GMBH | Autorizzata |
+| 027865118 | NAVELBINE\*1 cps molli 30 mg | PIERRE FABRE PHARMA Srl | Autorizzata |
+| 046717017 | VINORELBINA\*1 cps molle 20 mg | DOC GENERICI Srl | Autorizzata |
+| 027865106 | NAVELBINE\*1 cps molli 20 mg | PIERRE FABRE PHARMA Srl | Autorizzata |
+| 049928031 | VINORELBINA\*1 cps molle 30 mg | MEDAC GMBH | Autorizzata |
+| 046717031 | VINORELBINA\*1 cps molle 30 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +121,7 @@ Per i dettagli, consultare le avvertenze e precauzioni del foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-vinorelbine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilati non risultano autorizzazioni attualmente valide né testi di indicazione approvata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilati non risultano autorizzazioni attualmente valide né testi di indicazione approvata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-vinorelbine-1 -->
 
@@ -146,7 +153,7 @@ Esistono studi di fase 2 (anche pediatrici) sull'associazione vinorelbina + cicl
 
 <!-- review:begin it-lic-20261106-vinorelbine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Dati sul meccanismo d'azione e testo ufficiale di avvertenze e controindicazioni (foglio illustrativo AIFA) / Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva del prodotto» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Dati sul meccanismo d'azione e testo ufficiale di avvertenze e controindicazioni (foglio illustrativo AIFA) / Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva del prodotto» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-vinorelbine-2 -->
 
@@ -158,8 +165,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilat» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti in totale 6 autorizzazioni, tutte cancellate (ne sono elencate 5; la sesta è Navelbine 30 mg, n. 027865118). Nei dati compilat» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Chiarimento dello stato regolatorio: tutte le autorizzazioni italiane risultano cancellate, quindi va verificata la disponibilità effettiva » | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-20 | "I dati dettagliati sul meccanismo d'azione non sono presenti nei dati compilati per questo report. Questa descrizione si basa sulla classe farmacologica e sulle valutazioni mccanicistiche riportate nella letteratura" replaced with a sourced mechanism-of-action statement | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
 
 <!-- review:end log -->

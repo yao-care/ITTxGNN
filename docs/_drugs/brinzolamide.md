@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 75
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Brinzolamide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,13 +72,19 @@ I candidati proposti dal modello TxGNN (punteggio ≥ 0,99) per Brinzolamide, tr
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 042648016 | Brinzolamide |  | Valida |
-| 042406013 | Brinzolamide |  | Valida |
-| 042249019 | Brinzolamide |  | Valida |
-| 034770014 | Brinzolamide |  | Valida |
-| 043204015 | Brinzolamide |  | Valida |
+| 042648016 | BRINZOLAMIDE\*collirio 1 flacone 5 ml 10 mg/ml | SANDOZ SpA | Autorizzata |
+| 042406013 | BRINZOLAMIDE\*collirio 1 flacone 5 ml 10 mg/ml | EG SpA | Autorizzata |
+| 042249019 | BRINZAFLUX\*collirio 1 flacone 5 ml 10 mg/ml | DOC GENERICI Srl | Autorizzata |
+| 034770014 | AZOPT\*collirio 5 ml 10 mg/ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 043204015 | BRINZOLAMIDE\*collirio 1 flacone 5 ml 10 mg/ml | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

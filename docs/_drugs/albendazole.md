@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albendazole: nuova indicazione prevista, Cenurosi (coenurosis) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
 ---
 
@@ -94,9 +94,15 @@ Le pubblicazioni elencate trattano la neurocisticercosi o altre forme di cistice
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 027096041 | ZENTEL*3 cpr 400 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 027096041 | ZENTEL\*3 cpr 400 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

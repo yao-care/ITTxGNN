@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 156
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dronedarone: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L4). Indicazione originale: Fibrillazione atriale (testo dell'indicazione AIFA non disponibile ne…"
 monitor_inn: "DRONEDARONE"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
@@ -86,17 +86,23 @@ Per l'indicazione di rango 4 (disturbo cerebrovascolare) sono disponibili ulteri
 
 <!-- review:begin it-lic-20261106-dronedarone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-dronedarone-1 -->
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048278030 | Dronedarone 60 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 039589039 | Multaq 60 cpr rivestite 400 mg (Sanofi Winthrop Industrie) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 046652044 | Dronedarone 60 cpr rivestite 400 mg (Aristo Pharma) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048278030 | DRONEDARONE\*60 cpr rivestite 400 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039589039 | MULTAQ\*60 cpr rivestite 400 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 046652044 | DRONEDARONE\*60 cpr rivestite 400 mg | ARISTO PHARMA GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -122,7 +128,7 @@ Per l'ictus non esiste alcuno studio clinico dedicato: le evidenze sono post hoc
 
 <!-- review:begin it-lic-20261106-dronedarone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-dronedarone-2 -->
 
@@ -134,8 +140,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
 
 <!-- review:end log -->

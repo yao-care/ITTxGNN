@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: nuova indicazione prevista, Displasia acromesomelica tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5)."
@@ -70,10 +70,16 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 024284034 | FROBEN*30 cpr rivestite 100 mg (VIATRIS ITALIA Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 024284073 | FROBEN*1 flacone 160 ml 5 mg/ml sciroppo (VIATRIS ITALIA Srl) | Sciroppo | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 024284034 | FROBEN\*30 cpr rivestite 100 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 024284073 | FROBEN\*1 flacone 160 ml 5 mg/ml sciroppo | VIATRIS ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni risultano valide.
 

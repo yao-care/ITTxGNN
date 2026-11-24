@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Apomorphine"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Apomorphine: nuova indicazione prevista, Polimicrogiria perisilviana con ipoplasia cerebellare e artrogriposi (polymicrogyria, perisylvian… (livello di evidenza L5). Indicazione originale: Non riport…"
 ---
 
@@ -68,15 +68,22 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 050407067 | KYNMOBI 30 film sublinguali 20 mg | Film sublinguale | Non registrata nei dati locali |
-| 050407042 | KYNMOBI 30 film sublinguali 15 mg | Film sublinguale | Non registrata nei dati locali |
-| 050407105 | KYNMOBI 30 film sublinguali 30 mg | Film sublinguale | Non registrata nei dati locali |
-| 050407081 | KYNMOBI 30 film sublinguali 25 mg | Film sublinguale | Non registrata nei dati locali |
-| 033403041 | APOFIN STYLO 5 penne preriempite SC 30 mg/3 ml | Penna preriempita sottocutanea | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco mostra le prime 5 delle 8 autorizzazioni.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050407067 | KYNMOBI\*30 film sublinguali 20 mg | BIAL-PORTELA & CA.SA | Autorizzata |
+| 050407042 | KYNMOBI\*30 film sublinguali 15 mg | BIAL-PORTELA & CA.SA | Autorizzata |
+| 050407105 | KYNMOBI\*30 film sublinguali 30 mg | BIAL-PORTELA & CA.SA | Autorizzata |
+| 050407081 | KYNMOBI\*30 film sublinguali 25 mg | BIAL-PORTELA & CA.SA | Autorizzata |
+| 033403041 | APOFIN STYLO\*5 penne preriempita SC 30 mg/3 ml | CHIESI ITALIA SpA | Autorizzata |
+| 033403039 | APOFIN STYLO\*1 penna preriempita SC 30 mg/3 ml | CHIESI ITALIA SpA | Autorizzata |
+| 050407028 | KYNMOBI\*30 film sublinguali 10 mg | BIAL-PORTELA & CA.SA | Autorizzata |
+| 050407117 | KYNMOBI\*2 film sublinguali 10 mg + 2 film sublinguali 15 mg + 2 film sublinguali 20 mg +… | BIAL-PORTELA & CA.SA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BUDESONIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Budesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -84,15 +84,36 @@ Nessuna pubblicazione compilata fornisce prove cliniche dirette di efficacia di 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034734018 | ENTOCIR 50 cps 3 mg rilascio modificato | Capsule a rilascio modificato | Non registrata nei dati locali |
-| 043461033 | CORTIMENT 30 cpr 9 mg rilascio prolungato | Compresse a rilascio prolungato | Non registrata nei dati locali |
-| 033736075 | AIRCORT nebul 20 fiale 2 ml 0,5 mg/ml | Sospensione per nebulizzatore | Non registrata nei dati locali |
-| 045928090 | JORVEZA 90 cpr orodispersibili 0,5 mg | Compresse orodispersibili | Non registrata nei dati locali |
-| 026297010 | BIDIEN crema derm 30 g 0,025% | Crema dermatologica | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco è parziale: i dati locali sulle autorizzazioni potrebbero non essere completi.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034734018 | ENTOCIR\*50 cps 3 mg rilascio modificato | TILLOTTS PHARMA GMBH | Autorizzata |
+| 043461033 | CORTIMENT\*30 cpr 9 mg rilascio prolungato | FERRING SpA | Autorizzata |
+| 033736075 | AIRCORT\*nebul 20 fiale 2 ml 0,5 mg/ml | ITALCHIMICI SpA | Autorizzata |
+| 050057037 | BUDESONIDE\*50 cps 3 mg rilascio modificato flacone | DOC GENERICI Srl | Autorizzata |
+| 033736063 | AIRCORT\*nebul 20 fiale 2 ml 0,25 mg/ml | ITALCHIMICI SpA | Autorizzata |
+| 033736051 | AIRCORT\*sosp inal 100 dosi 400 mcg | ITALCHIMICI SpA | Autorizzata |
+| 036923023 | BODINET\*nebul 20 fiale 2 ml 0,5 mg/ml | GENETIC SpA | Autorizzata |
+| 034413450 | MIFLONIDE\*BREEZHALER polv inal 60 cps 200 mcg | NOVARTIS FARMA SpA | Autorizzata |
+| 036922019 | BUDEXAN\*nebul 20 contenitori monodose 2 ml 0,25 mg/ml | GENETIC SpA | Autorizzata |
+| 036004149 | BUDESONIDE VIATRIS\*polv inal 50 dosi 400 mcg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 045928090 | JORVEZA\*90 cpr orodispers 0,5 mg | DR.FALK PHARMA GMBH | Autorizzata |
+| 049495043 | INTEB\*50 cps 3 mg rilascio modificato flacone | S.F. GROUP Srl | Autorizzata |
+| 026297010 | BIDIEN\*crema derm 30 g 0,025% | IDI FARMACEUTICI Srl | Autorizzata |
+| 036921017 | BUDINEB\*nebul 20 contenitori monodose 2 ml 0,25 mg/ml | I.B.N. SAVIO Srl | Autorizzata |
+| 035586015 | BUDESONIDE\*nebul 20 contenitori monodose 2 ml 0,25 mg/ml | TEVA ITALIA Srl | Autorizzata |
+| 033736012 | AIRCORT\*sosp inal 200 dosi 200 mcg | ITALCHIMICI SpA | Autorizzata |
+| 026297022 | BIDIEN\*ung derm 30 g 0,025% | IDI FARMACEUTICI Srl | Autorizzata |
+| 048332023 | BUFANET\*sosp nebul 20 fiale 2 ml 0,5 mg/ml | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 048332011 | BUFANET\*sosp nebul 20 fiale 2 ml 0,25 mg/ml | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 027621061 | PULMAXAN\*20 flaconcini sosp nebul 2 ml 0,5 mg/ml | ASTRAZENECA SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

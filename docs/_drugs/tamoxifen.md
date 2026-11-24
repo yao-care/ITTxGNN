@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: nuova indicazione prevista, Malattia di Paget mammaria (mammary Paget disease) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
@@ -82,13 +82,25 @@ La malattia di Paget mammaria si associa spesso a un carcinoma duttale in situ o
 
 Nei dati locali risultano 11 autorizzazioni, tutte valide, per prodotti a base di tamoxifene (monocomponente). Il testo dell'indicazione approvata non è registrato.
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034790028 | TAMOXENE*20 cpr rivestite 20 mg | S.F. Group Srl | Valida |
-| 034425049 | SERTAM*20 cpr 20 mg | S.F. Group Srl | Valida |
-| 033617022 | TAMOXIFENE*20 cpr rivestite 20 mg | Ratiopharm GmbH | Valida |
-| 023362039 | NOLVADEX*30 cpr rivestite 10 mg | AstraZeneca SpA | Valida |
-| 033688021 | TAMOXIFENE*20 cpr rivestite 20 mg | EG SpA | Valida |
+|------|------|------|------|
+| 034790028 | TAMOXENE\*20 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 034425049 | SERTAM\*20 cpr 20 mg | S.F. GROUP Srl | Autorizzata |
+| 033617022 | TAMOXIFENE\*20 cpr rivestite 20 mg | RATIOPHARM GMBH | Autorizzata |
+| 023362039 | NOLVADEX\*30 cpr rivestite 10 mg | ASTRAZENECA SpA | Autorizzata |
+| 033688021 | TAMOXIFENE\*20 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 033869025 | NOMAFEN\*20 cpr rivestite 20 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 027433022 | KESSAR\*30 cpr 20 mg | ORION CORPORATION | Autorizzata |
+| 033688019 | TAMOXIFENE\*30 cpr rivestite 10 mg | EG SpA | Autorizzata |
+| 023362041 | NOLVADEX\*20 cpr rivestite 20 mg | ASTRAZENECA SpA | Autorizzata |
+| 033869013 | NOMAFEN\*30 cpr rivestite 10 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 034790016 | TAMOXENE\*30 cpr rivestite 10 mg | S.F. GROUP Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Cytotossicità
 

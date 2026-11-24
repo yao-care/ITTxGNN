@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cefprozil: nuova indicazione prevista, Infezione delle vie urinarie (urinary tract infection (disease)) (livello di evidenza L1). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -80,10 +80,16 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039655016 | PROLIZIP*6 cpr rivestite 500 mg | Compresse rivestite | Non registrata nei dati locali |
-| 039655028 | PROLIZIP*orale sosp 1 flacone 60 ml 250 mg/5 ml | Sospensione orale | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039655016 | PROLIZIP\*6 cpr rivestite 500 mg | FARTO Srl | Autorizzata |
+| 039655028 | PROLIZIP\*orale sosp 1 flacone 60 ml 250 mg/5 ml | FARTO Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -101,7 +107,7 @@ Tre RCT di confronto con il cefaclor nelle infezioni urinarie acute non complica
 
 <!-- review:begin it-lic-20261106-cefprozil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le evidenze sono però datate, non esistono studi registrati e tutte le autorizzazioni locali risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le evidenze sono però datate, non esistono studi registrati e tutte le autorizzazioni locali risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-cefprozil-1 -->
 
@@ -119,7 +125,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni locali risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni locali risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

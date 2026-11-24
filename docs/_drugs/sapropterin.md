@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sapropterin"
 predicted_indications: ["disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome"]
 description: "Sapropterin: nuova indicazione prevista, Disturbo del metabolismo della tirosina (disorder of tyrosine metabolism) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
@@ -81,15 +81,24 @@ Le pubblicazioni recuperate non studiano direttamente la malattia prevista, ma t
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049972019 | SAPROPTERINA 30 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione valida) |
-| 038922011 | KUVAN 30 cpr solub 100 mg (BioMarin) | Compresse solubili | Non disponibile (autorizzazione valida) |
-| 049972045 | SAPROPTERINA 30 buste orale polv 500 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione valida) |
-| 049972021 | SAPROPTERINA 120 cpr solub 100 mg flacone (Dipharma) | Compresse solubili | Non disponibile (autorizzazione valida) |
-| 049972033 | SAPROPTERINA 30 buste orale polv 100 mg (Dipharma) | Polvere orale in bustine | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
 
-Sono presenti 8 autorizzazioni, tutte in corso di validità; l'elenco mostra le prime 5. Il testo dell'indicazione approvata non è registrato nei dati locali.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049972019 | SAPROPTERINA\*30 cpr solub 100 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 038922011 | KUVAN\*30 cpr solub 100 mg | BIOMARIN INTERNATIONAL LIMITED | Autorizzata |
+| 049972045 | SAPROPTERINA\*30 buste orale polv 500 mg | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 049972021 | SAPROPTERINA\*120 cpr solub 100 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 049972033 | SAPROPTERINA\*30 buste orale polv 100 mg | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 050546050 | SAPROPTERINA\*120 cpr solub 100 mg flacone | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 050030028 | ARPETRAN\*120 cpr solub 100 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 038922023 | KUVAN\*120 cpr solub 100 mg | BIOMARIN INTERNATIONAL LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 8 autorizzazioni, tutte in corso di validità. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 ## Considerazioni sulla sicurezza
 

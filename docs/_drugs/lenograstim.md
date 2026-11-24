@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenograstim: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (testo dell'indicazione assente…"
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
@@ -83,9 +83,16 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029059096 | MYELOSTIM (polvere per uso EV/SC, 34 milioni UI/ml, con siringa di solvente preriempita e 2 aghi) | Non specificata | Non specificata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029059096 | MYELOSTIM 34\*1 flaconcino polv EV SC 34 milioni UI/ml + 1 siringa solv preriempita + 2 ag… | ITALFARMACO SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 Titolare: ITALFARMACO SpA. Lo stato dell'autorizzazione è **cancellato**: non risultano autorizzazioni valide in Italia.
 

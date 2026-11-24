@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 464
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vildagliptin: nuova indicazione prevista, Sindrome della persona rigida classica (livello di evidenza L5). Indicazione originale: Diabete mellito di tipo 2"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -71,15 +71,27 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco è in commercio, con 11 autorizzazioni valide su 11; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni:
+Il farmaco è in commercio, con 11 autorizzazioni valide su 11; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati.
 
-| N. autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 045976065 | Vildagliptin 56 cpr 50 mg | TEVA B.V. | Valida |
-| 050102021 | Vildagliptin 56 cpr 50 mg | PHARMACARE Srl | Valida |
-| 044763050 | Vildagliptin 56 cpr rivestite 50 mg | SANDOZ SpA | Valida |
-| 038144059 | Galvus 56 cpr 50 mg | NOVARTIS EUROPHARM LTD | Valida |
-| 047877042 | Vildagliptin 56 cpr 50 mg | ACCORD HEALTHCARE SLU | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045976065 | VILDAGLIPTIN\*56 cpr 50 mg | TEVA B.V. | Autorizzata |
+| 050102021 | VILDAGLIPTIN\*56 cpr 50 mg | PHARMACARE Srl | Autorizzata |
+| 044763050 | VILDAGLIPTIN\*56 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+| 038144059 | GALVUS\*56 cpr 50 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 047877042 | VILDAGLIPTIN\*56 cpr 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 048636029 | VILDAGLIPTIN\*56 cpr 50 mg | DOC GENERICI Srl | Autorizzata |
+| 047317021 | VILDAGLIPTIN\*56 cpr 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 048948032 | VILDAGLIPTIN\*56 cpr 50 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 045209044 | VILDAGLIPTIN\*56 cpr 50 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 048318051 | VILDAGLIPTIN\*56 cpr 50 mg | MYLAN SpA | Autorizzata |
+| 047916135 | VILDAGLIPTIN\*56 cpr 50 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -94,7 +106,7 @@ Per le informazioni di sicurezza (avvertenze, controindicazioni e interazioni) s
 
 <!-- review:begin it-lic-20261106-vildagliptin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile. / Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la sindrome della persona rigida è solo computazionale (L5), senza alcuno studio clinico o pubblicazione, e non esiste un meccanismo biologico plausibile. / Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-vildagliptin-1 -->
 
@@ -113,7 +125,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il prodotto non ha attualmente autorizzazioni valide in Italia, il che limita ulteriormente l'accessibilità pratica» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->

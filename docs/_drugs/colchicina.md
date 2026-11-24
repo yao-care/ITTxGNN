@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB01394
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Colchicina: nuova indicazione prevista, Malaria da Plasmodium falciparum (Plasmodium falciparum malaria) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -74,10 +74,16 @@ Nessuno dei due studi esamina direttamente la colchicina nella malaria da P. fal
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 009964038 | COLCHICINA LIRCA*2x30 cpr div 1 mg | Non indicata | Non registrata nei dati locali |
-| 009964040 | COLCHICINA LIRCA*60 cpr 0,5 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 009964038 | COLCHICINA LIRCA\*2x30 cpr div 1 mg | ACARPIA FARMACEUTICI Srl | Autorizzata |
+| 009964040 | COLCHICINA LIRCA\*60 cpr 0,5 mg | ACARPIA FARMACEUTICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni sono valide e riguardano medicinali a singolo principio attivo (titolare: ACARPIA FARMACEUTICI Srl).
 

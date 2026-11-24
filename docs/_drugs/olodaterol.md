@@ -3,7 +3,7 @@ layout: default
 title: Olodaterol
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 327
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Olodaterol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 monitor_inn: "olodaterol"
 predicted_indications: []
@@ -46,11 +46,17 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 042432056 | Striverdi Respimat, soluzione per inalazione, 60 erogazioni 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Valida |
-| 043661053 | Spiolto Respimat, soluzione per inalazione, 1 inalatore da 60 erogazioni 2,5 mcg + 2,5 mcg + 1 cartuccia | Boehringer Ingelheim Int. GmbH | Valida |
-| 043661077 | Spiolto Respimat, soluzione per inalazione, 2,5 mcg + 2,5 mcg, 1 cartuccia, 60 erogazioni | Boehringer Ingelheim Int. GmbH | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042432056 | STRIVERDI RESPIMAT\*soluz inal 60 erogazioni 2,5 mcg + 1 cartuccia | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 043661053 | SPIOLTO RESPIMAT\*soluz inal 1 inalatore da 60 erogazioni 2,5 mcg + 2,5 mcg + 1 cartuccia | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 043661077 | SPIOLTO RESPIMAT\*soluz inal 2,5 mcg + 2,5 mcg 1 cartuccia 60 erogazioni | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

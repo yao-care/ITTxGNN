@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 235
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: nuova indicazione prevista, Pre-malignant neoplasm (livello di evidenza L1). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -83,11 +83,17 @@ Una cautela importante: il livello L1 poggia sulla designazione di fase 3 dei du
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034405011 | ALDARA crema derm 12 bustine 250 mg 5% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione valida) |
-| 041393012 | IMUNOCARE crema derm 12 bust 250 mg 5% (Difa Cooper) | Crema dermatologica | Non disponibile (autorizzazione valida) |
-| 043585025 | ZYCLARA crema derm 28 bust 250 mg 3,75% (Viatris Healthcare) | Crema dermatologica | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034405011 | ALDARA\*crema derm 12 bustine 250 mg 5% | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 041393012 | IMUNOCARE\*crema derm 12 bust 250 mg 5% | DIFA COOPER SpA | Autorizzata |
+| 043585025 | ZYCLARA\*crema derm 28 bust 250 mg 3,75% | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e tre le autorizzazioni risultano valide: attualmente imiquimod è in commercio in Italia secondo i dati compilati (3 autorizzazioni valide su 3).
 

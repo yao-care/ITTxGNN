@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciclesonide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -70,10 +70,16 @@ Al momento non risulta letteratura correlata disponibile per l'eczema atopico.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038873055 | ALVESCO soluz inal 60 erog 160 mcg | Non indicata | Non registrata nei dati locali |
-| 038873030 | ALVESCO soluz inal 60 erog 80 mcg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038873055 | ALVESCO\*soluz inal 60 erog 160 mcg | COVIS PHARMA EUROPE BV | Autorizzata |
+| 038873030 | ALVESCO\*soluz inal 60 erog 80 mcg | COVIS PHARMA EUROPE BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Le due autorizzazioni locali sono registrate come monocomponente (titolare: Covis Pharma Europe BV).
 

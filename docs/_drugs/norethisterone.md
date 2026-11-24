@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 321
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "norethisterone"
 description: "Norethisterone: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
@@ -46,11 +46,17 @@ Livello di evidenza: **N/A** | Indicazioni previste: **0**
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034117010 | ACTIVELLE*28 cpr rivestite 1 mg + 0,5 mg (Novo Nordisk SpA) | Non indicata | Non disponibile (autorizzazione valida) |
-| 049616016 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg flacone (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione valida) |
-| 049616030 | RYEQO*28 cpr rivestite 40 mg + 1 mg + 0,5 mg (Gedeon Richter Plc) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034117010 | ACTIVELLE\*28 cpr rivestite 1 mg + 0,5 mg | NOVO NORDISK SpA | Autorizzata |
+| 049616016 | RYEQO\*28 cpr rivestite 40 mg +1 mg + 0,5 mg flacone | GEDEON RICHTER PLC | Autorizzata |
+| 049616030 | RYEQO\*28 cpr rivestite 40 mg + 1 mg + 0,5 mg | GEDEON RICHTER PLC | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

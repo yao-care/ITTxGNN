@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 description: "Tetrabenazine: nuova indicazione prevista, Polycystic kidney disease 3 with or without polycystic liver disease (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -80,7 +80,7 @@ Per l'indicazione predetta principale non è disponibile alcuna letteratura corr
 
 <!-- review:begin it-lic-20261106-tetrabenazine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tetrabenazine-1 -->
 
@@ -88,11 +88,17 @@ Per l'indicazione predetta principale non è disponibile alcuna letteratura corr
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 046035010 | Tetrabenazina 112 cpr 25 mg flacone | Aristo Pharma GmbH | Valida |
-| 044251027 | Tetrabenazina 112 cpr 25 mg flacone | Sun Pharmaceutical Ind. Europe B.V. | Valida |
-| 036688012 | Xenazina 112 cpr div 25 mg | Pharmaswiss Ceska Republika s.r.o. | Valida |
+|------|------|------|------|
+| 046035010 | TETRABENAZINA\*112 cpr 25 mg flacone | ARISTO PHARMA GMBH | Autorizzata |
+| 044251027 | TETRABENAZINA\*112 cpr 25 mg flacone | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 036688012 | XENAZINA\*112 cpr div 25 mg | PHARMASWISS CESKA REPUBL.S.R.O | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -121,7 +127,7 @@ La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza 
 
 <!-- review:begin it-lic-20261106-tetrabenazine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile. Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo di conoscenza (in particolare QT lungo, depressione/disturbi dell'umore e parkinsonismo).» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa unicamente sul punteggio del modello (evidenza L5), senza studi clinici, senza letteratura di supporto e senza un legame meccanicistico plausibile. Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo di conoscenza (in particolare QT lungo, depressione/disturbi dell'umore e parkinsonismo).» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tetrabenazine-2 -->
 
@@ -139,8 +145,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e tre le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide e il profilo di sicurezza è gravato da numerose controindicazioni segnalate nel grafo » | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

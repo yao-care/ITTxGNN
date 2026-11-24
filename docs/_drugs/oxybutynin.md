@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -89,10 +89,16 @@ Per la sindrome delle gambe senza riposo non è disponibile letteratura. Le pubb
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035733043 | OXIBUTININA*30 cpr 5 mg (EG SpA) | Compresse | Non disponibile (autorizzazione valida) |
-| 034261115 | OSSIBUTININA CLORIDRATO*30 cpr 5 mg (Mylan SpA) | Compresse | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035733043 | OXIBUTININA\*30 cpr 5 mg | EG SpA | Autorizzata |
+| 034261115 | OSSIBUTININA CLORIDRATO\*30 cpr 5 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +120,7 @@ Il supporto è esclusivamente un punteggio computazionale elevato, senza studi c
 
 <!-- review:begin it-lic-20261106-oxybutynin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione e in Italia le due autorizzazioni esistenti sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Manca un percorso meccanicistico plausibile, gli anticolinergici potrebbero peggiorare la condizione e in Italia le due autorizzazioni esistenti sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oxybutynin-1 -->
 
@@ -133,7 +139,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e in Italia le due autorizzazioni esistenti sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia le due autorizzazioni esistenti sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->

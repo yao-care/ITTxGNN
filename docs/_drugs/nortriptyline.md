@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 323
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 description: "Nortriptyline: nuova indicazione prevista, Attention deficit-hyperactivity disorder (livello di evidenza L2). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -85,16 +85,22 @@ Attualmente non risultano studi clinici correlati registrati.
 
 <!-- review:begin it-lic-20261106-nortriptyline-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-nortriptyline-1 -->
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048433027 | NORITREN 28 cpr rivestite 25 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 048433015 | NORITREN 28 cpr rivestite 10 mg (Lundbeck Italia SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048433027 | NORITREN\*28 cpr rivestite 25 mg | LUNDBECK ITALIA SpA | Autorizzata |
+| 048433015 | NORITREN\*28 cpr rivestite 10 mg | LUNDBECK ITALIA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -119,7 +125,7 @@ Esiste un razionale noradrenergico plausibile e qualche studio controllato in et
 
 <!-- review:begin it-lic-20261106-nortriptyline-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. In Italia inoltre non ci sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esiste un razionale noradrenergico plausibile e qualche studio controllato in età pediatrica, ma non ci sono studi clinici registrati e il profilo di sicurezza cardiovascolare è un limite importante. In Italia inoltre non ci sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-nortriptyline-2 -->
 
@@ -132,7 +138,7 @@ Esiste un razionale noradrenergico plausibile e qualche studio controllato in et
 
 <!-- review:begin it-lic-20261106-nortriptyline-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni, dato che le autorizzazioni risultano annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio in Italia e della disponibilità di formulazioni, dato che le autorizzazioni risultano annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-nortriptyline-3 -->
 
@@ -144,9 +150,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «In Italia inoltre non ci sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le autorizzazioni risultano annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni sono annullate: al momento non risulta alcun prodotto a base di nortriptilina attivamente autorizzato in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «In Italia inoltre non ci sono autorizzazioni attive» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le autorizzazioni risultano annullate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb) |
 
 <!-- review:end log -->

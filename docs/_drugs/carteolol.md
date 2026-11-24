@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 90
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carteolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,18 +72,24 @@ I candidati prodotti dal modello TxGNN per Carteolol (punteggio ≥ 0,99) sono t
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 026057048 | Carteololo |  | Valida |
-| 038373027 | Carteololo |  | Valida |
-| 038373015 | Carteololo |  | Valida |
-| 026057024 | Carteololo |  | Valida |
-| 039626027 | Carteololo |  | Valida |
-| 026057036 | Carteololo |  | Valida |
-| 037506019 | Carteololo |  | Valida |
-| 026057012 | Carteololo |  | Valida |
-| 039626039 | Carteololo |  | Valida |
-| 037506033 | Carteololo |  | Valida |
+| 026057048 | CARTEOL\*collirio 30 monodosi 0,3 ml 20 mg/ml | SIFI SpA | Autorizzata |
+| 038373027 | FORTINOL\*collirio 3 ml 2% rilascio prolungato | BAUSCH & LOMB-IOM SpA | Autorizzata |
+| 038373015 | FORTINOL\*collirio 3 ml 1% rilascio prolungato | BAUSCH & LOMB-IOM SpA | Autorizzata |
+| 026057024 | CARTEOL\*collirio 5 ml 20 mg/ml | SIFI SpA | Autorizzata |
+| 039626027 | FORTIDOSE\*collirio 30 flaconcini 0,2 ml 1% rilascio prolungato | BAUSCH & LOMB-IOM SpA | Autorizzata |
+| 026057036 | CARTEOL\*collirio 30 monodosi 0,3 ml 10 mg/ml | SIFI SpA | Autorizzata |
+| 037506019 | CARTEABAK\*collirio 5 ml 1% | LABORATOIRES THEA | Autorizzata |
+| 026057012 | CARTEOL\*collirio 5 ml 10 mg/ml | SIFI SpA | Autorizzata |
+| 039626039 | FORTIDOSE\*collirio 30 flaconcini 0,2 ml 2% rilascio prolungato | BAUSCH & LOMB-IOM SpA | Autorizzata |
+| 037506033 | CARTEABAK\*collirio 5 ml 2% | LABORATOIRES THEA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

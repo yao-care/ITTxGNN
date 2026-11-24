@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Cetirizine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -75,6 +75,37 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 | [36116201](https://pubmed.ncbi.nlm.nih.gov/36116201/) | 2022 | Preclinico | Phytomedicine | Capsula erboristica in un modello murino di rinite allergica; poco pertinente alla cetirizina |
 
 ## Informazioni sul mercato italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043629017 | ZIRTEC\*20 cpr rivestite 10 mg | GEKOFAR Srl | Autorizzata |
+| 042955056 | ZIRTEC\*20 cpr rivestite 10 mg | GMM FARMA Srl | Autorizzata |
+| 037819036 | CETERIS\*orale gtt 20 ml 10 mg/ml flacone | SO.SE.PHARM Srl | Autorizzata |
+| 038054021 | CETIRIZINA\*orale gtt 20 ml 10 mg/ml flacone | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037638020 | PRIZITEC\*orale gtt 20 ml 10 mg/ml flacone | GENETIC SpA | Autorizzata |
+| 037635024 | CETIRIZINA\*orale gtt 20 ml 10 mg/ml flacone | ACCORD HEALTHCARE SLU | Autorizzata |
+| 038777025 | ZIRTEC\*20 cpr rivestite 10 mg | FARMA 1000 Srl | Autorizzata |
+| 043629031 | ZIRTEC\*20 cpr rivestite 10 mg | GEKOFAR Srl | Autorizzata |
+| 043629043 | ZIRTEC\*20 cpr rivestite 10 mg | GEKOFAR Srl | Autorizzata |
+| 037736016 | CERCHIO\*20 cpr div 10 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 042955029 | ZIRTEC\*20 cpr rivestite 10 mg | GMM FARMA Srl | Autorizzata |
+| 043707025 | ZIRTEC\*20 cpr rivestite 10 mg | GENERAL PHARMA SOLUTIONS SpA | Autorizzata |
+| 042955031 | ZIRTEC\*orale gtt 20 ml 10 mg/ml flacone | GMM FARMA Srl | Autorizzata |
+| 037895024 | SOTRIZOL\*20 cpr rivestite 10 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 043824010 | ZIRTEC\*20 cpr rivestite 10 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 039316029 | ZIRTEC\*orale gtt 20 ml 10 mg/ml flacone | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 038619019 | CETIRIZINA\*orale gtt 20 ml 10 mg/ml flacone | MYLAN SpA | Autorizzata |
+| 037895036 | SOTRIZOL\*orale gtt 20 ml 10 mg/ml flacone | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 027329010 | FORMISTIN\*20 cpr rivestite 10 mg | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+| 043015015 | ZIRTEC\*20 cpr rivestite 10 mg | FARMAVOX Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 Le informazioni sulle autorizzazioni sono generate dal programma; l'elenco può essere parziale. I dati locali non riportano il testo delle indicazioni approvate.
 

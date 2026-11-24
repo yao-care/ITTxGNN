@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Temozolomide: nuova indicazione prevista, neoplasia della cauda equina (livello di evidenza L5). Indicazione originale: Astrocitoma anaplastico, astrocitoma (escluso il glioblastoma)…"
 ---
 
@@ -76,13 +76,35 @@ Il primo case report riguarda un ependimoma mixopapillare spinale (tumore tipico
 
 Sono presenti almeno 20 autorizzazioni valide per il principio attivo singolo; l'elenco può essere parziale. Il testo delle indicazioni approvate non è riportato nei dati compilati.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 039649052 | Temozolomide 5 cps 100 mg | TEVA B.V. | Non disponibile |
-| 039649090 | Temozolomide 5 cps 180 mg | TEVA B.V. | Non disponibile |
-| 039761337 | Temozolomide 5 cps 180 mg | Accord Healthcare SLU | Non disponibile |
-| 041333131 | Temozolomide 5x1 cps 5 mg | Sun Pharmaceutical Ind. EU B.V. | Non disponibile |
-| 034527174 | Temodal 5 cps 140 mg | Merck Sharp & Dohme BV | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039649052 | TEMOZOLOMIDE\*5 cps 100 mg flacone | TEVA B.V. | Autorizzata |
+| 039649090 | TEMOZOLOMIDE\*5 cps 180 mg flacone | TEVA B.V. | Autorizzata |
+| 039761337 | TEMOZOLOMIDE\*5 bust 5 cps 180 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 041333131 | TEMOZOLOMIDE\*5x1 cps 5 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 039761299 | TEMOZOLOMIDE\*5 bust 5 cps 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042082077 | TEMOMEDAC\*5 cps 140 mg flacone | MEDAC GMBH | Autorizzata |
+| 039649013 | TEMOZOLOMIDE\*5 cps 5 mg flacone | TEVA B.V. | Autorizzata |
+| 034527174 | TEMODAL\*5 bust 5 cps 140 mg | MERCK SHARP & DOHME BV | Autorizzata |
+| 042082091 | TEMOMEDAC\*5 cps 180 mg flacone | MEDAC GMBH | Autorizzata |
+| 042082115 | TEMOMEDAC\*5 cps 250 mg flacone | MEDAC GMBH | Autorizzata |
+| 042082014 | TEMOMEDAC\*5 cps 5 mg flacone | MEDAC GMBH | Autorizzata |
+| 041333194 | TEMOZOLOMIDE\*5 cps 140 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 034527198 | TEMODAL\*5 bust 5 cps 180 mg | MERCK SHARP & DOHME BV | Autorizzata |
+| 039761313 | TEMOZOLOMIDE\*5 bust 5 cps 140 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042082053 | TEMOMEDAC\*5 cps 100 mg flacone | MEDAC GMBH | Autorizzata |
+| 041333156 | TEMOZOLOMIDE\*5x1 cps 20 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 041333232 | TEMOZOLOMIDE\*5 cps 250 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 041333218 | TEMOZOLOMIDE\*5 cps 180 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 034527212 | TEMODAL\*5 bust 5 cps 250 mg | MERCK SHARP & DOHME BV | Autorizzata |
+| 042082038 | TEMOMEDAC\*5 cps 20 mg flacone | MEDAC GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 268
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L2). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -86,15 +86,15 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036489019 | FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die | Cerotto transdermico | Testo dell'indicazione non disponibile |
+<!-- licenses:begin -->
 
-<!-- review:begin it-row-20261112-levonorgestrel-1 -->
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036489019 | FEMITY\*4 cerotti transdermici 50 mcg/die + 7 mcg/die | THERAMEX IRELAND LIMITED | Autorizzata |
 
-> **Correzione di verifica (2026-11-12)**: Testo originale: «036489019 (revocata) / FEMITY*4 cerotti transdermici 50 mcg/die + 7 mcg/die / Cerotto transdermico / Testo dell'indicazione non disponibile» Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) la confezione 036489019 risulta Autorizzata; la tabella la indicava come revocata. È stata modificata solo l'indicazione dello stato nella tabella. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
 
-<!-- review:end it-row-20261112-levonorgestrel-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +129,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-12 | Tabella: la confezione 036489019 è autorizzata, non revocata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-12 | Tabella: la confezione 036489019 è autorizzata, non revocata | Sostituito dalla tabella delle autorizzazioni generata dal programma (prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin: nuova indicazione prevista, Infezione da HIV (livello di evidenza L5). Indicazione originale: Aterosclerosi…"
 ---
 
@@ -91,19 +91,29 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029199041 | LIPAXAN 28 cpr 80 mg a rilascio prolungato (Ethyx Pharmaceuticals) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
-| 029163033 | LESCOL 28 cpr 80 mg a rilascio prolungato (Ethyx Pharmaceuticals) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
-| 038581029 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (Teva Italia) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
-| 038580027 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (DOC Generici) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
-| 038602037 | FLUVASTATINA 28 cpr 80 mg a rilascio prolungato (Aurobindo Pharma Italia) | Compresse a rilascio prolungato | Testo non riportato nei dati compilati |
+<!-- licenses:begin -->
 
-Sono presenti 8 autorizzazioni, tutte per il singolo principio attivo, di cui 6 valide; qui ne sono elencate 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029199041 | LIPAXAN\*28 cpr 80 mg rilascio prolungato | ETHYX PHARMACEUTICALS | Autorizzata |
+| 038580027 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 038602037 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038582021 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | EG SpA | Autorizzata |
+| 038659049 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 029163033 | LESCOL\*28 cpr 80 mg rilascio prolungato | ETHYX PHARMACEUTICALS | Autorizzata |
+| 038581029 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | TEVA ITALIA Srl | Non più autorizzata |
+| 038831032 | FLUVASTATINA\*28 cpr 80 mg rilascio prolungato | ZENTIVA ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Le autorizzazioni riguardano tutte il singolo principio attivo; accanto a quelle valide figurano anche confezioni uscite dall'elenco AIFA delle confezioni autorizzate (vedi la tabella qui sotto).
 
 <!-- review:begin it-lic-20261117-fluvastatin-1 -->
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti 8 autorizzazioni valide, tutte per il singolo principio attivo; qui ne sono elencate 5.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
 
 <!-- review:end it-lic-20261117-fluvastatin-1 -->
 
@@ -139,7 +149,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-17 | «8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-24 | «8 autorizzazioni valide» → 8 autorizzazioni, di cui 6 valide | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
 
 <!-- review:end log -->

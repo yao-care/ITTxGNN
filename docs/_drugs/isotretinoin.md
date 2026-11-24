@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
@@ -84,17 +84,33 @@ Si elencano le prime 5:
 
 <!-- review:begin it-lic-20261106-isotretinoin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-isotretinoin-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 051504013 | Isotretinoina 30 cps molli 10 mg | DOC Generici Srl | Valida |
-| 035258021 | Aisoskin 30 cps molli 20 mg | Fidia Farmaceutici SpA | Valida |
-| 041853072 | Isdiben 30 cps molli 20 mg | ISDIN Srl | Valida |
-| 041853045 | Isdiben 30 cps molli 10 mg | ISDIN Srl | Valida |
-| 037551076 | Isoriac 30 cps molli 20 mg | Pierre Fabre Italia SpA | Valida |
+|------|------|------|------|
+| 051504013 | ISOTRETINOINA\*30 cps molli 10 mg | DOC GENERICI Srl | Autorizzata |
+| 035258021 | AISOSKIN\*30 cps molli 20 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 041853072 | ISDIBEN\*30 cps molli 20 mg | ISDIN Srl | Autorizzata |
+| 041853045 | ISDIBEN\*30 cps molli 10 mg | ISDIN Srl | Autorizzata |
+| 037551076 | ISORIAC\*30 cps molli 20 mg | PIERRE FABRE ITALIA SpA | Autorizzata |
+| 045513126 | ISODIFA\*30 cps molli 20 mg | DIFA COOPER SpA | Autorizzata |
+| 045046087 | NOIDAK\*30 cps molli 20 mg | VELIT BIOPHARMA Srl | Autorizzata |
+| 036083020 | ISOTRETINOINA\*30 cps molli 10 mg | DIFA COOPER SpA | Autorizzata |
+| 045513177 | ISODIFA\*30 cps molli 30 mg | DIFA COOPER SpA | Autorizzata |
+| 036083071 | ISOTRETINOINA\*30 cps molli 20 mg | DIFA COOPER SpA | Autorizzata |
+| 035258019 | AISOSKIN\*30 cps molli 10 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 045513076 | ISODIFA\*30 cps molli 10 mg | DIFA COOPER SpA | Autorizzata |
+| 045046024 | NOIDAK\*30 cps molli 10 mg | VELIT BIOPHARMA Srl | Autorizzata |
+| 051504025 | ISOTRETINOINA\*30 cps molli 20 mg | DOC GENERICI Srl | Autorizzata |
+| 037551025 | ISORIAC\*30 cps molli 10 mg | PIERRE FABRE ITALIA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +145,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 15 autorizzazioni risultano cancellate; il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
 
 <!-- review:end log -->

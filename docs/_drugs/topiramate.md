@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Topiramate: nuova indicazione prevista, Neoplasia del nervo trigemino (livello di evidenza L5). Indicazione originale: Epilessia con crisi tonico-cloniche generalizzate, epilessia parziale…"
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -94,7 +94,7 @@ Nota: questa letteratura riguarda l'epilessia in generale e non studi specifici 
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è disponibile. Si elencano le principali 5:
+Il testo dell'indicazione approvata non è disponibile.
 
 <!-- review:begin it-lic-20261106-topiramate-1 -->
 
@@ -102,13 +102,35 @@ Il testo dell'indicazione approvata non è disponibile. Si elencano le principal
 
 <!-- review:end it-lic-20261106-topiramate-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 032023020 | TOPAMAX 60 cpr rivestite 50 mg (Janssen Cilag) | Compresse rivestite | Non disponibile |
-| 032023071 | TOPAMAX 60 cpr rivestite 25 mg (Janssen Cilag) | Compresse rivestite | Non disponibile |
-| 039226067 | XITOP 60 cpr rivestite 100 mg (Tecnimede) | Compresse rivestite | Non disponibile |
-| 037755170 | Topiramato 60 cpr rivestite 50 mg (Mylan) | Compresse rivestite | Non disponibile |
-| 043081013 | Topiramato 60 cpr rivestite 25 mg (Aurobindo) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043081013 | TOPIRAMATO\*60 cpr rivestite 25 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038314047 | TOPIRAMATO\*60 cpr rivestite 25 mg | EG SpA | Autorizzata |
+| 043081037 | TOPIRAMATO\*60 cpr rivestite 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043081076 | TOPIRAMATO\*60 cpr rivestite 200 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037707561 | TOPIRAMATO\*60 cpr rivestite 100 mg flacone | SANDOZ SpA | Autorizzata |
+| 037755170 | TOPIRAMATO\*60 cpr rivestite 50 mg | MYLAN SpA | Autorizzata |
+| 032023020 | TOPAMAX\*60 cpr rivestite 50 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 038314225 | TOPIRAMATO\*60 cpr rivestite 200 mg | EG SpA | Autorizzata |
+| 032023071 | TOPAMAX\*60 cpr rivestite 25 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 032023095 | TOPAMAX\*60 cps 25 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 037755271 | TOPIRAMATO\*60 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 032023044 | TOPAMAX\*60 cpr rivestite 200 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 039226067 | XITOP\*60 cpr rivestite 100 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 039226028 | XITOP\*60 cpr rivestite 25 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 043081052 | TOPIRAMATO\*60 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 032023083 | TOPAMAX\*60 cps 15 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 038314100 | TOPIRAMATO\*60 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 032023032 | TOPAMAX\*60 cpr rivestite 100 mg flacone | JANSSEN CILAG SpA | Autorizzata |
+| 037755372 | TOPIRAMATO\*60 cpr rivestite 200 mg | MYLAN SpA | Autorizzata |
+| 037707508 | TOPIRAMATO\*60 cpr rivestite 50 mg flacone | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

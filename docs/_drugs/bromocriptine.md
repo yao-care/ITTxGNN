@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bromocriptine: nuova indicazione prevista, Malattia congenita della glicosilazione con difetto di fucosilazione (congenital disorder of glycosylation with defecti… (livello di evidenza L5). Indicazio…"
 ---
 
@@ -68,11 +68,17 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023781038 | PARLODEL*30 cps 5 mg | Non indicata | Non registrata nei dati locali |
-| 023781014 | PARLODEL*30 cpr 2,5 mg | Non indicata | Non registrata nei dati locali |
-| 023781026 | PARLODEL*20 cps 10 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023781038 | PARLODEL\*30 cps 5 mg | EXELTIS ITALIA Srl | Autorizzata |
+| 023781014 | PARLODEL\*30 cpr 2,5 mg | EXELTIS ITALIA Srl | Autorizzata |
+| 023781026 | PARLODEL\*20 cps 10 mg | EXELTIS ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: EXELTIS ITALIA Srl.
 

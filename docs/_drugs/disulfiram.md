@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -78,13 +78,23 @@ Attualmente nessuna letteratura correlata disponibile — i dati di `predicted_i
 
 <!-- review:begin it-lic-20261106-disulfiram-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è attualmente commercializzato in Italia.» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è attualmente commercializzato in Italia.» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-disulfiram-1 -->
 
 ---
 
 ## Informazioni sul Mercato Italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 010681029 | ETILTOX\*30 cpr 200 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +135,7 @@ Questo Fascicolo di Evidenze manca dei tre input minimi richiesti per una valuta
 
 <!-- review:begin it-lic-20261106-disulfiram-4 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «**Controllare i database EMA / FDA per le indicazioni approvate** — poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «**Controllare i database EMA / FDA per le indicazioni approvate** — poiché l'Italia ha 0 autorizzazioni, le etichette normative internazionali possono fornire il contesto di indicazione approvata necessario per l'intestazione del rapporto» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-disulfiram-4 -->
 
@@ -137,10 +147,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è att» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il disulfiram non ha autorizzazioni di prodotti approvati in Italia. La query normativa ha restituito 0 risultati — questo farmaco non è att» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Nota: Sebbene la query del foglio illustrativo TFDA (`tfda_package_insert`) abbia restituito uno stato di successo con 1 risultato, i campi » | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «TFDA» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché l'Italia ha 0 autorizzazioni» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «poiché l'Italia ha 0 autorizzazioni» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

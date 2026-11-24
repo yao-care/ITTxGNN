@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Ibuprofen: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata ne…"
@@ -92,7 +92,7 @@ Al momento non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Si elencano le prime 5 autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-ibuprofen-1 -->
 
@@ -100,13 +100,35 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibil
 
 <!-- review:end it-lic-20261106-ibuprofen-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 039693066 | BRUFEN 30 cpr rivestite 600 mg | Programmi Sanit. Integrati Srl | Valida |
-| 022593103 | BRUFEN granulato orale 30 bustine 600 mg | Viatris Italia Srl | Valida |
-| 043890045 | BRUFEN 30 cpr rivestite 600 mg | New Pharmashop Srl | Valida |
-| 042859064 | BRUFEN 30 cpr rivestite 600 mg | GMM Farma Srl | Valida |
-| 026916142 | SPIDIFEN granulato orale 30 bustine 600 mg, aroma cola limone | Zambon Italia Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039693066 | BRUFEN\*30 cpr rivestite 600 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 022593103 | BRUFEN\*orale grat 30 bust 600 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 043890045 | BRUFEN\*30 cpr rivestite 600 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 042859064 | BRUFEN\*30 cpr rivestite 600 mg | GMM FARMA Srl | Autorizzata |
+| 043890021 | BRUFEN\*30 cpr rivestite 600 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 050198023 | BRUFEN\*30 cpr rivestite 600 mg | SM PHARMA Srl | Autorizzata |
+| 043521018 | ALGOPIRINDOL\*30 cpr rivestite 600 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041312036 | IBUPROFENE\*30 bust grat eff 600 mg | DOC GENERICI Srl | Autorizzata |
+| 043890033 | BRUFEN\*30 cpr rivestite 400 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 026916142 | SPIDIFEN\*orale grat 30 bust 600 mg aroma cola limone | ZAMBON ITALIA Srl | Autorizzata |
+| 022593216 | BRUFEN\*30 cpr rivestite 600 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 039693039 | BRUFEN\*30 cpr rivestite 400 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 043525017 | IBUMAL\*30 cpr rivestite 600 mg | EPIFARMA Srl | Autorizzata |
+| 042859013 | BRUFEN\*30 cpr rivestite 600 mg | GMM FARMA Srl | Autorizzata |
+| 040576011 | IBUPROFENE\*orale grat 30 bust 600 mg | ANGELINI SpA | Autorizzata |
+| 041238039 | BRUFEN\*30 cpr rivestite 600 mg | BB FARMA Srl | Autorizzata |
+| 043526019 | IBUPROFENE\*30 cpr rivestite 600 mg | FG Srl | Autorizzata |
+| 049980028 | IBUPROFENE\*30 cpr rivestite 600 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 022593115 | BRUFEN\*20 cpr rivestite 800 mg rilascio prolungato | VIATRIS ITALIA Srl | Autorizzata |
+| 039693041 | BRUFEN\*30 cpr rivestite 600 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

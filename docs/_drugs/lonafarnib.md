@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 276
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LONAFARNIB"
 predicted_indications: ["leprosy"]
 description: "Lonafarnib: nuova indicazione prevista, Lebbra (livello di evidenza L5)."
@@ -44,7 +44,7 @@ Al momento **non risultano studi clinici né pubblicazioni** a sostegno di quest
 
 <!-- review:begin it-lic-20261106-lonafarnib-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Lonafarnib è un inibitore della farnesiltransferasi, commercializzato in Italia con il nome Zokinvy, ma le autorizzazioni risultano attualmente tutte annullate e non sono disponibili indicazioni approvate nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lonafarnib-1 -->
 
@@ -78,10 +78,16 @@ Al momento non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
-|---------|------|------|------|-----------|
-| 050224017 | ZOKINVY 30 cps 50 mg flacone | Capsule | Valida | Non disponibile |
-| 050224029 | ZOKINVY 30 cps 75 mg flacone | Capsule | Valida | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050224017 | ZOKINVY\*30 cps 50 mg flacone | TMC PHARMA (EU) LIMITED | Autorizzata |
+| 050224029 | ZOKINVY\*30 cps 75 mg flacone | TMC PHARMA (EU) LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: TMC Pharma (EU) Limited.
 
@@ -116,7 +122,7 @@ La previsione per la lebbra si basa esclusivamente sul modello (livello L5), sen
 
 <!-- review:begin it-lic-20261106-lonafarnib-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre le autorizzazioni italiane sono tutte annullate e mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre le autorizzazioni italiane sono tutte annullate e mancano dati su indicazioni, avvertenze e controindicazioni, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lonafarnib-2 -->
 
@@ -135,8 +141,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «ma le autorizzazioni risultano attualmente tutte annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte annullate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «ma le autorizzazioni risultano attualmente tutte annullate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre le autorizzazioni italiane sono tutte annullate e m» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zokinvy (lonafarnib) prescribing information, Sentynl Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97391d0c-943e-4c5a-8423-68e163aa7f50) |
 
 <!-- review:end log -->

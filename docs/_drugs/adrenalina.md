@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB00668
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Adrenalina: nuova indicazione prevista, Malattia polmonare ostruttiva (obstructive lung disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
@@ -98,12 +98,18 @@ Gli studi di fase 3 riguardano formulazioni inalatorie di adrenalina nell'asma, 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 030650016 | ADRENALINA*5 fiale 0,5 mg 1 ml | SALF SpA |
-| 030650030 | ADRENALINA*5 fiale 1 mg 1 ml | SALF SpA |
-| 030780011 | ADRENALINA*5 fiale 0,5 mg 1 ml | MONICO SpA |
-| 030780023 | ADRENALINA*5 fiale 1 mg 1 ml | MONICO SpA |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 030650016 | ADRENALINA\*5 fiale 0,5 mg 1 ml | SALF SpA | Autorizzata |
+| 030650030 | ADRENALINA\*5 fiale 1 mg 1 ml | SALF SpA | Autorizzata |
+| 030780011 | ADRENALINA\*5 fiale 0,5 mg 1 ml | MONICO SpA | Autorizzata |
+| 030780023 | ADRENALINA\*5 fiale 1 mg 1 ml | MONICO SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte le autorizzazioni elencate sono valide e relative a prodotti a singolo principio attivo.
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: nuova indicazione prevista, Autoimmune oophoritis (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -62,7 +62,7 @@ Va inoltre verificato lo stato di mercato prima di trarre conclusioni regolatori
 
 <!-- review:begin it-lic-20261106-insulin_degludec-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Va inoltre verificato lo stato di mercato (solo autorizzazioni cancellate) prima di trarre conclusioni regolatorie o commerciali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Va inoltre verificato lo stato di mercato (solo autorizzazioni cancellate) prima di trarre conclusioni regolatorie o commerciali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_degludec-1 -->
 
@@ -102,10 +102,16 @@ Il registro include inoltre numerosi studi di fase 1 di farmacodinamica e farmac
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042658029 | TRESIBA FLEXTOUCH SC 5 penne preriempite 3 ml 100 U/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione valida) |
-| 043619030 | XULTOPHY 5 penne preriempite SC 3 ml 100 U/ml + 3,6 mg/ml (Novo Nordisk A/S) | Non specificata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042658029 | TRESIBA\*FLEXTOUCH SC 5 penne preriemp 3 ml 100 U/ml | NOVO NORDISK A/S | Autorizzata |
+| 043619030 | XULTOPHY\*5 penne preriemp SC 3 ml 100 U/ml + 3,6 mg/ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -122,15 +128,21 @@ Per le avvertenze e le controindicazioni si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-insulin_degludec-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento. Le autorizzazioni italiane risultano però tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Poiché si tratta di un'indicazione già consolidata, la predizione non rappresenta un vero riposizionamento. Le autorizzazioni italiane risultano però tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_degludec-2 -->
 
 **Per procedere sono necessari:**
-- Verifica dello stato regolatorio in Italia e dei motivi della cancellazione delle due autorizzazioni (ad es. sostituzione con altre confezioni o ritiro commerciale)
+- Verifica dello stato regolatorio in Italia
 - Acquisizione delle avvertenze e controindicazioni dal foglio illustrativo AIFA
 - Dati dettagliati sul meccanismo d'azione (MOA)
 - Piano di monitoraggio glicemico per i pazienti che assumono farmaci interagenti
+
+<!-- review:begin it-lic-20261124-insulin_degludec-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio in Italia e dei motivi della cancellazione delle due autorizzazioni (ad es. sostituzione con altre confezioni o ritiro commerciale)» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-insulin_degludec-1 -->
 
 ## Altre indicazioni previste (evidenza limitata)
 
@@ -144,9 +156,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Le autorizzazioni italiane risultano però tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le autorizzazioni italiane risultano però tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

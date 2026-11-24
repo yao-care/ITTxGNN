@@ -3,7 +3,7 @@ layout: default
 title: Acetaminophen
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Acetaminophen: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 indication_count: 0
@@ -72,22 +72,28 @@ Tutti i candidati prodotti dal modello TxGNN per questo farmaco corrispondono a 
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 037021021 | Paracetamolo/codeina |  | Valida |
-| 031825060 | Paracetamolo/codeina |  | Valida |
-| 042711010 | Paracetamolo/codeina |  | Valida |
-| 035313182 | Ossicodone/paracetamolo |  | Valida |
-| 035313055 | Ossicodone/paracetamolo |  | Valida |
-| 035313081 | Ossicodone/paracetamolo |  | Valida |
-| 035313129 | Ossicodone/paracetamolo |  | Valida |
-| 047824014 | Paracetamolo/codeina |  | Valida |
-| 037351018 | Paracetamolo/codeina |  | Valida |
-| 035313028 | Ossicodone/paracetamolo |  | Valida |
-| 027989033 | Paracetamolo/codeina |  | Valida |
-| 042710018 | Paracetamolo/codeina |  | Valida |
-| 046934028 | Paracetamolo/codeina |  | Valida |
-| 035313156 | Ossicodone/paracetamolo |  | Valida |
+| 037021021 | CODAMOL\*16 cpr rivestite 500 mg + 30 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 031825060 | TACHIDOL\*16 cpr rivestite div 500 mg + 30 mg | ANGELINI SpA | Autorizzata |
+| 042711010 | PARACETAMOLO E CODEINA\*16 cpr 500 mg + 30 mg | DOC GENERICI Srl | Autorizzata |
+| 035313182 | DEPALGOS\*28 cpr eff 20 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 035313055 | DEPALGOS\*28 cpr rivestite 10 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 035313081 | DEPALGOS\*28 cpr rivestite 20 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 035313129 | DEPALGOS\*28 cpr eff 5 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 047824014 | PARACETAMOLO CODEINA\*16 cpr rivestite 500 mg + 30 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037351018 | PARACETAMOLO E CODEINA\*16 cpr eff 500 mg + 30 mg | LABORATORI ALTER Srl | Autorizzata |
+| 035313028 | DEPALGOS\*28 cpr rivestite 5 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 027989033 | COEFFERALGAN\*16 cpr rivestite 500 mg + 30 mg | UPSA Sas | Autorizzata |
+| 042710018 | ZEUSEFF\*16 cpr eff 500 mg + 30 mg | OMIKRON ITALIA Srl | Autorizzata |
+| 046934028 | PARACETAMOLO E CODEINA\*16 cpr 500 mg + 30 mg | MYLAN SpA | Autorizzata |
+| 035313156 | DEPALGOS\*28 cpr eff 10 mg + 325 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

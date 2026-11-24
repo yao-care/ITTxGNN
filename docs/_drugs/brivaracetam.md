@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Brivaracetam: nuova indicazione prevista, Deficit di beta-chetotiolasi (beta-ketothiolase deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
 ---
 
@@ -68,13 +68,20 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044698189 | NUBRIVEO 56 cpr rivestite 100 mg | Compresse rivestite | Non registrata |
-| 044698215 | NUBRIVEO soluzione orale 300 ml 10 mg/ml con siringa graduata | Soluzione orale | Non registrata |
-| 044698140 | NUBRIVEO 56 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
-| 044698013 | NUBRIVEO 14 cpr rivestite 10 mg | Compresse rivestite | Non registrata |
-| 044698064 | NUBRIVEO 56 cpr rivestite 25 mg | Compresse rivestite | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044698189 | NUBRIVEO\*56 cpr rivestite 100 mg | UCB PHARMA S.A. | Autorizzata |
+| 044698215 | NUBRIVEO\*orale soluz 300 ml 10 mg/ml con siringa graduata | UCB PHARMA S.A. | Autorizzata |
+| 044698140 | NUBRIVEO\*56 cpr rivestite 75 mg | UCB PHARMA S.A. | Autorizzata |
+| 044698013 | NUBRIVEO\*14 cpr rivestite 10 mg | UCB PHARMA S.A. | Autorizzata |
+| 044698064 | NUBRIVEO\*56 cpr rivestite 25 mg | UCB PHARMA S.A. | Autorizzata |
+| 044698102 | NUBRIVEO\*56 cpr rivestite 50 mg | UCB PHARMA S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

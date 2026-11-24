@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CILAZAPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cilazapril: nuova indicazione prevista, Ipertensione polmonare con meccanismo multifattoriale poco chiaro (pulmonary hypertension with unclear multifactorial m… (livello di evidenza L5). Indicazione …"
 ---
 
@@ -68,10 +68,16 @@ Al momento non è disponibile letteratura correlata per questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 027460043 | INIBACE*14 cpr rivestite 5 mg | Compresse rivestite | Non registrata nei dati locali |
-| 027464041 | INITISS*14 cpr rivestite 5 mg | Compresse rivestite | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 027460043 | INIBACE\*14 cpr rivestite 5 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 027464041 | INITISS\*14 cpr rivestite 5 mg | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

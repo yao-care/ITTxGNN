@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -91,23 +91,48 @@ Nota: nessuno di questi lavori valuta il nebivololo come trattamento dell'iperte
 
 ## Informazioni sul mercato italiano
 
-Principali autorizzazioni (prime 5):
-
 <!-- review:begin it-lic-20261106-nebivolol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Rimossa anche la frase sul numero di autorizzazioni elencate nella vecchia tabella: la tabella delle autorizzazioni è ora generata dal programma dai dati AIFA (2026-11-24). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-nebivolol-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 039418013 | Nebivololo 28 cpr 5 mg | Towa Pharmaceutical SpA | Valida |
-| 045621024 | Nebivololo 28 cpr 5 mg | Aurobindo Pharma Italia Srl | Valida |
-| 038132054 | Nebivololo 28 cpr 5 mg | Sandoz SpA | Valida |
-| 032209013 | Nebilox 28 cpr div 5 mg | Menarini Internat. O.L.S.A | Valida |
-| 032210015 | Lobivon 28 cpr 5 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
+<!-- review:begin it-lic-20261124-nebivolol-1 -->
 
-Altri nomi commerciali tra le autorizzazioni cancellate: Nebiscon, Nivolon, Nobistar.
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Altri nomi commerciali tra le autorizzazioni cancellate: Nebiscon, Nivolon, Nobistar.» Rimosso: la frase completava la vecchia tabella e indicava come cancellate le confezioni Nebiscon, Nivolon e Nobistar; nell'elenco AIFA delle confezioni autorizzate (dati al 2026-11-23) Nebiscon e Nobistar risultano «Autorizzata» e Nivolon non figura più nell'elenco. Lo stato di ciascuna confezione è ora nella tabella delle autorizzazioni generata dal programma. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-nebivolol-1 -->
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039418013 | NEBIVOLOLO\*28 cpr 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 045621024 | NEBIVOLOLO\*28 cpr 5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038132054 | NEBIVOLOLO\*28 cpr 5 mg | SANDOZ SpA | Autorizzata |
+| 048207082 | NEBIVOLOLO\*28 cpr 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040028072 | NEBIVOLOLO\*28 cpr 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 037999051 | NEBIVOLOLO\*28 cpr 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 038566042 | NEBIVOLOLO\*28 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 039809013 | NEBISCON\*28 cpr div 5 mg | SO.SE.PHARM Srl | Autorizzata |
+| 032209013 | NEBILOX\*28 cpr div 5 mg | MENARINI INTERNAT. O.L.S.A | Autorizzata |
+| 032210015 | LOBIVON\*28 cpr 5 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 047391014 | LOBIVON\*28 cpr 5 mg | MEDIFARM Srl | Autorizzata |
+| 038446047 | NEBIVOLOLO\*28 cpr 5 mg | MYLAN SpA | Autorizzata |
+| 035780030 | NOBISTAR\*28 cpr rivestite 5 mg | MENARINI INTERNAT. O.L.S.A | Autorizzata |
+| 039807019 | NEBIVOLOLO\*28 cpr div 5 mg | PHARMACARE Srl | Autorizzata |
+| 050914011 | LOBIVON\*28 cpr 5 mg | FARMA 1000 Srl | Autorizzata |
+| 046351019 | LOBIVON\*28 cpr 5 mg | GENERAL PHARMA SOLUTIONS SpA | Autorizzata |
+| 038524056 | NEBIVOLOLO\*28 cpr 5 mg | TECNIGEN Srl | Autorizzata |
+| 038512048 | NEBIVOLOLO\*28 cpr 5 mg | LABORATORI ALTER Srl | Autorizzata |
+| 037806039 | NEBIVOLOLO\*28 cpr 5 mg | EG SpA | Autorizzata |
+| 039442049 | NIVOLON\*28 cpr 5 mg | MYLAN SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -144,9 +169,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
+| 2026-11-24 | Nebiscon e Nobistar risultano autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

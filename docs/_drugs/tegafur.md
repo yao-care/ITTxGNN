@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 423
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
 description: "Tegafur: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -68,10 +68,16 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042291017 | TEYSUNO*42 cps 15 mg + 4,35 mg + 11,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione valida) |
-| 042291031 | TEYSUNO*42 cps 20 mg + 5,8 mg + 15,8 mg (NORDIC GROUP BV) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042291017 | TEYSUNO\*42 cps 15 mg + 4,35 mg + 11,8 mg | NORDIC GROUP BV | Autorizzata |
+| 042291031 | TEYSUNO\*42 cps 20 mg + 5,8 mg + 15,8 mg | NORDIC GROUP BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni, intestate a Nordic Group BV, risultano valide.
 

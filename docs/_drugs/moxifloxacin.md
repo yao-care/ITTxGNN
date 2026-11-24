@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Moxifloxacina: nuova indicazione prevista, sindrome da iperviscosità policlonale (livello di evidenza L5). Indicazione originale: Infezioni batteriche (polmonite, peritonite, congiuntivite, peste…"
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
@@ -74,13 +74,19 @@ Per l'indicazione principale attualmente non è disponibile letteratura correlat
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 046817019 | Moxifloxacina*5 cpr rivestite 400 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 040580019 | Moxifloxacina*5 cpr rivestite 400 mg (Teva Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 043000013 | Moxifloxacina*5 cpr rivestite 400 mg (Krka) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 042077026 | Moxifloxacina*5 cpr rivestite 400 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034436016 | Avalox*5 cpr rivestite 400 mg (Bayer) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046817019 | MOXIFLOXACINA\*5 cpr rivestite 400 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040580019 | MOXIFLOXACINA\*5 cpr rivestite 400 mg | TEVA ITALIA Srl | Autorizzata |
+| 043000013 | MOXIFLOXACINA\*5 cpr rivestite 400 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 042077026 | MOXIFLOXACINA\*5 cpr rivestite 400 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 034436016 | AVALOX\*5 cpr rivestite 400 mg | BAYER SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -99,7 +105,7 @@ La predizione si basa solo sul punteggio del modello, senza studi clinici, lette
 
 <!-- review:begin it-lic-20261106-moxifloxacin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5). Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa solo sul punteggio del modello, senza studi clinici, letteratura né razionale meccanicistico (livello L5). Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-moxifloxacin-1 -->
 
@@ -112,7 +118,7 @@ La predizione si basa solo sul punteggio del modello, senza studi clinici, lette
 
 <!-- review:begin it-lic-20261106-moxifloxacin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-moxifloxacin-2 -->
 
@@ -124,8 +130,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (QT, tendini, sistema nervoso) pesa a sfavore» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

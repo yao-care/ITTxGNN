@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 247
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L4). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
@@ -85,21 +85,32 @@ Sono riportate le pubblicazioni più pertinenti, con priorità a studi randomizz
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Sono elencate le prime 5 autorizzazioni.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-itraconazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni sono cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-itraconazole-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 035899018 | Itraconazolo 8 cps 100 mg | Sandoz SpA | Valida |
-| 036377012 | Itraconazolo 8 cps 100 mg | Teva Italia Srl | Valida |
-| 044757146 | Itragerm 8 cps 50 mg | Isdin Srl | Valida |
-| 037080037 | Itraconazolo 8 cps 100 mg | EG SpA | Valida |
-| 027814019 | Triasporin 8 cps 100 mg | Italfarmaco SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035899018 | ITRACONAZOLO\*8 cps 100 mg | SANDOZ SpA | Autorizzata |
+| 036377012 | ITRACONAZOLO\*8 cps 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 044757146 | ITRAGERM\*8 cps 50 mg | ISDIN Srl | Autorizzata |
+| 037080037 | ITRACONAZOLO\*8 cps 100 mg | EG SpA | Autorizzata |
+| 027814019 | TRIASPORIN\*8 cps 100 mg | ITALFARMACO SpA | Autorizzata |
+| 027808017 | SPORANOX\*8 cps 100 mg | JANSSEN CILAG SpA | Autorizzata |
+| 027814021 | TRIASPORIN\*orale soluz 150 ml 10 mg/ml | ITALFARMACO SpA | Autorizzata |
+| 035874015 | ITRACONAZOLO\*8 cps 100 mg | DOC GENERICI Srl | Autorizzata |
+| 036010015 | TRAZER\*8 cps 100 mg | S.F. GROUP Srl | Autorizzata |
+| 037122049 | ITRACONAZOLO\*8 cps 100 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -117,7 +128,7 @@ I dati di sicurezza tratti dal foglio illustrativo AIFA non sono disponibili; si
 
 <!-- review:begin it-lic-20261106-itraconazole-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le terapie standard sono ben consolidate e il punteggio TxGNN elevato sembra riflettere la prossimità ad altre micosi più che un'efficacia reale. / Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le terapie standard sono ben consolidate e il punteggio TxGNN elevato sembra riflettere la prossimità ad altre micosi più che un'efficacia reale. / Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-itraconazole-2 -->
 
@@ -130,7 +141,7 @@ I dati di sicurezza tratti dal foglio illustrativo AIFA non sono disponibili; si
 
 <!-- review:begin it-lic-20261106-itraconazole-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-itraconazole-3 -->
 
@@ -142,9 +153,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza (cardiaco, epatico, numerose interazioni) richiede cautela» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->

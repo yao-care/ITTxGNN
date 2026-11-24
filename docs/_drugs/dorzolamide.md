@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Dorzolamide: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
 ---
 
@@ -68,15 +68,23 @@ Attualmente non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali risultano 7 autorizzazioni per medicinali a base di solo dorzolamide. Il testo dell'indicazione approvata e la forma farmaceutica non sono registrati nei dati locali. Nella tabella sono elencate le prime 5 autorizzazioni.
+Secondo i dati locali risultano 7 autorizzazioni per medicinali a base di solo dorzolamide. Il testo dell'indicazione approvata e la forma farmaceutica non sono registrati nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 040609012 | Dorzolamide collirio 5 ml 20 mg/ml | Aurobindo Pharma Italia Srl |
-| 040083014 | Dorzolamide collirio 1 flaconcino 5 ml 20 mg/ml | Mylan SpA |
-| 040189019 | Dorzonorm collirio 5 ml 20 mg/ml | DOC Generici Srl |
-| 042570010 | Zoliop collirio 1 flacone 5 ml 20 mg/ml | Farmigea SpA |
-| 031848056 | Trusopt collirio 5 ml 2% | Santen Italy Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040609012 | DORZOLAMIDE\*collirio 5 ml 20 mg/ml | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040083014 | DORZOLAMIDE\*collirio 1 flaconcino 5 ml 20 mg/ml | MYLAN SpA | Autorizzata |
+| 040189019 | DORZONORM\*collirio 5 ml 20 mg/ml | DOC GENERICI Srl | Autorizzata |
+| 042570010 | ZOLIOP\*collirio 1 flacone 5 ml 20 mg/ml | FARMIGEA SpA | Autorizzata |
+| 031848056 | TRUSOPT\*collirio 5 ml 2% | SANTEN ITALY Srl | Autorizzata |
+| 039967017 | DORZOCLAR\*collirio 5 ml 20 mg/ml | OMNIVISION ITALIA Srl | Autorizzata |
+| 039620012 | DORZOSTILL\*collirio 5 ml 2% | BRUSCHETTINI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

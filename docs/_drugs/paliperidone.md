@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
 description: "Paliperidone: nuova indicazione prevista, Retinal dystrophy with or without extraocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
@@ -83,15 +83,26 @@ Entrambe le revisioni sono indirette e non valutano il paliperidone nella schizo
 
 ## Informazioni sul mercato italiano
 
-Si elencano le prime 5.
+<!-- licenses:begin -->
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 046616025 | Paliperidone 3 mg, 28 cpr a rilascio prolungato (Sandoz) | Compresse a rilascio prolungato | Non riportata |
-| 046036024 | Paliperidone 3 mg, 28 cpr a rilascio prolungato (Teva) | Compresse a rilascio prolungato | Non riportata |
-| 038024410 | Invega 3 mg, 28 cpr a rilascio prolungato (Janssen-Cilag) | Compresse a rilascio prolungato | Non riportata |
-| 038024459 | Invega 6 mg, 28 cpr a rilascio prolungato (Janssen-Cilag) | Compresse a rilascio prolungato | Non riportata |
-| 045969084 | Paliperidone 9 mg, 28 cpr a rilascio prolungato (Krka) | Compresse a rilascio prolungato | Non riportata |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046616025 | PALIPERIDONE\*28x1 cpr 3 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 046036024 | PALIPERIDONE\*28 cpr 3 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+| 038024410 | INVEGA\*28 cpr 3 mg rilascio prolungato | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+| 038024459 | INVEGA\*28 cpr 6 mg rilascio prolungato | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+| 045969084 | PALIPERIDONE\*28 cpr 9 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 046036087 | PALIPERIDONE\*28 cpr 9 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+| 046036051 | PALIPERIDONE\*28 cpr 6 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+| 046616088 | PALIPERIDONE\*28x1 cpr 6 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 038024497 | INVEGA\*28 cpr 9 mg rilascio prolungato | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+| 045969058 | PALIPERIDONE\*28 cpr 6 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 045969021 | PALIPERIDONE\*28 cpr 3 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 046616140 | PALIPERIDONE\*28x1 cpr 9 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 395
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: nuova indicazione prevista, Brain small vessel disease 1 with or without ocular anomalies (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -97,19 +97,26 @@ Gli studi preclinici su roditori (PMID 35992034, 36589853, 32596035, 33870733, 3
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044558029 | ENTRESTO 28 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (valida) |
-| 044558068 | ENTRESTO 56 cpr rivestite 97 mg + 103 mg | Non indicata | Non indicata (valida) |
-| 044558233 | ENTRESTO 60 cps granulato in capsule da aprire 6 mg + 6 mg | Non indicata | Non indicata (valida) |
-| 044558031 | ENTRESTO 56 cpr rivestite 49 mg + 51 mg | Non indicata | Non indicata (valida) |
-| 044558017 | ENTRESTO 28 cpr rivestite 24 mg + 26 mg | Non indicata | Non indicata (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044558029 | ENTRESTO\*28 cpr rivestite 49 mg + 51 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 044558068 | ENTRESTO\*56 cpr rivestite 97 mg + 103 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 044558233 | ENTRESTO\*BB 60 cps granulato in capsule da aprire 6 mg + 6 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 044558031 | ENTRESTO\*56 cpr rivestite 49 mg + 51 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 044558017 | ENTRESTO\*28 cpr rivestite 24 mg + 26 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 044558245 | ENTRESTO\*BB 60 cps granulato in capsule da aprire 15 mg + 16 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il titolare è NOVARTIS EUROPHARM LTD.
 
 <!-- review:begin it-lic-20261106-sacubitril-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata. Il titolare è NOVARTIS EUROPHARM LTD.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata. Il titolare è NOVARTIS EUROPHARM LTD.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sacubitril-1 -->
 
@@ -152,7 +159,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Esiste anche una sesta autorizzazione (044558245, granulato in capsule da 15 mg + 16 mg), anch'essa revocata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
 
 <!-- review:end log -->

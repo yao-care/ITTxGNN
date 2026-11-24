@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 289
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methadone: nuova indicazione prevista, Sindrome di Tourette (livello di evidenza L4). Indicazione originale: Non disponibile nei dati compilati (i testi delle indicazioni delle a…"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -75,15 +75,25 @@ Attualmente non risulta alcuno studio clinico correlato registrato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029610223 | Metadone cloridrato soluzione orale 60 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 029610045 | Metadone cloridrato soluzione orale 100 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 029610033 | Metadone cloridrato soluzione orale 20 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 029610096 | Metadone cloridrato soluzione orale 5 ml 5 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
-| 029610072 | Metadone cloridrato soluzione orale 40 ml 1 mg/ml | Soluzione orale | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
 
-Tutte e 9 le autorizzazioni (titolare: Molteni & C. F.lli Alitti SpA) risultano cancellate; ne sono mostrate le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029610223 | METADONE CLORIDRATO\*orale soluz 1 flacone 60 ml 5 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610045 | METADONE CLORIDRATO\*orale soluz 1 flacone 100 ml 1 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610033 | METADONE CLORIDRATO\*orale soluz 1 flacone 20 ml 1 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610096 | METADONE CLORIDRATO\*orale soluz 1 flacone 5 ml 5 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610072 | METADONE CLORIDRATO\*orale soluz 1 flacone 40 ml 1 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610110 | METADONE CLORIDRATO\*orale soluz 1 flacone 20 ml 5 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610021 | METADONE CLORIDRATO\*orale soluz 1 flacone 10 ml 1 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610019 | METADONE CLORIDRATO\*orale soluz 1 flacone 5 ml 1 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029610108 | METADONE CLORIDRATO\*orale soluz 1 flacone 10 ml 5 mg/ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Tutte e 9 le autorizzazioni (titolare: Molteni & C. F.lli Alitti SpA) risultano cancellate.
 
 ## Considerazioni di sicurezza
 
@@ -113,7 +123,7 @@ Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno s
 
 <!-- review:begin it-lic-20261106-methadone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure. Inoltre tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il punteggio elevato del modello non basta a giustificare l'avanzamento, considerati il profilo di rischio del metadone (QT, 267 interazioni) e l'esistenza di alternative più sicure. Inoltre tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-methadone-1 -->
 
@@ -126,7 +136,7 @@ Per la sindrome di Tourette esiste solo un rapporto clinico del 1992 e nessuno s
 
 <!-- review:begin it-lic-20261106-methadone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimenti sullo stato regolatorio (autorizzazioni cancellate) e sulla disponibilità di formulazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimenti sullo stato regolatorio (autorizzazioni cancellate) e sulla disponibilità di formulazioni» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-methadone-2 -->
 
@@ -138,8 +148,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->

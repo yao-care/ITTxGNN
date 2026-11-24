@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
@@ -108,21 +108,31 @@ Le pubblicazioni sotto elencate riguardano la predizione del rank 3 (disturbo sp
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
 <!-- review:begin it-lic-20261106-methylphenidate-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-methylphenidate-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 041438045 | MEDIKINET 30 cps 10 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
-| 041889041 | EQUASYM 30 cps 10 mg rilascio modificato | Takeda Pharmaceuticals International AG Ireland Branch | Valida |
-| 041438108 | MEDIKINET 30 cps 40 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
-| 041438060 | MEDIKINET 30 cps 20 mg rilascio modificato | Medice Arzneimittel Pütter GmbH | Valida |
-| 035040017 | RITALIN 30 cpr 10 mg | Infectopharm Arzneimittel und Consilium GmbH | Valida |
+|------|------|------|------|
+| 041438045 | MEDIKINET\*30 cps 10 mg rilascio modificato | MEDICE ARZNEIMITT.PUETTER GmbH | Autorizzata |
+| 041889041 | EQUASYM\*30 cps 10 mg rilascio modificato | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+| 041438108 | MEDIKINET\*30 cps 40 mg rilascio modificato | MEDICE ARZNEIMITT.PUETTER GmbH | Autorizzata |
+| 041438060 | MEDIKINET\*30 cps 20 mg rilascio modificato | MEDICE ARZNEIMITT.PUETTER GmbH | Autorizzata |
+| 041889104 | EQUASYM\*30 cps 20 mg rilascio modificato | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+| 035040017 | RITALIN\*30 cpr 10 mg | INFECTOPHARM ARZ.UND CONS.GmbH | Autorizzata |
+| 041889155 | EQUASYM\*30 cps 30 mg rilascio modificato | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+| 041438084 | MEDIKINET\*30 cps 30 mg rilascio modificato | MEDICE ARZNEIMITT.PUETTER GmbH | Autorizzata |
+| 041438021 | MEDIKINET\*30 cps 5 mg rilascio modificato | MEDICE ARZNEIMITT.PUETTER GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -147,7 +157,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-methylphenidate-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione principale (sindrome faciodigitogenitale) si basa solo sul modello (L5), senza studi clinici né letteratura. Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-methylphenidate-2 -->
 
@@ -160,7 +170,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-methylphenidate-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento sullo stato regolatorio (autorizzazioni cancellate) e sulle formulazioni disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento sullo stato regolatorio (autorizzazioni cancellate) e sulle formulazioni disponibili.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-methylphenidate-3 -->
 
@@ -172,9 +182,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate, quindi non vi è un prodotto attualmente commercializzato» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

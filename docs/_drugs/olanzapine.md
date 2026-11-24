@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: nuova indicazione prevista, Torcicollo parossistico benigno dell'infanzia (benign paroxysmal torticollis of infancy) (livello di evidenza L5). Indicazione originale: Non riportata nei dat…"
@@ -103,13 +103,35 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:end it-lic-20261106-olanzapine-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 040771115 | Olanzapina 28 cpr orodispersibili 5 mg | EG SpA | Valida |
-| 039034196 | Olanzapina 28 cpr rivestite 10 mg | Viatris Limited | Valida |
-| 033638115 | Zyprexa Velotab 28 cpr orodispersibili 5 mg | Cheplapharm Registration GmbH | Valida |
-| 041011077 | Zalasta 28 cpr 5 mg | KRKA d.d. Novo Mesto | Valida |
-| 040532020 | Lazapir 28 cpr orodispersibili 10 mg | Neuraxpharm Italy SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040771115 | OLANZAPINA\*28 cpr orodispers 5 mg | EG SpA | Autorizzata |
+| 039034196 | OLANZAPINA\*28 cpr rivestite 10 mg | VIATRIS LIMITED | Autorizzata |
+| 033638115 | ZYPREXA VELOTAB\*28 cpr orodispers 5 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 040870255 | OLANZAPINA\*28 cpr orodispers 5 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 041011077 | ZALASTA\*28 cpr 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040532020 | LAZAPIR\*28 cpr orodispers 10 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 045680030 | OLAZAX DISPERZI\*28 cpr orodispers 10 mg | GLENMARK PHARMACEUTICALS S.R.O | Autorizzata |
+| 033638091 | ZYPREXA\*28 cpr rivestite 10 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 045681032 | OLAZAX\*28 cpr 10 mg | GLENMARK PHARMACEUTICALS S.R.O | Autorizzata |
+| 047486016 | FARPENTA\*28 cpr rivestite 2,5 mg | DOUBLE-E PHARMA LTD | Autorizzata |
+| 040870293 | OLANZAPINA\*28 cpr orodispers 10 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 039034018 | OLANZAPINA\*28 cpr rivestite 2,5 mg | VIATRIS LIMITED | Autorizzata |
+| 041011331 | ZALASTA\*28 cpr orodispers 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 039949019 | OLANZAPINA\*28 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 040870014 | OLANZAPINA\*28 cpr rivestite 2,5 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 040830212 | OLANZAPINA\*28 cpr orodispers 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 042420012 | OLANZAPINA\*28 cpr orodispers 5 mg | MYLAN SpA | Autorizzata |
+| 041954049 | OLANZAPINA\*28 cpr orodispers 5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040870139 | OLANZAPINA\*28 cpr rivestite 10 mg | CHEPLAPHARM REGISTRATION GMBH | Autorizzata |
+| 040830150 | OLANZAPINA\*28 cpr orodispers 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

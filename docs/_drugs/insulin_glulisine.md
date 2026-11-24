@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Glulisine: nuova indicazione prevista, Thiamine-responsive dysfunction syndrome (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -94,11 +94,17 @@ Sono elencati i 10 studi più rilevanti (priorità a fase 3 e a studi comparativ
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036684013 | APIDRA 1 flaconcino SC 10 ml 100 U/ml (valida) | Non disponibile | Non disponibile |
-| 036684088 | APIDRA 5 cartucce SC 3 ml 300 U (valida) | Non disponibile | Non disponibile |
-| 036684328 | APIDRA SoloStar 5 penne preriempite SC 100 U/ml 3 ml (valida) | Non disponibile | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036684013 | APIDRA\*1 flaconcino SC 10 ml 100 U/ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 036684088 | APIDRA\*5 cartucce SC 3 ml 300 U | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 036684328 | APIDRA\*solostar 5 penne preriempite SC 100 U/ml 3 ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare di tutte e tre le autorizzazioni: Sanofi Aventis Deutschland GmbH.
 
@@ -121,7 +127,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-insulin_glulisine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento. Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tuttavia, trattandosi dell'indicazione originale, non è un vero riposizionamento. Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_glulisine-1 -->
 
@@ -133,7 +139,7 @@ Per avvertenze e controindicazioni si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-insulin_glulisine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio (autorizzazioni revocate).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità effettiva del prodotto in Italia e dello stato regolatorio (autorizzazioni revocate).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_glulisine-2 -->
 
@@ -147,8 +153,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni revocate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le tre autorizzazioni italiane sono revocate, quindi la disponibilità deve essere verificata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni revocate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AMIODARONE"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiodarone: nuova indicazione prevista, Tachicardia ventricolare polimorfa catecolaminergica (catecholaminergic polymorphic ventricular tachycardia) (livello di evidenza L5)."
 ---
 
@@ -80,13 +80,22 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 L'amiodarone risulta commercializzato in Italia. Le autorizzazioni elencate sono tutte valide; il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 033200015 | AMIODARONE*20 cpr 200 mg (Sandoz) | Non indicata | Non registrata |
-| 044112023 | AMIODARONE*20 cpr 200 mg (Aurobindo Pharma Italia) | Non indicata | Non registrata |
-| 022033031 | AMIODAR*20 cpr 200 mg (Alfasigma) | Non indicata | Non registrata |
-| 040758029 | AMIODARONE*20 cpr 200 mg (Mylan) | Non indicata | Non registrata |
-| 035729019 | AMIODARONE*20 cpr 200 mg (Teva) | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 033200015 | AMIODARONE\*20 cpr 200 mg | SANDOZ SpA | Autorizzata |
+| 044112023 | AMIODARONE\*20 cpr 200 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 022033031 | AMIODAR\*20 cpr 200 mg | ALFASIGMA SpA | Autorizzata |
+| 040758029 | AMIODARONE\*20 cpr 200 mg | MYLAN SpA | Autorizzata |
+| 035729019 | AMIODARONE\*20 cpr 200 mg | TEVA B.V. | Autorizzata |
+| 047255029 | AMIODARONE\*20 cpr 200 mg | EG SpA | Autorizzata |
+| 032801019 | AMIODARONE\*20 cpr 200 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 025035015 | CORDARONE\*20 cpr 200 mg | SANOFI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

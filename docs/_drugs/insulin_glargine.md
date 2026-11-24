@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "insulin glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 description: "Insulin Glargine: nuova indicazione prevista, Ooforite autoimmune (autoimmune oophoritis) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
@@ -76,15 +76,22 @@ A titolo indicativo, per la seconda previsione per evidenza (agenzia pancreatica
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043658121 | ABASAGLAR 5 penne preriempite SC 100 U/ml 3 ml | n.d. | n.d. |
-| 035724069 | LANTUS 5 cartucce SC 100 U/ml 3 ml | n.d. | n.d. |
-| 035724246 | LANTUS SOLOSTAR 5 penne preriempite SC 100 U/ml 3 ml | n.d. | n.d. |
-| 035724121 | LANTUS 1 flaconcino SC 1.000 U 10 ml | n.d. | n.d. |
-| 043192347 | TOUJEO SOLOSTAR 3 penne preriempite SC 300 U/ml 1,5 ml | n.d. | n.d. |
+<!-- licenses:begin -->
 
-Sono mostrate le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043658121 | ABASAGLAR\*5 penne preriempite SC 100 U/ml 3 ml | ELI LILLY NEDERLAND BV | Autorizzata |
+| 035724069 | LANTUS\*5 cartucce SC 100 U/ml 3 ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 035724246 | LANTUS\*SOLOSTAR 5 penne preriempite SC 100 U/ml 3 ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 035724121 | LANTUS\*1 flaconcino SC 1.000 U 10 ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 043192347 | TOUJEO\*SOLOSTAR 3 penne preriempite SC 300 U/ml 1,5 ml | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 043658032 | ABASAGLAR\*5 cartucce SC 100 U/ml 3 ml | ELI LILLY NEDERLAND BV | Autorizzata |
+| 045254036 | SULIQUA\*3 penne preriempite 3 ml 100 U/ml + 33 mcg/ml | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 045254012 | SULIQUA\*3 penne preriempite 3 ml 100 U/ml + 50 mcg/ml | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -108,7 +115,7 @@ La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), s
 
 <!-- review:begin it-lic-20261106-insulin_glargine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), senza sperimentazioni o letteratura, e verosimilmente riflette la comorbilità autoimmune con il diabete di tipo 1 e non un beneficio terapeutico. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), senza sperimentazioni o letteratura, e verosimilmente riflette la comorbilità autoimmune con il diabete di tipo 1 e non un beneficio terapeutico. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_glargine-1 -->
 
@@ -120,7 +127,7 @@ La previsione per l'ooforite autoimmune è esclusivamente computazionale (L5), s
 
 <!-- review:begin it-lic-20261106-insulin_glargine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-insulin_glargine-2 -->
 
@@ -132,8 +139,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

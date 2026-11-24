@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "bempedoic acid"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bempedoic Acid: nuova indicazione prevista, Ipertiroidismo (hyperthyroidism) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
 ---
 
@@ -68,13 +68,19 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 051828010 | NILEMDO 28 cpr rivestite 180 mg | – | Non registrata |
-| 048721029 | NILEMDO 28 cpr rivestite 180 mg | – | Non registrata |
-| 051564019 | NILEMDO 28 cpr rivestite 180 mg | – | Non registrata |
-| 051658019 | NUSTENDI 28 cpr rivestite 180 mg + 10 mg | – | Non registrata |
-| 048668026 | NUSTENDI 28 cpr rivestite 180 mg + 10 mg | – | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 051828010 | NILEMDO\*28 cpr rivestite 180 mg | FARMED Srl | Autorizzata |
+| 048721029 | NILEMDO\*28 cpr rivestite 180 mg | DAIICHI SANKYO EUROPE GmbH | Autorizzata |
+| 051564019 | NILEMDO\*28 cpr rivestite 180 mg | GMM FARMA Srl | Autorizzata |
+| 051658019 | NUSTENDI\*28 cpr rivestite 180 mg + 10 mg | GMM FARMA Srl | Autorizzata |
+| 048668026 | NUSTENDI\*28 cpr rivestite 180 mg + 10 mg | DAIICHI SANKYO EUROPE GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

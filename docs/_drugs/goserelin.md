@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 226
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Goserelin: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Endometriosi (secondo gli archi di indicazione della base di conoscen…"
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
@@ -85,10 +85,16 @@ Lo studio fornisce solo un supporto indiretto e non soddisfa i criteri di eviden
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
-|---------|------|------|-----------|
-| 026471019 | ZOLADEX 1 siringa SC 3,6 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione valida) |
-| 026471021 | ZOLADEX 1 siringa SC 10,8 mg rilascio prolungato (AstraZeneca) | Non specificata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 026471019 | ZOLADEX\*1 siringa SC 3,6 mg rilascio prolungato | ASTRAZENECA SpA | Autorizzata |
+| 026471021 | ZOLADEX\*1 siringa SC 10,8 mg rilascio prolungato | ASTRAZENECA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 
@@ -116,7 +122,7 @@ L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressio
 
 <!-- review:begin it-lic-20261106-goserelin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le evidenze sono per lo più indirette (contesto del carcinoma mammario) e le autorizzazioni italiane sono tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le evidenze sono per lo più indirette (contesto del carcinoma mammario) e le autorizzazioni italiane sono tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-goserelin-1 -->
 
@@ -128,7 +134,7 @@ L'amenorrea è principalmente un effetto farmacodinamico atteso della soppressio
 
 <!-- review:begin it-lic-20261106-goserelin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio attuale in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire lo stato regolatorio attuale in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-goserelin-2 -->
 
@@ -140,8 +146,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e le autorizzazioni italiane sono tutte revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
 
 <!-- review:end log -->

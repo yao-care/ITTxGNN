@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbamazepine: nuova indicazione prevista, Tumore del nervo trigemino (trigeminal nerve neoplasm) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 7)"
 ---
 
@@ -80,15 +80,26 @@ Nessuno studio valuta direttamente la carbamazepina nel trattamento del tumore d
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali, il farmaco risulta commercializzato. Le autorizzazioni principali, tutte come medicinale a singolo principio attivo, sono:
+Secondo i dati locali, il farmaco risulta commercializzato.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|-----------|
-| 020602025 | Tegretol 30 cpr 400 mg | Novartis Farma SpA |
-| 020602013 | Tegretol 50 cpr 200 mg | Novartis Farma SpA |
-| 020602049 | Tegretol 30 cpr 200 mg rilascio modificato | Novartis Farma SpA |
-| 033878012 | Carbamazepina 50 cpr 200 mg | EG SpA |
-| 047982069 | Carbamazepina 30 cpr 400 mg rilascio prolungato | Zentiva Italia Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 020602025 | TEGRETOL\*30 cpr 400 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 020602049 | TEGRETOL\*30 cpr 200 mg rilascio modificato | NOVARTIS FARMA SpA | Autorizzata |
+| 020602013 | TEGRETOL\*50 cpr 200 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 033878024 | CARBAMAZEPINA\*30 cpr 400 mg | EG SpA | Autorizzata |
+| 033878012 | CARBAMAZEPINA\*50 cpr 200 mg | EG SpA | Autorizzata |
+| 020602052 | TEGRETOL\*30 cpr 400 mg rilascio modificato | NOVARTIS FARMA SpA | Autorizzata |
+| 020602037 | TEGRETOL\*BB 1 flacone 250 ml 20 mg/ml sciroppo | NOVARTIS FARMA SpA | Autorizzata |
+| 047982069 | CARBAMAZEPINA\*30 cpr 400 mg rilascio prolungato | ZENTIVA ITALIA Srl | Non più autorizzata |
+| 047982018 | CARBAMAZEPINA\*30 cpr 200 mg rilascio prolungato | ZENTIVA ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

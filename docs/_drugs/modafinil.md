@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 description: "Modafinil: nuova indicazione prevista, insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -83,9 +83,15 @@ Le pubblicazioni raccolte riguardano condizioni correlate (sonnolenza diurna e f
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034369013 | PROVIGIL*30 cpr 100 mg (TEVA ITALIA Srl) | Compresse | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034369013 | PROVIGIL\*30 cpr 100 mg | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

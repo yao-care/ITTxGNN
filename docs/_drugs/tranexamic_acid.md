@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tranexamic Acid: nuova indicazione prevista, Amenorrea (livello di evidenza L5). Indicazione originale: Endometriosi (secondo la base di conoscenza TxGNN"
 monitor_inn: "tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
@@ -84,13 +84,20 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 022019032 | TRANEX*6 fiale EV 500 mg 5 ml (Malesci) | Non specificata | Non disponibile (valida) |
-| 044760039 | ACIDO TRANEXAMICO*6 fiale EV 5 ml 100 mg/ml (Eugia Pharma) | Non specificata | Non disponibile (valida) |
-| 022019018 | TRANEX*30 cps 250 mg (Malesci) | Non specificata | Non disponibile (valida) |
-| 021458017 | UGUROL*20 cpr 250 mg (Viatris) | Non specificata | Non disponibile (valida) |
-| 022019020 | TRANEX*30 cps 500 mg (Malesci) | Non specificata | Non disponibile (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022019032 | TRANEX\*6 fiale EV 500 mg 5 ml | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 044760039 | ACIDO TRANEXAMICO\*6 fiale EV 5 ml 100 mg/ml | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 022019018 | TRANEX\*30 cps 250 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 021458017 | UGUROL\*20 cpr 250 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 022019020 | TRANEX\*30 cps 500 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 021458031 | UGUROL\*6 fiale EV orale locale 500 mg 5 ml | VIATRIS ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -101,7 +108,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 <!-- review:begin it-lic-20261106-tranexamic_acid-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tranexamic_acid-1 -->
 
@@ -118,7 +125,7 @@ Non esistono studi clinici registrati e la letteratura disponibile consiste in d
 
 <!-- review:begin it-lic-20261106-tranexamic_acid-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il legame meccanicistico con l'amenorrea è indiretto e il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il legame meccanicistico con l'amenorrea è indiretto e il farmaco non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tranexamic_acid-2 -->
 
@@ -131,7 +138,7 @@ Non esistono studi clinici registrati e la letteratura disponibile consiste in d
 
 <!-- review:begin it-lic-20261106-tranexamic_acid-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tranexamic_acid-3 -->
 
@@ -143,9 +150,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono state rilevate 6 autorizzazioni in totale, tutte cancellate; la tabella ne mostra le prime 5» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e il farmaco non ha attualmente autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5) |
 
 <!-- review:end log -->

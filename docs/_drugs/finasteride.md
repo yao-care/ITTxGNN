@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
@@ -92,7 +92,7 @@ Si tratta di articoli narrativi di contesto: nessuno fornisce evidenza diretta d
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili. Principali autorizzazioni (compresse rivestite da 5 mg):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili.
 
 <!-- review:begin it-lic-20261106-finasteride-1 -->
 
@@ -100,13 +100,35 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibil
 
 <!-- review:end it-lic-20261106-finasteride-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 028308017 | Proscar, 15 cpr rivestite 5 mg | Organon Italia Srl | Valida |
-| 038791024 | Finasteride, 15 cpr rivestite 5 mg | Teva Italia Srl | Valida |
-| 038413011 | Finestar, 15 cpr rivestite 5 mg | Eberlife Farmaceutici SpA | Valida |
-| 038443014 | Stecur, 15 cpr rivestite 5 mg | Genetic SpA | Valida |
-| 039681010 | Terip, 15 cpr rivestite 5 mg | Pharmacare Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038791024 | FINASTERIDE\*15 cpr rivestite 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 028308017 | PROSCAR\*15 cpr rivestite 5 mg | ORGANON ITALIA Srl | Autorizzata |
+| 038413011 | FINESTAR\*15 cpr rivestite 5 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 038412021 | FINASTERIDE\*30 cpr rivestite 5 mg | IPSO PHARMA Srl | Autorizzata |
+| 051542013 | PROSCAR\*15 cpr rivestite 5 mg | BB FARMA Srl | Autorizzata |
+| 038415028 | FINASTERIDE\*30 cpr rivestite 5 mg | DOC GENERICI Srl | Autorizzata |
+| 039905029 | FINASTERIDE\*30 cpr rivestite 5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043495124 | FINASTERIDE\*30 cpr rivestite 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 039905017 | FINASTERIDE\*15 cpr rivestite 5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038443014 | STECUR\*15 cpr rivestite 5 mg | GENETIC SpA | Autorizzata |
+| 039485026 | FINASTERIDE\*30 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 039680018 | FINASTERIDE\*15 cpr rivestite 5 mg | ALMUS Srl | Autorizzata |
+| 037837022 | FINASTERIDE\*15 cpr rivestite 5 mg | EG SpA | Autorizzata |
+| 051165013 | PROSCAR\*15 cpr rivestite 5 mg | GMM FARMA Srl | Autorizzata |
+| 039485014 | FINASTERIDE\*15 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 038414013 | FINASTERIDE\*15 cpr rivestite 5 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 043495098 | FINASTERIDE\*15 cpr rivestite 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 050528013 | PROSCAR\*15 cpr rivestite 5 mg | FARMED Srl | Autorizzata |
+| 038791051 | FINASTERIDE\*30 cpr rivestite 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 039681010 | TERIP\*15 cpr rivestite 5 mg | PHARMACARE Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

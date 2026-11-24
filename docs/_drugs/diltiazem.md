@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 147
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Diltiazem: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ Il modello TxGNN ha prodotto candidati per Diltiazem con punteggio ≥ 0,99, ma 
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
-|------|------|------|------|
-| 025275049 | Diltiazem |  | Valida |
-| 026675049 | Diltiazem |  | Valida |
-| 025275025 | Diltiazem |  | Valida |
-| 025277070 | Diltiazem |  | Non più autorizzata |
-| 032808091 | Diltiazem |  | Valida |
-| 025277068 | Diltiazem |  | Valida |
-| 026675025 | Diltiazem |  | Valida |
-| 033581012 | Diltiazem |  | Valida |
-| 033581024 | Diltiazem |  | Valida |
-| 026675013 | Diltiazem |  | Valida |
-| 025278060 | Diltiazem |  | Valida |
-| 033682028 | Diltiazem |  | Valida |
-| 025278058 | Diltiazem |  | Valida |
-| 033682030 | Diltiazem |  | Valida |
-| 025271014 | Diltiazem |  | Valida |
-| 025275013 | Diltiazem |  | Valida |
-| 033581048 | Diltiazem |  | Valida |
-| 025278019 | Diltiazem |  | Valida |
-| 025277017 | Diltiazem |  | Valida |
-| 032808040 | Diltiazem |  | Valida |
+<!-- licenses:begin -->
 
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025275049 | DILADEL\*36 cps 200 mg rilascio prolungato | ZENTIVA ITALIA Srl | Autorizzata |
+| 026675049 | DILTIAZEM\*14 cpr 300 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 025275025 | DILADEL\*24 cpr 120 mg rilascio prolungato | ZENTIVA ITALIA Srl | Autorizzata |
+| 032808091 | DILTIAZEM\*24 cps 120 mg rilascio modificato | EG SpA | Autorizzata |
+| 025277068 | DILZENE\*24 cpr 120 mg rilascio prolungato | ALFASIGMA SpA | Autorizzata |
+| 026675025 | DILTIAZEM\*24 cpr 120 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 033581012 | DILTIAZEM\*50 cpr 60 mg rilascio modificato | DOC GENERICI Srl | Autorizzata |
+| 033581024 | DILTIAZEM\*24 cpr 120 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 026675013 | DILTIAZEM\*50 cpr 60 mg rilascio modificato | MYLAN SpA | Autorizzata |
+| 025278060 | TILDIEM\*14 cps 300 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 033682028 | DILTIAZEM\*24 cps 120 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 025278058 | TILDIEM\*24 cpr 120 mg rilascio prolungato | SANOFI Srl | Autorizzata |
+| 033682030 | DILTIAZEM\*14 cps 300 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 025271014 | ALTIAZEM\*50 cpr 60 mg rilascio modificato | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+| 025275013 | DILADEL\*50 cpr 60 mg rilascio modificato | ZENTIVA ITALIA Srl | Autorizzata |
+| 033581048 | DILTIAZEM\*14 cpr 300 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 025278019 | TILDIEM\*50 cpr 60 mg rilascio modificato | SANOFI Srl | Autorizzata |
+| 025277017 | DILZENE\*50 cpr 60 mg rilascio modificato | ALFASIGMA SpA | Autorizzata |
+| 032808040 | DILTIAZEM\*50 cpr 60 mg | EG SpA | Autorizzata |
+| 025277070 | DILZENE\*14 cps 300 mg rilascio prolungato | ALFASIGMA SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
 I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 description: "Famotidine: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -86,10 +86,16 @@ Attualmente non risultano studi clinici registrati correlati al reflusso duodeno
 
 ## Informazioni sul Mercato Italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034433122 | Famotidina 20 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
-| 034433096 | Famotidina 10 cpr rivestite 40 mg (EG SpA) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034433122 | FAMOTIDINA\*20 cpr rivestite 40 mg | EG SpA | Autorizzata |
+| 034433096 | FAMOTIDINA\*10 cpr rivestite 40 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,7 +117,7 @@ Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio cli
 
 <!-- review:begin it-lic-20261106-famotidine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto. Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per il reflusso duodeno-gastrico l'evidenza è di livello L4: nessuno studio clinico registrato e solo due pubblicazioni deboli, con un meccanismo solo indiretto. Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-famotidine-1 -->
 
@@ -131,7 +137,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre in Italia risultano solo autorizzazioni cancellate, il che limita la fattibilità pratica» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
 
 <!-- review:end log -->

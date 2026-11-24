@@ -3,7 +3,7 @@ layout: default
 title: Betaxolol
 parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 68
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Betaxolol: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 indication_count: 0
@@ -72,10 +72,16 @@ I candidati prodotti dal modello TxGNN per Betaxolol sono tutti usi già noti, q
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 025899016 | Betaxololo |  | Valida |
-| 025317013 | Betaxololo |  | Valida |
+| 025899016 | BETOPTIC\*collirio 5 ml 5 mg/ml | IMMEDICA PHARMA AB | Autorizzata |
+| 025317013 | KERLON\*28 cpr rivestite 20 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

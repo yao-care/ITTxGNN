@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "doxofylline"
 drugbank_id: DB09273
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Doxofylline: nuova indicazione prevista, Sindrome di Pierre Robin associata ad anomalia cromosomica (Pierre Robin syndrome associated with a chromosomal anomaly) (livello di evidenza L5). Indicazione…"
 ---
 
@@ -71,13 +71,20 @@ Al momento non risulta letteratura correlata disponibile per questa indicazione.
 
 Le autorizzazioni registrate riguardano prodotti a base di doxofillina del titolare ABC FARMACEUTICI SpA (compresse, sciroppo, fiale endovenose); il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025474014 | ANSIMAR*20 cpr 400 mg | Compresse | Non registrata nei dati locali |
-| 033887047 | DOXOVENT*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
-| 025474040 | ANSIMAR*3 fiale EV 100 mg 10 ml | Fiale endovenose | Non registrata nei dati locali |
-| 033876044 | DOXOFILLINA*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
-| 025474065 | ANSIMAR*1 flacone 200 ml 20 mg/ml sciroppo | Sciroppo | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025474014 | ANSIMAR\*20 cpr 400 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 033887047 | DOXOVENT\*1 flacone 200 ml 20 mg/ml sciroppo | ABC FARMACEUTICI SpA | Autorizzata |
+| 025474040 | ANSIMAR\*3 fiale EV 100 mg 10 ml | ABC FARMACEUTICI SpA | Autorizzata |
+| 025474065 | ANSIMAR\*1 flacone 200 ml 20 mg/ml sciroppo | ABC FARMACEUTICI SpA | Autorizzata |
+| 033876044 | DOXOFILLINA\*1 flacone 200 ml 20 mg/ml sciroppo | ABC FARMACEUTICI SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

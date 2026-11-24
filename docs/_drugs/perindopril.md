@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Perindopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -83,15 +83,37 @@ Per l'ipertensione renovascolare maligna non è disponibile alcuna letteratura c
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è riportato nei dati compilati. Esempi tra le principali:
+Il testo dell'indicazione approvata non è riportato nei dati compilati.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 051109015 | COVERSYL 30 cpr rivestite 5 mg | NEW PHARMASHOP Srl | Valida |
-| 038764078 | PERINDOPRIL 30 cpr 4 mg | SANDOZ SpA | Valida |
-| 041788112 | PERINDOPRIL 30 cpr rivestite 10 mg | TEVA ITALIA Srl | Valida |
-| 027286210 | COVERSYL 30 cpr rivestite 5 mg | LES LABORATOIRES SERVIER | Valida |
-| 027469319 | PROCAPTAN 30 cpr rivestite 10 mg | STRODER Srl | Valida |
+|------|------|------|------|
+| 051109015 | COVERSYL\*30 cpr rivestite 5 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 038764078 | PERINDOPRIL\*30 cpr 4 mg | SANDOZ SpA | Autorizzata |
+| 041788112 | PERINDOPRIL\*30 cpr rivestite 10 mg flacone | TEVA ITALIA Srl | Autorizzata |
+| 037770346 | PERINDOPRIL\*30 cpr 8 mg | DOC GENERICI Srl | Autorizzata |
+| 037770068 | PERINDOPRIL\*30 cpr 4 mg | DOC GENERICI Srl | Autorizzata |
+| 044382012 | COVERSYL\*30 cpr rivestite 10 mg flacone | MEDIFARM Srl | Autorizzata |
+| 027286210 | COVERSYL\*30 cpr rivestite 5 mg flacone | LES LABORATOIRES SERVIER | Autorizzata |
+| 038523078 | PERINDOPRIL\*30 cpr 4 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 040739132 | PERINDOPRIL\*30 cpr rivestite 10 mg | MYLAN SpA | Autorizzata |
+| 039202104 | PERINDOPRIL\*30 cpr 4 mg | EG SpA | Autorizzata |
+| 027469319 | PROCAPTAN\*30 cpr rivestite 10 mg flacone | STRODER Srl | Autorizzata |
+| 045331016 | COVERSYL\*30 cpr rivestite 5 mg flacone | GENERAL PHARMA SOLUTIONS SpA | Autorizzata |
+| 040739070 | PERINDOPRIL\*30 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 047260017 | COVERSYL\*30 cpr rivestite 5 mg flacone | GMM FARMA Srl | Autorizzata |
+| 039788132 | PERINDOPRIL\*30 cpr 4 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 027469206 | PROCAPTAN\*30 cpr rivestite 5 mg flacone | STRODER Srl | Autorizzata |
+| 050043090 | PERINDOPRIL\*30 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 047260043 | COVERSYL\*30 cpr rivestite 10 mg flacone | GMM FARMA Srl | Autorizzata |
+| 041788062 | PERINDOPRIL\*30 cpr rivestite 5 mg flacone | TEVA ITALIA Srl | Autorizzata |
+| 044382024 | COVERSYL\*30 cpr rivestite 5 mg flacone | MEDIFARM Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

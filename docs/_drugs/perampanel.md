@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: nuova indicazione prevista, Beta-ketothiolase deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -104,23 +104,31 @@ Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 <!-- review:begin it-lic-20261106-perampanel-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-perampanel-1 -->
 
 <!-- review:begin it-lic-20261106-perampanel-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-perampanel-2 -->
 
-| Numero di autorizzazione | Prodotto | Stato |
-|---------|------|-----------|
-| 042581013 | FYCOMPA 7 cpr rivestite 2 mg | Valida |
-| 042581037 | FYCOMPA 28 cpr rivestite 4 mg | Valida |
-| 042581064 | FYCOMPA 28 cpr rivestite 6 mg | Valida |
-| 042581090 | FYCOMPA 28 cpr rivestite 8 mg | Valida |
-| 042581126 | FYCOMPA 28 cpr rivestite 10 mg | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042581241 | FYCOMPA\*orale sosp 1 flacone 340 ml + 2 siringhe + 1 adattatore per flaconi | EISAI GMBH | Autorizzata |
+| 042581064 | FYCOMPA\*28 cpr rivestite 6 mg | EISAI GMBH | Autorizzata |
+| 042581013 | FYCOMPA\*7 cpr rivestite 2 mg | EISAI GMBH | Autorizzata |
+| 042581037 | FYCOMPA\*28 cpr rivestite 4 mg | EISAI GMBH | Autorizzata |
+| 042581126 | FYCOMPA\*28 cpr rivestite 10 mg | EISAI GMBH | Autorizzata |
+| 042581090 | FYCOMPA\*28 cpr rivestite 8 mg | EISAI GMBH | Autorizzata |
+| 042581153 | FYCOMPA\*28 cpr rivestite 12 mg | EISAI GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -142,7 +150,7 @@ Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più 
 
 <!-- review:begin it-lic-20261106-perampanel-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate. Tra le indicazioni predette, solo lo stato epilettico presenta un'evidenza più consistente (L2, classificata come "Research Question"), ma essa è per lo più osservazionale, e i due studi randomizzati registrati sono stati interrotti con 1 partecipante ciascuno.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-perampanel-3 -->
 
@@ -161,9 +169,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 7 le autorizzazioni (titolare: Eisai GmbH, prodotto FYCOMPA) risultano cancellate; non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(Altre due autorizzazioni cancellate: 042581153, compresse da 12 mg, e 042581241, sospensione orale da 340 ml.)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

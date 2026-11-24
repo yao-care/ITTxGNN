@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 386
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: nuova indicazione prevista, Glaucoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -74,7 +74,7 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati. Principali autorizzazioni (prime 5):
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati.
 
 <!-- review:begin it-lic-20261106-rivastigmine-1 -->
 
@@ -82,13 +82,35 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili
 
 <!-- review:end it-lic-20261106-rivastigmine-1 -->
 
-| N. autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034078055 | EXELON 56 cps 3 mg | Novartis Europharm Ltd | Valida |
-| 034078081 | EXELON 56 cps 4,5 mg | Novartis Europharm Ltd | Valida |
-| 041261064 | DEMELORA 30 cerotti transdermici 9,5 mg/die | Neuraxpharm Italy SpA | Valida |
-| 041673106 | NIMVASTID 56 cps 3 mg | Krka d.d. Novo Mesto | Valida |
-| 043087143 | Rivastigmina 30 cerotti transdermici 4,6 mg/die | Sandoz GmbH | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040904106 | RIVASTIGMINA\*56 cps 4,5 mg | SANDOZ GMBH | Autorizzata |
+| 042456158 | RIVASTIGMINA\*30 cerotti transdermici 13,3 mg/die | DOC GENERICI Srl | Autorizzata |
+| 041260100 | RIVASTIGMINA\*30 cerotti transdermici 4,6 mg/24 ore | MYLAN SpA | Autorizzata |
+| 041787033 | RIVASTIGMINA\*56 cps 4,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 034078055 | EXELON\*56 cps 3 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 043087220 | RIVASTIGMINA\*30 cerotti transdermici 13,3 mg/die | SANDOZ GMBH | Autorizzata |
+| 043087143 | RIVASTIGMINA\*30 cerotti transdermici 4,6 mg/die | SANDOZ GMBH | Autorizzata |
+| 041787045 | RIVASTIGMINA\*56 cps 6 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041261064 | DEMELORA\*30 cerotti transdermici 9,5 mg/die | NEURAXPHARM ITALY SpA | Autorizzata |
+| 041673169 | NIMVASTID\*56 cps 4,5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041261241 | DEMELORA\*30 cerotti transdermici 9,5 mg/die | NEURAXPHARM ITALY SpA | Autorizzata |
+| 042456032 | RIVASTIGMINA\*30 cerotti transdermici 4,6 mg/die | DOC GENERICI Srl | Autorizzata |
+| 041787019 | RIVASTIGMINA\*56 cps 1,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041261304 | DEMELORA\*30 cerotti transdermici 13,3 mg/die | NEURAXPHARM ITALY SpA | Autorizzata |
+| 040904144 | RIVASTIGMINA\*56 cps 6 mg | SANDOZ GMBH | Autorizzata |
+| 041260148 | RIVASTIGMINA\*30 cerotti transdermici 9,5 mg/24 ore | MYLAN SpA | Autorizzata |
+| 041258068 | RIVASTIGMINA\*30 cerotti transdermici 9,5 mg/die | ZENTIVA ITALIA Srl | Autorizzata |
+| 034078081 | EXELON\*56 cps 4,5 mg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 041673106 | NIMVASTID\*56 cps 3 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041673221 | NIMVASTID\*56 cps 6 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 Le formulazioni autorizzate erano orali (capsule) e transdermiche (cerotti): un eventuale sviluppo oftalmico richiederebbe una nuova formulazione, ad esempio topica.
 

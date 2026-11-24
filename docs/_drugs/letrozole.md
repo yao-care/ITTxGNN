@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: nuova indicazione prevista, Carcinoma del capezzolo (nipple carcinoma) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -79,15 +79,37 @@ Le pubblicazioni sono casi clinici o revisioni sul tema del carcinoma del capezz
 
 ## Informazioni sul mercato italiano
 
-Il farmaco risulta commercializzato in Italia con licenze valide. L'elenco seguente riporta alcune delle autorizzazioni principali; l'elenco può essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
+Il farmaco risulta commercializzato in Italia con licenze valide. Il testo dell'indicazione approvata non è registrato nei dati locali.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 040413041 | Letrozolo 30 cpr rivestite 2,5 mg | Zentiva Italia Srl | Valida |
-| 049762026 | Femara 30 cpr rivestite 2,5 mg | BB Farma Srl | Valida |
-| 044537025 | Femara 30 cpr rivestite 2,5 mg | Medifarm Srl | Valida |
-| 040645069 | Letrozolo 30 cpr rivestite 2,5 mg | Mylan SpA | Valida |
-| 040324042 | Letrozolo 30 cpr rivestite 2,5 mg | Sandoz SpA | Valida |
+|------|------|------|------|
+| 040413041 | LETROZOLO\*30 cpr rivestite 2,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049762026 | FEMARA\*30 cpr rivestite 2,5 mg | BB FARMA Srl | Autorizzata |
+| 044537025 | FEMARA\*30 cpr rivestite 2,5 mg | MEDIFARM Srl | Autorizzata |
+| 040645069 | LETROZOLO\*30 cpr rivestite 2,5 mg | MYLAN SpA | Autorizzata |
+| 040324042 | LETROZOLO\*30 cpr rivestite 2,5 mg | SANDOZ SpA | Autorizzata |
+| 033242013 | FEMARA\*30 cpr rivestite 2,5 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 049121015 | LETROZOLO\*30 cpr rivestite 2,5 mg | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 051138016 | FEMARA\*30 cpr rivestite 2,5 mg | FARMED Srl | Autorizzata |
+| 039900016 | LETROZOLO\*30 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 040387019 | BRESTORAL\*30 cpr rivestite 2,5 mg | WAVE PHARMA Srl | Autorizzata |
+| 040367070 | LETROZOLO\*30 cpr rivestite 2,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 049762014 | FEMARA\*30 cpr rivestite 2,5 mg | BB FARMA Srl | Autorizzata |
+| 050490010 | LETROZOLO\*30 cpr rivestite 2,5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 039124021 | CALANTHA\*30 cpr rivestite 2,5 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 048400016 | LETROZOLO\*30 cpr rivestite 2,5 mg | LABORATORI ALTER Srl | Autorizzata |
+| 047270032 | FEMARA\*30 cpr rivestite 2,5 mg | GMM FARMA Srl | Autorizzata |
+| 040794048 | RAMATES\*30 cpr rivestite 2,5 mg | JUST PHARMA Srl | Autorizzata |
+| 044907018 | FEMARA\*30 cpr rivestite 2,5 mg | PRICETAG SpA | Autorizzata |
+| 040233013 | LETROZOLO\*30 cpr rivestite 2,5 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 042723015 | LETROZOLO\*30 cpr rivestite 2,5 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

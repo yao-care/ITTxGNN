@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: nuova indicazione prevista, Emicrania con aura del tronco encefalico (migraine with brainstem aura) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -94,13 +94,36 @@ Le pubblicazioni seguenti riguardano l'emicrania con aura e il forame ovale perv
 
 Secondo i dati locali risultano numerose autorizzazioni per il principio attivo singolo (elenco possibilmente parziale); i testi delle indicazioni approvate non sono registrati.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034128013 | PLAVIX 28 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
-| 039643022 | CLOPIDOGREL 28 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
-| 049461015 | PLAVIX 28 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
-| 042557114 | CLOPIDOGREL 28 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
-| 044616011 | CLOPIDOGREL 28 cpr rivestite 75 mg | Compresse rivestite | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034128013 | PLAVIX\*28 cpr rivestite 75 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 039643022 | CLOPIDOGREL\*28 cpr rivestite 75 mg | DOC GENERICI Srl | Autorizzata |
+| 049461015 | PLAVIX\*28 cpr rivestite 75 mg | GMM FARMA Srl | Autorizzata |
+| 042557114 | CLOPIDOGREL\*28 cpr rivestite 75 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044616011 | CLOPIDOGREL\*28 cpr rivestite 75 mg | ALMUS Srl | Autorizzata |
+| 050145010 | PLAVIX\*28 cpr rivestite 75 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 039482031 | CLOPIDOGREL\*28 cpr rivestite 75 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 039494024 | CLOPINOVO\*28 cpr rivestite 75 mg | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 039458029 | CLOPIDOGREL\*28 cpr rivestite 75 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 042557025 | CLOPIDOGREL\*28 cpr rivestite 75 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040215016 | NOGREG\*28 cpr rivestite 75 mg | S.F. GROUP Srl | Autorizzata |
+| 043035017 | CLOPIDOGREL\*28 cpr rivestite 75 mg | BB FARMA Srl | Autorizzata |
+| 049579030 | CLOPIDOGREL\*28 cpr rivestite 75 mg | VIATRIS LIMITED | Autorizzata |
+| 039599030 | CLOPIDOGREL\*28 cpr rivestite 75 mg | ZENTIVA K.S. | Autorizzata |
+| 042402014 | AVERELIX\*28 cpr rivestite 75 mg | F.I.R.M.A. SpA | Autorizzata |
+| 041625017 | FLODIGREL\*28 cpr rivestite 75 mg | SO.SE.PHARM Srl | Autorizzata |
+| 043976012 | PLAVIX\*28 cpr rivestite 75 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 039951025 | CLOPIDOGREL\*28 cpr rivestite 75 mg | SANDOZ GMBH | Autorizzata |
+| 044811014 | PLAVIX\*28 cpr rivestite 75 mg | FARMED Srl | Autorizzata |
+| 042850014 | CLOPIDOGREL\*28 cpr rivestite 75 mg | BB FARMA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

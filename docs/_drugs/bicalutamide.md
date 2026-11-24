@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Bicalutamide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -70,15 +70,37 @@ Al momento non risultano studi clinici registrati correlati a questa indicazione
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati compilati, in Italia risultano almeno 20 autorizzazioni valide per bicalutamide in monocomponente, e l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali. Principali autorizzazioni:
+Secondo i dati compilati, in Italia risultano almeno 20 autorizzazioni valide per bicalutamide in monocomponente, e l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| N. autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038959060 | BIKADER 28 cpr rivestite 50 mg | Compresse rivestite | Non registrata |
-| 039241029 | MIDELUT 28 cpr rivestite 50 mg | Compresse rivestite | Non registrata |
-| 040072035 | Bicalutamide 28 cpr rivestite 150 mg (Sun Pharmaceutical) | Compresse rivestite | Non registrata |
-| 031113018 | CASODEX 28 cpr rivestite 50 mg | Compresse rivestite | Non registrata |
-| 031113020 | CASODEX 28 cpr rivestite 150 mg | Compresse rivestite | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038959060 | BIKADER\*28 cpr rivestite 50 mg | ECUPHARMA Srl | Autorizzata |
+| 039241029 | MIDELUT\*28 cpr rivestite 50 mg | NEXTAD PHARMA Srl | Autorizzata |
+| 040072035 | BICALUTAMIDE\*28 cpr rivestite 150 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 039241082 | MIDELUT\*28 cpr rivestite 150 mg | NEXTAD PHARMA Srl | Autorizzata |
+| 031113018 | CASODEX\*28 cpr rivestite 50 mg | LAB.JUVISE' PHARMACEUTICALS | Autorizzata |
+| 039243011 | BICALUTAMIDE\*28 cpr rivestite 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 038876025 | BICALUTAMIDE\*28 cpr rivestite 50 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 037791062 | BICALUTAMIDE\*28 cpr rivestite 50 mg | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 038399010 | BICALUTAMIDE\*28 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 037751068 | BICALUTAMIDE\*28 cpr rivestite 50 mg | IBIGEN Srl | Autorizzata |
+| 037812068 | BICALUTAMIDE\*28 cpr rivestite 50 mg | RATIOPHARM GMBH | Autorizzata |
+| 039671021 | BICALUTAMIDE\*28 cpr rivestite 150 mg | EG SpA | Autorizzata |
+| 038534044 | BICALUTAMIDE\*28 cpr rivestite 50 mg | DOC GENERICI Srl | Autorizzata |
+| 037812219 | BICALUTAMIDE\*28 cpr rivestite 150 mg | RATIOPHARM GMBH | Autorizzata |
+| 038876126 | BICALUTAMIDE\*28 cpr rivestite 150 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 031113020 | CASODEX\*28 cpr rivestite 150 mg | LAB.JUVISE' PHARMACEUTICALS | Autorizzata |
+| 038352023 | BICALUTAMIDE\*28 cpr rivestite 50 mg | TEVA ITALIA Srl | Autorizzata |
+| 038534160 | BICALUTAMIDE\*28 cpr rivestite 150 mg | DOC GENERICI Srl | Autorizzata |
+| 038959247 | BIKADER\*28 cpr rivestite 150 mg | ECUPHARMA Srl | Autorizzata |
+| 038352124 | BICALUTAMIDE\*28 cpr rivestite 150 mg | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

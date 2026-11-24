@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 description: "Prasugrel: nuova indicazione prevista, Pulmonary hypertension (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
@@ -88,13 +88,19 @@ Il legame con l'indicazione originale è indiretto: in entrambi i casi entra in 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039055090 | EFIENT 28 cpr rivestite 10 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 045597402 | PRASUGREL 28x1 cpr rivestite 10 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 045597186 | PRASUGREL 28x1 cpr rivestite 5 mg (Teva B.V.) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 039055025 | EFIENT 28 cpr rivestite 5 mg (Substipharm) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 046634022 | PRASUGREL 28 cpr rivestite 10 mg flacone (Viatris) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039055090 | EFIENT\*28 cpr rivestite 10 mg | SUBSTIPHARM | Autorizzata |
+| 045597402 | PRASUGREL\*28x1 cpr rivestite 10 mg | TEVA B.V. | Autorizzata |
+| 045597186 | PRASUGREL\*28x1 cpr rivestite 5 mg | TEVA B.V. | Autorizzata |
+| 039055025 | EFIENT\*28 cpr rivestite 5 mg | SUBSTIPHARM | Autorizzata |
+| 046634022 | PRASUGREL\*28 cpr rivestite 10 mg flacone | VIATRIS LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,7 +122,7 @@ Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un p
 
 <!-- review:begin it-lic-20261106-prasugrel-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracranica) richiede cautela in una patologia non letale come l'emicrania.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un pilota in aperto con un farmaco affine, mentre gli studi registrati valutano la chiusura del PFO e non il prasugrel. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracranica) richiede cautela in una patologia non letale come l'emicrania.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-prasugrel-1 -->
 
@@ -129,7 +135,7 @@ Il segnale per l'emicrania si basa solo su una revisione retrospettiva e su un p
 
 <!-- review:begin it-lic-20261106-prasugrel-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate) e della disponibilità del farmaco in Italia» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio (autorizzazioni cancellate) e della disponibilità del farmaco in Italia» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-prasugrel-2 -->
 
@@ -141,8 +147,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracran» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo emorragico (controindicazioni cerebrovascolari ed emorragia intracran» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

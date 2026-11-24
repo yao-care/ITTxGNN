@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Levocetirizine: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 16)"
@@ -83,15 +83,30 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Si elencano le prime 5.
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 051063016 | XYZAL 20 cpr rivestite 5 mg | FARMED Srl | Valida |
-| 039439056 | Levocetirizina 20 cpr rivestite 5 mg | Aurobindo Pharma Italia Srl | Valida |
-| 035666205 | XYZAL gocce orali 20 ml 5 mg/ml | UCB Pharma SpA | Valida |
-| 040809042 | Levocetirizina 20 cpr rivestite 5 mg | KRKA d.d. Novo Mesto | Valida |
-| 049594029 | XYZAL 20 cpr rivestite 5 mg | Farma 1000 Srl | Valida |
+|------|------|------|------|
+| 051063016 | XYZAL\*20 cpr rivestite 5 mg | FARMED Srl | Autorizzata |
+| 039439056 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 035666205 | XYZAL\*orale gtt 20 ml 5 mg/ml | UCB PHARMA SpA | Autorizzata |
+| 040809042 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 049594029 | XYZAL\*20 cpr rivestite 5 mg | FARMA 1000 Srl | Autorizzata |
+| 039265057 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 051064018 | XYZAL\*20 cpr rivestite 5 mg | DIFARMED S.L.U. | Autorizzata |
+| 051395010 | XYZAL\*20 cpr rivestite 5 mg | NEW PHARMASHOP Srl | Autorizzata |
+| 039406057 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | EG SpA | Autorizzata |
+| 042726012 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | MYLAN SpA | Autorizzata |
+| 045170014 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 049594017 | XYZAL\*20 cpr rivestite 5 mg | FARMA 1000 Srl | Autorizzata |
+| 035666080 | XYZAL\*20 cpr rivestite 5 mg | UCB PHARMA SpA | Autorizzata |
+| 050130018 | XYZAL\*20 cpr rivestite 5 mg | GMM FARMA Srl | Autorizzata |
+| 039679055 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | DOC GENERICI Srl | Autorizzata |
+| 039438054 | LEVOCETIRIZINA\*20 cpr rivestite 5 mg | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,7 +132,7 @@ La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), se
 
 <!-- review:begin it-lic-20261106-levocetirizine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), senza studi clinici né letteratura, e il meccanismo ipotizzato non è coerente con la fisiopatologia principale della malattia. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), senza studi clinici né letteratura, e il meccanismo ipotizzato non è coerente con la fisiopatologia principale della malattia. Inoltre, tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-levocetirizine-1 -->
 
@@ -130,7 +145,7 @@ La previsione per l'artrite reumatoide si basa solo sul modello (livello L5), se
 
 <!-- review:begin it-lic-20261106-levocetirizine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 16 autorizzazioni per questo farmaco, di cui 16 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della fattibilità regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-levocetirizine-2 -->
 
@@ -142,8 +157,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
 
 <!-- review:end log -->

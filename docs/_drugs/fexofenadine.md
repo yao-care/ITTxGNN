@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
 description: "Fexofenadine: nuova indicazione prevista, Congiuntivite da rosacea (rosacea conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
@@ -81,21 +81,32 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate non è disponibile. Si riportano le prime 5.
+Il testo delle indicazioni approvate non è disponibile.
 
 <!-- review:begin it-lic-20261106-fexofenadine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fexofenadine-1 -->
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
-|---------|------|------|-----------|------|
-| 033304078 | Fexofenadina, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Valida |
-| 051211023 | Fexofenadina, 20 cpr rivestite 180 mg | Compresse rivestite | Aurobindo Pharma Italia Srl | Valida |
-| 033303330 | Telfast, 20 cpr rivestite 120 mg | Compresse rivestite | Opella Healthcare Italy Srl | Valida |
-| 038229047 | Fixodin, 20 cpr rivestite 120 mg | Compresse rivestite | Anseris Farma Srl | Valida |
-| 038229124 | Fixodin, 20 cpr rivestite 180 mg | Compresse rivestite | Anseris Farma Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 033304078 | FEXOFENADINA\*20 cpr rivestite 120 mg | OPELLA HEALTHCARE ITALY Srl | Autorizzata |
+| 051211023 | FEXOFENADINA\*20 cpr rivestite 180 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 033303330 | TELFAST\*20 cpr rivestite 120 mg | OPELLA HEALTHCARE ITALY Srl | Autorizzata |
+| 038229047 | FIXODIN\*20 cpr rivestite 120 mg | ANSERIS FARMA Srl | Autorizzata |
+| 038229124 | FIXODIN\*20 cpr rivestite 180 mg | ANSERIS FARMA Srl | Autorizzata |
+| 033303417 | TELFAST\*20 cpr rivestite 180 mg | OPELLA HEALTHCARE ITALY Srl | Autorizzata |
+| 051211011 | FEXOFENADINA\*20 cpr rivestite 120 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038223121 | FEXOFENADINA\*20 cpr rivestite 180 mg | MYLAN SpA | Autorizzata |
+| 038223044 | FEXOFENADINA\*20 cpr rivestite 120 mg | MYLAN SpA | Autorizzata |
+| 033304080 | FEXOFENADINA\*20 cpr rivestite 180 mg | OPELLA HEALTHCARE ITALY Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +130,7 @@ Non esistono studi clinici né pubblicazioni a sostegno della congiuntivite da r
 
 <!-- review:begin it-lic-20261106-fexofenadine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo antistaminico è solo parzialmente pertinente, perché la rosacea oculare non è prevalentemente istamino-mediata. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il meccanismo antistaminico è solo parzialmente pertinente, perché la rosacea oculare non è prevalentemente istamino-mediata. Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fexofenadine-2 -->
 
@@ -132,7 +143,7 @@ Non esistono studi clinici né pubblicazioni a sostegno della congiuntivite da r
 
 <!-- review:begin it-lic-20261106-fexofenadine-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio in Italia, dato che non esistono autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fexofenadine-3 -->
 
@@ -144,9 +155,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 10 autorizzazioni risultano cancellate; non ci sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza del foglio illustrativo» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

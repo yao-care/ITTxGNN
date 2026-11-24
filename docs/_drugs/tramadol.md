@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 445
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 description: "Tramadol: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5)."
@@ -80,13 +80,35 @@ Nota: per un'altra predizione (artrite idiopatica giovanile, rank 7) è presente
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 049093014 | CONTRAMAL 20 cpr 100 mg rilascio prolungato | GMM FARMA Srl | Valida |
-| 028878092 | FORTRADOL 20 cpr 100 mg rilascio prolungato | ALFASIGMA SpA | Valida |
-| 036672020 | TRAFLASH 20 cpr orodispersibili 50 mg | VIATRIS HEALTHCARE LIMITED | Valida |
-| 033998030 | TRAMADOLO 5 fiale 100 mg 2 ml | SANDOZ SpA | Valida |
-| 028878155 | FORTRADOL 10 cpr 200 mg rilascio prolungato | ALFASIGMA SpA | Valida |
+|------|------|------|------|
+| 049093014 | CONTRAMAL\*20 cpr 100 mg rilascio prolungato | GMM FARMA Srl | Autorizzata |
+| 028878092 | FORTRADOL\*20 cpr 100 mg rilascio prolungato | ALFASIGMA SpA | Autorizzata |
+| 036672020 | TRAFLASH\*20 cpr orodispers 50 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 033998030 | TRAMADOLO\*5 fiale 100 mg 2 ml | SANDOZ SpA | Autorizzata |
+| 028878155 | FORTRADOL\*10 cpr 200 mg rilascio prolungato | ALFASIGMA SpA | Autorizzata |
+| 028878116 | FORTRADOL\*5 fiale 50 mg 1 ml | ALFASIGMA SpA | Autorizzata |
+| 034233015 | TRADONAL\*SR 30 cps 50 mg rilascio prolungato | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 028878128 | FORTRADOL\*5 fiale 100 mg 2 ml | ALFASIGMA SpA | Autorizzata |
+| 033998055 | TRAMADOLO\*orale gtt 10 ml 100 mg/ml | SANDOZ SpA | Autorizzata |
+| 035986090 | TRALODIE\*10 cps 200 mg rilascio prolungato | NEOPHARMED GENTILI SpA | Autorizzata |
+| 034233027 | TRADONAL\*SR 30 cps 100 mg rilascio prolungato | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 035846029 | TRAMALIN\*20 cpr 100 mg rilascio prolungato | S.F. GROUP Srl | Autorizzata |
+| 035847019 | TRAMADOLO\*orale gtt 10 ml 100 mg/ml | EG SpA | Autorizzata |
+| 035846195 | TRAMALIN\*30 cpr 200 mg rilascio prolungato | S.F. GROUP Srl | Autorizzata |
+| 036697035 | TRAMADOLO\*20 cpr 100 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 033998016 | TRAMADOLO\*20 cps 50 mg | SANDOZ SpA | Autorizzata |
+| 034233039 | TRADONAL\*SR 30 cps 150 mg rilascio prolungato | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 044718029 | TRAMADOLO\*5 fiale 100 mg 2 ml | SALF SpA | Autorizzata |
+| 028853063 | CONTRAMAL\*5 fiale soluz iniett 100 mg 2 ml | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 028878142 | FORTRADOL\*10 cpr 150 mg rilascio prolungato | ALFASIGMA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

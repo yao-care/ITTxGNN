@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OMALIZUMAB"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 description: "Omalizumab: nuova indicazione prevista, Bronchite (bronchitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -81,10 +81,16 @@ Nessuna di queste pubblicazioni studia omalizumab come trattamento della bronchi
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036892053 | XOLAIR*1 siringa SC 75 mg 0,5 ml (valida) | Non indicata | Non disponibile |
-| 036892089 | XOLAIR*1 siringa SC 150 mg 1 ml (valida) | Non indicata | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036892053 | XOLAIR\*1 siringa SC 75 mg 0,5 ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 036892089 | XOLAIR\*1 siringa SC 150 mg 1 ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Novartis Europharm Ltd. Entrambe le autorizzazioni risultano valide.
 

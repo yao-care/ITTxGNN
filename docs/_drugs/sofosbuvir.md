@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 408
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sofosbuvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L2). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
@@ -78,7 +78,7 @@ Studi più rilevanti per l'epatite B (rango 1), da leggere come questione di sic
 
 <!-- review:begin it-lic-20261106-sofosbuvir-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sofosbuvir-1 -->
 
@@ -105,13 +105,19 @@ Studi più rilevanti per l'epatite B (rango 1), da leggere come questione di sic
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044928024 | EPCLUSA 28 cpr rivestite 200 mg + 50 mg flacone | Compresse rivestite | Non disponibile nei dati compilati (autorizzazione valida) |
-| 044928048 | EPCLUSA 28 bust grat 200 mg + 50 mg | Granulato in bustine | Non disponibile (valida) |
-| 044928036 | EPCLUSA 28 bust grat 150 mg + 37,5 mg | Granulato in bustine | Non disponibile (valida) |
-| 044928012 | EPCLUSA 28 cpr rivestite 400 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
-| 045494010 | VOSEVI 28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | Compresse rivestite | Non disponibile (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044928024 | EPCLUSA\*28 cpr rivestite 200 mg + 50 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928048 | EPCLUSA\*28 bust grat 200 mg + 50 mg | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928036 | EPCLUSA\*28 bust grat 150 mg + 37,5 mg | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 044928012 | EPCLUSA\*28 cpr rivestite 400 mg + 100 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+| 045494010 | VOSEVI\*28 cpr rivestite 400 mg + 100 mg + 100 mg flacone | GILEAD SCIENCES IRELAND UC | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -145,7 +151,7 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-sofosbuvir-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le altre predizioni, compresa quella al primo posto (HBV), non hanno sostegno meccanicistico o evidenza specifica. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sofosbuvir-2 -->
 
@@ -158,7 +164,7 @@ Per avvertenze e controindicazioni complete si rimanda al foglio illustrativo.
 
 <!-- review:begin it-lic-20261106-sofosbuvir-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della posizione regolatoria in Italia, dato che le autorizzazioni attuali sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della posizione regolatoria in Italia, dato che le autorizzazioni attuali sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sofosbuvir-3 -->
 
@@ -170,9 +176,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le autorizzazioni attuali sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 5 le autorizzazioni, intestate a Gilead Sciences Ireland UC, risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le autorizzazioni attuali sono tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
 
 <!-- review:end log -->

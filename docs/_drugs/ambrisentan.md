@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Ambrisentan: nuova indicazione prevista, Malformazione arterovenosa polmonare (pulmonary arteriovenous malformation (disease)) (livello di evidenza L5). Indicazione originale: Non riportata nei dati …"
 ---
 
@@ -72,13 +72,26 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048081018 | AMBRISENTAN 30 cpr rivestite 5 mg (Viatris) | Compresse rivestite | — |
-| 049229040 | AMBRISENTAN 30x1 cpr rivestite 5 mg (Zentiva Italia) | Compresse rivestite | — |
-| 046559023 | AMBRISENTAN 30 cpr rivestite 5 mg (Medac Pharma) | Compresse rivestite | — |
-| 038528042 | VOLIBRIS 30 cpr rivestite 10 mg (GlaxoSmithKline Ireland) | Compresse rivestite | — |
-| 048211027 | AMBRISENTAN 30 cpr rivestite 5 mg (Accord Healthcare) | Compresse rivestite | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048081018 | AMBRISENTAN\*30 cpr rivestite 5 mg | VIATRIS LIMITED | Autorizzata |
+| 046559023 | AMBRISENTAN\*30 cpr rivestite 5 mg divisibile per dose unitaria | MEDAC PHARMA Srl | Autorizzata |
+| 038528042 | VOLIBRIS\*30 cpr rivestite 10 mg | GLAXOSMITHKLINE (IRELAND) LTD | Autorizzata |
+| 048211027 | AMBRISENTAN\*30 cpr rivestite 5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 038528028 | VOLIBRIS\*30 cpr rivestite 5 mg | GLAXOSMITHKLINE (IRELAND) LTD | Autorizzata |
+| 046559047 | AMBRISENTAN\*30 cpr rivestite 10 mg divisibile per dose unitaria | MEDAC PHARMA Srl | Autorizzata |
+| 047049061 | AMBRISENTAN\*30x1 cpr rivestite 5 mg | TEVA B.V. | Autorizzata |
+| 048081032 | AMBRISENTAN\*30 cpr rivestite 10 mg | VIATRIS LIMITED | Autorizzata |
+| 047049147 | AMBRISENTAN\*30x1 cpr rivestite 10 mg | TEVA B.V. | Autorizzata |
+| 049229040 | AMBRISENTAN\*30X1 cpr rivestite 5 mg divisibile per dose unitaria | ZENTIVA ITALIA Srl | Non più autorizzata |
+| 049229127 | AMBRISENTAN\*30X1 cpr rivestite 10 mg divisibile per dose unitaria | ZENTIVA ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

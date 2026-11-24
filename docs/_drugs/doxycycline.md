@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxycycline: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
@@ -73,11 +73,17 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 022211039 | MIRACLIN*10 cpr 100 mg | Non indicata | Non indicata |
-| 021635065 | BASSADO*10 cpr 100 mg | Non indicata | Non indicata |
-| 021856051 | FARMODOXI*10 cpr 100 mg | Non indicata | Non indicata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022211039 | MIRACLIN\*10 cpr 100 mg | LAB.FARMACOLOGICO MILANESE Srl | Autorizzata |
+| 021635065 | BASSADO\*10 cpr 100 mg | PFIZER ITALIA Srl | Autorizzata |
+| 021856051 | FARMODOXI\*10 cpr 100 mg | ITALFARMACO SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

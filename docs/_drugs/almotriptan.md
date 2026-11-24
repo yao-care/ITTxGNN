@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ALMOTRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Almotriptan: nuova indicazione prevista, Atrofoderma vermicolare (atrophoderma vermiculata) (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
 ---
 
@@ -70,15 +70,28 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali, 12 autorizzazioni risultano valide. Di seguito le prime 5.
+Secondo i dati locali, 12 autorizzazioni risultano valide.
 
-| N. autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 050204015 | ALMOGRAN*6 cpr rivestite 12,5 mg | GMM FARMA Srl |
-| 034995011 | ALMOTREX*3 cpr rivestite 12,5 mg | ALMIRALL S.A. |
-| 043074020 | ALMOTRIPTAN*6 cpr rivestite 12,5 mg | DOC GENERICI Srl |
-| 034996037 | ALMOGRAN*6 cpr rivestite 12,5 mg | ALMIRALL S.A. |
-| 041813039 | ALMOTRIPTAN*6 cpr rivestite 12,5 mg | MYLAN SpA |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050204015 | ALMOGRAN\*6 cpr rivestite 12,5 mg | GMM FARMA Srl | Autorizzata |
+| 034995011 | ALMOTREX\*3 cpr rivestite 12,5 mg | ALMIRALL S.A. | Autorizzata |
+| 043074020 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | DOC GENERICI Srl | Autorizzata |
+| 034996037 | ALMOGRAN\*6 cpr rivestite 12,5 mg | ALMIRALL S.A. | Autorizzata |
+| 041813039 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | MYLAN SpA | Autorizzata |
+| 043075047 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043662030 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049838016 | ALMOGRAN\*6 cpr rivestite 12,5 mg | DIFARMED S.L.U. | Autorizzata |
+| 034995035 | ALMOTREX\*6 cpr rivestite 12,5 mg | ALMIRALL S.A. | Autorizzata |
+| 043340076 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 043073042 | ALMOTRIPTAN\*6 cpr rivestite 12,5 mg | EG SpA | Autorizzata |
+| 034996013 | ALMOGRAN\*3 cpr rivestite 12,5 mg | ALMIRALL S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clobazam: nuova indicazione prevista, Sindrome epilettica correlata a infezione febbrile (febrile infection-related epilepsy syndrome) (livello di evidenza L5). Indicazione originale: Non riportata n…"
 ---
 
@@ -73,11 +73,17 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045041035 | EPACLOB*1 flacone orale sosp 250 ml 1 mg/ml | Sospensione orale | Non riportata |
-| 045041023 | EPACLOB*1 flacone orale sosp 150 ml 1 mg/ml | Sospensione orale | Non riportata |
-| 045041062 | EPACLOB*1 flacone orale sosp 250 ml 2 mg/ml | Sospensione orale | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045041035 | EPACLOB\*1 flacone orale sosp 250 ml 1 mg/ml | ETHYPHARM S.A. | Autorizzata |
+| 045041023 | EPACLOB\*1 flacone orale sosp 150 ml 1 mg/ml | ETHYPHARM S.A. | Autorizzata |
+| 045041062 | EPACLOB\*1 flacone orale sosp 250 ml 2 mg/ml | ETHYPHARM S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

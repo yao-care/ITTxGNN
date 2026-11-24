@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Filgrastim: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder… (livello di evidenza L5). Indicazione originale: Neutropenia costituzionale / neutropenia…"
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
@@ -85,23 +85,32 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:begin it-lic-20261106-filgrastim-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-filgrastim-1 -->
 
 <!-- review:begin it-lic-20261106-filgrastim-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-filgrastim-2 -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|-----------|
-| 039125012 | Zarzio, siringa preriempita 30 MU/0,5 ml | Sandoz GmbH |
-| 039125051 | Zarzio, siringa preriempita 48 MU/0,5 ml | Sandoz GmbH |
-| 040158014 | Nivestim, siringa SC/EV 12 MU/0,2 ml | Pfizer Europe MA EEIG |
-| 040158040 | Nivestim, siringa SC/EV 30 MU/0,5 ml | Pfizer Europe MA EEIG |
-| 040158077 | Nivestim, siringa SC/EV 48 MU/0,5 ml | Pfizer Europe MA EEIG |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039125012 | ZARZIO\*1 siringa preriempita 30.000.000 UI 0,5 ml | SANDOZ GMBH | Autorizzata |
+| 040158014 | NIVESTIM\*1 siringa SC EV 12.000.000 UI 0,2 ml | PFIZER EUROPE MA EEIG | Autorizzata |
+| 027772096 | GRANULOKINE\*1 siringa preriempita 30.000.000 UI 0,5 ml | AMGEN EUROPE B.V. | Autorizzata |
+| 040158077 | NIVESTIM\*1 siringa SC EV 48.000.000 UI 0,5 ml | PFIZER EUROPE MA EEIG | Autorizzata |
+| 040158040 | NIVESTIM\*1 siringa SC EV 30.000.000 UI 0,5 ml | PFIZER EUROPE MA EEIG | Autorizzata |
+| 027772033 | GRANULOKINE 30\*1 flaconcino SC EV 30.000.000 UI 1 ml | AMGEN EUROPE B.V. | Autorizzata |
+| 039125051 | ZARZIO\*1 siringa preriempita 48.000.000 UI 0,5 ml | SANDOZ GMBH | Autorizzata |
+| 043615057 | ACCOFIL\*1 siringa SC EV 30 MU 0,5 ml + ago di sicurezza | ACCORD HEALTHCARE SLU | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -118,7 +127,7 @@ La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubbl
 
 <!-- review:begin it-lic-20261106-filgrastim-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico. Inoltre, in Italia non vi sono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa solo sul modello (L5): non vi sono studi clinici né pubblicazioni sull'indicazione, e non esiste un meccanismo plausibile che colleghi un G-CSF specifico per i neutrofili ai difetti di rilascio piastrinico. Inoltre, in Italia non vi sono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-filgrastim-3 -->
 
@@ -136,9 +145,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono attualmente autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti altre 3 autorizzazioni cancellate (Granulokine 027772096 e 027772033, Accofil 043615057)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non vi sono attualmente autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->

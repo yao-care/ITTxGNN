@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
@@ -70,15 +70,31 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 048212031 | METILDROL 30 cpr 16 mg | SO.SE.PHARM Srl | Valida |
-| 046679039 | METILPREDNISOLONE 30 cpr 16 mg | DOC GENERICI Srl | Valida |
-| 023202043 | SOLUMEDROL 1 flacone IM EV 125 mg 2 ml | PFIZER ITALIA Srl | Valida |
-| 047328024 | METILPREDNISOLONE 20 cpr 16 mg | EG SpA | Valida |
-| 014159040 | MEDROL 20 cpr 16 mg | PFIZER ITALIA Srl | Valida |
+<!-- licenses:begin -->
 
-Sono presenti 15 autorizzazioni valide nei dati locali; la tabella ne riporta le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048212031 | METILDROL\*30 cpr 16 mg | SO.SE.PHARM Srl | Autorizzata |
+| 046679039 | METILPREDNISOLONE\*30 cpr 16 mg | DOC GENERICI Srl | Autorizzata |
+| 023202043 | SOLUMEDROL\*1 flacone IM EV 125 mg 2 ml | PFIZER ITALIA Srl | Autorizzata |
+| 047328024 | METILPREDNISOLONE\*20 cpr 16 mg | EG SpA | Autorizzata |
+| 014159040 | MEDROL\*20 cpr 16 mg | PFIZER ITALIA Srl | Autorizzata |
+| 017932029 | DEPOMEDROL\*3 flaconi soluz iniett 40 mg 1 ml | PFIZER ITALIA Srl | Autorizzata |
+| 028159073 | ADVANTAN\*crema derm 50 g 0,1% | LEO PHARMA A/S | Autorizzata |
+| 048212029 | METILDROL\*20 cpr 16 mg | SO.SE.PHARM Srl | Autorizzata |
+| 046679027 | METILPREDNISOLONE\*20 cpr 16 mg | DOC GENERICI Srl | Autorizzata |
+| 023202056 | SOLUMEDROL\*1 flaconcino IM EV 500 mg + 1 flaconcino solv 7,8 ml | PFIZER ITALIA Srl | Autorizzata |
+| 023202068 | SOLUMEDROL\*1 flacone IM EV 1 g + 1 flacone solv 15,6 ml | PFIZER ITALIA Srl | Autorizzata |
+| 046679015 | METILPREDNISOLONE\*30 cpr 4 mg | DOC GENERICI Srl | Autorizzata |
+| 047328012 | METILPREDNISOLONE\*30 cpr 4 mg | EG SpA | Autorizzata |
+| 047444029 | MEDROL\*20 cpr 16 mg | FARMED Srl | Autorizzata |
+| 024001012 | URBASON\*10 cpr 4 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 15 autorizzazioni valide nei dati locali.
 
 ## Considerazioni di sicurezza
 

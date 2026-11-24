@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Esomeprazole: nuova indicazione prevista, Ostruzione duodenale (duodenal obstruction) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco risulta commercializzato in Italia. L'elenco seguente riporta le principali autorizzazioni; l'elenco potrebbe essere parziale e il testo dell'indicazione approvata non è registrato nei dati locali.
+Il farmaco risulta commercializzato in Italia. L'elenco potrebbe essere parziale e il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 044678062 | ESOMEPRAZOLO*28 cps gastrores 40 mg | Non indicata | DOC GENERICI Srl |
-| 040200038 | ARILIAR*14 cps gastrores 20 mg | Non indicata | S.F. GROUP Srl |
-| 040124024 | ESOMEPRAZOLO*14 cps gastrores 20 mg | Non indicata | MYLAN SpA |
-| 041803127 | ESOMEPRAZOLO*28 cpr gastrores 40 mg | Non indicata | EG SpA |
-| 040839019 | ESOMEPRAZOLO*14 cpr gastrores 20 mg | Non indicata | SUN PHARMACEUTICAL IND.EU.B.V. |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044678062 | ESOMEPRAZOLO\*28 cps gastrores 40 mg | DOC GENERICI Srl | Autorizzata |
+| 040200038 | ARILIAR\*14 cps gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 040124024 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | MYLAN SpA | Autorizzata |
+| 041803127 | ESOMEPRAZOLO\*28 cpr gastrores 40 mg | EG SpA | Autorizzata |
+| 040839019 | ESOMEPRAZOLO\*14 cpr gastrores 20 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 044705010 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | ALMUS Srl | Autorizzata |
+| 040293161 | ESOMEPRAZOLO\*28 cps gastrores 20 mg | ARISTO PHARMA GMBH | Autorizzata |
+| 046185068 | ESOMEPRAZOLO\*28 cpr gastrores 20 mg | MYLAN SpA | Autorizzata |
+| 040198297 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040199299 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | SANDOZ SpA | Autorizzata |
+| 046185144 | ESOMEPRAZOLO\*28 cpr gastrores 40 mg | MYLAN SpA | Autorizzata |
+| 043243029 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 040837116 | ESOMEPRAZOLO\*14 cpr gastrores 20 mg | DOC GENERICI Srl | Autorizzata |
+| 041803115 | ESOMEPRAZOLO\*28 cpr gastrores 20 mg | EG SpA | Autorizzata |
+| 040235196 | ESOMEPRAZOLO\*28 cps gastrores 40 mg | EG SpA | Autorizzata |
+| 040838118 | EZORAN\*28 cpr gastrores 40 mg | EPIFARMA Srl | Autorizzata |
+| 043241049 | ESODOR\*14 cps gastrores 40 mg | S.F. GROUP Srl | Autorizzata |
+| 040124048 | ESOMEPRAZOLO\*28 cps gastrores 20 mg | MYLAN SpA | Autorizzata |
+| 040235069 | ESOMEPRAZOLO\*14 cps gastrores 20 mg | EG SpA | Autorizzata |
+| 041951245 | ESOMEPRAZOLO\*28 cps gastrores 40 mg | AUROBINDO PHARMA ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

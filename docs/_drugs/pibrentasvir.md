@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pibrentasvir"
 predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Pibrentasvir: nuova indicazione prevista, Infezione da virus dell'epatite B (hepatitis B virus infection) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -90,10 +90,16 @@ Le pubblicazioni recuperate per questa previsione sono tutte di tipo revisione e
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045445018 | MAVIRET 4x21 cpr rivestite 100 mg + 40 mg, confezione multipla (stato: valida) | — | — |
-| 045445032 | MAVIRET 28 bustine orali granulato 50 mg + 20 mg (stato: valida) | — | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045445018 | MAVIRET\*4x21 cpr rivestite 100 mg + 40 mg confezione multipla | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+| 045445032 | MAVIRET\*28 bust orale grat 50 mg + 20 mg | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni, intestate ad AbbVie Deutschland GmbH & Co.
 
@@ -114,7 +120,7 @@ La previsione per l'epatite B si basa solo sul modello di rete (livello di evide
 
 <!-- review:begin it-lic-20261106-pibrentasvir-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'epatite B si basa solo sul modello di rete (livello di evidenza L5): non ci sono studi clinici, la letteratura riguarda solo l'HCV e manca un razionale meccanicistico, dato che HBV non ha un omologo di NS5A. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pibrentasvir-1 -->
 
@@ -134,7 +140,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL3545123 (pibrentasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545123) |
 
 <!-- review:end log -->

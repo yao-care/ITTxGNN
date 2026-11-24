@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 description: "Ceftriaxone: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati compilati, in Italia le autorizzazioni di ceftriaxone risultano valide e il farmaco è commercializzato. L'elenco potrebbe essere parziale. Le principali autorizzazioni sono:
+Secondo i dati compilati, in Italia le autorizzazioni di ceftriaxone risultano valide e il farmaco è commercializzato.
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035869039 | Ceftriaxone, 1 fiala IM 1 g + solvente 3,5 ml (EG SpA) | Non indicata | Non registrata |
-| 025202058 | Rocefin, 1 flaconcino IM 1 g + solvente 3,5 ml (Roche SpA) | Non indicata | Non registrata |
-| 025202019 | Rocefin, 1 flaconcino IM 250 mg + solvente 2 ml (Roche SpA) | Non indicata | Non registrata |
-| 036138028 | Ceftriaxone, 1 fiala IM 1 g + solvente 3,5 ml (Eugia Pharma) | Non indicata | Non registrata |
-| 035952023 | Pantoxon, 1 flacone IM 1 g + solvente 3,5 ml (Aesculapius Farmaceutici) | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035869039 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | EG SpA | Autorizzata |
+| 025202058 | ROCEFIN\*1 flaconcino IM 1 g + 1 fiala solv 3,5 ml | ROCHE SpA | Autorizzata |
+| 036138028 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 035952023 | PANTOXON\*1 flacone polv IM 1 g + 1 fiala solv 3,5 ml | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 036212037 | CEFTRIAXONE P-CARE\*1 fiala IM 1 g + 1 fiala 3,5 ml | PHARMACARE Srl | Autorizzata |
+| 035815024 | SIRTAP\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | SO.SE.PHARM Srl | Autorizzata |
+| 036516021 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | S.F. GROUP Srl | Autorizzata |
+| 035867023 | FIDATO\*1 fiala IM 500 mg + 1 fiala solv 2 ml | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 035927033 | RAGEX\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 036314021 | DIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | EURO-PHARMA Srl | Autorizzata |
+| 035800034 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | DOC GENERICI Srl | Autorizzata |
+| 035802038 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | RATIOPHARM GMBH | Autorizzata |
+| 035801036 | ERAXITRON\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | I.B.N. SAVIO Srl | Autorizzata |
+| 036065035 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | ALMUS Srl | Autorizzata |
+| 035902030 | CEFTRIAXONE\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | SANDOZ SpA | Autorizzata |
+| 035964030 | CEFTRIAXONE\*1 flacone polv IM 1 g + 1 fiala solv 3,5 ml | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 035958026 | BIXON\*1 fiala IM 1 g + 1 fiala solv 3,5 ml | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 036093033 | DAYTRIX\*1 flacone IM 1 g + 1 fiala solv 3,5 ml | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 035887037 | CEFTRIAXONE\*1 flacone IM 1 g + 1 fiala solv 3,5 ml | ZENTIVA ITALIA Srl | Autorizzata |
+| 025202019 | ROCEFIN\*1 flaconcino IM 250 mg + 1 fiala solv 2 ml | ROCHE SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

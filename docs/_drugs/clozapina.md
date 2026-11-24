@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00363
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Clozapina: nuova indicazione prevista, Disturbo affettivo bipolare maniacale (manic bipolar affective disorder) (livello di evidenza L2)."
 ---
 
@@ -85,15 +85,30 @@ Poiché è presente un solo studio di fase 2, di piccole dimensioni, e non due s
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044326015 | CLOZAPINA*28 cpr 25 mg (DOC Generici) | Non indicata | Non registrata nei dati locali |
-| 043807130 | CLOZAPINA*28 cpr 100 mg (Accord Healthcare) | Non indicata | Non registrata nei dati locali |
-| 028824047 | LEPONEX*28 cpr 100 mg (Viatris Healthcare) | Non indicata | Non registrata nei dati locali |
-| 044326027 | CLOZAPINA*28 cpr 100 mg (DOC Generici) | Non indicata | Non registrata nei dati locali |
-| 044349090 | CLOZAPINA*28 cpr 100 mg (Teva Italia) | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-Sono elencate le 5 autorizzazioni principali; tutte le autorizzazioni registrate sono valide.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044326015 | CLOZAPINA\*28 cpr 25 mg | DOC GENERICI Srl | Autorizzata |
+| 043807130 | CLOZAPINA\*28 cpr 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 028824047 | LEPONEX\*28 cpr 100 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 044326027 | CLOZAPINA\*28 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 044349090 | CLOZAPINA\*28 cpr 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 046028027 | CLOZAPINA\*28 cpr 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036638221 | CLOZAPINA\*28 cpr 100 mg | SANDOZ SpA | Autorizzata |
+| 035390032 | CLOZAPINA\*28 cpr 100 mg | CHIESI ITALIA SpA | Autorizzata |
+| 043807039 | CLOZAPINA\*28 cpr 25 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 028824035 | LEPONEX\*28 cpr 25 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 044349037 | CLOZAPINA\*28 cpr 25 mg | TEVA ITALIA Srl | Autorizzata |
+| 036638029 | CLOZAPINA\*28 cpr 25 mg | SANDOZ SpA | Autorizzata |
+| 035390018 | CLOZAPINA\*28 cpr 25 mg | CHIESI ITALIA SpA | Autorizzata |
+| 046028015 | CLOZAPINA\*28 cpr 25 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Tutte le autorizzazioni registrate sono valide.
 
 ## Considerazioni di sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "terazosin"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
 description: "Terazosin: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -96,15 +96,37 @@ Per la previsione affine **alopecia** è stata individuata una pubblicazione, di
 
 ## Informazioni sul mercato italiano
 
-Risultano valide 20 autorizzazioni in Italia; il farmaco è in commercio. Principali prodotti:
+Risultano valide 20 autorizzazioni in Italia; il farmaco è in commercio.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 035046022 | Terafluss, 14 cpr div 5 mg | Viatris Italia Srl | Valida |
-| 035295120 | Terazosina, 14 cpr 5 mg | Teva Italia Srl | Valida |
-| 028652028 | Unoprost, 14 cpr div 5 mg | Laboratori Guidotti SpA | Valida |
-| 026929036 | Itrin, 14 cpr 5 mg | Eberlife Farmaceutici SpA | Valida |
-| 035622024 | Terazosina, 14 cpr div 5 mg | DOC Generici Srl | Valida |
+|------|------|------|------|
+| 035046022 | TERAFLUSS\*14 cpr div 5 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 035295120 | TERAZOSINA\*14 cpr 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 028652028 | UNOPROST\*14 cpr div 5 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 028652016 | UNOPROST\*10 cpr div 2 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 026929036 | ITRIN\*14 cpr 5 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 035622024 | TERAZOSINA\*14 cpr div 5 mg | DOC GENERICI Srl | Autorizzata |
+| 035051022 | PROSTATIL\*14 cpr div 5 mg | BIFARMA Srl | Autorizzata |
+| 035046034 | TERAFLUSS\*30 cpr div 2 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 028284014 | URODIE\*10 cpr div 2 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 028651026 | TERAPROST\*14 cpr div 5 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 028284026 | URODIE\*14 cpr 5 mg | SIT LABORATORIO FARMAC. Srl | Autorizzata |
+| 035167016 | TERAZOSINA\*10 cpr div 2 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 026929024 | ITRIN\*30 cpr 2 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 035046046 | TERAFLUSS\*28 cpr div 5 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 028651014 | TERAPROST\*10 cpr div 2 mg | MALESCI SpA IST.FARMACOBIOL. | Autorizzata |
+| 035295082 | TERAZOSINA\*30 cpr 2 mg | TEVA ITALIA Srl | Autorizzata |
+| 035585025 | UROFLUS\*14 cpr div 5 mg | S.F. GROUP Srl | Autorizzata |
+| 035167028 | TERAZOSINA\*14 cpr div 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 035622048 | TERAZOSINA\*28 cpr div 5 mg | DOC GENERICI Srl | Autorizzata |
+| 035585013 | UROFLUS\*10 cpr div 2 mg | S.F. GROUP Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

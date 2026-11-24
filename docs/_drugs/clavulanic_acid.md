@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "clavulanic acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clavulanic Acid: nuova indicazione prevista, Uretrite da Ureaplasma (Ureaplasma urethritis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -77,13 +77,35 @@ Le pubblicazioni recuperate riguardano l'uretrite in generale e non contengono d
 
 I dati locali mostrano 20 autorizzazioni registrate per prodotti a base di amoxicillina e acido clavulanico; l'elenco può essere parziale. Le autorizzazioni sono associazioni e non descrivono l'uso del singolo principio attivo. Nei dati non è riportato il testo dell'indicazione approvata.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048462067 | Amoxicillina e acido clavulanico, sospensione orale 400 mg/5 ml + 57 mg/5 ml | Non indicata | Non registrata |
-| 036944015 | Amoxicillina e acido clavulanico, 12 bustine 875 mg + 125 mg | Non indicata | Non registrata |
-| 036815025 | Amoxicillina e acido clavulanico, 12 compresse rivestite 875 mg + 125 mg | Non indicata | Non registrata |
-| 040488049 | Augmentin, 12 compresse rivestite 875 mg + 125 mg | Non indicata | Non registrata |
-| 026138228 | Clavulin, sospensione orale 400 mg/5 ml + 57 mg/5 ml | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048462067 | AMOXICILLINA E ACIDO CLAVULANICO\*orale sosp grat 140 ml 400 mg/5 ml + 57 mg/5 ml con bicc… | ZENTIVA ITALIA Srl | Autorizzata |
+| 036944015 | AMOXICILLINA E ACIDO CLAVULANICO\*12 bust 875 mg + 125 mg | LABORATORI ALTER Srl | Autorizzata |
+| 036815025 | AMOXICILLINA E ACIDO CLAVULANICO\*12 cpr rivestite 875 mg + 125 mg | PHARMACARE Srl | Autorizzata |
+| 040488049 | AUGMENTIN\*12 cpr rivestite 875 mg + 125 mg | FARMA 1000 Srl | Autorizzata |
+| 036802015 | AMOXICILLINA E ACIDO CLAVULANICO\*12 cpr rivestite 875 mg + 125 mg | DOC GENERICI Srl | Autorizzata |
+| 036744011 | AMOXICILLINA E ACIDO CLAVULANICO\*orale polv 12 buste 875 mg + 125 mg | MYLAN SpA | Autorizzata |
+| 037165014 | AMOXICILLINA E ACIDO CLAVULANICO\*12 bust 875 mg + 125 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 042173118 | AMOXICILLINA E ACIDO CLAVULANICO\*BB orale sosp polv 140 ml 400 mg/5 ml + 57 mg/5 ml con c… | EG SpA | Autorizzata |
+| 045442023 | HOMERDELIK\*polv sosp 140 ml 400 mg/57 mg/5 ml flacone vetro | SO.SE.PHARM Srl | Autorizzata |
+| 026138228 | CLAVULIN\*BB orale sosp 140 ml 400 mg/5 ml + 57 mg/5 ml con siringa dosatrice | GLAXOSMITHKLINE SpA | Autorizzata |
+| 042856094 | AUGMENTIN\*12 cpr rivestite 875 mg + 125 mg | GMM FARMA Srl | Autorizzata |
+| 041267030 | AUGMENTIN\*12 cpr rivestite 875 mg + 125 mg | GEKOFAR Srl | Autorizzata |
+| 026089464 | AUGMENTIN\*orale sosp polv 400 mg/5 ml + 57 mg/5 ml 1 flacone 35 ml frutti misti | GLAXOSMITHKLINE SpA | Autorizzata |
+| 037747033 | STEMOX\*12 cpr rivestite 875 mg + 125 mg | STEWART ITALIA Srl | Autorizzata |
+| 048462055 | AMOXICILLINA E ACIDO CLAVULANICO\*orale sosp grat 70 ml 400 mg/5 ml + 57 mg/5 ml con bicch… | ZENTIVA ITALIA Srl | Autorizzata |
+| 038291086 | AUGMENTIN\*12 cpr rivestite 875 mg + 125 mg | PROGRAMMI SANIT.INTEGRATI Srl | Autorizzata |
+| 045173059 | AMOCLA\*orale sosp 140 ml 400 mg/5 ml + 57 mg/5 ml | I.B.N. SAVIO Srl | Autorizzata |
+| 036801013 | ANIVAL\*12 cpr rivestite 875 mg + 125 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 037335015 | KLAVUX\*12 bust 875 mg + 125 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 036896025 | KRUXADE\*12 cpr rivestite 875 mg + 125 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

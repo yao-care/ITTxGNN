@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: nuova indicazione prevista, obsolete vitamin D deficiency (livello di evidenza L5). In Italia, confezioni AIFA: 13 (autorizzate: 11)"
 ---
 
@@ -68,15 +68,30 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 024280012 | ROCALTROL*30 cps molli 0,25 mcg | Capsule molli | Non registrata nei dati locali |
-| 024280024 | ROCALTROL*30 cps molli 0,50 mcg | Capsule molli | Non registrata nei dati locali |
-| 035238029 | CALCITRIOLO*30 cps molli 0,50 mcg | Capsule molli | Non registrata nei dati locali |
-| 035237027 | CALCITRIOLO*30 cps molli 0,50 mcg | Capsule molli | Non registrata nei dati locali |
-| 035297199 | CALCITRIOLO*30 cps molli 0,25 mcg flacone | Capsule molli | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco mostra le principali autorizzazioni tra quelle compilate; lo stato di mercato è quello riportato sopra.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 024280012 | ROCALTROL\*30 cps molli 0,25 mcg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 035237027 | CALCITRIOLO\*30 cps molli 0,50 mcg | DOC GENERICI Srl | Autorizzata |
+| 035297199 | CALCITRIOLO\*30 cps molli 0,25 mcg flacone | TEVA ITALIA Srl | Autorizzata |
+| 035238031 | CALCITRIOLO\*30 cps molli 0,25 mcg | EG SpA | Autorizzata |
+| 035765027 | SILKIS\*ung derm 30 g | GALDERMA ITALIA SpA | Autorizzata |
+| 024280024 | ROCALTROL\*30 cps molli 0,50 mcg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 035297389 | CALCITRIOLO\*30 cps molli 0,50 mcg flacone | TEVA ITALIA Srl | Autorizzata |
+| 035102021 | CALCITRIOLO\*30 cps molli 0,5 mcg | MYLAN SpA | Autorizzata |
+| 035237015 | CALCITRIOLO\*30 cps molli 0,25 mcg | DOC GENERICI Srl | Autorizzata |
+| 035238043 | CALCITRIOLO\*30 cps molli 0,50 mcg | EG SpA | Autorizzata |
+| 035102019 | CALCITRIOLO\*30 cps molli 0,25 mcg | MYLAN SpA | Autorizzata |
+| 035238029 | CALCITRIOLO\*30 cps molli 0,50 mcg | EG SpA | Non più autorizzata |
+| 035238017 | CALCITRIOLO\*30 cps molli 0,25 mcg | EG SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Lo stato di mercato è quello riportato sopra.
 
 ## Considerazioni sulla sicurezza
 

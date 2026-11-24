@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "corifollitropin alfa"
 predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Corifollitropin Alfa: nuova indicazione prevista, Gastroduodenite (gastroduodenitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -68,10 +68,16 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039943028 | ELONVA siringa preriempita SC 150 mcg 0,5 ml + 1 ago | Non indicata | Non registrata nei dati locali |
-| 039943016 | ELONVA siringa preriempita SC 100 mcg 0,5 ml + 1 ago | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039943028 | ELONVA\*1 siringa preriempita SC 150 mcg 0,5 ml + 1 ago | ORGANON N.V. | Autorizzata |
+| 039943016 | ELONVA\*1 siringa preriempita SC 100 mcg 0,5 ml + 1 ago | ORGANON N.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -78,17 +78,25 @@ Il testo dell'indicazione approvata non è presente nei dati compilati.
 
 <!-- review:begin it-lic-20261106-leflunomide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvata non è presente nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni risultano cancellate. Il testo dell'indicazione approvata non è presente nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-leflunomide-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 050037098 | Leflunomide 30 cpr rivestite 20 mg | Aurobindo Pharma Italia Srl | Valida |
-| 034702098 | Arava 3 cpr rivestite 100 mg | Sanofi Aventis Deutschland GmbH | Valida |
-| 042083067 | Leflunomide 30 cpr rivestite 20 mg (flacone) | Medac GmbH | Valida |
-| 041230107 | Leflunomide 30 cpr rivestite 20 mg | Mylan SpA | Valida |
-| 034702074 | Arava 30 cpr rivestite 20 mg (flacone) | Sanofi Aventis Deutschland GmbH | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050037098 | LEFLUNOMIDE\*30 cpr rivestite 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 034702098 | ARAVA\*3 cpr rivestite 100 mg | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 042083067 | LEFLUNOMIDE\*30 cpr rivestite 20 mg flacone | MEDAC GMBH | Autorizzata |
+| 041230107 | LEFLUNOMIDE\*30 cpr rivestite 20 mg | MYLAN SpA | Autorizzata |
+| 034702074 | ARAVA\*30 cpr rivestite 20 mg flacone | SANOFI AVENTIS DEUTSCHL.GMBH | Autorizzata |
+| 040419172 | LEFLUNOMIDE\*30 cpr rivestite 20 mg flacone | SANDOZ SpA | Autorizzata |
+| 041079056 | LEFLUNOMIDE\*30 cpr rivestite 20 mg flacone | ZENTIVA K.S. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -113,7 +121,7 @@ La previsione si fonda unicamente sul punteggio del modello (livello L5), senza 
 
 <!-- review:begin it-lic-20261106-leflunomide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è speculativo, il profilo teratogeno è preoccupante e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il meccanismo è speculativo, il profilo teratogeno è preoccupante e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-leflunomide-2 -->
 
@@ -131,8 +139,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

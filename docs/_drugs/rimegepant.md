@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -94,11 +94,17 @@ Pubblicazioni selezionate (priorità a meta-analisi e studi clinici); nessuna è
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 050080035 | VYDURA 16x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
-| 050080023 | VYDURA 8 liofilizzati orali 75 mg (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
-| 050080011 | VYDURA 2x1 liofilizzati orali 75 mg monodose (Pfizer Europe MA EEIG) | Liofilizzato orale | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050080035 | VYDURA\*16x1 liofilizzati OS 75 mg dose unitaria | PFIZER EUROPE MA EEIG | Autorizzata |
+| 050080023 | VYDURA\*8 liofilizzati OS 75 mg | PFIZER EUROPE MA EEIG | Autorizzata |
+| 050080011 | VYDURA\*2x1 liofilizzati OS 75 mg dose unitaria | PFIZER EUROPE MA EEIG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +126,7 @@ La predizione è plausibile dal punto di vista della classe farmacologica, ma ri
 
 <!-- review:begin it-lic-20261106-rimegepant-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre l'autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre l'autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rimegepant-1 -->
 
@@ -139,7 +145,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre l'autorizzazione italiana è cancellata e m» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
 
 <!-- review:end log -->

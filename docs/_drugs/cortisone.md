@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
 description: "Cortisone: nuova indicazione prevista, Linfoma cutaneo a cellule T primario (primary cutaneous T-cell lymphoma) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -80,9 +80,15 @@ Gli abstract non sono disponibili: le sintesi si basano sui titoli.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 004561015 | CORTONE ACETATO*20 cpr 25 mg (TEOFARMA Srl) | Compresse | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 004561015 | CORTONE ACETATO\*20 cpr 25 mg | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Lo stato di mercato in Italia è "In commercio": l'autorizzazione elencata risulta valida.
 

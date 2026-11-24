@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "BOSENTAN"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bosentan: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)"
 ---
 
@@ -79,13 +79,28 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 Secondo i dati compilati per questo report, risultano 14 autorizzazioni, tutte relative a prodotti monocomponente a base di bosentan (tra cui Tracleer e vari generici in compresse rivestite da 62,5 mg e 125 mg). Nei dati locali non è registrato il testo dell'indicazione approvata.
 
-| N. autorizzazione | Prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 035609027 | TRACLEER 56 cpr rivestite 62,5 mg | Compresse rivestite | Janssen Cilag International N.V. |
-| 035609041 | TRACLEER 56 cpr rivestite 125 mg | Compresse rivestite | Janssen Cilag International N.V. |
-| 042590051 | BOSENTAN 56x1 cpr rivestite 62,5 mg | Compresse rivestite | Mylan SpA |
-| 043079021 | BOSENTAN 56 cpr rivestite 62,5 mg | Compresse rivestite | Accord Healthcare SLU |
-| 044204042 | BOSENTAN 56x1 cpr rivestite 62,5 mg | Compresse rivestite | Teva Italia Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043919063 | BOSENTAN\*56 cpr rivestite 125 mg | SUN PHARMA FRANCE | Autorizzata |
+| 044094011 | BOSENTAN\*56 cpr rivestite 62,5 mg | ABDI FARMA GMBH | Autorizzata |
+| 043079021 | BOSENTAN\*56 cpr rivestite 62,5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044876050 | BOSENTAN\*56 cpr rivestite 62,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 035609041 | TRACLEER\*56 cpr rivestite 125 mg | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+| 043919024 | BOSENTAN\*56 cpr rivestite 62,5 mg | SUN PHARMA FRANCE | Autorizzata |
+| 044876187 | BOSENTAN\*56 cpr rivestite 125 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044094023 | BOSENTAN\*56 cpr rivestite 125 mg | ABDI FARMA GMBH | Autorizzata |
+| 042590051 | BOSENTAN\*56x1 cpr rivestite 62,5 mg | MYLAN SpA | Autorizzata |
+| 044204042 | BOSENTAN\*56x1 cpr rivestite 62,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 044204093 | BOSENTAN\*56x1 cpr rivestite 125 mg | TEVA ITALIA Srl | Autorizzata |
+| 043079045 | BOSENTAN\*56 cpr rivestite 125 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 035609027 | TRACLEER\*56 cpr rivestite 62,5 mg | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+| 042590125 | BOSENTAN\*56x1 cpr rivestite 125 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

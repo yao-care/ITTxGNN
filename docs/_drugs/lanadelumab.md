@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "LANADELUMAB"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 description: "Lanadelumab: nuova indicazione prevista, Malattia da polimerizzazione tossica delle serpine (serpinopathy with toxic serpin polymerization) (livello di evidenza L5)."
@@ -68,10 +68,16 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 047417011 | TAKHZYRO 1 flaconcino SC 2 ml 300 mg + 1 siringa + 2 aghi (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
-| 047417047 | TAKHZYRO 1 siringa preriempita SC 300 mg 2 ml (Takeda) | Soluzione iniettabile sottocutanea | Autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047417011 | TAKHZYRO\*1 flaconcino SC 2 ml 300 mg + 1 siringa + 2 aghi | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+| 047417047 | TAKHZYRO\*1 siringa preriemp SC 300 mg 2 ml | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Takeda Pharmaceutical International AG, filiale irlandese. Entrambe le autorizzazioni risultano valide.
 

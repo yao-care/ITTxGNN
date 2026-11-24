@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RUXOLITINIB"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
 description: "Ruxolitinib: nuova indicazione prevista, Uterine corpus perivascular epithelioid cell tumor (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -101,10 +101,16 @@ Per il liposarcoma sono disponibili due studi preclinici (PMID [35186752](https:
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 050666027 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione valida |
-| 050666015 | OPZELURA crema derm 1 tubo 100 g 15 mg/g (Incyte Biosciences Distrib BV) | Crema (uso dermatologico) | Non disponibile; autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050666027 | OPZELURA\*crema derm 1 tubo 100 g 15 mg/g | INCYTE BIOSCIENCES DISTRIB BV | Autorizzata |
+| 050666015 | OPZELURA\*crema derm 1 tubo 100 g 15 mg/g | INCYTE BIOSCIENCES DISTRIB BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -148,7 +154,7 @@ Per avvertenze e controindicazioni si rimanda al foglietto illustrativo.
 
 <!-- review:begin it-lic-20261106-ruxolitinib-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Studi clinici prospettivi o randomizzati nell'HLH / Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibilità della via di somministrazione sistemica» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Studi clinici prospettivi o randomizzati nell'HLH / Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibilità della via di somministrazione sistemica» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ruxolitinib-1 -->
 
@@ -160,7 +166,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibil» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Valutazione dello stato regolatorio: le uniche autorizzazioni italiane sono per una crema topica, cancellate; occorre chiarire la compatibil» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 286
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: nuova indicazione prevista, Leucemia mieloide (myeloid leukemia) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -97,10 +97,16 @@ Molti degli studi di fase 3 elencati usano regimi multi-agente, in cui il contri
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044665014 | XALUPRINE (flacone orale 100 ml, 20 mg/ml) | Non indicata | Non indicata (autorizzazione valida) |
-| 010344012 | PURINETHOL (25 compresse da 50 mg) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044665014 | XALUPRINE\*1 flacone orale 100 ml 20 mg/ml | LIPOMED GmbH | Autorizzata |
+| 010344012 | PURINETHOL\*25 cpr 50 mg flacone | ASPEN PHARMA TRADING LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

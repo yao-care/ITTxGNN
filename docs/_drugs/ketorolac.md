@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "KETOROLAC"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: nuova indicazione prevista, Disturbo da cefalea (headache disorder) (livello di evidenza L1)."
@@ -38,11 +38,11 @@ Livello di evidenza: **L1** | Indicazioni previste: **3**
 
 ## Riepilogo in una frase
 
-Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN (deep learning) prevede che possa essere efficace per la **Cefalea**, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia il farmaco è commercializzato, con 11 autorizzazioni valide su 13.
+Il ketorolac è un antinfiammatorio non steroideo (FANS) le cui indicazioni originarie, secondo i dati compilati per questo report, riguardano le congiuntiviti allergiche (atopica, papillare e primaverile). Il modello TxGNN (deep learning) prevede che possa essere efficace per la **Cefalea**, con **18 studi clinici** e **18 pubblicazioni** a supporto di questa direzione. In Italia il farmaco è commercializzato; accanto alle autorizzazioni valide figurano anche confezioni uscite dall'elenco AIFA delle confezioni autorizzate (vedi la tabella delle autorizzazioni).
 
 <!-- review:begin it-lic-20261117-ketorolac-1 -->
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «In Italia il farmaco è commercializzato, con 13 autorizzazioni valide su 13.» Corretto secondo l'elenco AIFA delle confezioni autorizzate (dati al 2026-11-17): le confezioni che non vi compaiono più (né nella Banca Dati Farmaci) non sono più autorizzate. I numeri aggiornati sono nella panoramica rapida. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
 
 <!-- review:end it-lic-20261117-ketorolac-1 -->
 
@@ -115,21 +115,36 @@ Sono elencati i 10 studi più rilevanti. Altri studi hanno rilevanza limitata (a
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5 sono:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-ketorolac-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 13 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 13 autorizzazioni risultano cancellate. Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ketorolac-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 038205023 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Eugia Pharma (Malta) Limited | Valida |
-| 037745015 | Ketorolac, 3 fiale IM/EV 30 mg/ml | Towa Pharmaceutical SpA | Non più autorizzata |
-| 037850017 | Ketorolac, 3 fiale IM/EV 30 mg/ml | DOC Generici Srl | Valida |
-| 027253020 | Toradol, 3 fiale IM/EV 30 mg | Recordati SpA | Valida |
-| 027257056 | Lixidol, 3 fiale IM/EV 30 mg | Atnahs Pharma Netherlands BV | Valida |
+|------|------|------|------|
+| 038205023 | KETOROLAC\*3 fiale IM EV 30 mg/ml 1 ml | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 037850017 | KETOROLAC\*3 fiale IM EV 30 mg 1 ml | DOC GENERICI Srl | Autorizzata |
+| 038358026 | KETOROLAC\*3 fiale IM EV 1 ml 30 mg/ml | ABC FARMACEUTICI SpA | Autorizzata |
+| 027257056 | LIXIDOL\*3 fiale IM EV 30 mg 1 ml | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 038406017 | BENKETOL\*3 fiale soluz iniett 1 ml 30 mg/ml | PHARMABER Srl | Autorizzata |
+| 045239011 | KETOROLAC\*5 fiale IM EV 30 mg/ml 1 ml | SALF SpA | Autorizzata |
+| 027253020 | TORADOL\*3 fiale IM EV 30 mg 1 ml | RECORDATI SpA | Autorizzata |
+| 037851019 | EUMAT\*3 fiale IM EV 30 mg/ml 1 ml | EPIFARMA Srl | Autorizzata |
+| 038554010 | KETOROLAC\*3 fiale IM EV 30 mg 1 ml | MYLAN SpA | Autorizzata |
+| 038275018 | NASVICAL\*3 fiale IM EV 30 mg/ml | I.B.N. SAVIO Srl | Autorizzata |
+| 037746017 | KEVINDOL\*3 fiale IM EV 30 mg 1 ml | SO.SE.PHARM Srl | Autorizzata |
+| 037745015 | KETOROLAC\*3 fiale IM EV 30 mg/ml | TOWA PHARMACEUTICAL SpA | Non più autorizzata |
+| 037849015 | KETOROLAC\*3 fiale IM EV 30 mg/ml 1 ml | EG SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ---
 
@@ -156,7 +171,7 @@ Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativ
 
 <!-- review:begin it-lic-20261106-ketorolac-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Mancano però RCT di fase 3 sul ketorolac, il farmaco non ha autorizzazioni valide in Italia e il profilo di interazioni e rischi è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Mancano però RCT di fase 3 sul ketorolac, il farmaco non ha autorizzazioni valide in Italia e il profilo di interazioni e rischi è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ketorolac-2 -->
 
@@ -169,7 +184,7 @@ Per l'emicrania e la cefalea tensiva esistono più RCT randomizzati e comparativ
 
 <!-- review:begin it-lic-20261106-ketorolac-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 13 autorizzazioni per questo farmaco, di cui 13 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una valutazione della disponibilità di formulazioni (endovenosa, intramuscolare, intranasale) e dello stato regolatorio in Italia, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ketorolac-3 -->
 
@@ -181,10 +196,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 13 autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «il farmaco non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-17 | «13 autorizzazioni valide su 13» → 11 su 13 | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-24 | Rimosso: «Tutte le 13 autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «il farmaco non ha autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | «13 autorizzazioni valide su 13» → 11 su 13 | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
 
 <!-- review:end log -->

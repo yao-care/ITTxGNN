@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 description: "Riluzole: nuova indicazione prevista, Polimicrogiria parieto-occipitale parasagittale bilaterale (bilateral parasagittal parieto-occipital polymicrogyria) (livello di evidenza L5)."
@@ -72,15 +72,22 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|-----------|
-| 050382035 | EMYLIF, 56 bustine orodispersibili 50 mg | Zambon SpA |
-| 042018010 | TEGLUTIK, sospensione orale 300 ml 5 mg/ml | Italfarmaco SpA |
-| 040541070 | Riluzolo, 56 compresse rivestite 50 mg | Aurobindo Pharma Italia Srl |
-| 040801019 | Riluzolo, 56 compresse rivestite 50 mg | Sun Pharma France |
-| 032887010 | RILUTEK, 56 compresse rivestite 50 mg | Sanofi Winthrop Industrie |
+<!-- licenses:begin -->
 
-Sono presenti 6 autorizzazioni in totale, tutte valide; qui sono elencate le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050382035 | EMYLIF\*56 bust film orodispers 50 mg | ZAMBON SpA | Autorizzata |
+| 042018010 | TEGLUTIK\*orale sosp flacone 300 ml 5 mg/ml | ITALFARMACO SpA | Autorizzata |
+| 040541070 | RILUZOLO\*56 cpr rivestite 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040801019 | RILUZOLO\*56 cpr rivestite 50 mg | SUN PHARMA FRANCE | Autorizzata |
+| 032887010 | RILUTEK\*56 cpr rivestite 50 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 041946031 | RILUZOLO\*56 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 6 autorizzazioni in totale, tutte valide.
 
 ## Considerazioni sulla sicurezza
 

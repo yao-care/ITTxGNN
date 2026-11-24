@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: nuova indicazione prevista, Ipertensione polmonare da malattia polmonare e/o ipossia (pulmonary hypertension owing to lung disease and/or hypoxia) (livello di evidenza L5). Indicazione orig…"
@@ -92,7 +92,7 @@ Sono riportate le pubblicazioni più rilevanti, in ordine di pertinenza. Tutte s
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati. Si elencano 5 delle autorizzazioni principali.
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati compilati.
 
 <!-- review:begin it-lic-20261106-ramipril-1 -->
 
@@ -100,13 +100,36 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati n
 
 <!-- review:end it-lic-20261106-ramipril-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 027161064 | TRIATEC 14 cpr div 5 mg | SANOFI Srl | Valida |
-| 037577208 | RAMIPRIL 14 cpr 5 mg | MYLAN SpA | Valida |
-| 037692035 | RAMIPRIL 14 cpr div 5 mg | ZENTIVA ITALIA Srl | Valida |
-| 038214021 | HERZATEC 14 cpr 5 mg | EPIFARMA Srl | Valida |
-| 038355020 | TENSIRAM 14 cpr div 5 mg | I.B.N. SAVIO Srl | Valida |
+|------|------|------|------|
+| 037577208 | RAMIPRIL\*14 cpr 5 mg | MYLAN SpA | Autorizzata |
+| 037692035 | RAMIPRIL\*14 cpr div 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 038214021 | HERZATEC\*14 cpr 5 mg | EPIFARMA Srl | Autorizzata |
+| 038272011 | RAMIPRIL\*28 cpr 2,5 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 037577222 | RAMIPRIL\*28 cpr 5 mg | MYLAN SpA | Autorizzata |
+| 037692023 | RAMIPRIL\*28 cpr div 2,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 038355020 | TENSIRAM\*14 cpr div 5 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 037585205 | RAMIPRIL\*14 cpr 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 042732040 | TRIATEC\*14 cpr div 5 mg | MEDIFARM Srl | Autorizzata |
+| 039728288 | RAMIPRIL\*28 cpr 2,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 027161064 | TRIATEC\*14 cpr div 5 mg | SANOFI Srl | Autorizzata |
+| 038272023 | RAMIPRIL\*14 cpr 5 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 038273049 | KRUPIL\*28 cpr div 5 mg | SO.SE.PHARM Srl | Autorizzata |
+| 037439041 | RAMIPRIL\*28 cpr div 2,5 mg | EG SpA | Autorizzata |
+| 037509357 | RAMIPRIL\*28 cpr 5 mg | SANDOZ SpA | Autorizzata |
+| 042216200 | RAMIPRIL\*14 cpr 5 mg | ALMUS Srl | Autorizzata |
+| 050238120 | RAMIPRIL\*28 cpr 5 mg | LABORATORI ALTER Srl | Autorizzata |
+| 042262105 | RAMIPRIL\*28 cpr 5 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 038271019 | ECLIPSE\*28 cpr div 2,5 mg | S.F. GROUP Srl | Non più autorizzata |
+| 038271021 | ECLIPSE\*14 cpr div 5 mg | S.F. GROUP Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

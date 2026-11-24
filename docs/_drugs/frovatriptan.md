@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "FROVATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Frovatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
@@ -93,13 +93,22 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata | Stato |
-|---------|------|------|-----------|------|
-| 042611020 | Frovatriptan 2,5 mg, 6 compresse rivestite (Mylan) | Compresse rivestite | Non disponibile | Valida |
-| 035673021 | Auradol 2,5 mg, 2 compresse rivestite (Lusofarmaco) | Compresse rivestite | Non disponibile | Valida |
-| 042910051 | Frovatriptan 2,5 mg, 6 compresse rivestite (Teva) | Compresse rivestite | Non disponibile | Valida |
-| 035674035 | Rilamig 2,5 mg, 6 compresse rivestite (Menarini) | Compresse rivestite | Non disponibile | Valida |
-| 042911053 | Frovatriptan 2,5 mg, 6 compresse rivestite (EG) | Compresse rivestite | Non disponibile | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042611020 | FROVATRIPTAN\*6 cpr rivestite 2,5 mg | MYLAN SpA | Autorizzata |
+| 035673021 | AURADOL\*2 cpr rivestite 2,5 mg | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+| 042910051 | FROVATRIPTAN\*6 cpr rivestite 2,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 035674035 | RILAMIG\*6 cpr rivestite 2,5 mg | MENARINI INTERNAT. O.L.S.A | Autorizzata |
+| 042911053 | FROVATRIPTAN\*6 cpr rivestite 2,5 mg | EG SpA | Autorizzata |
+| 035674023 | RILAMIG\*2 cpr rivestite 2,5 mg | MENARINI INTERNAT. O.L.S.A | Autorizzata |
+| 042941056 | FROVATRIPTAN\*6 cpr rivestite 2,5 mg | DOC GENERICI Srl | Autorizzata |
+| 035673033 | AURADOL\*6 cpr rivestite 2,5 mg | IST.LUSOFARMACO D'ITALIA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +119,7 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-frovatriptan-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-frovatriptan-1 -->
 
@@ -127,7 +136,7 @@ Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tro
 
 <!-- review:begin it-lic-20261106-frovatriptan-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione. Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il frovatriptan è efficace nell'emicrania, ma per il sottotipo con aura del tronco encefalico non esistono sperimentazioni né letteratura specifica, e persiste una preoccupazione di sicurezza per la vasocostrizione. Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-frovatriptan-2 -->
 
@@ -146,8 +155,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti in totale 8 autorizzazioni, tutte cancellate; non risultano autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, il che limita la disponibilità pratica» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CATRIDECACOG"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Catridecacog: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati lo…"
 ---
 
@@ -71,9 +71,15 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043034014 | NOVOTHIRTEEN, 1 flaconcino EV 2.500 UI + 1 flaconcino da 3,2 ml | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043034014 | NOVOTHIRTEEN\*1 flaconcino EV 2.500 Unita' Internazionali + 1 flaconcino 3,2 ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

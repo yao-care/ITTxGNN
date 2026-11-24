@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 350
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Pilocarpine: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,10 +72,16 @@ Tutti i candidati prodotti dal modello TxGNN per Pilocarpine (punteggio ≥ 0,99
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 029526047 | Pilocarpina |  | Valida |
-| 004897017 | Pilocarpina |  | Valida |
+| 029526047 | SALAGEN\*6x14 cpr rivestite 5 mg | MERUS LABS LUXCO II SARL | Autorizzata |
+| 004897017 | DROPILTON\*collirio 10 ml 2% | BRUSCHETTINI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

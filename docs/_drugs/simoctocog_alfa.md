@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Simoctocog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia (incluso il quadro sintomatico dell'emofilia nelle donne por…"
 monitor_inn: "SIMOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
@@ -88,17 +88,25 @@ Il testo dell'indicazione approvata non è disponibile.
 
 <!-- review:begin it-lic-20261106-simoctocog_alfa-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate. Il testo dell'indicazione approvata non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate. Il testo dell'indicazione approvata non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-simoctocog_alfa-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Stato |
-|---------|------|------|
-| 043534080 | NUWIQ 1.500 UI + siringa solvente 2,5 ml + accessori | Valida |
-| 043534066 | NUWIQ 3.000 UI + siringa solvente 2,5 ml + accessori | Valida |
-| 043534054 | NUWIQ 2.500 UI + siringa solvente 2,5 ml + accessori | Valida |
-| 043534041 | NUWIQ 2.000 UI + siringa solvente 2,5 ml | Valida |
-| 043534039 | NUWIQ 1.000 UI + siringa solvente 2,5 ml | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043534080 | NUWIQ\*1 flaconcino EV 1.500 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattatore… | OCTAPHARMA AB | Autorizzata |
+| 043534066 | NUWIQ\*1 flaconcino EV 3.000 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattatore… | OCTAPHARMA AB | Autorizzata |
+| 043534015 | NUWIQ\*1 flaconcino EV 250 Unita' Internazionali + 1 siringa solv 2,5 ml | OCTAPHARMA AB | Autorizzata |
+| 043534039 | NUWIQ\*1 flaconcino EV 1.000 Unita' Internazionali + 1 siringa solv 2,5 ml | OCTAPHARMA AB | Autorizzata |
+| 043534027 | NUWIQ\*1 flaconcino EV 500 Unita' Internazionali + 1 siringa solv 2,5 ml | OCTAPHARMA AB | Autorizzata |
+| 043534041 | NUWIQ\*1 flaconcino EV 2.000 Unita' Internazionali + 1 siringa solv 2,5 ml | OCTAPHARMA AB | Autorizzata |
+| 043534054 | NUWIQ\*1 flaconcino EV 2500 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattatore +… | OCTAPHARMA AB | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -113,7 +121,7 @@ La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto cli
 
 <!-- review:begin it-lic-20261106-simoctocog_alfa-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto clinico o bibliografico (L5) e il meccanismo (difetto piastrinico/VWF) non è corretto dalla sostituzione di FVIII. Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto clinico o bibliografico (L5) e il meccanismo (difetto piastrinico/VWF) non è corretto dalla sostituzione di FVIII. Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-simoctocog_alfa-2 -->
 
@@ -125,7 +133,7 @@ La previsione per la pseudo-malattia di von Willebrand non ha alcun supporto cli
 
 <!-- review:begin it-lic-20261106-simoctocog_alfa-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la disponibilità commerciale del prodotto (autorizzazioni cancellate) o individuare formulazioni alternative di FVIII ricombinante» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire la disponibilità commerciale del prodotto (autorizzazioni cancellate) o individuare formulazioni alternative di FVIII ricombinante» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-simoctocog_alfa-3 -->
 
@@ -137,9 +145,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 7 autorizzazioni (titolare: Octapharma AB, prodotto NUWIQ) risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

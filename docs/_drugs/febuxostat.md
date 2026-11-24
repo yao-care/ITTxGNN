@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 description: "Febuxostat: nuova indicazione prevista, Ipouricemia renale (hypouricemia, renal) (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20"
@@ -86,7 +86,7 @@ L'unico spunto in letteratura (PMID 36754409) è un caso riportato in cui un ini
 
 ## Informazioni sul mercato italiano
 
-Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
+Testo dell'indicazione e forma farmaceutica non sono riportati.
 
 <!-- review:begin it-lic-20261106-febuxostat-1 -->
 
@@ -94,13 +94,36 @@ Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autor
 
 <!-- review:end it-lic-20261106-febuxostat-1 -->
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 047082021 | Febuxostat 80 mg, 28 cpr rivestite (Zentiva Italia) | Compresse rivestite | Non disponibile |
-| 046043168 | Febuxostat 120 mg, 28 cpr rivestite (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile |
-| 045367075 | Alphabux 120 mg, 28 cpr rivestite (So.Se.Pharm) | Compresse rivestite | Non disponibile |
-| 047770021 | Febuxostat 80 mg, 28 cpr rivestite (Krka) | Compresse rivestite | Non disponibile |
-| 047825183 | Dymauric 120 mg, 28 cpr rivestite (Dymalife Pharmaceutical) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046043168 | FEBUXOSTAT\*28 cpr rivestite 120 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045367075 | ALPHABUX\*28 cpr rivestite 120 mg | SO.SE.PHARM Srl | Autorizzata |
+| 047770021 | FEBUXOSTAT\*28 cpr rivestite 80 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 047825183 | DYMAURIC\*28 cpr rivestite 120 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 047770060 | FEBUXOSTAT\*28 cpr rivestite 120 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 045877065 | FEBUXOSTAT\*28 cpr rivestite 120 mg | EG SpA | Autorizzata |
+| 044976088 | FEBUXOSTAT\*28 cpr rivestite 120 mg | TEVA B.V. | Autorizzata |
+| 046770020 | GAUTI\*28 cpr rivestite 80 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 044976025 | FEBUXOSTAT\*28 cpr rivestite 80 mg | TEVA B.V. | Autorizzata |
+| 045367036 | ALPHABUX\*28 cpr rivestite 80 mg | SO.SE.PHARM Srl | Autorizzata |
+| 045479072 | FEBUXOSTAT\*28 cpr rivestite 80 mg flacone | VIATRIS LIMITED | Autorizzata |
+| 045559022 | GOTTART\*28 cpr rivestite 120 mg | S.F. GROUP Srl | Autorizzata |
+| 045391087 | FEBUXOSTAT\*28 cpr rivestite 80 mg | SANDOZ SpA | Autorizzata |
+| 046043028 | FEBUXOSTAT\*28 cpr rivestite 80 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045391202 | FEBUXOSTAT\*28 cpr rivestite 120 mg | SANDOZ SpA | Autorizzata |
+| 045564010 | ARBUX\*28 cpr rivestite 80 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 047082021 | FEBUXOSTAT\*28 cpr rivestite 80 mg | ZENTIVA ITALIA Srl | Non più autorizzata |
+| 045988021 | FEBUXOSTAT\*28 cpr rivestite 80 mg | ACCORD HEALTHCARE SLU | Non più autorizzata |
+| 045988072 | FEBUXOSTAT\*28 cpr rivestite 120 mg | ACCORD HEALTHCARE SLU | Non più autorizzata |
+| 047005083 | FEBUXOSTAT\*28 cpr rivestite 120 mg | ARISTO PHARMA GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Levothyroxine: nuova indicazione prevista, ipoplasia/aplasia renale (livello di evidenza L5). Indicazione originale: Ipotiroidismo"
 ---
 
@@ -73,15 +73,37 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Sono presenti almeno 20 autorizzazioni valide per prodotti monocomponente; l'elenco potrebbe essere parziale. Di seguito le principali 5 (il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati).
+Sono presenti almeno 20 autorizzazioni valide per prodotti monocomponente; l'elenco potrebbe essere parziale.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 024402125 | EUTIROX 50 cpr 50 mcg | Merck Serono SpA | Valida |
-| 049815095 | LEVOTIROXINA 50 cpr 125 mcg | Abdi Farma GmbH | Valida |
-| 046860058 | LEVOTIRSOL soluzione orale 30 flaconcini 1 ml 88 mcg | IBSA Farmaceutici Italia Srl | Valida |
-| 046021414 | LEVOTIROXINA 50 cpr 125 mcg | DOC Generici Srl | Valida |
-| 034368086 | TIROSINT soluzione orale 30 flaconcini 1 ml 50 mcg/ml | IBSA Farmaceutici Italia Srl | Valida |
+|------|------|------|------|
+| 024402125 | EUTIROX\*50 cpr 50 mcg | MERCK SERONO SpA | Autorizzata |
+| 049815095 | LEVOTIROXINA\*50 cpr 125 mcg | ABDI FARMA GMBH | Autorizzata |
+| 046860058 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 88 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 046021414 | LEVOTIROXINA\*50 cpr 125 mcg | DOC GENERICI Srl | Autorizzata |
+| 046860072 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 112 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 049815057 | LEVOTIROXINA\*50 cpr 75 mcg | ABDI FARMA GMBH | Autorizzata |
+| 046860060 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 100 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 046860033 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 50 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 024402164 | EUTIROX\*50 cpr 88 mcg | MERCK SERONO SpA | Autorizzata |
+| 024402063 | EUTIROX\*50 cpr 125 mcg | MERCK SERONO SpA | Autorizzata |
+| 046021111 | LEVOTIROXINA\*50 cpr 50 mcg | DOC GENERICI Srl | Autorizzata |
+| 046860122 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 200 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 024402137 | EUTIROX\*50 cpr 100 mcg | MERCK SERONO SpA | Autorizzata |
+| 049815071 | LEVOTIROXINA\*50 cpr 100 mcg | ABDI FARMA GMBH | Autorizzata |
+| 024402048 | EUTIROX\*50 cpr 25 mcg | MERCK SERONO SpA | Autorizzata |
+| 046860084 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 125 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 046860021 | LEVOTIRSOL\*orale soluz 30 flaconcini 1 ml 25 mcg | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 034368086 | TIROSINT\*orale soluz 30 flaconcini 1 ml 50 mcg/ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 024402075 | EUTIROX\*50 cpr 150 mcg | MERCK SERONO SpA | Autorizzata |
+| 049815032 | LEVOTIROXINA\*50 cpr 50 mcg | ABDI FARMA GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

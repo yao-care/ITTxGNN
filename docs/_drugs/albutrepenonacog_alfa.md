@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albutrepenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
 ---
 
@@ -68,11 +68,17 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044891036 | IDELVION 1.000 UI, flacone EV + solvente 2,5 ml e dispositivo di somministrazione | Non indicata | Non registrata nei dati locali |
-| 044891024 | IDELVION 500 UI, flacone EV + solvente 2,5 ml e dispositivo di somministrazione | Non indicata | Non registrata nei dati locali |
-| 044891048 | IDELVION 2.000 UI, flacone EV + solvente 5 ml e dispositivo di somministrazione | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044891036 | IDELVION\*1 flacone EV 1.000 Unita' Internazionali + 1 flacone 2,5 ml + 1 dispositivo di t… | CSL BEHRING GmbH | Autorizzata |
+| 044891024 | IDELVION\*1 flacone EV 500 Unita' Internazionali + 1 flacone 2,5 ml + 1 dispositivo di tra… | CSL BEHRING GmbH | Autorizzata |
+| 044891048 | IDELVION\*1 flacone EV 2.000 Unita' Internazionali + 1 flacone 5 ml + 1 dispositivo di tra… | CSL BEHRING GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: CSL Behring GmbH.
 

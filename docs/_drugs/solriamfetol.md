@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 409
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "solriamfetol"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 description: "Solriamfetol: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattivit√† (attention deficit-hyperactivity disorder) (livello di evidenza L2)."
@@ -81,10 +81,16 @@ Il potenziamento della trasmissione catecolaminergica nei circuiti prefrontali √
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 048446025 | SUNOSI*28 cpr rivestite 75 mg | Compresse rivestite | Non disponibile |
-| 048446076 | SUNOSI*28 cpr rivestite 150 mg | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048446025 | SUNOSI\*28 cpr rivestite 75 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 048446076 | SUNOSI\*28 cpr rivestite 150 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

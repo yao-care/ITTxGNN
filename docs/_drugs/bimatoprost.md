@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BIMATOPROST"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bimatoprost: nuova indicazione prevista, Sindrome malformativa con componente odontale e/o parodontale (malformation syndrome with odontal and/or periodontal co… (livello di evidenza L5). Indicazione…"
 ---
 
@@ -69,6 +69,30 @@ Attualmente non risultano studi clinici registrati correlati a questa indicazion
 Attualmente non risulta alcuna letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035447022 | LUMIGAN\*collirio 3 ml 0,1 mg/ml | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+| 048479012 | AMIRIOX\*collirio 1 flaconcino 3 ml 0,3 mg/ml | SIFI SpA | Autorizzata |
+| 044345039 | BIMADOC\*collirio 30 monodose 0,4 ml 0,3 mg/ml | DOC GENERICI Srl | Autorizzata |
+| 044570036 | BRINUS\*collirio 30 flaconcini monodose 0,4 ml 0,3 mg/ml | GENETIC SpA | Autorizzata |
+| 044573018 | BIALVIZ\*collirio 30 flaconcini monodose 0,1 mg/ml 0,15 ml | GENETIC SpA | Autorizzata |
+| 035447059 | LUMIGAN\*collirio 30 flaconcini monodose 0,4 ml 0,3 mg/ml | ABBVIE DEUTSCHLAND GmbH&CO.KG | Autorizzata |
+| 050471010 | LUMIGAN\*collirio 3 ml 0,1 mg/ml | DIFARMED S.L.U. | Autorizzata |
+| 044570024 | BRINUS\*collirio 1 flaconcino multidose 3 ml 0,1 mg/ml | GENETIC SpA | Autorizzata |
+| 044395034 | BIMATOPROST\*collirio 3 ml 0,1 mg/ml | SANDOZ GMBH | Autorizzata |
+| 044572016 | BIMANEXT\*collirio 30 flaconcini monodose 0,15 ml 0,1 mg/ml | FB VISION SpA | Autorizzata |
+| 044345015 | BIMADOC\*collirio 3 ml 0,1 mg/ml | DOC GENERICI Srl | Autorizzata |
+| 051270015 | LUMIGAN\*collirio 3 ml 0,1 mg/ml | FARMED Srl | Autorizzata |
+| 049725017 | VISUPLAIN\*collirio 3 ml 0,1 mg/ml | VISUFARMA SpA | Autorizzata |
+| 050770015 | LUMIGAN\*collirio 3 ml 0,1 mg/ml | BB FARMA Srl | Autorizzata |
+| 045448038 | BIMATOPROST\*1 flaconcino collirio 3 ml 0,1 mg/ml | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il farmaco risulta in commercio in Italia secondo i dati regolatori locali. L'elenco dettagliato delle autorizzazioni è generato dal programma del sito.
 

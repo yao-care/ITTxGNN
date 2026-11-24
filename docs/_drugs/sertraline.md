@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 402
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: nuova indicazione prevista, Disturbo schizoide di personalità (schizoid personality disorder) (livello di evidenza L5)."
@@ -70,15 +70,37 @@ Al momento non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-Nei dati compilati sono presenti 20 autorizzazioni, tutte valide; l'elenco potrebbe essere parziale. Principali autorizzazioni:
+Nei dati compilati sono presenti 20 autorizzazioni, tutte valide; l'elenco potrebbe essere parziale.
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036803017 | Sertralina 30 cpr rivestite 50 mg (EG SpA) | Compresse rivestite | Non disponibile |
-| 042398040 | Sertralina 30 cpr rivestite 100 mg (Tecnimede) | Compresse rivestite | Non disponibile |
-| 027754086 | Tatig 30 cpr rivestite div 50 mg (Viatris Pharma) | Compresse rivestite | Non disponibile |
-| 036764049 | Sertralina 30 cpr rivestite 100 mg (DOC Generici) | Compresse rivestite | Non disponibile |
-| 027753096 | Zoloft soluzione orale 60 ml 20 mg/ml (Viatris Pharma) | Soluzione orale | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036803017 | SERTRALINA\*30 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 042398040 | SERTRALINA\*30 cpr rivestite 100 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 027754086 | TATIG\*30 cpr rivestite div 50 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 036764049 | SERTRALINA\*30 cpr rivestite 100 mg | DOC GENERICI Srl | Autorizzata |
+| 036863191 | SERTRALINA\*30 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+| 027754050 | TATIG\*15 cpr rivestite 100 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 027753096 | ZOLOFT\*orale soluz 1 flacone 60 ml 20 mg/ml | VIATRIS PHARMA Srl | Autorizzata |
+| 036600031 | SERTRALINA\*30 cpr rivestite div 50 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 039750031 | SERTRALINA\*15 cpr rivestite 50 mg | TEVA PHARMA B.V. | Autorizzata |
+| 036858126 | SERTRALINA\*30 cpr rivestite 100 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 027753108 | ZOLOFT\*30 cpr rivestite div 50 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 036806026 | SERTRALINA\*30 cpr rivestite 100 mg | ALMUS Srl | Autorizzata |
+| 050824010 | ZOLOFT\*30 cpr rivestite div 50 mg | BB FARMA Srl | Autorizzata |
+| 027753033 | ZOLOFT\*15 cpr rivestite div 50 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 036771172 | SERTRALINA\*30 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 036858052 | SERTRALINA\*30 cpr rivestite 50 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 036733069 | SERTRALINA\*30 cpr rivestite div 50 mg | SANDOZ SpA | Autorizzata |
+| 036861060 | SERTRALINA\*30 cpr rivestite 50 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 036764013 | SERTRALINA\*15 cpr rivestite 50 mg | DOC GENERICI Srl | Autorizzata |
+| 051965010 | ZOLOFT\*30 cpr rivestite div 50 mg | FARMED Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

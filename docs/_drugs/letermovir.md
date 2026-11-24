@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Letermovir: nuova indicazione prevista, Candidosi vulvovaginale (livello di evidenza L5). Indicazione originale: Infezione da citomegalovirus"
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
@@ -70,16 +70,22 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 <!-- review:begin it-lic-20261106-letermovir-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-letermovir-1 -->
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045890023 | PREVYMIS 28x1 cpr rivestite 480 mg | Compresse rivestite | Non disponibile |
-| 045890011 | PREVYMIS 28x1 cpr rivestite 240 mg | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045890023 | PREVYMIS\*28x1 cpr rivestite 480 mg | MERCK SHARP & DOHME BV | Autorizzata |
+| 045890011 | PREVYMIS\*28x1 cpr rivestite 240 mg | MERCK SHARP & DOHME BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -99,7 +105,7 @@ La previsione si fonda solo sul modello (livello L5), senza studi clinici, lette
 
 <!-- review:begin it-lic-20261106-letermovir-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Letermovir agisce su un bersaglio virale privo di omologhi noti nei funghi, e in Italia le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Letermovir agisce su un bersaglio virale privo di omologhi noti nei funghi, e in Italia le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-letermovir-2 -->
 
@@ -118,8 +124,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e in Italia le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni (titolare: Merck Sharp & Dohme BV) risultano cancellate; non vi sono autorizzazioni attualmente valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e in Italia le autorizzazioni sono attualmente cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b) |
 
 <!-- review:end log -->

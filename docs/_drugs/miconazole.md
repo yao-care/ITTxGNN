@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 300
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L4). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -78,10 +78,16 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025999121 | NIZACOL*10 cpr 500 mg (NEW RESEARCH Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
-| 038371011 | LORAMYC*14 cpr buccali 50 mg flacone (IST.GENTILI Srl) | Non disponibile | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025999121 | NIZACOL\*10 cpr 500 mg | NEW RESEARCH Srl | Autorizzata |
+| 038371011 | LORAMYC\*14 cpr buccali 50 mg flacone | IST.GENTILI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -99,7 +105,7 @@ L'evidenza è limitata a predizione del modello, dati *in vitro* e piccoli studi
 
 <!-- review:begin it-lic-20261106-miconazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Non ci sono studi clinici registrati sull'acne, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Non ci sono studi clinici registrati sull'acne, tutte le autorizzazioni italiane sono cancellate e mancano i dati di sicurezza ufficiali, che costituiscono una lacuna bloccante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-miconazole-1 -->
 
@@ -118,7 +124,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e, tutte le autorizzazioni italiane sono cancellat» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e, tutte le autorizzazioni italiane sono cancellat» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

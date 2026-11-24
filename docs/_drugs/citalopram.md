@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Citalopram: nuova indicazione prevista, Disturbo ossessivo-compulsivo (obsessive-compulsive disorder) (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -86,15 +86,38 @@ Il punteggio TxGNN elevato (0,9974) è coerente con questa base biologica. Va pe
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è registrato nei dati locali. I dati disponibili sono parziali. Elenco delle principali autorizzazioni:
+Il testo dell'indicazione approvata non è registrato nei dati locali. I dati disponibili sono parziali.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 036367151 | CITALOPRAM 28 cpr rivestite 20 mg | Sandoz SpA |
-| 036657017 | CITALOPRAM gocce orali 15 ml 40 mg/ml | Mylan SpA |
-| 028759025 | SEROPRAM 14 cpr rivestite 40 mg | Lundbeck Italia SpA |
-| 038238061 | CITALOPRAM 28 cpr rivestite 20 mg | Sandoz B.V. |
-| 036651014 | CITALOPRAM gocce orali 15 ml 40 mg/ml | Sun Pharmaceutical Ind. Europe B.V. |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036367151 | CITALOPRAM\*28 cpr rivestite 20 mg | SANDOZ SpA | Autorizzata |
+| 036657017 | CITALOPRAM\*orale gtt 15 ml 40 mg/ml | MYLAN SpA | Autorizzata |
+| 028759025 | SEROPRAM\*14 cpr rivestite 40 mg | LUNDBECK ITALIA SpA | Autorizzata |
+| 038238061 | CITALOPRAM\*28 cpr rivestite 20 mg | SANDOZ B.V. | Autorizzata |
+| 036367340 | CITALOPRAM\*14 cpr rivestite 40 mg | SANDOZ SpA | Autorizzata |
+| 036656015 | CITALOPRAM\*28 cpr rivestite 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 035976024 | CITALOPRAM\*28 cpr rivestite 20 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 036660013 | CITALOPRAM\*28 cpr rivestite 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036046302 | CITALOPRAM\*14 cpr rivestite div 40 mg | MYLAN SpA | Autorizzata |
+| 036046047 | CITALOPRAM\*28 cpr rivestite div 20 mg | MYLAN SpA | Autorizzata |
+| 035976036 | CITALOPRAM\*14 cpr rivestite 40 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 036392025 | CITALOPRAM\*28 cpr rivestite div 20 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 036038014 | CITALOPRAM\*orale gtt 15 ml 40 mg/ml | TEVA B.V. | Autorizzata |
+| 028759013 | SEROPRAM\*28 cpr rivestite 20 mg | LUNDBECK ITALIA SpA | Autorizzata |
+| 037111224 | CITALOPRAM\*14 cpr rivestite 40 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 037111147 | CITALOPRAM\*28 cpr rivestite 20 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 036653018 | CITALOPRAM\*orale gtt 15 ml 40 mg/ml | DOC GENERICI Srl | Autorizzata |
+| 036651014 | CITALOPRAM\*orale gtt 15 ml 40 mg/ml | SUN PHARMACEUTICAL IND.EU.B.V. | Non più autorizzata |
+| 036057040 | CITALOPRAM\*28 cpr rivestite 20 mg | TECNIGEN Srl | Non più autorizzata |
+| 036057014 | CITALOPRAM\*orale gtt 15 ml 40 mg/ml | TECNIGEN Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

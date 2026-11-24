@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: nuova indicazione prevista, porfiria acuta intermittente (acute intermittent porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 18 (autorizzate: 18)"
 ---
 
@@ -73,15 +73,34 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Sono registrate 18 autorizzazioni per prodotti monocomponente a base di buprenorfina (compresse sublinguali, fiale e cerotti transdermici). Il testo delle indicazioni approvate non è riportato nei dati locali. Principali prodotti:
+Sono registrate 18 autorizzazioni per prodotti monocomponente a base di buprenorfina (compresse sublinguali, fiale e cerotti transdermici). Il testo delle indicazioni approvate non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025215043 | Temgesic 10 cpr sublinguali 0,2 mg | Compresse sublinguali | Non riportata |
-| 025215017 | Temgesic 5 fiale IM EV 0,3 mg 1 ml | Fiale | Non riportata |
-| 035568017 | Transtec 3 cerotti transdermici 20 mg 35 mcg/ora | Cerotti transdermici | Non riportata |
-| 044388155 | Durlevatec 3 cerotti transdermici 40 mg 70 mcg/ora | Cerotti transdermici | Non riportata |
-| 043426093 | Busette 4 cerotti transdermici 10 mg 10 mcg/ora | Cerotti transdermici | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025215043 | TEMGESIC\*10 cpr sublinguali 0,2 mg | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+| 035568017 | TRANSTEC\*3 cerotti transdermici 20 mg 35 mcg/ora | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 025215017 | TEMGESIC\*5 fiale IM EV 0,3 mg 1 ml | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+| 044388155 | DURLEVATEC\*3 cerotti transdermici 40 mg 70 mcg/ora | SANDOZ SpA | Autorizzata |
+| 043426093 | BUSETTE\*4 cerotti transdermici 10 mg 10 mcg/ora | SANDOZ SpA | Autorizzata |
+| 047902034 | BUSETALT\*4 cerotti transdermici 40 mcg/ora | SANDOZ SpA | Autorizzata |
+| 035568043 | TRANSTEC\*3 cerotti transdermici 30 mg 52,5 mcg/ora | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 043426232 | BUSETTE\*4 cerotti transdermici 20 mg 20 mcg/ora | SANDOZ SpA | Autorizzata |
+| 049142021 | SEPTRAPAT\*4 cerotti transdermici 10 mcg/ora | G.L. PHARMA GmbH | Autorizzata |
+| 049142033 | SEPTRAPAT\*4 cerotti transdermici 20 mcg/ora | G.L. PHARMA GmbH | Autorizzata |
+| 044388080 | DURLEVATEC\*3 cerotti transdermici 30 mg 52,5 mcg/ora | SANDOZ SpA | Autorizzata |
+| 043426028 | BUSETTE\*4 cerotti transdermici 5 mg 5 mcg/ora | SANDOZ SpA | Autorizzata |
+| 047902010 | BUSETALT\*4 cerotti transdermici 25 mcg/ora | SANDOZ SpA | Autorizzata |
+| 047902022 | BUSETALT\*4 cerotti transdermici 30 mcg/ora | SANDOZ SpA | Autorizzata |
+| 035568070 | TRANSTEC\*3 cerotti transdermici 40 mg 70 mcg/ora | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 043426168 | BUSETTE\*4 cerotti transdermici 15 mcg/ora | SANDOZ SpA | Autorizzata |
+| 049142019 | SEPTRAPAT\*4 cerotti transdermici 5 mcg/ora | G.L. PHARMA GmbH | Autorizzata |
+| 044388015 | DURLEVATEC\*3 cerotti transdermici 20 mg 35 mcg/ora | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

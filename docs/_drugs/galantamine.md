@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -97,21 +97,32 @@ Per le altre predizioni non è disponibile letteratura, a eccezione di "disturbi
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039889136 | GALNORA 28 cps 8 mg rilascio prolungato (KRKA) | Capsule a rilascio prolungato | Non disponibile |
-| 039889314 | GALNORA 28 cps 16 mg rilascio prolungato (KRKA) | Capsule a rilascio prolungato | Non disponibile |
-| 039889504 | GALNORA 28 cps 24 mg rilascio prolungato (KRKA) | Capsule a rilascio prolungato | Non disponibile |
-| 034752117 | REMINYL 28 cps 8 mg rilascio prolungato (Janssen-Cilag) | Capsule a rilascio prolungato | Non disponibile |
-| 034752131 | REMINYL 28 cps 16 mg rilascio prolungato (Janssen-Cilag) | Capsule a rilascio prolungato | Non disponibile |
-
-(Esiste inoltre la confezione REMINYL 24 mg, n. 034752170, anch'essa cancellata.)
-
 <!-- review:begin it-lic-20261106-galantamine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-galantamine-1 -->
+
+<!-- review:begin it-lic-20261124-galantamine-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «(Esiste inoltre la confezione REMINYL 24 mg, n. 034752170, anch'essa cancellata.)» Rimosso: la frase completava la vecchia tabella (che non riportava questa confezione) e la indicava come cancellata; nell'elenco AIFA delle confezioni autorizzate (dati al 2026-11-23) REMINYL 24 mg (034752170) risulta «Autorizzata» ed è ora nella tabella delle autorizzazioni generata dal programma. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-galantamine-1 -->
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039889136 | GALNORA\*28 cps 8 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 039889504 | GALNORA\*28 cps 24 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 034752170 | REMINYL\*28 cps 24 mg rilascio prolungato | JANSSEN CILAG SpA | Autorizzata |
+| 034752117 | REMINYL\*28 cps 8 mg rilascio prolungato | JANSSEN CILAG SpA | Autorizzata |
+| 039889314 | GALNORA\*28 cps 16 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 034752131 | REMINYL\*28 cps 16 mg rilascio prolungato | JANSSEN CILAG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,7 +147,7 @@ Per le informazioni complete consultare il foglietto illustrativo.
 
 <!-- review:begin it-lic-20261106-galantamine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La discinesia tardiva è l'unica direzione con un razionale plausibile (L4, "domanda di ricerca"), ma le evidenze sono a livello di classe e non specifiche per la galantamina, con un RCT crossover non riassunto in termini di esito. / Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La discinesia tardiva è l'unica direzione con un razionale plausibile (L4, "domanda di ricerca"), ma le evidenze sono a livello di classe e non specifiche per la galantamina, con un RCT crossover non riassunto in termini di esito. / Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-galantamine-2 -->
 
@@ -149,7 +160,7 @@ Per le informazioni complete consultare il foglietto illustrativo.
 
 <!-- review:begin it-lic-20261106-galantamine-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della disponibilità commerciale della galantamina in Italia (stato "cancellato") e della compatibilità di via/forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della disponibilità commerciale della galantamina in Italia (stato "cancellato") e della compatibilità di via/forma farmaceutica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-galantamine-3 -->
 
@@ -161,10 +172,11 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(stato "cancellato")» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 6 autorizzazioni sono **cancellate**; non risultano autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni italiane sono cancellate e il profilo di sicurezza include segnali di disturbi del movimento» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(stato "cancellato")» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
+| 2026-11-24 | REMINYL 24 mg (034752170) risulta autorizzata, non cancellata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

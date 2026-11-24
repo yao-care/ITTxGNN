@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Amlodipina: nuova indicazione prevista, Infarto del tronco encefalico (brain stem infarction) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -69,15 +69,38 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati locali, l'amlodipina risulta commercializzata come singolo principio attivo. Tra i titoli elencati, tutti quelli presenti sono validi. L'elenco potrebbe essere parziale. Di seguito alcune autorizzazioni principali.
+Secondo i dati locali, l'amlodipina risulta commercializzata come singolo principio attivo. Tra i titoli elencati, tutti quelli presenti sono validi.
 
-| N. autorizzazione | Prodotto | Titolare |
-|---------|------|------|
-| 044428035 | NORVASC 14 cpr 10 mg | PRICETAG SpA |
-| 038092021 | AMLODIPINA 14 cpr 10 mg | DOC GENERICI Srl |
-| 038056014 | LOSEDIN 28 cpr 5 mg | EBERLIFE FARMACEUTICI SpA |
-| 027428010 | NORVASC 28 cpr 5 mg | VIATRIS PHARMA Srl |
-| 041785243 | AMLODIPINA 28 cpr 5 mg | ZENTIVA ITALIA Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044428035 | NORVASC\*14 cpr 10 mg | PRICETAG SpA | Autorizzata |
+| 038092021 | AMLODIPINA\*14 cpr 10 mg | DOC GENERICI Srl | Autorizzata |
+| 038056014 | LOSEDIN\*28 cpr 5 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 037479060 | AMLODIPINA\*28 cpr 5 mg | EG SpA | Autorizzata |
+| 027428010 | NORVASC\*28 cpr 5 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 038102048 | AMLODIPINA\*28 cpr 5 mg | HEXAL AG | Autorizzata |
+| 038102303 | AMLODIPINA\*14 cpr 10 mg | HEXAL AG | Autorizzata |
+| 038092019 | AMLODIPINA\*28 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 037329024 | AMLODIPINA\*14 cpr 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 041785243 | AMLODIPINA\*28 cpr 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 038654024 | AMLODIPINA\*14 cpr div 10 mg | TECNIGEN Srl | Autorizzata |
+| 041785116 | AMLODIPINA\*14 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041785344 | AMLODIPINA\*30 cpr 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 044428074 | NORVASC\*14 cpr 10 mg | PRICETAG SpA | Autorizzata |
+| 037329036 | AMLODIPINA\*30 cpr div 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 037479209 | AMLODIPINA\*30 cpr 10 mg | EG SpA | Autorizzata |
+| 044428011 | NORVASC\*14 cpr 10 mg | PRICETAG SpA | Non più autorizzata |
+| 043704016 | NORVASC\*14 cpr 10 mg | MEDIFARM Srl | Non più autorizzata |
+| 043663032 | NORVASC\*14 cpr 10 mg | PROGRAMMI SANIT.INTEGRATI Srl | Non più autorizzata |
+| 044628016 | NORVASC\*28 cpr 5 mg | GENERAL PHARMA SOLUTIONS SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 Il testo delle indicazioni approvate non è registrato nei dati locali.
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: nuova indicazione prevista, Gaze palsy, familial horizontal, with progressive scoliosis (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -68,15 +68,37 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Risultano 20 autorizzazioni valide per prodotti a singolo principio attivo (l'elenco può essere parziale). Principali autorizzazioni:
+Risultano 20 autorizzazioni valide per prodotti a singolo principio attivo (l'elenco può essere parziale).
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica (dalla denominazione) | Stato |
-|---------|------|------|-----------|
-| 028752057 | Risperdal 60 cpr rivestite 1 mg bianche | Compresse rivestite | Valida |
-| 028752069 | Risperdal 60 cpr rivestite 2 mg arancioni | Compresse rivestite | Valida |
-| 028752071 | Risperdal 60 cpr rivestite 3 mg gialle | Compresse rivestite | Valida |
-| 028752083 | Risperdal 60 cpr rivestite 4 mg verdi | Compresse rivestite | Valida |
-| 028752095 | Risperdal soluzione orale 100 ml 1 mg/ml | Soluzione orale | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037599406 | RISPERIDONE\*60 cpr rivestite 3 mg | SANDOZ SpA | Autorizzata |
+| 040616120 | RISPERIDONE\*60 cpr rivestite 3 mg | MYLAN SpA | Autorizzata |
+| 038188037 | RISPERIDONE\*orale gtt 100 ml 1 mg/ml | MYLAN SpA | Autorizzata |
+| 028752083 | RISPERDAL\*60 cpr rivestite 4 mg verdi | JANSSEN CILAG SpA | Autorizzata |
+| 040078293 | RISPERIDONE\*60 cpr rivestite 2 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037092069 | RISPERIDONE\*60 cpr rivestite 1 mg | RATIOPHARM GMBH | Autorizzata |
+| 028752095 | RISPERDAL\*orale soluz 100 ml 1 mg/ml | JANSSEN CILAG SpA | Autorizzata |
+| 028752071 | RISPERDAL\*60 cpr rivestite 3 mg gialle | JANSSEN CILAG SpA | Autorizzata |
+| 037599230 | RISPERIDONE\*60 cpr rivestite 2 mg | SANDOZ SpA | Autorizzata |
+| 037092222 | RISPERIDONE\*60 cpr rivestite 2 mg | RATIOPHARM GMBH | Autorizzata |
+| 037092386 | RISPERIDONE\*60 cpr rivestite 3 mg | RATIOPHARM GMBH | Autorizzata |
+| 040078495 | RISPERIDONE\*60 cpr rivestite 4 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 028752069 | RISPERDAL\*60 cpr rivestite 2 mg arancioni | JANSSEN CILAG SpA | Autorizzata |
+| 040616082 | RISPERIDONE\*60 cpr rivestite 2 mg | MYLAN SpA | Autorizzata |
+| 042441028 | RISPERIDONE\*orale gtt 100 ml 1 mg/ml | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040616043 | RISPERIDONE\*60 cpr rivestite 1 mg | MYLAN SpA | Autorizzata |
+| 028752057 | RISPERDAL\*60 cpr rivestite 1 mg bianche | JANSSEN CILAG SpA | Autorizzata |
+| 040078394 | RISPERIDONE\*60 cpr rivestite 3 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037092549 | RISPERIDONE\*60 cpr rivestite 4 mg | RATIOPHARM GMBH | Autorizzata |
+| 040078192 | RISPERIDONE\*60 cpr rivestite 1 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

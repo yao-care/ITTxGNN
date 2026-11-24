@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Raloxifene: nuova indicazione prevista, Ulcera duodenale (livello di evidenza L5). Indicazione originale: Osteoporosi post-menopausale / osteoporosi"
 monitor_inn: "RALOXIFENE"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
@@ -81,18 +81,25 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034154017 | OPTRUMA 14 compresse rivestite 60 mg | Eli Lilly Nederland BV | Non più autorizzata |
-| 040742025 | RALOXIFENE 28 compresse rivestite 60 mg | Sandoz SpA | Valida |
-| 034153027 | EVISTA 28 compresse rivestite 60 mg | Substipharm | Valida |
-| 034154029 | OPTRUMA 28 compresse rivestite 60 mg | Eli Lilly Nederland BV | Non più autorizzata |
+<!-- licenses:begin -->
 
-Tutte e quattro le autorizzazioni sono monocomponente.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040742025 | RALOXIFENE\*28 cpr rivestite 60 mg | SANDOZ SpA | Autorizzata |
+| 034153027 | EVISTA\*28 cpr rivestite 60 mg | SUBSTIPHARM | Autorizzata |
+| 034154017 | OPTRUMA\*14 cpr rivestite 60 mg | ELI LILLY NEDERLAND BV | Non più autorizzata |
+| 034154029 | OPTRUMA\*28 cpr rivestite 60 mg | ELI LILLY NEDERLAND BV | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Tutte le autorizzazioni sono monocomponente.
 
 <!-- review:begin it-lic-20261106-raloxifene-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni sono monocomponente e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e quattro le autorizzazioni sono monocomponente e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-raloxifene-1 -->
 
@@ -118,7 +125,7 @@ La predizione si basa unicamente su un punteggio computazionale elevato, senza s
 
 <!-- review:begin it-lic-20261106-raloxifene-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale. Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa unicamente su un punteggio computazionale elevato, senza studi clinici, letteratura o un meccanismo plausibile che colleghi il raloxifene all'ulcera duodenale. Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-raloxifene-2 -->
 
@@ -131,7 +138,7 @@ La predizione si basa unicamente su un punteggio computazionale elevato, senza s
 
 <!-- review:begin it-lic-20261106-raloxifene-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Una verifica della possibilità di commercializzazione, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una verifica della possibilità di commercializzazione, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-raloxifene-3 -->
 
@@ -143,9 +150,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e risultano cancellate: al momento non vi sono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni valide e il profilo di sicurezza (rischio tromboembolico e cerebrovascolare) è rilevante» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9) |
 
 <!-- review:end log -->

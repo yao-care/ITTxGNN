@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 290
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: nuova indicazione prevista, Pulmonary blastoma (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -97,13 +97,35 @@ Nessuno di questi lavori dimostra l'efficacia del metotrexato nel linfoma polmon
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044252082 | AFSLAMET 4 siringhe preriempite SC 12,5 mg | Siringa preriempita | Non disponibile |
-| 044253122 | VELOS 4 siringhe SC 17,5 mg | Siringa | Non disponibile |
-| 039153679 | REUMAFLEX 4 siringhe preriempite SC 17,5 mg | Siringa preriempita | Non disponibile |
-| 044224119 | METOTHER 4 siringhe preriempite 10 mg | Siringa preriempita | Non disponibile |
-| 019888142 | METHOTREXATE 4 siringhe 20 mg | Siringa | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044252082 | AFSLAMET\*4 siringhe preriempite SC 12,5 mg 0,31 ml | S.F. GROUP Srl | Autorizzata |
+| 044253122 | VELOS\*4 siringhe SC 17,5 mg 0,44 ml | DIFA COOPER SpA | Autorizzata |
+| 039153679 | REUMAFLEX\*4 siringhe preriempite SC 17,5 mg 0,35 ml con ago fisso | ALFASIGMA SpA | Autorizzata |
+| 044224119 | METOTHER\*4 siringhe preriempite 10 mg 0,20 ml 50 mg/ml | ACCORD HEALTHCARE SLU | Autorizzata |
+| 039153224 | REUMAFLEX\*4 siringhe preriempite SC 15 mg 0,30 ml con ago fisso | ALFASIGMA SpA | Autorizzata |
+| 044224323 | METOTHER\*4 siringhe preriempite 17,5 mg 0,35 ml 50 mg/ml | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044149096 | IMMUTREX\*4 siringhe SC 15 mg 0,38 ml | S.F. GROUP Srl | Autorizzata |
+| 044224032 | METOTHER\*4 siringhe preriempite 7,5 mg 0,15 ml 50 mg/ml | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044149084 | IMMUTREX\*4 siringhe SC 12,5 mg 0,31 ml | S.F. GROUP Srl | Autorizzata |
+| 044224537 | METOTHER\*4 siringhe preriempite 25 mg 0,50 ml 50 mg/ml | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044252106 | AFSLAMET\*4 siringhe preriempite SC 15 mg 0,38 ml | S.F. GROUP Srl | Autorizzata |
+| 039153426 | REUMAFLEX\*4 siringhe preriempite SC 25 mg 0,50 ml con ago fisso | ALFASIGMA SpA | Autorizzata |
+| 044253146 | VELOS\*4 siringhe SC 20 mg 0,50 ml | DIFA COOPER SpA | Autorizzata |
+| 039153729 | REUMAFLEX\*4 siringhe preriempite SC 22,5 mg 0,45 ml con ago fisso | ALFASIGMA SpA | Autorizzata |
+| 039153022 | REUMAFLEX\*4 siringhe preriempite SC 7,5 mg 0,15 ml con ago fisso | ALFASIGMA SpA | Autorizzata |
+| 019888142 | METHOTREXATE\*4 siringhe 20 mg 2,66 ml | PFIZER ITALIA Srl | Autorizzata |
+| 044257184 | METOTREXATO\*4 siringhe preriempite SC 25 mg 0,63 ml | DOC GENERICI Srl | Autorizzata |
+| 044257069 | METOTREXATO\*4 siringhe preriempite SC 10 mg 0,40 ml | DOC GENERICI Srl | Autorizzata |
+| 050613153 | METOTREXATO\*4 siringhe preriempite SC 12,5 mg 0,333 ml con ago e tampone | MYLAN SpA | Autorizzata |
+| 019888130 | METHOTREXATE\*4 siringhe 15 mg 2 ml | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

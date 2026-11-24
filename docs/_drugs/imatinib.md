@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "IMATINIB"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 description: "Imatinib: nuova indicazione prevista, Heart fibrosarcoma (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
@@ -84,19 +84,29 @@ Al momento non risultano studi clinici correlati registrati per il fibrosarcoma 
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042867200 | Imatinib 400 mg, 30 compresse rivestite (Accord Healthcare) | Compresse rivestite | Non disponibile |
-| 042867263 | Imatinib 100 mg, 120 compresse rivestite (Accord Healthcare) | Compresse rivestite | Non disponibile |
-| 043805047 | Imatinib 100 mg, 120 compresse rivestite (Sandoz) | Compresse rivestite | Non disponibile |
-| 045053067 | Imatinib 100 mg, 120 capsule (Dr. Reddy's) | Capsule | Non disponibile |
-| 043760038 | Imanivec 100 mg, 120 compresse rivestite (HCS BV) | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042867200 | IMATINIB\*30x1 cpr rivestite 400 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042867263 | IMATINIB\*120 cpr rivestite 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 043805047 | IMATINIB\*120 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+| 045053067 | IMATINIB\*120 cps 100 mg | DR. REDDY'S Srl | Autorizzata |
+| 043760038 | IMANIVEC\*120 cpr rivestite 100 mg | HCS BV | Autorizzata |
+| 042867287 | IMATINIB\*30 cpr rivestite 400 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042644310 | IMATINIB\*120x1 cps 100 mg | TEVA B.V. | Autorizzata |
+| 042644183 | IMATINIB\*30x1 cpr rivestite 400 mg | TEVA B.V. | Autorizzata |
+| 043805050 | IMATINIB\*120 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Sono qui elencate le prime 5.
 
 <!-- review:begin it-lic-20261106-imatinib-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate; sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 9 autorizzazioni risultano cancellate; sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-imatinib-1 -->
 
@@ -133,7 +143,7 @@ Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche:
 
 <!-- review:begin it-lic-20261106-imatinib-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche: il punteggio elevato del modello (0,9994) poggia solo su un'analogia di classe con il DFSP. Inoltre, in Italia tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-imatinib-2 -->
 
@@ -145,7 +155,7 @@ Per il fibrosarcoma cardiaco non esistono studi clinici né evidenze specifiche:
 
 <!-- review:begin it-lic-20261106-imatinib-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato commerciale attuale di imatinib in Italia, dato che le autorizzazioni elencate risultano tutte cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato commerciale attuale di imatinib in Italia, dato che le autorizzazioni elencate risultano tutte cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-imatinib-3 -->
 
@@ -163,9 +173,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate; s» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le autorizzazioni elencate risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 9 autorizzazioni risultano cancellate; s» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le autorizzazioni elencate risultano tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
 
 <!-- review:end log -->

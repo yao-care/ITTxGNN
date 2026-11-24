@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: nuova indicazione prevista, Disturbo specifico dello sviluppo (specific developmental disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 0)"
@@ -76,19 +76,20 @@ Le pubblicazioni raccolte riguardano l'ADHD e condizioni correlate, non il distu
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037063118 | STRATTERA 28 cps 18 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
-| 037063157 | STRATTERA 28 cps 25 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
-| 037063195 | STRATTERA 28 cps 40 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
-| 037063233 | STRATTERA 28 cps 60 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
-| 037063310 | STRATTERA 28 cps 100 mg | Capsule (non specificata nei dati) | Non disponibile (non più autorizzata) |
+<!-- licenses:begin -->
 
-<!-- review:begin it-row-20261117-atomoxetine-1 -->
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037063118 | STRATTERA\*28 cps 18 mg | ELI LILLY ITALIA SpA | Non più autorizzata |
+| 037063310 | STRATTERA\*28 cps 100 mg | ELI LILLY ITALIA SpA | Non più autorizzata |
+| 037063157 | STRATTERA\*28 cps 25 mg | ELI LILLY ITALIA SpA | Non più autorizzata |
+| 037063195 | STRATTERA\*28 cps 40 mg | ELI LILLY ITALIA SpA | Non più autorizzata |
+| 037063233 | STRATTERA\*28 cps 60 mg | ELI LILLY ITALIA SpA | Non più autorizzata |
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «037063118 / STRATTERA 28 cps 18 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063157 / STRATTERA 28 cps 25 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063195 / STRATTERA 28 cps 40 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063233 / STRATTERA 28 cps 60 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida); 037063310 / STRATTERA 28 cps 100 mg / Capsule (non specificata nei dati) / Non disponibile (autorizzazione valida)» Le 5 confezioni STRATTERA (037063118, 037063157, 037063195, 037063233, 037063310) non risultano più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella le indicava come valide. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
 
-<!-- review:end it-row-20261117-atomoxetine-1 -->
+<!-- licenses:end -->
 
 Titolare: Eli Lilly Italia SpA.
 
@@ -119,7 +120,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-17 | Tabella: le 5 confezioni STRATTERA non sono più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-17 | Tabella: le 5 confezioni STRATTERA non sono più autorizzate | Sostituito dalla tabella delle autorizzazioni generata dal programma (prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
 
 <!-- review:end log -->

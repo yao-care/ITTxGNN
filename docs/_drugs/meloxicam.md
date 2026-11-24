@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MELOXICAM"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Meloxicam: nuova indicazione prevista, Displasia acromesomelica, tipo Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (livello di evidenza L5). Indicazione originale: Non riportata ne…"
@@ -79,13 +79,22 @@ Attualmente non risulta alcuna letteratura correlata per questa indicazione.
 
 Le forme farmaceutiche e il testo delle indicazioni approvate non sono presenti nei dati compilati.
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 037077221 | MELOXICAM 30 cpr 15 mg | EG SpA | Valida |
-| 037069224 | MELOXICAM 30 cpr div 15 mg | Mylan SpA | Non più autorizzata |
-| 037069073 | MELOXICAM 30 cpr 7,5 mg | Mylan SpA | Non più autorizzata |
-| 031985157 | MOBIC 7,5 30 cpr 7,5 mg | Boehringer Ingelheim Int. GmbH | Valida |
-| 031985068 | MOBIC 15 30 cpr 15 mg | Boehringer Ingelheim Int. GmbH | Valida |
+|------|------|------|------|
+| 037077221 | MELOXICAM\*30 cpr 15 mg | EG SpA | Autorizzata |
+| 031985157 | MOBIC 7,5\*30 cpr 7,5 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 031985068 | MOBIC 15\*30 cpr 15 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 035464015 | MOBIC\*5 fiale IM 15 mg 1,5 ml | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 037322260 | MELOXICAM\*30 cpr 15 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037069224 | MELOXICAM\*30 cpr div 15 mg | MYLAN SpA | Non più autorizzata |
+| 037069073 | MELOXICAM\*30 cpr 7,5 mg | MYLAN SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 Complessivamente le autorizzazioni sono 7; le altre due sono MOBIC fiale IM 15 mg/1,5 ml (Boehringer Ingelheim, n. 035464015) e MELOXICAM 30 cpr 15 mg (Zentiva Italia, n. 037322260), entrambe valide.
 
@@ -124,7 +133,7 @@ La previsione principale non ha alcun supporto clinico o bibliografico (livello 
 
 <!-- review:begin it-lic-20261106-meloxicam-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione principale non ha alcun supporto clinico o bibliografico (livello L5) e manca un meccanismo plausibile: un FANS non può correggere un difetto genetico dello sviluppo scheletrico. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è rilevante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione principale non ha alcun supporto clinico o bibliografico (livello L5) e manca un meccanismo plausibile: un FANS non può correggere un difetto genetico dello sviluppo scheletrico. Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è rilevante.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-meloxicam-1 -->
 
@@ -136,7 +145,7 @@ La previsione principale non ha alcun supporto clinico o bibliografico (livello 
 
 <!-- review:begin it-lic-20261106-meloxicam-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Se si desidera un'opzione più realistica, dare priorità alla previsione sull'artrite idiopatica giovanile poliarticolare fattore reumatoide-positiva (livello L4), che rappresenta però un'estensione di un'indicazione già nota e richiede dati specifici sul meloxicam. / Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di meloxicam commercializzati in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Se si desidera un'opzione più realistica, dare priorità alla previsione sull'artrite idiopatica giovanile poliarticolare fattore reumatoide-positiva (livello L4), che rappresenta però un'estensione di un'indicazione già nota e richiede dati specifici sul meloxicam. / Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di meloxicam commercializzati in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-meloxicam-2 -->
 
@@ -148,8 +157,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è ril» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di mel» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e il profilo di rischio cardiovascolare, gastrointestinale e renale dei FANS è ril» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Chiarire la situazione regolatoria: poiché non risultano autorizzazioni valide, andrebbe verificato se esistano altri prodotti a base di mel» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | MOBIC fiale 035464015 e MELOXICAM Zentiva 037322260: valide, non cancellate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
 

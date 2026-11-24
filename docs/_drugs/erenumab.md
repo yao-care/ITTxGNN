@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 177
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Erenumab: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,10 +72,16 @@ I candidati proposti dal modello TxGNN (punteggio ≥ 0,99) per Erenumab sono tu
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 046925044 | Erenumab |  | Valida |
-| 046925018 | Erenumab |  | Valida |
+| 046925044 | AIMOVIG\*1 penna preriempita SC 140 mg 1 ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 046925018 | AIMOVIG\*1 penna preriempita SC 70 mg 1 ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

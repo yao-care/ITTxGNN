@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aripiprazole: nuova indicazione prevista, Paralisi dello sguardo orizzontale familiare con scoliosi progressiva (gaze palsy, familial horizontal, with progressive scoliosis) (livello di evidenza L5)."
 ---
 
@@ -68,15 +68,37 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Nei dati locali risultano 20 autorizzazioni valide (l'elenco può essere parziale). Le principali sono:
+Nei dati locali risultano 20 autorizzazioni valide (l'elenco può essere parziale).
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036582017 | ABILIFY 28 cpr 5 mg | Compresse | Non registrata nei dati locali |
-| 036582094 | ABILIFY 28 cpr orodispersibili 10 mg | Compresse orodispersibili | Non registrata nei dati locali |
-| 036582183 | ABILIFY soluzione orale 150 ml 1 mg/ml | Soluzione orale | Non registrata nei dati locali |
-| 043743208 | ARIPIPRAZOLO 28 cpr 10 mg (Teva Italia) | Compresse | Non registrata nei dati locali |
-| 044737017 | ARIPIPRAZOLO soluzione orale 150 ml 1 mg/ml (Mylan) | Soluzione orale | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043743208 | ARIPIPRAZOLO\*28 cpr 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 043743347 | ARIPIPRAZOLO\*28 cpr 15 mg | TEVA ITALIA Srl | Autorizzata |
+| 043737028 | ARIPIPRAZOLO\*28 cpr 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 043743069 | ARIPIPRAZOLO\*28 cpr 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 044285082 | ARIPIPRAZOLO\*28 cpr 15 mg | MYLAN PHARMACEUTICALS LIMITED | Autorizzata |
+| 043732039 | ARIPIPRAZOLO\*28 cpr orodispers 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 044543027 | ARIPIPRAZOLO\*28x1 cpr 5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044265078 | ARIPIPRAZOLO\*28 cpr 10 mg | ZENTIVA K.S. | Autorizzata |
+| 043730023 | ARIPIPRAZOLO\*28 cpr 10 mg | DOC GENERICI Srl | Autorizzata |
+| 043653068 | ARIPIPRAZOLO\*28 cpr 15 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043732155 | ARIPIPRAZOLO\*28 cpr orodispers 15 mg | TEVA ITALIA Srl | Autorizzata |
+| 044407183 | ARIPIPRAZOLO\*28 cpr 10 mg | SANDOZ GMBH | Autorizzata |
+| 044265027 | ARIPIPRAZOLO\*28 cpr 5 mg | ZENTIVA K.S. | Autorizzata |
+| 043733056 | ARIPIPRAZOLO\*28 cpr orodispers 15 mg | MYLAN SpA | Autorizzata |
+| 043572128 | ARIPIPRAZOLO\*28 cpr 15 mg | OLPHA AS | Autorizzata |
+| 043730011 | ARIPIPRAZOLO\*28 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 036582094 | ABILIFY\*28 cpr orodispers 10 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 044737017 | ARIPIPRAZOLO\*1 flacone vetro orale 150 ml 1 mg/ml + siringa dosatrice + cucchiaio dosatore | MYLAN SpA | Autorizzata |
+| 036582017 | ABILIFY\*28 cpr 5 mg | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+| 036582183 | ABILIFY\*orale soluz 1 flacone 150 ml 1 mg/ml | OTSUKA PHARMACEUT.NETHER.BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

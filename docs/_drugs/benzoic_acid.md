@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 66
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Benzoic Acid: nuova indicazione prevista, Bronchite (livello di evidenza L5). Indicazione originale: Pemfigo, malattia di Peyronie, fibromatosi del pene, sclerodermia…"
 monitor_inn: "benzoic acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
@@ -42,7 +42,7 @@ L'acido benzoico è presente nello sciroppo Paracodina. Nella base di conoscenza
 
 <!-- review:begin it-lic-20261106-benzoic_acid-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'acido benzoico è presente nello sciroppo Paracodina (autorizzazione ora cancellata in Italia).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'acido benzoico è presente nello sciroppo Paracodina (autorizzazione ora cancellata in Italia).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-benzoic_acid-1 -->
 
@@ -89,9 +89,15 @@ Al momento non risulta alcuno studio clinico registrato correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 008096024 (cancellata) | PARACODINA SCIROPPO*1 flacone 100 g sciroppo 12 mg/5 ml + 12 mg/5 ml | Non indicata | Non indicata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 008096024 | PARACODINA SCIROPPO\*1 flacone 100 g sciroppo 12 mg/5 ml + 12 mg/5 ml | TEOFARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +126,7 @@ La predizione per la bronchite si basa solo sul modello (livello L5): non esisto
 
 <!-- review:begin it-lic-20261106-benzoic_acid-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto e l'unica autorizzazione italiana è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione per la bronchite si basa solo sul modello (livello L5): non esistono studi clinici, la letteratura recuperata non riguarda l'acido benzoico, il meccanismo d'azione è ignoto e l'unica autorizzazione italiana è cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-benzoic_acid-2 -->
 
@@ -138,8 +144,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «(autorizzazione ora cancellata in Italia)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e l'unica autorizzazione italiana è cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazione ora cancellata in Italia)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e l'unica autorizzazione italiana è cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

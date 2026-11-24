@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Lidocaine: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (livello di evidenza L5). Indicazione originale: nevralgia, nevralgia post-erpetica…"
 ---
 
@@ -68,10 +68,16 @@ Attualmente non risulta letteratura correlata alla cheratocongiuntivite epitelia
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 040335059 | VERSATIS 30 cerotti medicati 700 mg | Cerotto medicato | Non disponibile nei dati compilati |
-| 040335022 | VERSATIS 10 cerotti medicati 700 mg | Cerotto medicato | Non disponibile nei dati compilati |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040335059 | VERSATIS\*30 cerotti medicati 700 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 040335022 | VERSATIS\*10 cerotti medicati 700 mg | GRUNENTHAL ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni sono valide, relative a prodotto monocomponente, e intestate a Grünenthal Italia Srl.
 

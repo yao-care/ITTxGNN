@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 434
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tiagabine: usi noti e stato di mercato in Italia; attualmente nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,11 +72,17 @@ I candidati prodotti dal modello TxGNN per Tiagabine sono tutti usi già noti. A
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 032951016 | Tiagabina |  | Valida |
-| 032951030 | Tiagabina |  | Valida |
-| 032951055 | Tiagabina |  | Valida |
+| 032951016 | GABITRIL\*50 cpr rivestite 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 032951030 | GABITRIL\*50 cpr rivestite 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 032951055 | GABITRIL\*50 cpr rivestite 15 mg | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

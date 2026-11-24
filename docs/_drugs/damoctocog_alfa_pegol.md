@@ -7,7 +7,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Damoctocog Alfa Pegol (DB14700) è una terapia sostitutiva del Fattore VIII rico
 
 <!-- review:begin it-lic-20261106-damoctocog_alfa_pegol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale, e il farmaco non dispone di autorizzazioni al commercio in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il modello TxGNN non ha generato alcuna indicazione nuova prevista per questo farmaco nel ciclo di analisi attuale, e il farmaco non dispone di autorizzazioni al commercio in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-damoctocog_alfa_pegol-1 -->
 
@@ -84,11 +84,24 @@ Attualmente non vi è letteratura correlata disponibile per indicazioni di ripos
 
 ## Informazioni sul Mercato Italiano
 
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047418049 | JIVI\*1 flaconcino EV polv 2.000 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattat… | BAYER AG | Autorizzata |
+| 047418052 | JIVI\*1 flaconcino EV polv 3.000 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattat… | BAYER AG | Autorizzata |
+| 047418037 | JIVI\*1 flaconcino EV polv 1.000 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattat… | BAYER AG | Autorizzata |
+| 047418025 | JIVI\*1 flaconcino EV polv 500 Unita' Internazionali + 1 siringa solv 2,5 ml + 1 adattator… | BAYER AG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
 Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.
 
 <!-- review:begin it-lic-20261106-damoctocog_alfa_pegol-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia. Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia. Nessun dato di registrazione del prodotto è disponibile dalle fonti dati attuali.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-damoctocog_alfa_pegol-2 -->
 
@@ -129,8 +142,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e il farmaco non dispone di autorizzazioni al commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e il farmaco non dispone di autorizzazioni al commercio in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Damoctocog Alfa Pegol non dispone attualmente di autorizzazioni al commercio in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «TFDA/» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->

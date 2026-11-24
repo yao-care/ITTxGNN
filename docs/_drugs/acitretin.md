@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 21
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acitretin: nuova indicazione prevista, Acne (livello di evidenza L4). Indicazione originale: Non disponibile (i testi delle indicazioni nelle autorizzazioni AIFA…"
 monitor_inn: "acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -80,7 +80,7 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 <!-- review:begin it-lic-20261106-acitretin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-acitretin-1 -->
 
@@ -88,12 +88,18 @@ Attualmente non sono disponibili pubblicazioni correlate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata | Stato |
-|---------|------|------|-----------|------|
-| 027480019 | NEOTIGASON 30 cps 10 mg | n.d. | n.d. | Valida |
-| 027480021 | NEOTIGASON 20 cps 25 mg | n.d. | n.d. | Valida |
-| 041619014 | ZORIAS 30 cps 10 mg | n.d. | n.d. | Valida |
-| 041619065 | ZORIAS 20 cps 25 mg | n.d. | n.d. | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 027480019 | NEOTIGASON\*30 cps 10 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 027480021 | NEOTIGASON\*20 cps 25 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041619014 | ZORIAS\*30 cps 10 mg | DIFA COOPER SpA | Autorizzata |
+| 041619065 | ZORIAS\*20 cps 25 mg | DIFA COOPER SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,7 +122,7 @@ Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non es
 
 <!-- review:begin it-lic-20261106-acitretin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore, mentre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il profilo di sicurezza (teratogenicità, epatotossicità, alterazioni lipidiche) e l'esistenza di alternative consolidate come l'isotretinoina ne limitano il valore, mentre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-acitretin-2 -->
 
@@ -128,7 +134,7 @@ Il legame meccanicistico con l'acne è plausibile a livello di classe, ma non es
 
 <!-- review:begin it-lic-20261106-acitretin-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate) e di un eventuale piano di gestione del rischio teratogeno» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate) e di un eventuale piano di gestione del rischio teratogeno» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-acitretin-3 -->
 
@@ -142,9 +148,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «mentre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e quattro le autorizzazioni (Aurobindo Pharma Italia e Difa Cooper) risultano cancellate: al momento non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «mentre tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
 
 <!-- review:end log -->

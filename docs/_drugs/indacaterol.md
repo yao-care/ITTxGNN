@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: nuova indicazione prevista, Nephrogenic syndrome of inappropriate antidiuresis (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -108,19 +108,26 @@ Nota: lo studio NCT04206761 (Fase 3, QVM149 con risonanza magnetica allo xeno) �
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039664026 | ONBREZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione valida) |
-| 039664077 | ONBREZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione valida) |
-| 039699020 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 150 mcg | Non indicata | Non disponibile (autorizzazione valida) |
-| 039699071 | HIROBRIZ BREEZHALER polvere inalatoria 30 cps 300 mcg | Non indicata | Non disponibile (autorizzazione valida) |
-| 043031032 | ULTIBRO BREEZHALER polvere inalatoria 30x1 cps 85 mcg + 43 mcg | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039664026 | ONBREZ BREEZHALER\*polv inal 30 cps 150 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 039664077 | ONBREZ BREEZHALER\*polv inal 30 cps 300 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 039699020 | HIROBRIZ BREEZHALER\*polv inal 30 cps 150 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 039699071 | HIROBRIZ BREEZHALER\*polv inal 30 cps 300 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 043031032 | ULTIBRO BREEZHALER\*polv inal 30x1 cps 85 mcg + 43 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 043033036 | XOTERNA BREEZHALER\*polv inal 30x1 cps 85 mcg + 43 mcg | NOVARTIS EUROPHARM LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n. 043033036).
 
 <!-- review:begin it-lic-20261106-indacaterol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide. La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide. La sesta è XOTERNA BREEZHALER 85 mcg + 43 mcg (n.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-indacaterol-1 -->
 
@@ -150,7 +157,7 @@ Per la malattia bronchiale esistono numerosi studi di fase 2 e 3 completati e un
 
 <!-- review:begin it-lic-20261106-indacaterol-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni, poiché in Italia risultano solo autorizzazioni cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire l'indicazione originale e confermare lo stato regolatorio e commerciale delle formulazioni, poiché in Italia risultano solo autorizzazioni cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-indacaterol-2 -->
 
@@ -162,8 +169,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché in Italia risultano solo autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 6 autorizzazioni (titolare: Novartis Europharm Ltd) risultano cancellate; non ve ne sono di valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «poiché in Italia risultano solo autorizzazioni cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

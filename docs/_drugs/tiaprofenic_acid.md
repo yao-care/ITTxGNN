@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tiaprofenic acid"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
 description: "Tiaprofenic Acid: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -85,10 +85,16 @@ Attualmente non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Indicazione approvata |
-|---------|------|------|------|-----------|
-| 025195052 | SURGAMYL*orale grat 30 bust 300 mg (SCHARPER SpA) | Non indicata | Valida | Non disponibile |
-| 025195025 | SURGAMYL*30 cpr 300 mg (SCHARPER SpA) | Non indicata | Valida | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025195052 | SURGAMYL\*orale grat 30 bust 300 mg | SCHARPER SpA | Autorizzata |
+| 025195025 | SURGAMYL\*30 cpr 300 mg | SCHARPER SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -100,7 +106,7 @@ Si segnala inoltre che, secondo le valutazioni di contesto, presenta problemi di
 
 <!-- review:begin it-lic-20261106-tiaprofenic_acid-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Si segnala inoltre che, secondo le valutazioni di contesto, il farmaco non è più in commercio e presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite).» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Si segnala inoltre che, secondo le valutazioni di contesto, il farmaco non è più in commercio e presenta problemi di sicurezza noti non coperti dai dati (ad esempio la cistite).» Rimosso: la descrizione dei prodotti non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tiaprofenic_acid-1 -->
 
@@ -127,7 +133,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «il farmaco non è più in commercio e» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «il farmaco non è più in commercio e» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

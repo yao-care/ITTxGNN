@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FOSINOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Fosinopril: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -79,13 +79,21 @@ Per l'indicazione principale (ipertensione renovascolare maligna) non è disponi
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 027824022 | TENSOGARD 14 cpr 20 mg | Bausch Health Ireland Limited | Valida |
-| 038074175 | FOSINOPRIL 14 cpr 20 mg | DOC Generici Srl | Valida |
-| 027747029 | FOSIPRES 14 cpr 20 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
-| 027747017 | FOSIPRES 28 cpr 10 mg | A. Menarini Ind. Farm. Riun. Srl | Valida |
-| 041340175 | FOSINOPRIL 14 cpr 20 mg | Aurobindo Pharma Italia Srl | Valida |
+|------|------|------|------|
+| 027824022 | TENSOGARD\*14 cpr 20 mg | BAUSCH HEALTH IRELAND LIMITED | Autorizzata |
+| 038074175 | FOSINOPRIL\*14 cpr 20 mg | DOC GENERICI Srl | Autorizzata |
+| 027747029 | FOSIPRES\*14 cpr 20 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 027747017 | FOSIPRES\*28 cpr 10 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 041340175 | FOSINOPRIL\*14 cpr 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037462280 | FOSINOPRIL\*14 cpr 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 027735024 | ELITEN\*14 cpr 20 mg | BAUSCH HEALTH IRELAND LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -112,7 +120,7 @@ La previsione ha un punteggio alto (0,9987) ma si basa solo sul modello (livello
 
 <!-- review:begin it-lic-20261106-fosinopril-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della strategia regolatoria, dato che attualmente non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della strategia regolatoria, dato che attualmente non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fosinopril-1 -->
 
@@ -124,7 +132,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «dato che attualmente non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che attualmente non esistono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35) |
 
 <!-- review:end log -->

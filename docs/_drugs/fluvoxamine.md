@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Fluvoxamine: nuova indicazione prevista, Disturbo schizotipico di personalità (schizotypal personality disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -76,10 +76,16 @@ Al momento non risultano studi clinici registrati su questa condizione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034669059 | FLUVOXAMINA*30 cpr rivestite 50 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034669174 | FLUVOXAMINA*30 cpr rivestite 100 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034669059 | FLUVOXAMINA\*30 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 034669174 | FLUVOXAMINA\*30 cpr rivestite 100 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni (titolare: EG SpA) risultano valide.
 

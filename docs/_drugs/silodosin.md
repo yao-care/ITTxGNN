@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 403
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Silodosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -80,6 +80,12 @@ Attualmente non risulta disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
+<!-- review:begin it-lic-20261124-silodosin-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le restanti autorizzazioni riguardano equivalenti di silodosina (4 mg e 8 mg, capsule) di vari titolari, anch'esse cancellate.» Rimosso: la frase completava la vecchia tabella e indicava come cancellate le altre confezioni di silodosina; nell'elenco AIFA delle confezioni autorizzate (dati al 2026-11-23) le confezioni raccolte risultano «Autorizzata». Lo stato di ciascuna confezione è ora nella tabella delle autorizzazioni generata dal programma. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-silodosin-1 -->
+
 Le principali (5 di 20):
 
 <!-- review:begin it-lic-20261106-silodosin-1 -->
@@ -88,15 +94,35 @@ Le principali (5 di 20):
 
 <!-- review:end it-lic-20261106-silodosin-1 -->
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 039775046 | SILODYX 30 cps 4 mg | Recordati Ireland Ltd | Valida |
-| 039775111 | SILODYX 30 cps 8 mg | Recordati Ireland Ltd | Valida |
-| 039789045 | UROREC 30 cps 4 mg | Recordati Ireland Ltd | Valida |
-| 039789110 | UROREC 30 cps 8 mg | Recordati Ireland Ltd | Valida |
-| 047058019 | VIRSIL 30 cps 4 mg | S.F. Group Srl | Valida |
+<!-- licenses:begin -->
 
-Le restanti autorizzazioni riguardano equivalenti di silodosina (4 mg e 8 mg, capsule) di vari titolari, anch'esse cancellate.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047058019 | VIRSIL\*30 cps 4 mg | S.F. GROUP Srl | Autorizzata |
+| 046271021 | SILODOSINA\*30 cps 8 mg | DOC GENERICI Srl | Autorizzata |
+| 046344026 | SILODOSINA\*30 cps 4 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 046876052 | SILODOSINA\*30 cps 8 mg | ARISTO PHARMA GMBH | Autorizzata |
+| 050117011 | URISAX\*30 cps 4 mg | FARMITALIA Srl | Autorizzata |
+| 046269027 | SILODOSINA\*30 cps 4 mg | TEVA B.V. | Autorizzata |
+| 047793031 | SILODOSINA\*30 cps 8 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 046272062 | SILODOSINA\*30 cps 8 mg | EG SpA | Autorizzata |
+| 039789110 | UROREC\*30 cps 8 mg | RECORDATI IRELAND LTD | Autorizzata |
+| 047638046 | SILODOSINA\*30 cps 8 mg | MYLAN SpA | Autorizzata |
+| 047638022 | SILODOSINA\*30 cps 4 mg | MYLAN SpA | Autorizzata |
+| 046271019 | SILODOSINA\*30 cps 4 mg | DOC GENERICI Srl | Autorizzata |
+| 047804012 | SILODOSINA\*30 cps 4 mg | SANDOZ SpA | Autorizzata |
+| 046344053 | SILODOSINA\*30 cps 8 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 039775046 | SILODYX\*30 cps 4 mg | RECORDATI IRELAND LTD | Autorizzata |
+| 039775111 | SILODYX\*30 cps 8 mg | RECORDATI IRELAND LTD | Autorizzata |
+| 046876025 | SILODOSINA\*30 cps 4 mg | ARISTO PHARMA GMBH | Autorizzata |
+| 047804063 | SILODOSINA\*30 cps 8 mg | SANDOZ SpA | Autorizzata |
+| 039789045 | UROREC\*30 cps 4 mg | RECORDATI IRELAND LTD | Autorizzata |
+| 046269142 | SILODOSINA\*30 cps 8 mg | TEVA B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -136,6 +162,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 | 2026-11-06 | Rimosso: «Tutte le 20 autorizzazioni risultano cancellate; il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati com» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
+| 2026-11-24 | Le altre confezioni di silodosina risultano autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

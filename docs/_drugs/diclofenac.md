@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DICLOFENAC"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,38 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-I dati locali riportano 20 autorizzazioni per prodotti a base di solo diclofenac; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali. Di seguito alcune delle principali autorizzazioni:
+I dati locali riportano 20 autorizzazioni per prodotti a base di solo diclofenac; l'elenco potrebbe essere parziale. Il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038049045 | EMINOCS soluzione orale 100 ml 50 mg/ml | Soluzione orale | Non registrata |
-| 035248018 | DICLOFENAC 5 fiale IM 75 mg 3 ml | Fiale IM | Non registrata |
-| 028945020 | VOLTFAST 30 compresse rivestite 50 mg | Compresse rivestite | Non registrata |
-| 029456011 | DICLOFENAC 30 compresse gastroresistenti 50 mg | Compresse gastroresistenti | Non registrata |
-| 045242070 | SOLACUTAN gel 90 g 3% | Gel | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038049045 | EMINOCS\*orale soluz 100 ml 50 mg/ml | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 035248018 | DICLOFENAC\*5 fiale IM 75 mg 3 ml | DOC GENERICI Srl | Autorizzata |
+| 028945020 | VOLTFAST\*30 cpr rivestite 50 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 029456011 | DICLOFENAC\*30 cpr gastrores 50 mg | EG SpA | Autorizzata |
+| 028945032 | VOLTFAST\*30 bust grat 50 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 047332022 | DICLOFENAC\*30 cpr 75 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 024515049 | DICLOREUM\*30 cpr gastrores 50 mg | ALFASIGMA SpA | Autorizzata |
+| 036053015 | DICLOFENAC\*21 cpr 100 mg rilascio prolungato | HEXAL AG | Autorizzata |
+| 023181074 | VOLTAREN\*30 cpr 75 mg rilascio prolungato | NOVARTIS FARMA SpA | Autorizzata |
+| 045242070 | SOLACUTAN\*gel 90 g 3% | MIBE PHARMA ITALIA Srl | Autorizzata |
+| 041671025 | VOLTAREN\*30 cpr 75 mg rilascio prolungato | MEDIFARM Srl | Autorizzata |
+| 035242015 | DICLOFENAC\*5 fiale IM 75 mg 3 ml | ALMUS Srl | Autorizzata |
+| 023181047 | VOLTAREN\*5 fiale IM 75 mg 3 ml | NOVARTIS FARMA SpA | Autorizzata |
+| 033062050 | DICLOFENAC\*21 cpr 100 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 037116050 | VOLTAREN\*30 cpr 75 mg rilascio prolungato | FARMA 1000 Srl | Autorizzata |
+| 028943025 | DEALGIC\*20 cps 100 mg rilascio prolungato | FARMA GROUP Srl | Autorizzata |
+| 029456035 | DICLOFENAC\*5 fiale IM 75 mg 3 ml | EG SpA | Autorizzata |
+| 028534016 | DEFLAMAT\*20 cps 75 mg rilascio modificato | MORGANCEUTICAL Srl | Autorizzata |
+| 033803014 | FENDER\*20 cpr 100 mg rilascio prolungato | S.F. GROUP Srl | Autorizzata |
+| 029457037 | DICLOFENAC\*5 fiale IM 75 mg 3 ml | RATIOPHARM GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

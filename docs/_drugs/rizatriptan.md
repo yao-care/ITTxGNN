@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIZATRIPTAN"
 predicted_indications: ["atrophoderma vermiculata"]
 description: "Rizatriptan: nuova indicazione prevista, Atrophoderma vermiculata (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -96,7 +96,7 @@ Sono elencate le pubblicazioni più rilevanti (revisioni e studi randomizzati in
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate non è disponibile. Sono riportate le prime 5.
+Il testo delle indicazioni approvate non è disponibile.
 
 <!-- review:begin it-lic-20261106-rizatriptan-1 -->
 
@@ -104,13 +104,35 @@ Il testo delle indicazioni approvate non è disponibile. Sono riportate le prime
 
 <!-- review:end it-lic-20261106-rizatriptan-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034115105 | MAXALT RPD*3 orale liof 10 mg | Organon Italia Srl | Valida |
-| 034130106 | RIZALIV RPD*3 orale liof 10 mg | Neopharmed Gentili SpA | Valida |
-| 041302062 | RIZATRIPTAN*3 cpr orodisper 10 mg | Sandoz SpA | Valida |
-| 041302074 | RIZATRIPTAN*6 cpr orodispers 10 mg | Sandoz SpA | Valida |
-| 034115055 | MAXALT*6 cpr 10 mg | Organon Italia Srl | Valida |
+|------|------|------|------|
+| 034115105 | MAXALT RPD\*3 orale liof 10 mg | ORGANON ITALIA Srl | Autorizzata |
+| 034130106 | RIZALIV RPD\*3 orale liof 10 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 041302062 | RIZATRIPTAN\*3 cpr orodisper 10 mg | SANDOZ SpA | Autorizzata |
+| 041302074 | RIZATRIPTAN\*6 cpr orodispers 10 mg | SANDOZ SpA | Autorizzata |
+| 041634039 | RIZATRIPTAN\*6 cpr orodispers 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 043091014 | EMIRIZIA\*3 cpr orodispers 10 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 041562024 | RIZATRIPTAN\*3 cpr orodispers 10 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040091023 | RIZATRIPTAN\*6 cpr orodisper 10 mg | EG SpA | Autorizzata |
+| 034115055 | MAXALT\*6 cpr 10 mg | ORGANON ITALIA Srl | Autorizzata |
+| 034115016 | MAXALT\*3 cpr 5 mg | ORGANON ITALIA Srl | Autorizzata |
+| 034130043 | RIZALIV\*3 cpr 10 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 034115117 | MAXALT RPD\*6 orale liof 10 mg | ORGANON ITALIA Srl | Autorizzata |
+| 041351091 | RIZATRIPTAN\*3 cpr orodispers 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 040776080 | RIZATRIPTAN\*6 cpr orodispers 10 mg | MYLAN SpA | Autorizzata |
+| 041202084 | RIZATRIPTAN\*6 cpr orodisper 10 mg | DOC GENERICI Srl | Autorizzata |
+| 041351103 | RIZATRIPTAN\*6 cpr orodispers 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 034130056 | RIZALIV\*6 cpr 10 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 034130017 | RIZALIV\*3 cpr 5 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 040091011 | RIZATRIPTAN\*3 cpr orodisper 10 mg | EG SpA | Autorizzata |
+| 041202072 | RIZATRIPTAN\*3 cpr orodisper 10 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

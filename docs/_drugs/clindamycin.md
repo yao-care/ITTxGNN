@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clindamycin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati loc…"
 ---
 
@@ -68,11 +68,17 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023868021 | DALACIN C FOSFATO*1 fiala IM EV 600 mg 4 ml | Non indicata | Non registrata |
-| 022633059 | DALACIN C*12 cps 150 mg | Non indicata | Non registrata |
-| 035388026 | CLINDAMICINA FOSFATO*5 fiale 600 mg 4 ml | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023868021 | DALACIN C FOSFATO\*1 fiala IM EV 600 mg 4 ml | PFIZER ITALIA Srl | Autorizzata |
+| 022633059 | DALACIN C\*12 cps 150 mg | PFIZER ITALIA Srl | Autorizzata |
+| 035388026 | CLINDAMICINA FOSFATO\*5 fiale 600 mg 4 ml | HIKMA ITALIA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

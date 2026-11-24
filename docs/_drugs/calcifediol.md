@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "calcifediol"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Calcifediol: nuova indicazione prevista, Acidosi tubulare renale (renal tubular acidosis) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
 ---
 
@@ -71,12 +71,18 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 024139014 | DIDROGYL orale gtt soluz 1,5 mg 10 ml | Gocce orali, soluzione | Non registrata |
-| 048177012 | VIDENKA orale gtt soluz 0,15 mg/ml 10 ml | Gocce orali, soluzione | Non registrata |
-| 045241041 | NEODIDRO 10 cps molli 0,266 mg | Capsule molli | Non registrata |
-| 045241039 | NEODIDRO 5 cps molli 0,266 mg | Capsule molli | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 024139014 | DIDROGYL\*orale gtt soluz 1,5 mg 10 ml | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 048177012 | VIDENKA\*orale gtt soluz 0,15 mg/ml 10 ml | I.B.N. SAVIO Srl | Autorizzata |
+| 045241041 | NEODIDRO\*10 cps molli 0,266 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 045241039 | NEODIDRO\*5 cps molli 0,266 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e 4 le autorizzazioni risultano valide.
 

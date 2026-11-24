@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 412
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate: nuova indicazione prevista, Reflusso duodeno-gastrico (duodenogastric reflux) (livello di evidenza L2). In Italia, confezioni AIFA: 7 (autorizzate: 6)"
@@ -83,13 +83,22 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025724055 | SUCRAMAL granulato orale 30 bustine 2 g (Scharper) | Granulato orale | Non disponibile |
-| 025724067 | SUCRAMAL 40 compresse 1 g (Scharper) | Compresse | Non disponibile |
-| 025652052 | SUCRATE gel orale 30 bustine 2 g 10 ml (Lisapharma) | Gel orale | Non disponibile |
-| 022803074 | ANTEPSIN polvere orale 30 bustine 2 g (Baldacci) | Polvere orale | Non disponibile |
-| 034788012 | SUCRALFATO granulato orale 30 bustine 2 g (DOC Generici) | Granulato orale | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025724055 | SUCRAMAL\*orale grat 30 bust 2 g | SCHARPER SpA | Autorizzata |
+| 025724067 | SUCRAMAL\*40 cpr 1 g | SCHARPER SpA | Autorizzata |
+| 025652052 | SUCRATE\*orale gel 30 bust 2 g 10 ml | LISAPHARMA SpA | Autorizzata |
+| 034788012 | SUCRALFATO\*orale grat 30 bust 2 g | DOC GENERICI Srl | Autorizzata |
+| 022803047 | ANTEPSIN\*orale sosp 200 ml 1 g/5 ml | LABORATORI BALDACCI SpA | Autorizzata |
+| 022803035 | ANTEPSIN\*40 cpr 1 g | LABORATORI BALDACCI SpA | Autorizzata |
+| 022803074 | ANTEPSIN\*orale polv 30 bust 2 g | LABORATORI BALDACCI SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -107,7 +116,7 @@ Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio
 
 <!-- review:begin it-lic-20261106-sucralfate-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esistono due piccoli RCT e alcuni studi osservazionali coerenti con un beneficio del sucralfato nella gastrite da reflusso alcalino, ma sono datati, di piccole dimensioni, senza studi clinici registrati. Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sucralfate-1 -->
 
@@ -126,7 +135,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono cancellate e i dati di sicurezza ufficiali mancano» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
 
 <!-- review:end log -->

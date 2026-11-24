@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 429
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Teriflunomide: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,21 +72,28 @@ Il modello TxGNN ha prodotto candidati per Teriflunomide, ma tutti quelli ricond
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 051210033 | Teriflunomide |  | Valida |
-| 042921027 | Teriflunomide |  | Valida |
-| 050322015 | Teriflunomide |  | Valida |
-| 050408032 | Teriflunomide |  | Valida |
-| 050739034 | Teriflunomide |  | Valida |
-| 050545084 | Teriflunomide |  | Valida |
-| 050360092 | Teriflunomide |  | Valida |
-| 050654033 | Teriflunomide |  | Valida |
-| 050739022 | Teriflunomide |  | Valida |
-| 042921066 | Teriflunomide |  | Valida |
-| 050758034 | Teriflunomide |  | Non più autorizzata |
-| 050449014 | Teriflunomide |  | Valida |
-| 050441029 | Teriflunomide |  | Valida |
+| 051210033 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | GLENMARK PHARMACEUTICALS S.R.O | Autorizzata |
+| 042921027 | AUBAGIO\*28 cpr rivestite 14 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 050322015 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | EG SpA | Autorizzata |
+| 050408032 | TERGIO\*28 cpr rivestite 14 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 050739034 | TERIFLUNOMIDE\*84 cpr rivestite 14 mg | ABDI FARMA GMBH | Autorizzata |
+| 050545084 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | HCS BV | Autorizzata |
+| 050360092 | TEREBYO\*28 cpr rivestite 14 mg confezione portafoglio | SANDOZ SpA | Autorizzata |
+| 050654033 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | DR. REDDY'S Srl | Autorizzata |
+| 050739022 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | ABDI FARMA GMBH | Autorizzata |
+| 042921066 | AUBAGIO\*28 cpr rivestite 7 mg | SANOFI WINTHROP INDUSTRIE | Autorizzata |
+| 050449014 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 050441029 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 050758034 | TERIFLUNOMIDE\*28 cpr rivestite 14 mg | TEVA B.V. | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

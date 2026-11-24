@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Allopurinol: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
 ---
 
@@ -75,13 +75,29 @@ Al momento non risultano studi clinici correlati registrati.
 
 Sono presenti 15 autorizzazioni di medicinali monocomponente a base di allopurinolo; i dati locali non riportano il testo dell'indicazione approvata.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 022441036 | ALLOPURINOLO 50 cpr 100 mg (Molteni) | Non indicata | Non registrata |
-| 039060076 | ALLOPURINOLO 50 cpr 100 mg (Sandoz) | Non indicata | Non registrata |
-| 045054057 | ALLOPURINOLO 30 cpr 300 mg (Mylan) | Non indicata | Non registrata |
-| 021259027 | ZYLORIC 30 cpr div 300 mg (Teofarma) | Non indicata | Non registrata |
-| 022051015 | ALLURIT 40 cpr 150 mg (Teofarma) | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022441036 | ALLOPURINOLO\*50 cpr 100 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 039060076 | ALLOPURINOLO\*50 cpr 100 mg | SANDOZ SpA | Autorizzata |
+| 045054057 | ALLOPURINOLO\*30 cpr 300 mg | MYLAN SpA | Autorizzata |
+| 045054020 | ALLOPURINOLO\*50 cpr 100 mg | MYLAN SpA | Autorizzata |
+| 039060292 | ALLOPURINOLO\*30 cpr 300 mg | SANDOZ SpA | Autorizzata |
+| 022051015 | ALLURIT\*40 cpr 150 mg | TEOFARMA Srl | Autorizzata |
+| 022441048 | ALLOPURINOLO\*30 cpr 300 mg | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 043337029 | ALLOPURINOLO\*30 cpr 300 mg | DOC GENERICI Srl | Autorizzata |
+| 046453041 | ALLOPURINOLO\*50 cpr 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 021259027 | ZYLORIC\*30 cpr div 300 mg | TEOFARMA Srl | Autorizzata |
+| 046453104 | ALLOPURINOLO\*30 cpr 300 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040180059 | ALLOPURINOLO\*50 cpr 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 021259015 | ZYLORIC\*50 cpr div 100 mg | TEOFARMA Srl | Autorizzata |
+| 043337017 | ALLOPURINOLO\*50 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 040180147 | ALLOPURINOLO\*30 cpr 300 mg | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

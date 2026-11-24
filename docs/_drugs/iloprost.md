@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -68,12 +68,18 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036019091 | VENTAVIS, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
-| 036019014 | VENTAVIS, 30 fiale soluzione per nebulizzazione 2 ml 10 mcg/ml (Bayer AG) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
-| 046536025 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 10 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
-| 046536076 | ILOPROST, 30 fiale soluzione per nebulizzazione 1 ml 20 mcg/ml (Zentiva Italia Srl) | Soluzione per nebulizzazione | Non disponibile; autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036019091 | VENTAVIS\*30 fiale soluz nebul 1 ml 20 mcg/ml | BAYER AG | Autorizzata |
+| 046536025 | ILOPROST\*30 fiale soluz nebul 1 ml 10 mcg/ml | ZENTIVA ITALIA Srl | Autorizzata |
+| 036019014 | VENTAVIS\*30 fiale soluz nebul 2 ml 10 mcg/ml | BAYER AG | Autorizzata |
+| 046536076 | ILOPROST\*30 fiale soluz nebul 1 ml 20 mcg/ml | ZENTIVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e quattro le autorizzazioni risultano valide.
 

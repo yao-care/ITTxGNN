@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 description: "Ampicillin: nuova indicazione prevista, Laringite (laryngitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -78,10 +78,16 @@ Nessuna delle pubblicazioni raccolte valuta l'ampicillina nella laringite. Le pi
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036624029 | Ampicillina e sulbactam, 1 fiala IM/EV 500 mg + 250 mg + 1 fiala solvente 1,6 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
-| 036624017 | Ampicillina e sulbactam, 1 fiala IM 1 g + 500 mg + 1 fiala solvente 3,2 ml (I.B.I. Giovanni Lorenzini SpA) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036624029 | AMPICILLINA E SULBACTAM\*1 fiala IM EV 500 mg + 250 mg + 1 fiala solv 1,6 ml | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+| 036624017 | AMPICILLINA E SULBACTAM\*1 fiala IM 1 g + 500 mg + 1 fiala solv 3,2 ml | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Entrambe le autorizzazioni risultano valide.
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 282
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: nuova indicazione prevista, Acne (acne (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -82,11 +82,17 @@ Al momento non sono registrati studi clinici correlati.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 023821022 | VERMOX sospensione orale 30 ml 20 mg/ml (Janssen Cilag) | Sospensione orale | Non riportata (autorizzazione valida) |
-| 023821010 | VERMOX 6 cpr 100 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione valida) |
-| 023821034 | VERMOX 30 cpr 500 mg (Janssen Cilag) | Compresse | Non riportata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 023821022 | VERMOX\*orale sosp 30 ml 20 mg/ml | JANSSEN CILAG SpA | Autorizzata |
+| 023821010 | VERMOX\*6 cpr 100 mg | JANSSEN CILAG SpA | Autorizzata |
+| 023821034 | VERMOX\*30 cpr 500 mg | JANSSEN CILAG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e 3 le autorizzazioni risultano valide: i prodotti a base di mebendazolo in forma singola o in associazione sono attualmente in commercio.
 
@@ -119,7 +125,7 @@ La predizione si basa unicamente sul modello (livello L5), senza studi clinici, 
 
 <!-- review:begin it-lic-20261106-mebendazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della situazione regolatoria, dato che non esistono autorizzazioni valide in Italia» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-mebendazole-1 -->
 
@@ -131,7 +137,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che non esistono autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

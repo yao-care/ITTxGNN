@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Denosumab: nuova indicazione prevista, Retinopatia diabetica non proliferativa grave (severe nonproliferative diabetic retinopathy) (livello di evidenza L5). Indicazione originale: Non riportata nei …"
 ---
 
@@ -70,10 +70,16 @@ Attualmente non è disponibile letteratura correlata per questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 040108033 | PROLIA*1 siringa SC 60 mg 1 ml | Non indicata | Non registrata |
-| 041300017 | XGEVA*1 flaconcino SC 120 mg 1,7 ml | Non indicata | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040108033 | PROLIA\*1 siringa SC 60 mg 1 ml | AMGEN EUROPE B.V. | Autorizzata |
+| 041300017 | XGEVA\*1 flaconcino SC 120 mg 1,7 ml | AMGEN EUROPE B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

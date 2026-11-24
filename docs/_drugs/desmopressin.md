@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desmopressin: nuova indicazione prevista, Deficit congenito di protrombina (congenital prothrombin deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 16 (autorizzate: 14)"
 ---
 
@@ -72,15 +72,33 @@ Attualmente non risultano sperimentazioni cliniche registrate correlate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 050711023 | DESMOPRESSINA*30 cpr sublinguali 120 mcg (SANDOZ) | — | — |
-| 050735152 | DESMOPRESSINA*30 cpr sublinguali 60 mcg flacone (ZENTIVA) | — | — |
-| 036437010 | PSEURIN*30 cpr div 0,1 mg (FARTO) | — | — |
-| 027665025 | EMOSINT*10 fiale EV SC 20 mcg 1 ml (KEDRION) | — | — |
-| 023892096 | MINIRIN/DDAVP*30 cpr sublinguali 60 mcg (FERRING) | — | — |
+<!-- licenses:begin -->
 
-L'elenco riporta le prime 5 autorizzazioni; il testo dell'indicazione approvata non è registrato nei dati locali.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050711023 | DESMOPRESSINA\*30 cpr sublinguali 120 mcg | SANDOZ SpA | Autorizzata |
+| 050735152 | DESMOPRESSINA\*30 cpr sublinguali 60 mcg flacone | ZENTIVA ITALIA Srl | Autorizzata |
+| 036437010 | PSEURIN\*30 cpr div 0,1 mg | FARTO Srl | Autorizzata |
+| 027665025 | EMOSINT\*10 fiale EV SC 20 mcg 1 ml | KEDRION SpA | Autorizzata |
+| 050735315 | DESMOPRESSINA\*30 cpr sublinguali 120 mcg flacone | ZENTIVA ITALIA Srl | Autorizzata |
+| 027665013 | EMOSINT\*10 fiale EV SC 4 mcg 0,5 ml | KEDRION SpA | Autorizzata |
+| 050838198 | DESMOPRESSINA\*30 cpr sublinguali 120 mcg | TEVA ITALIA Srl | Autorizzata |
+| 050838034 | DESMOPRESSINA\*30 cpr sublinguali 60 mcg | TEVA ITALIA Srl | Autorizzata |
+| 023892096 | MINIRIN/DDAVP\*30 cpr sublinguali 60 mcg | FERRING SpA | Autorizzata |
+| 023892033 | MINIRIN/DDAVP\*spray nasale 0,125 mg 2,5 ml | FERRING SpA | Autorizzata |
+| 023892021 | MINIRIN/DDAVP\*10 fiale SC 4 mcg 1 ml | FERRING SpA | Autorizzata |
+| 036437022 | PSEURIN\*30 cpr div 0,2 mg | FARTO Srl | Autorizzata |
+| 050711011 | DESMOPRESSINA\*30 cpr sublinguali 60 mcg | SANDOZ SpA | Autorizzata |
+| 023892122 | MINIRIN/DDAVP\*30 cpr sublinguali 120 mcg | FERRING SpA | Autorizzata |
+| 050975198 | DESMOPRESSINA\*30 cpr sublinguali 120 mcg | DOC GENERICI Srl | Non più autorizzata |
+| 050975034 | DESMOPRESSINA\*30 cpr sublinguali 60 mcg | DOC GENERICI Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Il testo dell'indicazione approvata non è registrato nei dati locali.
 
 ## Considerazioni sulla sicurezza
 

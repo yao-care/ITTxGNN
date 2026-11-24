@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome"]
 description: "Fluorouracil: nuova indicazione prevista, Botryoid-type embryonal rhabdomyosarcoma of the vagina (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -81,10 +81,16 @@ In sintesi, nessuna pubblicazione dimostra l'efficacia del fluorouracile nel rab
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 046491015 | TOLERAK*1 tubo crema 20 g 40 mg/g (Pierre Fabre Italia) | Crema | Non disponibile (autorizzazione valida) |
-| 045236015 | ACTIKERALL*1 flacone soluzione cutanea 5 mg/g + 100 mg/g (Almirall Hermal) | Soluzione cutanea | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046491015 | TOLERAK\*1 tubo crema 20 g 40 mg/g | PIERRE FABRE ITALIA SpA | Autorizzata |
+| 045236015 | ACTIKERALL\*1 flacone soluzione cutanea 5 mg/g + 100 mg/g | ALMIRALL HERMAL GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 
@@ -111,7 +117,7 @@ Le predizioni per il rabdomiosarcoma e per le altre indicazioni si basano solo s
 
 <!-- review:begin it-lic-20261106-fluorouracil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione. Inoltre, in Italia le due autorizzazioni sono entrambe revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il fluorouracile non è un agente standard in questi tumori e in uno dei casi riportati non ha prevenuto la progressione. Inoltre, in Italia le due autorizzazioni sono entrambe revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-fluorouracil-1 -->
 
@@ -120,7 +126,13 @@ Le predizioni per il rabdomiosarcoma e per le altre indicazioni si basano solo s
 - Testi di avvertenze e controindicazioni dal foglietto illustrativo AIFA (lacuna bloccante per lo screening di sicurezza)
 - Evidenze preclinico-cliniche specifiche sul fluorouracile nel rabdomiosarcoma, con confronto con i regimi standard
 - Valutazione della compatibilità della via di somministrazione, dato che le formulazioni italiane note sono topiche
-- Chiarimento dello stato regolatorio, vista la revoca di entrambe le autorizzazioni
+- Chiarimento dello stato regolatorio
+
+<!-- review:begin it-lic-20261124-fluorouracil-1 -->
+
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio, vista la revoca di entrambe le autorizzazioni» Corretto: la premessa sullo stato delle autorizzazioni non corrispondeva ai dati (AIFA, elenco delle confezioni autorizzate, al 2026-11-23: le autorizzazioni risultano «Autorizzata»); è stata rimossa solo la premessa, il resto della raccomandazione è invariato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+
+<!-- review:end it-lic-20261124-fluorouracil-1 -->
 
 <!-- review:begin log -->
 
@@ -130,7 +142,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia le due autorizzazioni sono entrambe revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia le due autorizzazioni sono entrambe revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Premessa sullo stato delle autorizzazioni non corrispondente ai dati AIFA | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

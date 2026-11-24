@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ACECLOFENAC"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Aceclofenac: nuova indicazione prevista, Sindrome brachiolmia-amelogenesi imperfetta (brachyolmia-amelogenesis imperfecta syndrome) (livello di evidenza L5). Indicazione originale: Non riportata nei …"
 ---
 
@@ -72,15 +72,22 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 031842014 | KAFENAC*40 cpr rivestite 100 mg | Compresse rivestite | — |
-| 032773020 | AIRTAL*40 cpr rivestite 100 mg | Compresse rivestite | — |
-| 042403042 | ACECLOFENAC*40 cpr rivestite 100 mg | Compresse rivestite | — |
-| 031842026 | KAFENAC*orale sosp polv 30 bust 100 mg | Polvere per sospensione orale | — |
-| 031220015 | GLADIO*40 cpr rivestite 100 mg | Compresse rivestite | — |
+<!-- licenses:begin -->
 
-Sono mostrate 5 delle 8 autorizzazioni registrate.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 031842014 | KAFENAC\*40 cpr rivestite 100 mg | ALMIRALL S.A. | Autorizzata |
+| 032773020 | AIRTAL\*40 cpr rivestite 100 mg | ALMIRALL S.A. | Autorizzata |
+| 042403042 | ACECLOFENAC\*40 cpr rivestite 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 031842026 | KAFENAC\*orale sosp polv 30 bust 100 mg | ALMIRALL S.A. | Autorizzata |
+| 031220015 | GLADIO\*40 cpr rivestite 100 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 032773032 | AIRTAL\*orale sosp polv 30 bust 100 mg | ALMIRALL S.A. | Autorizzata |
+| 031220027 | GLADIO\*orale polv 30 bust 100 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 043259035 | ACECLOFENAC\*40 cpr rivestite 100 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

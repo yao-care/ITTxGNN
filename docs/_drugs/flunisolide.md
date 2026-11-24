@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 description: "Flunisolide: nuova indicazione prevista, Eczema atopico (atopic eczema) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -82,7 +82,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Testo dell'indicazione e forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5:
+Testo dell'indicazione e forma farmaceutica non sono riportati nei dati.
 
 <!-- review:begin it-lic-20261106-flunisolide-1 -->
 
@@ -90,13 +90,35 @@ Testo dell'indicazione e forma farmaceutica non sono riportati nei dati. Sono el
 
 <!-- review:end it-lic-20261106-flunisolide-1 -->
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036372035 | NEBULGEN AD soluz. nebul. 30 flaconi 1 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
-| 036364040 | FORBEST BB soluz. nebul. 30 fiale 0,5 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
-| 036321026 | ELIOSID soluz. nebul. 15 fiale 1 mg/2 ml | Soluzione per nebulizzatore | Non riportata |
-| 033339045 | PULMIST BB soluz. nebul. 15 fiale 1 mg/2 ml | Soluzione per nebulizzatore | Non riportata |
-| 036363036 | SAFLINEB AD soluz. nebul. 30 fiale 1 mg/1 ml | Soluzione per nebulizzatore | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036372035 | NEBULGEN\*AD soluz nebul 30 flaconi 1 mg 1 ml | I.B.N. SAVIO Srl | Autorizzata |
+| 036364040 | FORBEST\*BB soluz nebul 30 fiale 0,5 mg 1 ml | NEOPHARMED GENTILI SpA | Autorizzata |
+| 036321026 | ELIOSID\*soluz nebul 15 fiale 1 mg 2 ml | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 033339045 | PULMIST\*BB soluz nebul 15 fiale 1 mg 2 ml | SO.SE.PHARM Srl | Autorizzata |
+| 036363036 | SAFLINEB\*AD soluz nebul 30 fiale 1 mg 1 ml | GENETIC SpA | Autorizzata |
+| 034988028 | ASSOLID\*soluz nebul 30 ml 0,1% | KONPHARMA Srl | Autorizzata |
+| 036363048 | SAFLINEB\*BB soluz nebul 30 fiale 0,5 mg 1 ml | GENETIC SpA | Autorizzata |
+| 034843019 | VENTOFLU\*AD soluz nebul 15 fiale 2 mg 2 ml | BIOMEDICA FOSCAMA IND.CH.F.SpA | Autorizzata |
+| 034494031 | ASMAFLU\*AD soluz nebul 15 fiale 2 mg 2 ml | GENETIC SpA | Autorizzata |
+| 036321014 | ELIOSID\*AD soluz nebul 15 fiale 2 mg 2 ml | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 034493027 | AERFLU\*AD soluz nebul 15 fiale 2 mg 2 ml | S.F. GROUP Srl | Autorizzata |
+| 026886059 | LUNIBRON\*soluz nebul 30 ml 0,1% | NEOPHARMED GENTILI SpA | Autorizzata |
+| 035063039 | PLAUDIT\*BB soluz nebul 15 fiale 1 mg 2 ml | S.F. GROUP Srl | Autorizzata |
+| 036371021 | ASTIAN\*AD soluz nebul 15 flaconcini 2 mg 2 ml | S.F. GROUP Srl | Autorizzata |
+| 034869014 | AEROLID\*soluz nebul 30 ml 0,1% | PIAM FARMACEUTICI SpA | Autorizzata |
+| 034699013 | DORICOFLU\*soluz nebul 30 ml 0,1% | SANITAS LAB.CHIMICO FARM.Srl | Autorizzata |
+| 036371033 | ASTIAN\*AD soluz nebul 30 flaconcini 1 mg 1 ml | S.F. GROUP Srl | Autorizzata |
+| 034494017 | ASMAFLU\*soluz nebul 30 ml 0,1% | GENETIC SpA | Autorizzata |
+| 033339033 | PULMIST\*AD soluz nebul 15 fiale 2 mg 2 ml | SO.SE.PHARM Srl | Autorizzata |
+| 035148016 | FLUNISOLIDE\*soluz nebul 30 ml 0,1% | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

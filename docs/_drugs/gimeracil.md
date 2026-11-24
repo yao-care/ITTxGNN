@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 220
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 description: "Gimeracil: nuova indicazione prevista, Cecum villous adenoma (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -86,10 +86,16 @@ Un limite importante: le prove cliniche riguardano il prodotto di associazione S
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042291017 | TEYSUNO 42 cps 15 mg + 4,35 mg + 11,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione valida) |
-| 042291031 | TEYSUNO 42 cps 20 mg + 5,8 mg + 15,8 mg (Nordic Group BV) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042291017 | TEYSUNO\*42 cps 15 mg + 4,35 mg + 11,8 mg | NORDIC GROUP BV | Autorizzata |
+| 042291031 | TEYSUNO\*42 cps 20 mg + 5,8 mg + 15,8 mg | NORDIC GROUP BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 
@@ -114,7 +120,7 @@ Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno co
 
 <!-- review:begin it-lic-20261106-gimeracil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tuttavia l'evidenza riguarda l'associazione S-1 e non il gimeracil da solo, gli studi con stato sconosciuto non hanno risultati, la letteratura è prevalentemente costituita da case report e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-gimeracil-1 -->
 
@@ -128,7 +134,7 @@ Esistono due studi di fase 3 sul carcinoma del colon/colorettale con S-1 (uno co
 
 <!-- review:begin it-lic-20261106-gimeracil-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria in Italia, dato che tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della situazione regolatoria in Italia, dato che tutte le autorizzazioni risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-gimeracil-2 -->
 
@@ -140,8 +146,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

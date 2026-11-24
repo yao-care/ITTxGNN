@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -81,10 +81,16 @@ Nessuno studio citato valuta il danazolo specificamente per l'amenorrea come ind
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025021054 | DANATROL*30 cps 200 mg | Non indicata | Non registrata nei dati locali |
-| 025021066 | DANATROL*30 cps 50 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025021054 | DANATROL\*30 cps 200 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 025021066 | DANATROL\*30 cps 50 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: FIDIA FARMACEUTICI SpA. Entrambe le autorizzazioni risultano valide.
 

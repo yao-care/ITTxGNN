@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 416
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Sumatriptan: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,30 +72,36 @@ Tutti i candidati proposti dal modello TxGNN per Sumatriptan (punteggio ≥ 0,99
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
-|------|------|------|------|
-| 046202038 | Sumatriptan |  | Valida |
-| 039384122 | Sumatriptan |  | Valida |
-| 037772288 | Sumatriptan |  | Non più autorizzata |
-| 039384033 | Sumatriptan |  | Valida |
-| 050913021 | Sumatriptan |  | Valida |
-| 037484096 | Sumatriptan |  | Valida |
-| 027975135 | Sumatriptan |  | Valida |
-| 046202014 | Sumatriptan |  | Valida |
-| 038111213 | Sumatriptan |  | Valida |
-| 027975073 | Sumatriptan |  | Valida |
-| 037998034 | Sumatriptan |  | Valida |
-| 038636080 | Sumatriptan |  | Valida |
-| 039982018 | Sumatriptan |  | Valida |
-| 027975123 | Sumatriptan |  | Valida |
-| 038636231 | Sumatriptan |  | Valida |
-| 027975061 | Sumatriptan |  | Valida |
-| 037998123 | Sumatriptan |  | Valida |
-| 037484033 | Sumatriptan |  | Valida |
-| 037772047 | Sumatriptan |  | Non più autorizzata |
-| 038111035 | Sumatriptan |  | Valida |
+<!-- licenses:begin -->
 
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046202038 | SUMATRIPTAN\*4 cpr 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 039384122 | SUMATRIPTAN\*4 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 039384033 | SUMATRIPTAN\*4 cpr rivestite 50 mg | MYLAN SpA | Autorizzata |
+| 050913021 | SUMATRIPTAN\*2 penne SC 6 mg 0,5 ml con ago | DOC GENERICI Srl | Autorizzata |
+| 037484096 | SUMATRIPTAN\*4 cpr 100 mg | EG SpA | Autorizzata |
+| 027975135 | IMIGRAN SPRAY NASALE\*2 flaconi spray nasale 20 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 046202014 | SUMATRIPTAN\*4 cpr 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038111213 | SUMATRIPTAN\*4 cpr rivestite 100 mg | DOC GENERICI Srl | Autorizzata |
+| 027975073 | IMIGRAN\*4 cpr rivestite 50 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 037998034 | SUMATRIPTAN\*4 cpr rivestite 50 mg | TEVA ITALIA Srl | Autorizzata |
+| 038636080 | SUMATRIPTAN\*4 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+| 039982018 | SUMATRIPTAN\*2 penne SC 6 mg 0,5 ml | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 027975123 | IMIGRAN SPRAY NASALE\*2 flaconi spray nasale 10 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 038636231 | SUMATRIPTAN\*4 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+| 027975061 | IMIGRAN\*2 siringhe preriempite SC 6 mg 0,5 ml + autoiniettore penkit | GLAXOSMITHKLINE SpA | Autorizzata |
+| 037998123 | SUMATRIPTAN\*4 cpr rivestite 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 037484033 | SUMATRIPTAN\*4 cpr 50 mg | EG SpA | Autorizzata |
+| 038111035 | SUMATRIPTAN\*4 cpr rivestite 50 mg | DOC GENERICI Srl | Autorizzata |
+| 037772288 | SUMATRIPTAN\*4 cpr rivestite 100 mg | ZENTIVA ITALIA Srl | Non più autorizzata |
+| 037772047 | SUMATRIPTAN\*4 cpr rivestite 50 mg | ZENTIVA ITALIA Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
 I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

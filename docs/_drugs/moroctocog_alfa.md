@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 310
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "MOROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: nuova indicazione prevista, Primary release disorder of platelets (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -81,13 +81,21 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Indicazione approvata |
-|---------|------|-----------|
-| 034421053 | REFACTO AF siringa preriempita EV 3.000 UI + solvente 4 ml + kit per infusione | Non disponibile nei dati |
-| 034421040 | REFACTO AF flaconcino EV 2.000 UI + siringa 4 ml | Non disponibile nei dati |
-| 034421077 | REFACTO AF siringa preriempita EV 1.000 UI + solvente 4 ml + kit per infusione | Non disponibile nei dati |
-| 034421065 | REFACTO AF siringa preriempita EV 500 UI + solvente 4 ml + kit per infusione | Non disponibile nei dati |
-| 034421038 | REFACTO AF flaconcino EV 1.000 UI + siringa 4 ml | Non disponibile nei dati |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034421053 | REFACTO AF\*1 siringa preriempita EV 3.000 Unita' Internazionali + solv 4ml + kit per infu… | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421040 | REFACTO AF\*1 flaconcino EV 2.000 Unita' Internazionali + 1 siringa 4 ml | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421077 | REFACTO AF\*1 siringa preriempita EV 1.000 Unita' Internazionali + solv 4 ml + kit per inf… | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421065 | REFACTO AF\*1 siringa preriempita EV 500 Unita' Internazionali + solv 4 ml + kit per infus… | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421038 | REFACTO AF\*1 flaconcino EV 1.000 Unita' Internazionali + 1 siringa 4 ml | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421091 | REFACTO AF\*1 siringa preriempita EV 250 Unita' Internazionali + solv 4 ml + kit per infus… | PFIZER EUROPE MA EEIG | Autorizzata |
+| 034421089 | REFACTO AF\*1 siringa preriempita EV 2.000 Unita' Internazionali + solv 4 ml + kit per inf… | PFIZER EUROPE MA EEIG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -102,7 +110,7 @@ La previsione per il disturbo da rilascio piastrinico primario si basa solo sul 
 
 <!-- review:begin it-lic-20261106-moroctocog_alfa-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il difetto piastrinico non è mediato dal FVIII, e il prodotto non ha più autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il difetto piastrinico non è mediato dal FVIII, e il prodotto non ha più autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-moroctocog_alfa-1 -->
 
@@ -121,7 +129,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e il prodotto non ha più autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e il prodotto non ha più autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

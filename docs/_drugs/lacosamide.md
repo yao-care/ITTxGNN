@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 252
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: nuova indicazione prevista, Manic bipolar affective disorder (livello di evidenza L3). In Italia, confezioni AIFA: almeno 20"
@@ -112,15 +112,37 @@ Al momento non risultano sperimentazioni cliniche registrate.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata non è disponibile per nessuna di esse. Principali autorizzazioni:
+Il testo dell'indicazione approvata non è disponibile per nessuna di esse.
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 038919116 | VIMPAT 56 cpr rivestite 200 mg | UCB Pharma S.A. | Valida |
-| 045648250 | Lacosamide 56 cpr rivestite 200 mg | Sandoz SpA | Valida |
-| 048265146 | Lacosamide 56 cpr rivestite 200 mg | Krka d.d. Novo Mesto | Valida |
-| 047010057 | LAPRYSTA 56 cpr rivestite 100 mg | Neuraxpharm Italy SpA | Valida |
-| 049898063 | NEPILEX 56 cpr rivestite 150 mg | S.F. Group Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045648250 | LACOSAMIDE\*56 cpr rivestite 200 mg | SANDOZ SpA | Autorizzata |
+| 048265146 | LACOSAMIDE\*56 cpr rivestite 200 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 045668086 | LACOSAMIDE\*56 cpr rivestite 200 mg | DOC GENERICI Srl | Autorizzata |
+| 045536024 | LACOSAMIDE\*56 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 049898063 | NEPILEX\*56 cpr rivestite 150 mg | S.F. GROUP Srl | Autorizzata |
+| 045648021 | LACOSAMIDE\*14 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+| 045678024 | LACOSAMIDE\*56 cpr rivestite 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045536012 | LACOSAMIDE\*14 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 048959050 | LACOSAMIDE\*56 cpr rivestite 100 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 048959011 | LACOSAMIDE\*14 cpr rivestite 50 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049445075 | LACOSAMIDE\*56 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045648096 | LACOSAMIDE\*14 cpr rivestite 100 mg | SANDOZ SpA | Autorizzata |
+| 045683594 | LACOSAMIDE\*56 cpr rivestite 150 mg | TEVA B.V. | Autorizzata |
+| 047010057 | LAPRYSTA\*56 cpr rivestite 100 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 050588072 | LACOSAMIDE\*56 cpr rivestite 200 mg | TECNIGEN Srl | Autorizzata |
+| 049445036 | LACOSAMIDE\*56 cpr rivestite 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 045668062 | LACOSAMIDE\*56 cpr rivestite 150 mg | DOC GENERICI Srl | Autorizzata |
+| 045683341 | LACOSAMIDE\*14 cpr rivestite 100 mg | TEVA B.V. | Autorizzata |
+| 045678149 | LACOSAMIDE\*56 cpr rivestite 200 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 038919116 | VIMPAT\*56 cpr rivestite 200 mg | UCB PHARMA S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

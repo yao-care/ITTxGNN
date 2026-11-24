@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "DIENOGEST"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
 description: "Dienogest: nuova indicazione prevista, Amenorrea (amenorrhea (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 14 (autorizzate: 14)"
@@ -76,13 +76,28 @@ Nessuno degli studi raccolti verifica dienogest come trattamento dell'amenorrea:
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 051177018 | VISANNE 28 cpr 2 mg | GMM Farma Srl |
-| 046307029 | DEVICIUS 84 cpr rivestite 2 mg | Stragen Nordic A/S |
-| 041407014 | VISANNE 28 cpr 2 mg | Bayer SpA |
-| 046899011 | ENDOVELLE 1x28 cpr 2 mg | Exeltis Healthcare S.L. |
-| 046945022 | ZAFRILLA 3x28 cpr 2 mg | Gedeon Richter Plc |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 051177018 | VISANNE\*28 cpr 2 mg | GMM FARMA Srl | Autorizzata |
+| 046307029 | DEVICIUS\*84 cpr rivestite 2 mg | STRAGEN NORDIC A/S | Autorizzata |
+| 041407014 | VISANNE\*28 cpr 2 mg | BAYER SpA | Autorizzata |
+| 046899011 | ENDOVELLE\*1x28 cpr 2 mg confezione calendario | EXELTIS HEALTHCARE S.L. | Autorizzata |
+| 046945022 | ZAFRILLA\*3x28 cpr 2 mg | GEDEON RICHTER PLC | Autorizzata |
+| 046945034 | ZAFRILLA\*6x28 cpr 2 mg | GEDEON RICHTER PLC | Autorizzata |
+| 046169013 | ENDODIEN\*28 cpr rivestite 2 mg | FARMITALIA Srl | Autorizzata |
+| 048681011 | VIDAGEST\*28 cpr 2 mg | SANDOZ SpA | Autorizzata |
+| 046945010 | ZAFRILLA\*28 cpr 2 mg | GEDEON RICHTER PLC | Autorizzata |
+| 046169025 | ENDODIEN\*84 cpr rivestite 2 mg | FARMITALIA Srl | Autorizzata |
+| 048681023 | VIDAGEST\*84 cpr 2 mg | SANDOZ SpA | Autorizzata |
+| 046307017 | DEVICIUS\*28 cpr rivestite 2 mg | STRAGEN NORDIC A/S | Autorizzata |
+| 046899023 | ENDOVELLE\*3x28 cpr 2 mg confezione calendario | EXELTIS HEALTHCARE S.L. | Autorizzata |
+| 046180016 | DIENOGEST\*28 cpr 2 mg | ARISTO PHARMA GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Moxonidine"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
 description: "Moxonidine: nuova indicazione prevista, Ipotricosi semplice del cuoio capelluto (hypotrichosis simplex of the scalp) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -80,13 +80,20 @@ Per completezza, per la previsione "alopecia" (rango 4) è stata recuperata una 
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 036677033 | Moxonidina 28 cpr rivestite 0,2 mg (EG SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034063014 | Fisiotens 28 cpr rivestite 0,2 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 034063053 | Fisiotens 28 cpr rivestite 0,4 mg (Viatris Italia Srl) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 039676085 | Moxonidina 28 cpr rivestite 0,4 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 039676022 | Moxonidina 28 cpr rivestite 0,2 mg (Mylan SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036677033 | MOXONIDINA\*28 cpr rivestite 0,2 mg | EG SpA | Autorizzata |
+| 034063014 | FISIOTENS\*28 cpr rivestite 0,2 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 034063053 | FISIOTENS\*28 cpr rivestite 0,4 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 039676085 | MOXONIDINA\*28 cpr rivestite 0,4 mg | MYLAN SpA | Autorizzata |
+| 039676022 | MOXONIDINA\*28 cpr rivestite 0,2 mg | MYLAN SpA | Autorizzata |
+| 036677211 | MOXONIDINA\*28 cpr rivestite 0,4 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -103,7 +110,7 @@ La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivam
 
 <!-- review:begin it-lic-20261106-moxonidine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile. Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivamente sul punteggio del modello (livello di evidenza L5), senza studi clinici, senza letteratura pertinente e senza un nesso meccanicistico plausibile. Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-moxonidine-1 -->
 
@@ -116,7 +123,7 @@ La previsione per l'ipotricosi semplice del cuoio capelluto è basata esclusivam
 
 <!-- review:begin it-lic-20261106-moxonidine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio, poiché tutte le autorizzazioni italiane risultano cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-moxonidine-2 -->
 
@@ -128,8 +135,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, il farmaco non ha attualmente alcuna autorizzazione valida in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «poiché tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
 
 <!-- review:end log -->

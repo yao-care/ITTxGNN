@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Donepezil: nuova indicazione prevista, Disturbi del movimento psicogeni (psychogenic movement disorders) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -68,15 +68,37 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il farmaco risulta commercializzato in Italia; i dati sulle autorizzazioni sono parziali e l'elenco potrebbe essere incompleto. Il testo dell'indicazione approvata non è riportato nei dati locali. Le autorizzazioni principali sono:
+Il farmaco risulta commercializzato in Italia; i dati sulle autorizzazioni sono parziali e l'elenco potrebbe essere incompleto. Il testo dell'indicazione approvata non è riportato nei dati locali.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 041791068 | LIZIDRA 28 cpr rivestite 10 mg | Compresse rivestite | NEURAXPHARM ITALY SpA |
-| 040085019 | DONEPEZIL 28 cpr rivestite 5 mg | Compresse rivestite | EG SpA |
-| 038768091 | DONEPEZIL 28 cpr rivestite 10 mg | Compresse rivestite | ALMUS Srl |
-| 040896045 | YASNAL 28 cpr rivestite 5 mg | Compresse rivestite | KRKA D.D. NOVO MESTO |
-| 041796020 | YASNORO 28 cpr orodispersibili 5 mg | Compresse orodispersibili | KRKA D.D. NOVO MESTO |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041791068 | LIZIDRA\*28 cpr rivestite 10 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 040085019 | DONEPEZIL\*28 cpr rivestite 5 mg | EG SpA | Autorizzata |
+| 038768091 | DONEPEZIL\*28 cpr rivestite 10 mg | ALMUS Srl | Autorizzata |
+| 041015025 | DONEPEZIL\*28 cpr rivestite 5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040159182 | DONEPEZIL\*28 cpr rivestite 10 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 040896045 | YASNAL\*28 cpr rivestite 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 038768038 | DONEPEZIL\*28 cpr rivestite 5 mg | ALMUS Srl | Autorizzata |
+| 041885094 | DONEPEZIL\*28 cpr rivestite 10 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040159042 | DONEPEZIL\*28 cpr rivestite 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 039145192 | DONEPEZIL\*28 cpr rivestite 10 mg | SANDOZ SpA | Autorizzata |
+| 040721072 | DONEPEZIL\*28 cpr rivestite 10 mg | DOC GENERICI Srl | Autorizzata |
+| 038605236 | DONEPEZIL\*28 cpr rivestite 10 mg | MYLAN SpA | Autorizzata |
+| 043017019 | BLIXIE\*28 cpr rivestite 5 mg | TECNIGEN Srl | Autorizzata |
+| 041796020 | YASNORO\*28 cpr orodispers 5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 041733027 | DONEPEZIL\*28 cpr rivestite 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 041791017 | LIZIDRA\*28 cpr rivestite 5 mg | NEURAXPHARM ITALY SpA | Autorizzata |
+| 043017021 | BLIXIE\*28 cpr rivestite 10 mg | TECNIGEN Srl | Autorizzata |
+| 041733128 | DONEPEZIL\*28 cpr rivestite 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 039741020 | DONEPEZIL\*28 cpr rivestite 10 mg | LABORATORI ALTER Srl | Autorizzata |
+| 040538187 | DONEPEZIL\*28 cpr rivestite 10 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

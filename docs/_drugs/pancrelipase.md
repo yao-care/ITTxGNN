@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pancrelipase: nuova indicazione prevista, Disturbo della fosforilazione ossidativa mitocondriale dovuto ad anomalie del DNA nucleare (livello di evidenza L5). Indicazione originale: Insufficienza pancreatica esocrina"
 monitor_inn: "pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
@@ -84,10 +84,16 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 029018064 | CREON 10.000UI*100 cps gastrores 150 mg rilascio modificato | VIATRIS ITALIA Srl | Valida |
-| 047002098 | CREONIPE*100 cps gastrores 420 mg 35.000 U flacone | VIATRIS HEALTHCARE LIMITED | Valida |
+|------|------|------|------|
+| 029018064 | CREON 10.000UI\*100 cps gastrores 150 mg rilascio modificato | VIATRIS ITALIA Srl | Autorizzata |
+| 047002098 | CREONIPE\*100 cps gastrores 420 mg 35.000 U flacone | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -110,7 +116,7 @@ La previsione si fonda solo sul modello (L5), senza studi clinici né letteratur
 
 <!-- review:begin it-lic-20261106-pancrelipase-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione si fonda solo sul modello (L5), senza studi clinici né letteratura, e non esiste alcun legame meccanicistico plausibile tra un enzima digestivo non assorbito e un difetto mitocondriale intracellulare. Inoltre, le autorizzazioni italiane risultano tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pancrelipase-1 -->
 
@@ -122,7 +128,7 @@ La previsione si fonda solo sul modello (L5), senza studi clinici né letteratur
 
 <!-- review:begin it-lic-20261106-pancrelipase-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione autorizzativa in Italia (tutte le licenze sono cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della situazione autorizzativa in Italia (tutte le licenze sono cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pancrelipase-2 -->
 
@@ -134,8 +140,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(tutte le licenze sono cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(tutte le licenze sono cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 description: "Granisetron: nuova indicazione prevista, Disturbo bipolare affettivo maniacale (manic bipolar affective disorder) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
@@ -70,15 +70,26 @@ Attualmente non risulta letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-I testi delle indicazioni approvate e le forme farmaceutiche non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+I testi delle indicazioni approvate e le forme farmaceutiche non sono riportati nei dati compilati.
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 028093019 | KYTRIL 1 fiala EV 3 mg/3 ml | Atnahs Pharma Netherlands BV | Valida |
-| 046096018 | PANDIOL 10 cpr rivestite 1 mg | Elleva Pharma Srl | Valida |
-| 042924011 | SANCUSO 1 cerotto transdermico 3,1 mg/24 ore | Grunenthal GmbH | Valida |
-| 028093021 | KYTRIL 10 cpr rivestite 1 mg | Atnahs Pharma Netherlands BV | Valida |
-| 050350026 | GRANDISE 5 cpr rivestite 2 mg | Lanova Farmaceutici Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 028093019 | KYTRIL\*1 fiala EV 3 mg 3 ml | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 046096018 | PANDIOL\*10 cpr rivestite 1 mg | ELLEVA PHARMA Srl | Autorizzata |
+| 042924011 | SANCUSO\*1 cerotto transdermico 3,1 mg/24 ore | GRUNENTHAL GMBH | Autorizzata |
+| 028093021 | KYTRIL\*10 cpr rivestite 1 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 050350026 | GRANDISE\*5 cpr rivestite 2 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 037950223 | GRANISETRON\*5 cpr rivestite 2 mg | MYLAN SpA | Autorizzata |
+| 050350014 | GRANDISE\*10 cpr rivestite 1 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 046096020 | PANDIOL\*5 cpr rivestite 2 mg | ELLEVA PHARMA Srl | Autorizzata |
+| 028093084 | KYTRIL\*5 cpr rivestite 2 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 037950072 | GRANISETRON\*10 cpr rivestite 1 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -96,7 +107,7 @@ L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livell
 
 <!-- review:begin it-lic-20261106-granisetron-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livello L5), senza studi clinici né letteratura, con un razionale meccanicistico solo ipotetico. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-granisetron-1 -->
 
@@ -110,7 +121,7 @@ L'indicazione prevista si fonda esclusivamente sul punteggio del modello (livell
 
 <!-- review:begin it-lic-20261106-granisetron-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale del prodotto in Italia, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità commerciale del prodotto in Italia, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-granisetron-2 -->
 
@@ -122,8 +133,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni cardiache segnalate richiedono cautela» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->

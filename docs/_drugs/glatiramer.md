@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glatiramer: nuova indicazione prevista, Emoglobinopatia (livello di evidenza L5). Indicazione originale: Non riportata nei dati compilati per questo report (le autorizzazioni…"
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
@@ -66,7 +66,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-glatiramer-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-glatiramer-1 -->
 
@@ -78,12 +78,18 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare | Indicazione approvata |
-|---------|------|------|------|-----------|
-| 035418060 | COPAXONE 12 siringhe SC 40 mg/ml 1 ml + ago | Non disponibile | TEVA GmbH | Non disponibile |
-| 043860028 | COPEMYL 28 siringhe SC 20 mg/ml | Non disponibile | MYLAN SpA | Non disponibile |
-| 045673023 | COPEMYLTRI 12 siringhe preriempite 40 mg/ml 1 ml | Non disponibile | MYLAN SpA | Non disponibile |
-| 035418021 | COPAXONE 28 siringhe SC 20 mg/ml 1 ml | Non disponibile | TEVA GmbH | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035418060 | COPAXONE\*12 siringhe SC 40 mg/ml 1 ml + ago | TEVA GmbH | Autorizzata |
+| 043860028 | COPEMYL\*28 siringhe SC 20 mg/ml | MYLAN SpA | Autorizzata |
+| 045673023 | COPEMYLTRI\*12 siringhe preriempite 40 mg/ml 1 ml | MYLAN SpA | Autorizzata |
+| 035418021 | COPAXONE\*28 siringhe SC 20 mg/ml 1 ml | TEVA GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -100,7 +106,7 @@ La previsione si basa solo sul punteggio del modello (livello L5), senza sperime
 
 <!-- review:begin it-lic-20261106-glatiramer-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile. Inoltre, in Italia non vi sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione si basa solo sul punteggio del modello (livello L5), senza sperimentazioni cliniche né letteratura pertinente e senza un meccanismo plausibile. Inoltre, in Italia non vi sono autorizzazioni attive.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-glatiramer-2 -->
 
@@ -118,8 +124,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni attive» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 4 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non vi sono autorizzazioni attive» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->

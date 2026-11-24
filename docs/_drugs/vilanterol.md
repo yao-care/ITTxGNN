@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol: nuova indicazione prevista, Polmone iperlucente (hyperlucent lung) (livello di evidenza L5). In Italia, confezioni AIFA: 8 (autorizzate: 8)"
@@ -70,13 +70,22 @@ Attualmente non è disponibile letteratura correlata a questa indicazione.
 
 Tutte e 8 le autorizzazioni registrate risultano valide.
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043438023 | ANORO ELLIPTA (polvere inalatoria, 30 dosi, 55 mcg + 22 mcg) | Polvere per inalazione | Non disponibile |
-| 043446057 | REVINTY ELLIPTA (184 mcg + 22 mcg) | Polvere per inalazione | Non disponibile |
-| 043444025 | LAVENTAIR ELLIPTA (55 mcg + 22 mcg) | Polvere per inalazione | Non disponibile |
-| 043446020 | REVINTY ELLIPTA (92 mcg + 22 mcg) | Polvere per inalazione | Non disponibile |
-| 043154020 | RELVAR ELLIPTA (92 mcg + 22 mcg) | Polvere per inalazione | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043438023 | ANORO ELLIPTA\*polv inal 30 dosi 55 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043446057 | REVINTY ELLIPTA\*polv inal 30 dosi 184 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043444025 | LAVENTAIR ELLIPTA\*polv inal 30 dosi 55 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043446020 | REVINTY ELLIPTA\*polv inal 30 dosi 92 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043154020 | RELVAR ELLIPTA\*polv inal 30 dosi 92 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 043154057 | RELVAR ELLIPTA\*polv inal 30 dosi 184 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 045790021 | TRELEGY ELLIPTA\*polv inal 30 dosi 92 mcg + 55 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+| 045789029 | ELEBRATO ELLIPTA\*polv inal 30 dosi 92 mcg + 55 mcg + 22 mcg | GLAXOSMITHKLINE TRAD.SERV.LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

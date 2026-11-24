@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 description: "Miglustat: nuova indicazione prevista, Autosomal ichthyosis syndrome with fatal disease course (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -64,7 +64,7 @@ Il legame con le indicazioni originali è la comune natura di malattie lisosomia
 
 <!-- review:begin it-lic-20261106-miglustat-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-miglustat-1 -->
 
@@ -94,13 +94,20 @@ Il legame con le indicazioni originali è la comune natura di malattie lisosomia
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 047623032 | MIGLUSTAT 84 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione valida) |
-| 047623018 | MIGLUSTAT 84x1 cps 100 mg (Dipharma Arzneimittel) | Capsule | Non disponibile (autorizzazione valida) |
-| 045773013 | MIGLUSTAT 84 cps rigide 100 mg (Gen.Orph) | Capsule rigide | Non disponibile (autorizzazione valida) |
-| 045685029 | MIGLUSTAT 84x1 cps 100 mg (Accord Healthcare) | Capsule | Non disponibile (autorizzazione valida) |
-| 045318019 | YARGESA 84x1 cps 100 mg (Piramal Critical Care) | Capsule | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047623032 | MIGLUSTAT\*84 cps 100 mg | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 047623018 | MIGLUSTAT\*84x1 cps 100 mg | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 045773013 | MIGLUSTAT\*84 cps rig 100 mg | GEN.ORPH Sas | Autorizzata |
+| 045685029 | MIGLUSTAT\*84x1 cps 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045318019 | YARGESA\*84x1 cps 100 mg | PIRAMAL CRITICAL CARE B.V. | Autorizzata |
+| 035798014 | ZAVESCA\*84 cps 100 mg | JANSSEN CILAG INTERNAT.N.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -141,7 +148,7 @@ Per la Tay-Sachs l'etichetta formale L1 si basa sulla designazione di fase 3, ma
 
 <!-- review:begin it-lic-20261106-miglustat-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire la situazione regolatoria in Italia (autorizzazioni cessate, disponibilità del prodotto)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire la situazione regolatoria in Italia (autorizzazioni cessate, disponibilità del prodotto)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-miglustat-2 -->
 
@@ -153,8 +160,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cessate, disponibilità del prodotto)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Esiste una sesta autorizzazione (035798014, ZAVESCA, Janssen-Cilag), anch'essa cessata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cessate, disponibilità del prodotto)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Yargesa (miglustat) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b371dfe-e2b0-47fe-b677-a7bde7149f87) |
 
 <!-- review:end log -->

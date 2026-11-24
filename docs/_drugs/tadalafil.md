@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 description: "Tadalafil: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riportat…"
@@ -83,27 +83,46 @@ Attualmente non è disponibile alcuna letteratura correlata per questa indicazio
 
 ## Informazioni sul mercato italiano
 
-Principali autorizzazioni (compresse rivestite da 20 mg):
-
 <!-- review:begin it-lic-20261106-tadalafil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (compresse rivestite da 20 mg):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (compresse rivestite da 20 mg):» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Rimossa anche la frase sul numero di autorizzazioni elencate nella vecchia tabella: la tabella delle autorizzazioni è ora generata dal programma dai dati AIFA (2026-11-24). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tadalafil-1 -->
 
 <!-- review:begin it-lic-20261106-tadalafil-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tadalafil-2 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 035672056 | CIALIS 12 cpr rivestite 20 mg | Eli Lilly Nederland BV | Valida |
-| 039598026 | ADCIRCA 56 cpr rivestite 20 mg | Eli Lilly Nederland BV | Valida |
-| 045248046 | TALMANCO 56x1 cpr rivestite 20 mg | Viatris Limited | Valida |
-| 050740087 | DINAMIS 12 cpr rivestite 20 mg | S.F. Group Srl | Valida |
-| 050738083 | TADUR 12 cpr rivestite 20 mg | S&R Farmaceutici SpA | Valida |
+|------|------|------|------|
+| 043779053 | TADALAFIL\*12 cpr rivestite 20 mg | MYLAN PHARMACEUTICALS LIMITED | Autorizzata |
+| 045248046 | TALMANCO\*56x1 cpr rivestite 20 mg | VIATRIS LIMITED | Autorizzata |
+| 048862104 | TADALAFIL\*12 cpr rivestite 20 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 045069073 | TADALAFIL\*12 cpr rivestite 20 mg | LABORATORI ALTER Srl | Autorizzata |
+| 044960122 | TADALAFIL\*12 cpr rivestite 20 mg | ARISTO PHARMA GMBH | Autorizzata |
+| 043274416 | TADALAFIL\*12x1 cpr rivestite 20 mg monodose | TEVA ITALIA Srl | Autorizzata |
+| 039598026 | ADCIRCA\*56 cpr rivestite 20 mg | ELI LILLY NEDERLAND BV | Autorizzata |
+| 044630263 | TADALAFIL\*12 cpr rivestite 20 mg | SANDOZ SpA | Autorizzata |
+| 045013075 | TADAP\*12 cpr rivestite 20 mg | SO.SE.PHARM Srl | Autorizzata |
+| 035672056 | CIALIS\*12 cpr rivestite 20 mg | ELI LILLY NEDERLAND BV | Autorizzata |
+| 047436175 | TADALAFIL\*12 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 044205110 | TADALAFIL\*12 cpr rivestite 20 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 050740087 | DINAMIS\*12 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 044612075 | TADALAFIL\*12 cpr rivestite 20 mg | DOC GENERICI Srl | Autorizzata |
+| 045020070 | TADALAFIL\*12 cpr rivestite 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 045617558 | TADALAFIL\*12 cpr rivestite 20 mg | TEVA ITALIA Srl | Autorizzata |
+| 043931070 | TADALAFIL\*12 cpr rivestite 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 050738083 | TADUR\*12 cpr rivestite 20 mg | S&R FARMACEUTICI SpA | Autorizzata |
+| 045244098 | TADALAFIL\*12 cpr rivestite 20 mg | TOWA PHARMACEUTICAL SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,7 +145,7 @@ La previsione è solo computazionale (livello L5), senza studi clinici né lette
 
 <!-- review:begin it-lic-20261106-tadalafil-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico. Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione è solo computazionale (livello L5), senza studi clinici né letteratura, e priva di un meccanismo plausibile: l'ipertricosi è più spesso un effetto di vasodilatatori che un bersaglio terapeutico. Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tadalafil-3 -->
 
@@ -139,7 +158,7 @@ La previsione è solo computazionale (livello L5), senza studi clinici né lette
 
 <!-- review:begin it-lic-20261106-tadalafil-4 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 19 autorizzazioni per questo farmaco, di cui 19 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tadalafil-4 -->
 
@@ -151,10 +170,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 19 autorizzazioni risultano cancellate; il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le restanti 14 autorizzazioni riguardano equivalenti di tadalafil 20 mg di vari produttori, anch'esse cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono attualmente cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ANAGRELIDE"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anagrelide: nuova indicazione prevista, Trombocitosi reattiva (reactive thrombocytosis) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 5)"
 ---
 
@@ -81,13 +81,21 @@ Nessuno degli studi elencati valuta direttamente l'anagrelide nella trombocitosi
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045581016 | ANAGRELIDE*100 cps 0,5 mg flacone (Aurobindo Pharma Italia) | Capsule | Non registrata nei dati locali |
-| 045524016 | ANAGRELIDE*100 cps 0,5 mg flacone (Accord Healthcare) | Capsule | Non registrata nei dati locali |
-| 046101010 | ANAGRELIDE*100 cps 0,5 mg flacone (Viatris) | Capsule | Non registrata nei dati locali |
-| 045355017 | ANAGRELIDE*100 cps 0,5 mg flacone (Sandoz) | Capsule | Non registrata nei dati locali |
-| 036745014 | XAGRID*100 cps 0,5 mg flacone (Takeda) | Capsule | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045581016 | ANAGRELIDE\*100 cps 0,5 mg flacone | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 046101010 | ANAGRELIDE\*100 cps 0,5 mg flacone | VIATRIS LIMITED | Autorizzata |
+| 045355017 | ANAGRELIDE\*100 cps 0,5 mg flacone | SANDOZ SpA | Autorizzata |
+| 036745014 | XAGRID\*100 cps 0,5 mg flacone | TAKEDA PHARM.INT.AG IR.BRANCH | Autorizzata |
+| 045705023 | ANAGRELIDE\*100 cps 0,5 mg flacone | TEVA B.V. | Autorizzata |
+| 045524016 | ANAGRELIDE\*100 cps 0,5 mg flacone | ACCORD HEALTHCARE SLU | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

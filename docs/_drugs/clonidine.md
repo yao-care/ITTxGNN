@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clonidine: nuova indicazione prevista, Sindrome faciodigitogenitale (faciodigitogenital syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -68,10 +68,16 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 027393026 | CATAPRESAN TTS2 – 2 cerotti transdermici 5 mg | Cerotto transdermico | Non registrata nei dati locali |
-| 027393014 | CATAPRESAN TTS1 – 2 cerotti transdermici 2,5 mg | Cerotto transdermico | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 027393026 | CATAPRESAN TTS2\*2 cerotti transdermici 5 mg | LAVIPHARM PHARM.PRODUCTS S.A. | Autorizzata |
+| 027393014 | CATAPRESAN TTS1\*2 cerotti transdermici 2,5 mg | LAVIPHARM PHARM.PRODUCTS S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

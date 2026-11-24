@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 449
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trazodone: nuova indicazione prevista, Disturbo ossessivo-compulsivo (livello di evidenza L3). Indicazione originale: Depressione unipolare, depressione endogena…"
 monitor_inn: "TRAZODONE"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
@@ -93,13 +93,22 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 022323113 | TRITTICO 14 cpr rivestite div Contramid 150 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
-| 022323048 | TRITTICO 30 cpr rivestite div 100 mg | Compresse rivestite | Non disponibile |
-| 022323190 | TRITTICO 30 cpr rivestite div Contramid 300 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
-| 022323036 | TRITTICO 30 cpr rivestite div 50 mg | Compresse rivestite | Non disponibile |
-| 022323075 | TRITTICO 20 cpr div 150 mg rilascio prolungato | Compresse a rilascio prolungato | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 022323113 | TRITTICO\*14 cpr rivestite div CONTRAMID 150 mg rilascio prolungato | ANGELINI SpA | Autorizzata |
+| 022323048 | TRITTICO\*30 cpr rivestite div 100 mg | ANGELINI SpA | Autorizzata |
+| 022323190 | TRITTICO\*30 cpr rivestite div CONTRAMID 300 mg rilascio prolungato | ANGELINI SpA | Autorizzata |
+| 022323036 | TRITTICO\*30 cpr rivestite div 50 mg | ANGELINI SpA | Autorizzata |
+| 022323075 | TRITTICO\*20 cpr div 150 mg rilascio prolungato | ANGELINI SpA | Autorizzata |
+| 022323063 | TRITTICO\*30 cpr div 75 mg rilascio prolungato | ANGELINI SpA | Autorizzata |
+| 022323012 | TRITTICO\*3 fiale IM EV 50 mg 5 ml | ANGELINI SpA | Autorizzata |
+| 022323099 | TRITTICO\*orale gtt 30 ml 60 mg/ml | ANGELINI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +119,7 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-trazodone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-trazodone-1 -->
 
@@ -127,7 +136,7 @@ Il legame serotoninergico con il DOC è plausibile e la letteratura è relativam
 
 <!-- review:begin it-lic-20261106-trazodone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e le informazioni di sicurezza ufficiali sono mancanti.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e le informazioni di sicurezza ufficiali sono mancanti.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-trazodone-2 -->
 
@@ -146,8 +155,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 8 autorizzazioni (titolare: Angelini SpA) risultano cancellate; ne sono mostrate 5» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre il prodotto non è più commercializzato in Italia (tutte le autorizzazioni sono cancellate) e l» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
 
 <!-- review:end log -->

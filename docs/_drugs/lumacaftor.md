@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lumacaftor"
 predicted_indications: ["leprosy"]
 description: "Lumacaftor: nuova indicazione prevista, Lebbra (leprosy) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -71,18 +71,24 @@ Attualmente non è disponibile letteratura correlata.
 
 <!-- review:begin it-lic-20261106-lumacaftor-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lumacaftor-1 -->
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Stato |
-|---------|------|------|
-| 044560047 | ORKAMBI 112 cpr rivestite 100 mg + 125 mg | Valida |
-| 044560011 | ORKAMBI 112 cpr rivestite 200 mg + 125 mg | Valida |
-| 044560050 | ORKAMBI 56 buste granulato 100 mg + 125 mg | Valida |
-| 044560062 | ORKAMBI 56 buste granulato 150 mg + 188 mg | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044560047 | ORKAMBI\*112 cpr rivestite 100 mg + 125 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 044560011 | ORKAMBI\*112 cpr rivestite 200 mg + 125 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 044560050 | ORKAMBI\*56 buste grat 100 mg + 125 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+| 044560062 | ORKAMBI\*56 buste grat 150 mg + 188 mg | VERTEX PHARMACEUT.IRELAND LTD | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -108,7 +114,7 @@ La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), 
 
 <!-- review:begin it-lic-20261106-lumacaftor-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato. Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), senza studi clinici, letteratura o un collegamento meccanicistico supportato. Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lumacaftor-2 -->
 
@@ -121,7 +127,7 @@ La previsione per la lebbra poggia solo sul punteggio del modello (livello L5), 
 
 <!-- review:begin it-lic-20261106-lumacaftor-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento della situazione regolatoria, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento della situazione regolatoria, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lumacaftor-3 -->
 
@@ -133,9 +139,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 4 le autorizzazioni (titolare: Vertex Pharmaceuticals Ireland Ltd) risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide, e mancano i dati di sicurezza dal foglio illustrativo» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Orkambi (lumacaftor and ivacaftor) prescribing information, Vertex Pharmaceuticals Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3fc1c40e-cfac-47a1-9e1a-61ead3570600) |
 
 <!-- review:end log -->

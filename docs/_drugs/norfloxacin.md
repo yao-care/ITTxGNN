@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 description: "Norfloxacin: nuova indicazione prevista, Sindrome da iperviscosità policlonale (polyclonal hyperviscosity syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -103,17 +103,17 @@ Per le previsioni di rango inferiore sono state individuate alcune pubblicazioni
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034401024 (EG SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
-| 034941043 (Sandoz SpA) | NORFLOXACINA 14 compresse rivestite 400 mg | Compresse rivestite | — |
-| 025000023 (ABC Farmaceutici SpA) | NORFLOXACINA 14 capsule 400 mg | Capsule | — |
+<!-- licenses:begin -->
 
-<!-- review:begin it-row-20261112-norfloxacin-1 -->
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034401024 | NORFLOXACINA\*14 cpr rivestite 400 mg | EG SpA | Autorizzata |
+| 034941043 | NORFLOXACINA\*14 cpr rivestite 400 mg | SANDOZ SpA | Autorizzata |
+| 025000023 | NORFLOXACINA\*14 cps 400 mg | ABC FARMACEUTICI SpA | Autorizzata |
 
-> **Correzione di verifica (2026-11-12)**: Testo originale: «034401024 (EG SpA, revocata) / NORFLOXACINA 14 compresse rivestite 400 mg / Compresse rivestite / —; 034941043 (Sandoz SpA, revocata) / NORFLOXACINA 14 compresse rivestite 400 mg / Compresse rivestite / —; 025000023 (ABC Farmaceutici SpA, revocata) / NORFLOXACINA 14 capsule 400 mg / Capsule / —» Secondo l'elenco delle confezioni AIFA (dati al 2026-11-05) le confezioni 034401024, 034941043, 025000023 risultano Autorizzate; la tabella le indicava come revocate. È stata modificata solo l'indicazione dello stato nella tabella. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
 
-<!-- review:end it-row-20261112-norfloxacin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -142,7 +142,7 @@ La previsione per la sindrome da iperviscosità policlonale si basa solo sul mod
 
 <!-- review:begin it-lic-20261106-norfloxacin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile. Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove indicazioni non infettive.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la sindrome da iperviscosità policlonale si basa solo sul modello (L5), senza studi clinici né letteratura e senza un meccanismo plausibile. Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove indicazioni non infettive.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-norfloxacin-1 -->
 
@@ -160,8 +160,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove ind» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-12 | Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e il profilo di sicurezza (QT, tendini, neuropatia) rende sfavorevole la ricerca di nuove ind» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-12 | Tabella: le confezioni 034401024, 034941043, 025000023 sono autorizzate, non revocate | Sostituito dalla tabella delle autorizzazioni generata dal programma (prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
 
 <!-- review:end log -->

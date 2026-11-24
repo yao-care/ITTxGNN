@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: nuova indicazione prevista, Sick sinus syndrome 2, autosomal dominant (livello di evidenza L5). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -96,13 +96,21 @@ Inoltre, poiché la popolazione bersaglio coincide con quella dell'indicazione o
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035859040 | SOTALOLO*40 cpr div 80 mg (TEVA ITALIA) | n.d. | n.d. (valida) |
-| 029528041 | RYTMOBETA*50 cpr 160 mg (VIATRIS ITALIA) | n.d. | n.d. (valida) |
-| 029517012 | SOTALOLO*40 cpr 80 mg (SANDOZ) | n.d. | n.d. (valida) |
-| 023245020 | SOTALEX*40 cpr 80 mg (CHEPLAPHARM) | n.d. | n.d. (valida) |
-| 029528027 | RYTMOBETA*50 cpr 80 mg (VIATRIS ITALIA) | n.d. | n.d. (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035859040 | SOTALOLO\*40 cpr div 80 mg | TEVA ITALIA Srl | Autorizzata |
+| 029528041 | RYTMOBETA\*50 cpr 160 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 029517012 | SOTALOLO\*40 cpr 80 mg | SANDOZ SpA | Autorizzata |
+| 023245020 | SOTALEX\*40 cpr 80 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 029528027 | RYTMOBETA\*50 cpr 80 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 035453137 | SOTALOLO\*50 cpr 80 mg | MYLAN SpA | Autorizzata |
+| 035453125 | SOTALOLO\*40 cpr 80 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -113,7 +121,7 @@ Inoltre, poiché la popolazione bersaglio coincide con quella dell'indicazione o
 
 <!-- review:begin it-lic-20261106-sotalol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sotalol-1 -->
 
@@ -130,7 +138,7 @@ L'evidenza per l'ictus è solo indiretta (livello L4): lo studio di fase 3 rigua
 
 <!-- review:begin it-lic-20261106-sotalol-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e il profilo di sicurezza richiede cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e il profilo di sicurezza richiede cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sotalol-2 -->
 
@@ -149,8 +157,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «l sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono elencate le prime 5 delle 7 autorizzazioni, tutte cancellate. Al momento non risultano prodotti a base di sotalolo validi in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «l sotalolo non è attualmente commercializzato in Italia (tutte le autorizzazioni cancellate) e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->

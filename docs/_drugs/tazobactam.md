@@ -5,7 +5,7 @@ parent: Solo usi noti (nessuna nuova previsione)
 nav_order: 422
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tazobactam: usi noti e stato di mercato in Italia; al momento nessuna nuova indicazione candidata"
 predicted_indications: []
 ---
@@ -72,20 +72,26 @@ Tutti i candidati prodotti dal modello TxGNN per Tazobactam corrispondono a usi 
 
 ## Informazioni sul mercato italiano
 
-| Autorizzazione | Prodotto | Forma farmaceutica | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 038181018 | Piperacillina/tazobactam |  | Valida |
-| 037667019 | Piperacillina/tazobactam |  | Valida |
-| 038558019 | Piperacillina/tazobactam |  | Valida |
-| 037666017 | Piperacillina/tazobactam |  | Valida |
-| 037353012 | Piperacillina/tazobactam |  | Valida |
-| 039786013 | Piperacillina/tazobactam |  | Valida |
-| 038717017 | Piperacillina/tazobactam |  | Valida |
-| 038476014 | Piperacillina/tazobactam |  | Valida |
-| 037668011 | Piperacillina/tazobactam |  | Valida |
-| 038110019 | Piperacillina/tazobactam |  | Valida |
-| 050537012 | Piperacillina/tazobactam |  | Valida |
-| 037360017 | Piperacillina/tazobactam |  | Valida |
+| 038181018 | TAZOPENIL\*1 flaconcino IM 2 g + 0,25 g/4 ml | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 037667019 | TAIPER\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 038558019 | TEXTAZO\*1 flaconcino IM 2 g + 250 mg/4 ml | PHARMATEX ITALIA Srl | Autorizzata |
+| 037666017 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 0,25 g/4 ml | TEVA ITALIA Srl | Autorizzata |
+| 037353012 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | FRESENIUS KABI ITALIA Srl | Autorizzata |
+| 039786013 | PIPERACILLINA TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 038717017 | PIPERACILLINA TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | SANDOZ SpA | Autorizzata |
+| 038476014 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | IBIGEN Srl | Autorizzata |
+| 037668011 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 250 mg | MYLAN SpA | Autorizzata |
+| 038110019 | IBITAZINA\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | IBIGEN Srl | Autorizzata |
+| 050537012 | PIPERACILLINA TAZOBACTAM KALCEKS\*1 flaconcino EV 2 g + 0,25 g | AS KALCEKS | Autorizzata |
+| 037360017 | LIMERIK\*1 fiala IM 2 g + 250 mg/4 ml | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

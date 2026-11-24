@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 description: "Teriparatide: nuova indicazione prevista, Ulcera duodenale (duodenal ulcer (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
@@ -82,15 +82,24 @@ Al momento non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Si riportano le prime 5.
+<!-- licenses:begin -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 050007018 | SONDELBAY penna 2,4 ml SC 20 mcg/80 mcl | Accord Healthcare SLU |
-| 045257033 | TERROSA cartuccia + penna 2,4 ml 20 mcg/80 mcl | Gedeon Richter Plc |
-| 045257045 | TERROSA penna preriempita SC 2,4 ml 20 mcg/80 mcl | Gedeon Richter Plc |
-| 045256031 | MOVYMIA cartuccia SC 2,4 ml 20 mcg/80 mcl + penna | Stada Arzneimittel AG |
-| 035926017 | FORSTEO penna SC 2,4 ml 20 mcg/80 mcl | Eli Lilly Nederland BV |
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050007018 | SONDELBAY\*1 penna 2,4 ml SC 20 mcg/80 mcl | ACCORD HEALTHCARE SLU | Autorizzata |
+| 045257033 | TERROSA\*1 cartuccia + 1 penna 2,4 ml 20 mcg / 80 mcl | GEDEON RICHTER PLC | Autorizzata |
+| 045257045 | TERROSA\*1 penna preriemp SC 2,4 ml 20 mcg/80 mcl | GEDEON RICHTER PLC | Autorizzata |
+| 045256031 | MOVYMIA\*1 cartuccia SC 2,4 ml 20 mcg/80 mcl + 1 penna | STADA ARZNEIMITTEL AG | Autorizzata |
+| 035926017 | FORSTEO\*1 penna SC 2,4 ml 20 mcg/80 mcl | ELI LILLY NEDERLAND BV | Autorizzata |
+| 048019018 | OSEFFYL\*1 penna SC 2,4 ml 20 mcg/80 mcl | ITALFARMACO SpA | Autorizzata |
+| 044450017 | TERIPARATIDE\*1 penna SC 20 mcg/80 mcl | TEVA ITALIA Srl | Autorizzata |
+| 048990016 | PATRIDE\*1 penna 2,4 ml SC 20 mcg/80 mcl | NEOPHARMED GENTILI SpA | Autorizzata |
+| 045256017 | MOVYMIA\*1 cartuccia SC 2,4 ml 20 mcg/80 mcl | STADA ARZNEIMITTEL AG | Autorizzata |
+| 048971016 | LIVOGIVA\*1 penna SC 2,7 ml 20 mcg/80 mcl | THERAMEX IRELAND LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +123,7 @@ Per l'ulcera duodenale esistono solo una previsione del modello e nessuno studio
 
 <!-- review:begin it-lic-20261106-teriparatide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «In più non si individua alcun razionale meccanicistico, e il prodotto non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 10 autorizzazioni per questo farmaco, di cui 10 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «In più non si individua alcun razionale meccanicistico, e il prodotto non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-teriparatide-1 -->
 
@@ -133,7 +142,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e il prodotto non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e il prodotto non ha autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
 
 <!-- review:end log -->

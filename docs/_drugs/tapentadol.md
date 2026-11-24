@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tapentadol: nuova indicazione prevista, Disturbo emicranico (migraine disorder) (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (le autorizzazioni AIFA non riport…"
 monitor_inn: "tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -85,15 +85,35 @@ Per l'indicazione principale (disturbo emicranico) non c'è letteratura. Per il 
 
 ## Informazioni sul mercato italiano
 
-Tutte le 19 autorizzazioni sono valide. Testo dell'indicazione e forma farmaceutica non sono riportati. Principali autorizzazioni:
+Tutte le 19 autorizzazioni sono valide. Testo dell'indicazione e forma farmaceutica non sono riportati.
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 040422545 | PALEXIA 30 cpr 100 mg rilascio prolungato | Grünenthal Italia | Valida |
-| 040422901 | PALEXIA 30 cpr 250 mg rilascio prolungato | Grünenthal Italia | Valida |
-| 049512217 | TADOMON 30 cpr 50 mg rilascio prolungato | G.L. Pharma | Valida |
-| 050302037 | TAPELOD 40x1 cpr 25 mg rilascio prolungato | Sandoz | Valida |
-| 040422786 | PALEXIA 30 cpr 200 mg rilascio prolungato | Grünenthal Italia | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040422545 | PALEXIA\*30 cpr 100 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 049512217 | TADOMON\*30 cpr 50 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 050302037 | TAPELOD\*40x1 cpr 25 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 049512078 | TADOMON\*30 cpr 25 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 040422901 | PALEXIA\*30 cpr 250 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 049512357 | TADOMON\*30 cpr 100 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 049512496 | TADOMON\*30 cpr 150 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 049517701 | TADOMON\*40 cpr 25 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 050302316 | TAPELOD\*30x1 cpr 200 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 049512635 | TADOMON\*30 cpr 200 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 040422786 | PALEXIA\*30 cpr 200 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 050302241 | TAPELOD\*30x1 cpr 150 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 040422420 | PALEXIA\*30 cpr 50 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 040423840 | PALEXIA\*40 cpr 25 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+| 050302177 | TAPELOD\*30x1 cpr 100 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 050302381 | TAPELOD\*30x1 cpr 250 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 049512775 | TADOMON\*30 cpr 250 mg rilascio prolungato | G.L. PHARMA GmbH | Autorizzata |
+| 050302102 | TAPELOD\*30x1 cpr 50 mg rilascio prolungato in blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 040422661 | PALEXIA\*30 cpr 150 mg rilascio prolungato | GRUNENTHAL ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CEFDITOREN"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cefditoren: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (il testo dell'indicazione autoriz…"
 ---
 
@@ -70,11 +70,17 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare | Indicazione autorizzata |
-|---------|------|------|------|-----------|
-| 037146040 | GIASION, 10 compresse rivestite da 400 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
-| 037147028 | REDEGUAN, 20 compresse rivestite da 200 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
-| 037146026 | GIASION, 20 compresse rivestite da 200 mg | Compresse rivestite | ZAMBON ITALIA Srl | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037146040 | GIASION\*10 cpr rivestite 400 mg | ZAMBON ITALIA Srl | Autorizzata |
+| 037147028 | REDEGUAN\*20 cpr rivestite 200 mg | ZAMBON ITALIA Srl | Autorizzata |
+| 037146026 | GIASION\*20 cpr rivestite 200 mg | ZAMBON ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Tutte e tre le autorizzazioni sono valide e riguardano il principio attivo singolo.
 

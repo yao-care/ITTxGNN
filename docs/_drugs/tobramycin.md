@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 439
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: nuova indicazione prevista, Cheratite da esposizione (exposure keratitis) (livello di evidenza L4). In Italia, confezioni AIFA: 9 (autorizzate: 6)"
@@ -92,13 +92,24 @@ Al momento non risultano sperimentazioni cliniche registrate correlate a questa 
 
 Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 041632011 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Teva Italia | Non più autorizzata |
-| 023189044 | Nebicina 1 fiala IM/EV 20 mg/2 ml | Teofarma | Valida |
-| 023189032 | Nebicina 1 fiala IM/EV 40 mg/1 ml | Teofarma | Valida |
-| 036646038 | Bramitob soluz. nebul. 56 contenitori monodose 300 mg/4 ml | Chiesi Farmaceutici | Valida |
-| 044611010 | Tobramicina soluz. nebul. 56 fiale 300 mg/5 ml | Sun Pharmaceutical Industries Europe | Valida |
+|------|------|------|------|
+| 023189044 | NEBICINA\*1 fiala IM EV 20 mg 2 ml | TEOFARMA Srl | Autorizzata |
+| 023189032 | NEBICINA\*1 fiala IM EV 40 mg 1 ml | TEOFARMA Srl | Autorizzata |
+| 036646038 | BRAMITOB\*soluz nebul 56 contenitori monod 300 mg 4 ml | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 044611010 | TOBRAMICINA\*soluz nebul 56 fiale 300 mg 5 ml | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 023189018 | NEBICINA\*1 fiala IM EV 100 mg 2 ml | TEOFARMA Srl | Autorizzata |
+| 023189057 | NEBICINA\*1 fiala IM EV 150 mg 2 ml | TEOFARMA Srl | Autorizzata |
+| 041632011 | TOBRAMICINA\*soluz nebul 56 fiale 300 mg 5 ml | TEVA ITALIA Srl | Non più autorizzata |
+| 033973025 | TOBRAMICINA\*1 fiala IM EV 150 mg 2 ml | I.B.I.GIOVANNI LORENZINI SpA | Non più autorizzata |
+| 033973013 | TOBRAMICINA\*1 fiala IM EV 100 mg 2 ml | I.B.I.GIOVANNI LORENZINI SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 Delle altre quattro autorizzazioni, Nebicina 100 mg e 150 mg (Teofarma) risultano valide, mentre Tobramicina 100 mg e 150 mg di I.B.I. Giovanni Lorenzini non sono più autorizzate.
 
@@ -130,7 +141,7 @@ Per la cheratite da esposizione non esistono sperimentazioni né letteratura dir
 
 <!-- review:begin it-lic-20261106-tobramycin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici. Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per la cheratite da esposizione non esistono sperimentazioni né letteratura diretta; il punteggio alto del modello non è supportato da dati clinici. Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-tobramycin-1 -->
 
@@ -154,7 +165,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le evidenze indirette segnalano inoltre un rischio di tossicità corneale e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-17 | Nebicina 100/150 mg valide; Tobramicina Lorenzini 100/150 mg non più autorizzate | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
 

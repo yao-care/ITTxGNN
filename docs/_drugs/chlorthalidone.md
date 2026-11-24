@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: nuova indicazione prevista, Glaucoma ereditario primario (primary hereditary glaucoma) (livello di evidenza L5). In Italia, confezioni AIFA: 19 (autorizzate: 17)"
 ---
 
@@ -68,15 +68,36 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 016861015 | IGROTON*30 cpr 25 mg | n.d. | Non registrata |
-| 025987037 | ATENIGRON*28 cpr 100 mg + 25 mg | n.d. | Non registrata |
-| 033159029 | ATENOLOLO CLORTALIDONE*28 cpr 50 mg + 12,5 mg | n.d. | Non registrata |
-| 034167015 | ATENOLOLO CLORTALIDONE*28 cpr 100 mg + 25 mg | n.d. | Non registrata |
-| 024728038 | EUPRES*21 cpr 100 mg + 25 mg | n.d. | Non registrata |
+<!-- licenses:begin -->
 
-L'elenco è limitato alle prime 5 autorizzazioni; molti prodotti sono associazioni con atenololo.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 016861015 | IGROTON\*30 cpr 25 mg | AMDIPHARM LTD | Autorizzata |
+| 025987037 | ATENIGRON\*28 cpr 100 mg + 25 mg | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 033159029 | ATENOLOLO CLORTALIDONE\*28 cpr 50 mg + 12,5 mg | EG SpA | Autorizzata |
+| 034167015 | ATENOLOLO CLORTALIDONE\*28 cpr 100 mg + 25 mg | DOC GENERICI Srl | Autorizzata |
+| 024737025 | TENORETIC\*28 cpr 100 mg + 25 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 033054014 | ATENOLOLO CLORTALIDONE\*28 cpr 50 mg + 12,5 mg | RATIOPHARM GMBH | Autorizzata |
+| 033054026 | ATENOLOLO CLORTALIDONE\*28 cpr 100 mg + 25 mg | RATIOPHARM GMBH | Autorizzata |
+| 032805020 | ATENOLOLO CLORTALIDONE\*30 cpr rivestite 50 mg + 12,5 mg | SANDOZ SpA | Autorizzata |
+| 025089032 | TARGET\*28 cpr 100 mg + 25 mg | S.F. GROUP Srl | Autorizzata |
+| 034069017 | ATENOLOLO E CLORTALIDONE\*28 cpr 100 mg + 25 mg | MYLAN SpA | Autorizzata |
+| 024737037 | TENORETIC\*28 cpr 50 mg + 12,5 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 024763056 | IGROSELES\*28 cpr 100 mg + 25 mg | TEOFARMA Srl | Autorizzata |
+| 032805018 | ATENOLOLO CLORTALIDONE\*30 cpr rivestite 100 mg + 25 mg | SANDOZ SpA | Autorizzata |
+| 033159017 | ATENOLOLO CLORTALIDONE\*28 cpr 100 mg + 25 mg | EG SpA | Autorizzata |
+| 026027021 | CLORTANOL\*30 cpr 100 mg + 25 mg | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 024763068 | IGROSELES\*28 cpr 50 mg + 12,5 mg | TEOFARMA Srl | Autorizzata |
+| 034167027 | ATENOLOLO CLORTALIDONE\*28 cpr 50 mg + 12,5 mg | DOC GENERICI Srl | Autorizzata |
+| 024728038 | EUPRES\*21 cpr 100 mg + 25 mg | VIATRIS HEALTHCARE LIMITED | Non più autorizzata |
+| 024728065 | EUPRES MITE\*21 cpr 50 mg + 25 mg | VIATRIS HEALTHCARE LIMITED | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Molti prodotti sono associazioni con atenololo.
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "parnaparin"
 predicted_indications: ["breast fibrocystic disease", "thrombophilia due to protein C deficiency, autosomal recessive", "benign mammary dysplasia"]
 description: "Parnaparin: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -70,18 +70,24 @@ Attualmente non è disponibile letteratura correlata.
 
 <!-- review:begin it-lic-20261106-parnaparin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di un riposizionamento.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-parnaparin-1 -->
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 026270088 | FLUXUM 6 siringhe SC 4.250 UI aXa 0,4 ml | ALFASIGMA SpA | Valida |
-| 026270076 | FLUXUM 6 siringhe SC 3.200 UI aXa 0,3 ml | ALFASIGMA SpA | Valida |
-| 026270090 | FLUXUM 6 siringhe SC 6.400 UI aXa 0,6 ml | ALFASIGMA SpA | Valida |
-| 026270126 | FLUXUM 6 siringhe SC 8.500 UI aXa 0,8 ml | ALFASIGMA SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 026270088 | FLUXUM\*6 siringhe SC 4.250 UI aXa 0,4 ml | ALFASIGMA SpA | Autorizzata |
+| 026270076 | FLUXUM\*6 siringhe SC 3.200 UI aXa 0,3 ml | ALFASIGMA SpA | Autorizzata |
+| 026270090 | FLUXUM\*6 siringhe SC 6.400 UI aXa 0,6 ml | ALFASIGMA SpA | Autorizzata |
+| 026270126 | FLUXUM\*6 siringhe SC 8.500 UI aXa 0,8 ml | ALFASIGMA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -111,7 +117,7 @@ Mancano inoltre i dati su meccanismo d'azione e sicurezza ufficiale.
 
 <!-- review:begin it-lic-20261106-parnaparin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria e commerciale, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutare la fattibilità regolatoria e commerciale, dato che tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-parnaparin-2 -->
 
@@ -123,8 +129,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni sono cancellate: nessun prodotto risulta attualmente in commercio in Italia, il che limita la fattibilità pratica di» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

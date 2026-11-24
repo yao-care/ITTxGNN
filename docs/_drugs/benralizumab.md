@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Benralizumab: nuova indicazione prevista, Trombocitopenia da distruzione immunitaria (thrombocytopenia due to immune destruction) (livello di evidenza L5). Indicazione originale: Non riportata nei da…"
 ---
 
@@ -68,10 +68,16 @@ Al momento non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 045931021 | FASENRA*1 penna preriempita SC 1 ml 30 mg/ml | — | Non registrata nei dati locali |
-| 045931019 | FASENRA*1 siringa preriempita 1 ml 30 mg/ml | — | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045931021 | FASENRA\*1 penna preriempita SC 1 ml 30 mg/ml | ASTRAZENECA AB | Autorizzata |
+| 045931019 | FASENRA\*1 siringa preriempita 1 ml 30 mg/ml | ASTRAZENECA AB | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

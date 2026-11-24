@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buserelin: nuova indicazione prevista, Ipertricosi (livello di evidenza L5). Indicazione originale: Carcinoma della prostata (da dati di farmacologia"
 monitor_inn: "BUSERELIN"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -66,7 +66,7 @@ Al momento non risultano studi clinici correlati registrati.
 
 <!-- review:begin it-lic-20261106-buserelin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-buserelin-1 -->
 
@@ -78,12 +78,18 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 025540030 | SUPREFACT siringa SC 6,3 mg rilascio prolungato (valida) | Iniettabile a rilascio prolungato | Non disponibile |
-| 025540016 | SUPREFACT fiala SC 5,5 ml 1 mg/ml (valida) | Fiala sottocutanea | Non disponibile |
-| 025540028 | SUPREFACT soluzione nasale 0,1 mg/erogazione, flacone 10 mg (valida) | Soluzione nasale | Non disponibile |
-| 025540042 | SUPREFACT siringa SC 9,45 mg impianto depot (valida) | Impianto depot | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025540030 | SUPREFACT\*1 siringa SC 6,3 mg rilascio prolungato | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 025540016 | SUPREFACT\*1 fiala SC 5,5 ml 1 mg/ml | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 025540028 | SUPREFACT\*soluz nasale 0,1 mg/erog 1 flacone 10 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 025540042 | SUPREFACT\*1 siringa SC 9,45 mg impianto depot | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 
@@ -110,7 +116,7 @@ La previsione si basa solo su un modello computazionale, senza studi clinici né
 
 <!-- review:begin it-lic-20261106-buserelin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo è debole per le forme genetiche, e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il meccanismo è debole per le forme genetiche, e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-buserelin-2 -->
 
@@ -123,7 +129,7 @@ La previsione si basa solo su un modello computazionale, senza studi clinici né
 
 <!-- review:begin it-lic-20261106-buserelin-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità commerciale del prodotto, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità commerciale del prodotto, dato lo stato di autorizzazioni cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-buserelin-3 -->
 
@@ -135,9 +141,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni sono intestate a Cheplapharm Arzneimittel GmbH e risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato lo stato di autorizzazioni cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824) |
 
 <!-- review:end log -->

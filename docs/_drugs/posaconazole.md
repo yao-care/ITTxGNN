@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
@@ -87,13 +87,25 @@ Tuttavia, il collegamento meccanicistico con la pneumocistosi è debole. *Pneumo
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
-|---------|------|------|-----------|
-| 048149025 | Posaconazolo 24 cpr gastroresistenti 100 mg (Accord Healthcare) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
-| 037059021 | Noxafil 24 cpr gastroresistenti 100 mg (MSD) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
-| 046570014 | Posaconazolo sospensione orale 105 ml 40 mg/ml (EG) | Sospensione orale | Non disponibile (autorizzazione valida) |
-| 047254053 | Posaconazolo 24 cpr gastroresistenti 100 mg (EG) | Compressa gastroresistente | Non disponibile (autorizzazione valida) |
-| 037059019 | Noxafil sospensione orale 105 ml 40 mg/ml (MSD) | Sospensione orale | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 048149025 | POSACONAZOLO\*24x1 cpr gastrores 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 037059021 | NOXAFIL\*24 cpr gastrores 100 mg | MERCK SHARP & DOHME BV | Autorizzata |
+| 046570014 | POSACONAZOLO\*orale sosp 105 ml 40 mg/ml con cucchiaio dosatore | EG SpA | Autorizzata |
+| 047254053 | POSACONAZOLO\*24 cpr gastrores 100 mg | EG SpA | Autorizzata |
+| 037059019 | NOXAFIL\*orale sosp 105 ml 40 mg/ml | MERCK SHARP & DOHME BV | Autorizzata |
+| 048411019 | POSACONAZOLO\*24 cpr gastrores 100 mg | FRESENIUS KABI ITALIA Srl | Autorizzata |
+| 050634017 | POSACONAZOLO\*24 cpr gastrores 100 mg | ABDI FARMA GMBH | Autorizzata |
+| 047335056 | POSACONAZOLO\*24 cpr gastrores 100 mg | MYLAN SpA | Autorizzata |
+| 049469099 | POSACONAZOLO\*24 cpr gastrores 100 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 047914092 | POSACONAZOLO\*24 cpr gastrores 100 mg | TEVA B.V. | Autorizzata |
+| 047603016 | POSACONAZOLO\*orale sosp 105 ml 40 mg/ml | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +131,7 @@ L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente
 
 <!-- review:begin it-lic-20261106-posaconazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 11 autorizzazioni per questo farmaco, di cui 11 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'evidenza è solo di livello L4: manca qualsiasi studio che valuti direttamente il posaconazolo nella pneumocistosi, e il meccanismo plausibile è contraddetto dal fatto che *Pneumocystis* non possiede ergosterolo. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-posaconazole-1 -->
 
@@ -137,7 +149,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
 
 <!-- review:end log -->

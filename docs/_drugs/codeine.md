@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Codeine: nuova indicazione prevista, Malattia della cavità nasale (nasal cavity disease) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
 ---
 
@@ -72,13 +72,23 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037021021 | CODAMOL*16 cpr rivestite 500 mg + 30 mg | Non indicata | Non registrata nei dati locali |
-| 031825060 | TACHIDOL*16 cpr rivestite div 500 mg + 30 mg | Non indicata | Non registrata nei dati locali |
-| 042711010 | PARACETAMOLO E CODEINA*16 cpr 500 mg + 30 mg | Non indicata | Non registrata nei dati locali |
-| 047824014 | PARACETAMOLO CODEINA*16 cpr rivestite 500 mg + 30 mg | Non indicata | Non registrata nei dati locali |
-| 042269011 | BRUFECOD*30 cpr rivestite 400 mg + 30 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037021021 | CODAMOL\*16 cpr rivestite 500 mg + 30 mg | ABIOGEN PHARMA SpA | Autorizzata |
+| 031825060 | TACHIDOL\*16 cpr rivestite div 500 mg + 30 mg | ANGELINI SpA | Autorizzata |
+| 042711010 | PARACETAMOLO E CODEINA\*16 cpr 500 mg + 30 mg | DOC GENERICI Srl | Autorizzata |
+| 047824014 | PARACETAMOLO CODEINA\*16 cpr rivestite 500 mg + 30 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 042269011 | BRUFECOD\*30 cpr rivestite 400 mg + 30 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 037351018 | PARACETAMOLO E CODEINA\*16 cpr eff 500 mg + 30 mg | LABORATORI ALTER Srl | Autorizzata |
+| 027989033 | COEFFERALGAN\*16 cpr rivestite 500 mg + 30 mg | UPSA Sas | Autorizzata |
+| 042710018 | ZEUSEFF\*16 cpr eff 500 mg + 30 mg | OMIKRON ITALIA Srl | Autorizzata |
+| 046934028 | PARACETAMOLO E CODEINA\*16 cpr 500 mg + 30 mg | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

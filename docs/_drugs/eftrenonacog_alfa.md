@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Eftrenonacog Alfa: nuova indicazione prevista, Pseudo-malattia di von Willebrand (livello di evidenza L5). Indicazione originale: Emofilia (anche forma sintomatica nelle portatrici femminili)…"
 monitor_inn: "EFTRENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia"]
@@ -80,7 +80,7 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 <!-- review:begin it-lic-20261106-eftrenonacog_alfa-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-eftrenonacog_alfa-1 -->
 
@@ -88,13 +88,19 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044888042 | ALPROLIX, 1 flacone EV da 2.000 UI + kit di somministrazione | Non indicata | Non disponibile |
-| 044888055 | ALPROLIX, 1 flacone EV da 3.000 UI + kit di somministrazione | Non indicata | Non disponibile |
-| 044888016 | ALPROLIX, 1 flacone EV da 250 UI + kit di somministrazione | Non indicata | Non disponibile |
-| 044888028 | ALPROLIX, 1 flacone EV da 500 UI + kit di somministrazione | Non indicata | Non disponibile |
-| 044888030 | ALPROLIX, 1 flacone EV da 1.000 UI + kit di somministrazione | Non indicata | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044888042 | ALPROLIX\*1 flacone EV 2.000 Unita' Internazionali + 1 siringa 5 ml + 1 stantuffo + 1 adat… | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044888055 | ALPROLIX\*1 flacone EV 3.000 Unita' Internazionali + 1 siringa 5 ml + 1 stantuffo + 1 adat… | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044888016 | ALPROLIX\*1 flacone EV 250 Unita' Internazionali + 1 siringa 5 ml + 1 stantuffo + 1 adatta… | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044888028 | ALPROLIX\*1 flacone EV 500 Unita' Internazionali + 1 siringa 5 ml + 1 stantuffo + 1 adatta… | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+| 044888030 | ALPROLIX\*1 flacone EV 1.000 Unita' Internazionali + 1 siringa 5 ml + 1 stantuffo + 1 adat… | SWEDISH ORPHAN BIOVITRUM AB(PU | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +126,7 @@ La previsione si basa esclusivamente sul modello TxGNN (deep learning, livello L
 
 <!-- review:begin it-lic-20261106-eftrenonacog_alfa-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio e la disponibilità del prodotto (autorizzazioni annullate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire lo stato regolatorio e la disponibilità del prodotto (autorizzazioni annullate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-eftrenonacog_alfa-2 -->
 
@@ -132,8 +138,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazi» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni annullate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 5 le autorizzazioni (prodotto ALPROLIX, titolare Swedish Orphan Biovitrum AB) risultano **annullate**; non sono presenti autorizzazi» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni annullate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

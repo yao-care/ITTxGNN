@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Felodipine: nuova indicazione prevista, Pulmonary hypertension with unclear multifactorial mechanism (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
@@ -91,13 +91,26 @@ Per l'ipertensione polmonare da malattia polmonare e/o ipossia sono state recupe
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione autorizzata |
-|---------|------|------|-----------|
-| 037168248 | Felodipina 14 cpr 10 mg rilascio prolungato (Zentiva Italia) | Non specificata | Non disponibile (autorizzazione valida) |
-| 038527026 | Felodipina 28 cpr 5 mg rilascio prolungato (Ratiopharm) | Non specificata | Non disponibile (autorizzazione valida) |
-| 037565241 | Felodipina 14 cpr 10 mg rilascio prolungato (Sandoz) | Non specificata | Non disponibile (autorizzazione valida) |
-| 028162030 | Plendil 14 cpr 10 mg rilascio prolungato (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
-| 027372010 | Prevex 28 cpr 5 mg rilascio prolungato con calendario (Glenwood) | Non specificata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037168248 | FELODIPINA\*14 cpr 10 mg rilascio prolungato | ZENTIVA ITALIA Srl | Autorizzata |
+| 038527026 | FELODIPINA\*28 cpr 5 mg rilascio prolungato | RATIOPHARM GMBH | Autorizzata |
+| 037565241 | FELODIPINA\*14 cpr 10 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 028162030 | PLENDIL\*14 cpr 10 mg rilascio prolungato | GLENWOOD GMBH | Autorizzata |
+| 038623031 | FELODIPINA\*28 cpr 5 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 037168046 | FELODIPINA\*28 cpr 5 mg rilascio prolungato | ZENTIVA ITALIA Srl | Autorizzata |
+| 027372010 | PREVEX\*28 cpr 5 mg rilascio prolungato con calendario | GLENWOOD GMBH | Autorizzata |
+| 038527053 | FELODIPINA\*14 cpr 10 mg rilascio prolungato | RATIOPHARM GMBH | Autorizzata |
+| 037565049 | FELODIPINA\*28 cpr 5 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 038623106 | FELODIPINA\*14 cpr 10 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 028162042 | PLENDIL\*28 cpr 5 mg rilascio prolungato | GLENWOOD GMBH | Autorizzata |
+| 027372022 | PREVEX\*14 cpr 10 mg rilascio prolungato | GLENWOOD GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -116,7 +129,7 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 
 <!-- review:begin it-lic-20261106-felodipine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata e tutte le autorizzazioni italiane della felodipina sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per l'angina di Prinzmetal esistono studi clinici piccoli e datati (L3), ma la classe è già consolidata e tutte le autorizzazioni italiane della felodipina sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-felodipine-1 -->
 
@@ -129,7 +142,7 @@ Per le avvertenze e le controindicazioni ufficiali, consultare il foglio illustr
 
 <!-- review:begin it-lic-20261106-felodipine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato (solo autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione della fattibilità regolatoria e commerciale, dato lo stato di mercato (solo autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-felodipine-2 -->
 
@@ -141,8 +154,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane della felodipina sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane della felodipina sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(solo autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->

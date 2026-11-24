@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -109,7 +109,7 @@ Per l'ulcera peptica attiva:
 
 ## Informazioni sul mercato italiano
 
-I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili. Principali prodotti:
+I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibili.
 
 <!-- review:begin it-lic-20261106-pantoprazole-1 -->
 
@@ -117,13 +117,35 @@ I testi delle indicazioni approvate e le forme farmaceutiche non sono disponibil
 
 <!-- review:end it-lic-20261106-pantoprazole-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 042953063 | PANTORC 14 cpr gastroresistenti 20 mg | GMM FARMA Srl | Valida |
-| 038730053 | PANTOPRAZOLO 28 cpr gastroresistenti 20 mg | ALMUS Srl | Valida |
-| 039015134 | PANTOPRAZOLO 14 cpr gastroresistenti 40 mg | SUN PHARMACEUTICAL IND. EU B.V. | Valida |
-| 041979028 | INIPANT 14 cpr gastroresistenti 40 mg | SO.SE.PHARM Srl | Valida |
-| 038253264 | GASTROLOC 14 cpr gastroresistenti 40 mg | HALEON ITALY Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042953063 | PANTORC\*14 cpr gastrores 20 mg | GMM FARMA Srl | Autorizzata |
+| 038730053 | PANTOPRAZOLO\*28 cpr gastrores 20 mg | ALMUS Srl | Autorizzata |
+| 039015134 | PANTOPRAZOLO\*14 cpr gastrores 40 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 041979028 | INIPANT\*14 cpr gastrores 40 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041972086 | PANTORC\*14 cpr gastrores 40 mg | BB FARMA Srl | Autorizzata |
+| 038842011 | PANTOPRAZOLO\*14 cpr gastrores 20 mg | TOWA PHARMACEUTICAL EUROPE SL | Autorizzata |
+| 041972098 | PANTORC\*14 cpr gastrores 20 mg | BB FARMA Srl | Autorizzata |
+| 038253264 | GASTROLOC\*14 cpr gastrores 40 mg | HALEON ITALY Srl | Autorizzata |
+| 042643039 | PANTOFIR\*28 cpr gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 042953152 | PANTORC\*28 cpr gastrores 20 mg | GMM FARMA Srl | Autorizzata |
+| 043517022 | PANTORC\*14 cpr gastrores 40 mg | GENERAL PHARMA SOLUTIONS SpA | Autorizzata |
+| 042953164 | PANTORC\*28 cpr gastrores 40 mg | GMM FARMA Srl | Autorizzata |
+| 041972023 | PANTORC\*14 cpr gastrores 40 mg | BB FARMA Srl | Autorizzata |
+| 038743252 | PANTOPRAZOLO\*14 cpr gastrores 40 mg | S.F. GROUP Srl | Autorizzata |
+| 038440145 | PANTOPRAZOLO\*14 cpr gastrores 40 mg | EG SpA | Autorizzata |
+| 040700015 | PANTOPRAZOLO\*14 cpr gastrores 20 mg | MYLAN SpA | Autorizzata |
+| 038139034 | PANTOPRAZOLO\*14 cpr gastrores 20 mg | SANDOZ SpA | Autorizzata |
+| 038869032 | PANTOPRAZOLO\*14 cpr gastrores 40 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 043494335 | PANTOPRAZOLO\*28 cpr gastrores 20 mg flacone | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 042565046 | PANTORC\*14 cpr gastrores 20 mg | MEDIFARM Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

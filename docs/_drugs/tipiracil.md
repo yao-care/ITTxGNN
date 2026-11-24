@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 438
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
 description: "Tipiracil: nuova indicazione prevista, Adenoma villoso del cieco (cecum villous adenoma) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -69,12 +69,18 @@ Al momento non risulta letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044856019 | LONSURF 20 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Valida |
-| 044856033 | LONSURF 60 cpr rivestite 15 mg + 6,14 mg (Servier) | Compresse rivestite | Valida |
-| 044856045 | LONSURF 20 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
-| 044856060 | LONSURF 60 cpr rivestite 20 mg + 8,19 mg (Servier) | Compresse rivestite | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044856019 | LONSURF\*20 cpr rivestite 15 mg + 6,14 mg | LES LABORATOIRES SERVIER | Autorizzata |
+| 044856060 | LONSURF\*60 cpr rivestite 20 mg + 8,19 mg | LES LABORATOIRES SERVIER | Autorizzata |
+| 044856045 | LONSURF\*20 cpr rivestite 20 mg + 8,19 mg | LES LABORATOIRES SERVIER | Autorizzata |
+| 044856033 | LONSURF\*60 cpr rivestite 15 mg + 6,14 mg | LES LABORATOIRES SERVIER | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Les Laboratoires Servier. Tutte e quattro le autorizzazioni risultano valide.
 

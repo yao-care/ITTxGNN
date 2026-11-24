@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: nuova indicazione prevista, Displasia acromesomelica, tipo Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (livello di evidenza L5). Indicazione originale: …"
 ---
 
@@ -68,15 +68,37 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il colecalciferolo risulta commercializzato in Italia, con 20 autorizzazioni valide elencate (almeno 20: l'elenco può essere parziale). Si tratta di prodotti monocomponente. Nei dati locali non è riportato il testo dell'indicazione approvata. Principali autorizzazioni:
+Il colecalciferolo risulta commercializzato in Italia, con 20 autorizzazioni valide elencate (almeno 20: l'elenco può essere parziale). Si tratta di prodotti monocomponente. Nei dati locali non è riportato il testo dell'indicazione approvata.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 046282087 | ANNOVA 4 compresse rivestite 30.000 UI | Non riportata | Non riportata |
-| 047252034 | BALAVITA soluzione orale 2,5 ml 25.000 UI | Non riportata | Non riportata |
-| 043474117 | ZIBENAK soluzione orale 50.000 UI | Non riportata | Non riportata |
-| 036635023 | DIBASE 6 fiale IM 100.000 UI/ml | Non riportata | Non riportata |
-| 049895028 | DITRALIA 2 capsule molli 50.000 UI | Non riportata | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046282087 | ANNOVA\*4 cpr rivestite 30.000 Unita' Internazionali | I.B.N. SAVIO Srl | Autorizzata |
+| 047252034 | BALAVITA\*orale soluz 2,5 ml 25.000 UI 2 contenitori monodose | MEDINITALY PHARMA PROGRESS Srl | Autorizzata |
+| 043474117 | ZIBENAK\*orale soluz 3 contenitori monodose 5 ml 50.000 UI | I.B.N. SAVIO Srl | Autorizzata |
+| 043901038 | TOMAINO\*orale soluz 2,5 ml 25.000 UI 2 contenitori monodose | EPIFARMA Srl | Autorizzata |
+| 042751014 | COLECALCIFEROLO\*orale gtt 10 ml 10.000 UI/ml | EG SpA | Autorizzata |
+| 036635023 | DIBASE\*6 fiale IM 1 ml 100.000 Unita' Internazionali/ml | ABIOGEN PHARMA SpA | Autorizzata |
+| 042754046 | COLECALCIFEROLO\*orale soluz 2 flaconcini monodose 2,5 ml 25.000 UI | DOC GENERICI Srl | Autorizzata |
+| 046220036 | DISTEOMIN\*orale soluz 2,5 ml 25.000 UI 2 flaconi | O.P. PHARMA Srl | Autorizzata |
+| 043935030 | COLECALCIFEROLO\*orale soluz 2,5 ml 25.000 UI 2 contenitori monodose | FG Srl | Autorizzata |
+| 049895028 | DITRALIA\*2 cps molli 50.000 Unita' Internazionali | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 048392043 | TREVID\*orale soluz 1 flacone 2,5 ml 50.000 Unita' Internazionali | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 043474081 | ZIBENAK\*orale soluz 25.000 UI/2,5 ml 1 flacone multidose 10 ml + 1 siringa | I.B.N. SAVIO Srl | Autorizzata |
+| 043913019 | COLECALCIFEROLO\*orale gtt 10 ml 10.000 UI/ml | IPSO PHARMA Srl | Autorizzata |
+| 044774026 | LAMPARD\*orale soluz 2,5 ml 25.000 UI 1 contenitore monodose | MYLAN SpA | Autorizzata |
+| 044774053 | LAMPARD\*orale soluz 5 ml 50.000 UI 1 contenitore monodose | MYLAN SpA | Autorizzata |
+| 046220024 | DISTEOMIN\*orale soluz 2,5 ml 25.000 UI 1 flacone | O.P. PHARMA Srl | Autorizzata |
+| 046178075 | COLECALCIFEROLO\*4 cps molli 25.000 UI | PHARMACARE Srl | Autorizzata |
+| 037564034 | XARENEL\*2 fiale IM 1 ml 300.000 UI/ml | ITALFARMACO SpA | Autorizzata |
+| 046468068 | COLECALCIFEROLO\*orale soluz 2,5 ml 50.000 Unita' Internazionali 2 contenitori monodose | FG Srl | Autorizzata |
+| 043913021 | COLECALCIFEROLO\*orale soluz 2,5 ml 25.000 UI 1 contenitore monodose | IPSO PHARMA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

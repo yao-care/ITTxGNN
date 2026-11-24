@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 199
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Flecainide: nuova indicazione prevista, Ictus (stroke disorder) (livello di evidenza L2). In Italia, confezioni AIFA: 18 (autorizzate: 18)"
@@ -93,19 +93,38 @@ Lo studio clinico disponibile (NCT05213104) valuta la flecainide nella prevenzio
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 042864064 | Fleiderina 30 cps 150 mg rilascio prolungato (Bruno Farmaceutici) | Capsule a rilascio prolungato | Valida |
-| 025728015 | Almarytm 20 cpr 100 mg (Viatris Healthcare) | Compresse | Valida |
-| 042854024 | Frequil 30 cps 50 mg rilascio prolungato (Dompé Farmaceutici) | Capsule a rilascio prolungato | Valida |
-| 038100018 | Flecainide 20 cpr 100 mg (Teva Italia) | Compresse | Valida |
-| 037415015 | Flecainide 20 cpr 100 mg (Sandoz) | Compresse | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042864064 | FLEIDERINA\*30 cps 150 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 043544028 | FLECAINIDE\*30 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 042225019 | FLECAINIDE\*20 cpr 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 042864088 | FLEIDERINA\*30 cps 200 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 025728015 | ALMARYTM\*20 cpr 100 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 042864049 | FLEIDERINA\*30 cps 100 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 042854024 | FREQUIL\*30 cps 50 mg rilascio prolungato | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 042225033 | FLECAINIDE\*30 cpr 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038100018 | FLECAINIDE\*20 cpr 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 037415015 | FLECAINIDE\*20 cpr 100 mg | SANDOZ SpA | Autorizzata |
+| 037415039 | FLECAINIDE\*30 cpr 100 mg | SANDOZ SpA | Autorizzata |
+| 042864025 | FLEIDERINA\*30 cps 50 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 042854063 | FREQUIL\*30 cps 150 mg rilascio prolungato | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 046041063 | FLECAINIDE\*20 cpr 100 mg | EG SpA | Autorizzata |
+| 046041125 | FLECAINIDE\*30 cpr 100 mg | EG SpA | Autorizzata |
+| 042854087 | FREQUIL\*30 cps 200 mg rilascio prolungato | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 043544016 | FLECAINIDE\*20 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 042854048 | FREQUIL\*30 cps 100 mg rilascio prolungato | DOMPE' FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il testo delle indicazioni approvate non è disponibile nei dati compilati.
 
 <!-- review:begin it-lic-20261106-flecainide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo delle indicazioni approvate non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-flecainide-1 -->
 
@@ -130,7 +149,7 @@ Le avvertenze e le controindicazioni ufficiali non sono disponibili: consultare 
 
 <!-- review:begin it-lic-20261106-flecainide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre, il profilo di sicurezza (controindicazione nelle cardiopatie ischemiche/strutturali, molte interazioni) limita l'uso in questa popolazione e tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-flecainide-2 -->
 
@@ -143,7 +162,7 @@ Le avvertenze e le controindicazioni ufficiali non sono disponibili: consultare 
 
 <!-- review:begin it-lic-20261106-flecainide-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello stato regolatorio in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-flecainide-3 -->
 
@@ -157,9 +176,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 18 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

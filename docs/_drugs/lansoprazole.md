@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lansoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -83,7 +83,7 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni (prime 5):
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati.
 
 <!-- review:begin it-lic-20261106-lansoprazole-1 -->
 
@@ -91,13 +91,35 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:end it-lic-20261106-lansoprazole-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 036757159 | Lansoprazolo 28 cps gastroresistenti 30 mg | Mylan SpA | Valida |
-| 036912044 | Lansoprazolo 28 cps gastroresistenti 30 mg | Laboratori Alter Srl | Valida |
-| 037265016 | Lansoprazolo 14 cps gastroresistenti 15 mg | Almus Srl | Valida |
-| 042680052 | Lansoprazolo 14 cps gastroresistenti 30 mg | Aurobindo Pharma Italia Srl | Valida |
-| 037265042 | Lansoprazolo 28 cps gastroresistenti 30 mg | Almus Srl | Valida |
+|------|------|------|------|
+| 036757159 | LANSOPRAZOLO\*28 cps gastrores 30 mg | MYLAN SpA | Autorizzata |
+| 036912044 | LANSOPRAZOLO\*28 cps gastrores 30 mg | LABORATORI ALTER Srl | Autorizzata |
+| 037265016 | LANSOPRAZOLO\*14 cps gastrores 15 mg | ALMUS Srl | Autorizzata |
+| 042680052 | LANSOPRAZOLO\*14 cps gastrores 30 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037265042 | LANSOPRAZOLO\*28 cps gastrores 30 mg | ALMUS Srl | Autorizzata |
+| 043054079 | TANZOLAN\*28 cps gastrores 15 mg | S.F. GROUP Srl | Autorizzata |
+| 049796016 | LIMPIDEX\*14 cps 30 mg | BB FARMA Srl | Autorizzata |
+| 044145074 | LANSOPRAZOLO\*14 cpr orodispers 30 mg | EG SpA | Autorizzata |
+| 050951058 | LANSOPRAZOLO\*14 cps 30 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 037529029 | LANSOPRAZOLO\*28 cps gastrores 15 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 037775020 | KROVANEG\*14 cps gastrores 30 mg | ITALCHIMICI SpA | Autorizzata |
+| 036704056 | LANSOPRAZOLO\*14 cps gastrores 15 mg flacone | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 041692031 | LANSOPRAZOLO\*28 cpr orodispers 15 mg | MYLAN SpA | Autorizzata |
+| 037267046 | LANSOPRAZOLO\*28 cps 30 mg | FG Srl | Autorizzata |
+| 028600094 | LANSOX\*14 cpr orodispers gastrores 30 mg | TAKEDA ITALIA SpA | Autorizzata |
+| 041692132 | LANSOPRAZOLO\*14 cpr orodispers 30 mg | MYLAN SpA | Autorizzata |
+| 037187046 | LANSOPRAZOLO\*28 cps gastrores 30 mg | TECNIGEN Srl | Autorizzata |
+| 044145086 | LANSOPRAZOLO\*28 cpr orodispers 30 mg | EG SpA | Autorizzata |
+| 036704070 | LANSOPRAZOLO\*14 cps gastrores 30 mg flacone | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037187010 | LANSOPRAZOLO\*14 cps gastrores 15 mg | TECNIGEN Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: nuova indicazione prevista, Perioral myoclonia with absences (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -70,11 +70,17 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 038217143 | INOVELON 60 cpr rivestite div 400 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 038217016 | INOVELON 10 cpr rivestite div 100 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 038217093 | INOVELON 60 cpr rivestite 200 mg (Eisai GmbH) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038217143 | INOVELON\*60 cpr rivestite div 400 mg | EISAI GMBH | Autorizzata |
+| 038217016 | INOVELON\*10 cpr rivestite div 100 mg | EISAI GMBH | Autorizzata |
+| 038217093 | INOVELON\*60 cpr rivestite 200 mg | EISAI GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -92,7 +98,7 @@ La previsione si basa solo su un punteggio del modello (livello L5), senza studi
 
 <!-- review:begin it-lic-20261106-rufinamide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES. Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il meccanismo del farmaco (bloccante dei canali del sodio) è poco coerente con la componente neuroinfiammatoria della FIRES. Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rufinamide-1 -->
 
@@ -105,7 +111,7 @@ La previsione si basa solo su un punteggio del modello (livello L5), senza studi
 
 <!-- review:begin it-lic-20261106-rufinamide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimenti sullo stato regolatorio, dato che tutte le autorizzazioni sono cancellate, e sulle vie di somministrazione necessarie» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimenti sullo stato regolatorio, dato che tutte le autorizzazioni sono cancellate, e sulle vie di somministrazione necessarie» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rufinamide-2 -->
 
@@ -117,8 +123,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate, e mancano le informazioni di sicurezza ufficiali» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
 
 <!-- review:end log -->

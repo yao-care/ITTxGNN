@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 219
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GEMFIBROZIL"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 description: "Gemfibrozil: nuova indicazione prevista, Artrite reumatoide (rheumatoid arthritis) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 6)"
@@ -85,25 +85,28 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034080010 | GEMFIBROZIL 30 cpr 600 mg (DOC Generici) | Compresse | Non disponibile (valida) |
-| 026737039 | GENLIP TC 20 cpr 900 mg (Teofarma) | Compresse | Non disponibile (non più autorizzata) |
-| 025445026 | LOPID 30 cpr rivestite 600 mg (Pfizer Italia) | Compresse rivestite | Non disponibile (valida) |
-| 034080022 | GEMFIBROZIL 20 cpr 900 mg (DOC Generici) | Compresse | Non disponibile (valida) |
-| 029512023 | GEMFIBROZIL 30 cpr 600 mg (EG) | Compresse | Non disponibile (valida) |
+<!-- licenses:begin -->
 
-<!-- review:begin it-row-20261117-gemfibrozil-1 -->
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034080010 | GEMFIBROZIL\*30 cpr 600 mg | DOC GENERICI Srl | Autorizzata |
+| 025445026 | LOPID\*30 cpr rivestite 600 mg | PFIZER ITALIA Srl | Autorizzata |
+| 034080022 | GEMFIBROZIL\*20 cpr 900 mg | DOC GENERICI Srl | Autorizzata |
+| 029512023 | GEMFIBROZIL\*30 cpr 600 mg | EG SpA | Autorizzata |
+| 029512011 | GEMFIBROZIL\*20 cpr 900 mg | EG SpA | Autorizzata |
+| 025445053 | LOPID\*20 cpr rivestite 900 mg | PFIZER ITALIA Srl | Autorizzata |
+| 026737039 | GENLIP TC\*20 cpr 900 mg | TEOFARMA Srl | Non più autorizzata |
 
-> **Correzione di verifica (2026-11-17)**: Testo originale: «026737039 / GENLIP TC 20 cpr 900 mg (Teofarma) / Compresse / Non disponibile (valida)» La confezione 026737039 (GENLIP TC) non risulta più nell'elenco AIFA delle confezioni autorizzate (né nella Banca Dati Farmaci) (dati al 2026-11-17); la tabella la indicava come valida. È stata modificata solo l'indicazione dello stato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h).
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
 
-<!-- review:end it-row-20261117-gemfibrozil-1 -->
+<!-- licenses:end -->
 
 Sono qui elencate le prime 5.
 
 <!-- review:begin it-lic-20261106-gemfibrozil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. Sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida. Sono qui elencate le prime 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-gemfibrozil-1 -->
 
@@ -132,7 +135,7 @@ La predizione si basa su un punteggio computazionale elevato con supporto solo p
 
 <!-- review:begin it-lic-20261106-gemfibrozil-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici. Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa su un punteggio computazionale elevato con supporto solo preclinico e indiretto (un solo studio sul gemfibrozil in modello animale, un altro su un fibrato correlato), senza studi clinici. Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante.» Rimosso: l'affermazione contraddiceva i dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-gemfibrozil-2 -->
 
@@ -144,7 +147,7 @@ La predizione si basa su un punteggio computazionale elevato con supporto solo p
 
 <!-- review:begin it-lic-20261106-gemfibrozil-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica della disponibilità del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 7 autorizzazioni per questo farmaco, di cui 7 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica della disponibilità del farmaco in Italia, dato che tutte le autorizzazioni sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-gemfibrozil-3 -->
 
@@ -164,10 +167,10 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-17 | Tabella: la confezione 026737039 non è più autorizzata | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
+| 2026-11-24 | Rimosso: «Tutte e 7 le autorizzazioni risultano cancellate; non è presente alcuna autorizzazione valida» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esiste alcuna autorizzazione valida e il profilo di interazioni è rilevante» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-17 | Tabella: la confezione 026737039 non è più autorizzata | Sostituito dalla tabella delle autorizzazioni generata dal programma (prima: Corretto) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv); [AIFA – Banca Dati Farmaci (ricerca medicinali autorizzati)](https://medicinali.aifa.gov.it/); [AIFA – Liste dei farmaci di Classe A (30/09/2025)](https://www.aifa.gov.it/liste-farmaci-a-h) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "TENOXICAM"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Tenoxicam: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (livello di evidenza L5)."
 ---
 
@@ -81,9 +81,15 @@ Non è stato possibile confermare dai soli titoli e abstract che tenoxicam sia v
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034990010 | BART*30 cpr rivestite 20 mg | Compresse rivestite | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034990010 | BART\*30 cpr rivestite 20 mg | SO.SE.PHARM Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il prodotto è un medicinale a singolo principio attivo, in stato valido. Titolare: SO.SE.PHARM Srl.
 

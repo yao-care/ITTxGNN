@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 117
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Clomipramine: nuova indicazione prevista, Disturbo d'ansia (livello di evidenza L1). Indicazione originale: Disturbo ossessivo-compulsivo (il testo dell'indicazione autorizzata…"
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -102,12 +102,18 @@ Nessuno di questi studi testa direttamente la clomipramina in un disturbo d'ansi
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 021643046 | ANAFRANIL 20 cpr div 75 mg rilascio prolungato (valida) | Non disponibile | Non disponibile |
-| 021643034 | ANAFRANIL 5 fiale IM EV 25 mg 2 ml (valida) | Non disponibile | Non disponibile |
-| 021643010 | ANAFRANIL 20 cpr rivestite 25 mg (valida) | Non disponibile | Non disponibile |
-| 021643022 | ANAFRANIL 50 cpr rivestite 10 mg (valida) | Non disponibile | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 021643046 | ANAFRANIL\*20 cpr div 75 mg rilascio prolungato | ALFASIGMA SpA | Autorizzata |
+| 021643034 | ANAFRANIL\*5 fiale IM EV 25 mg 2 ml | ALFASIGMA SpA | Autorizzata |
+| 021643010 | ANAFRANIL\*20 cpr rivestite 25 mg | ALFASIGMA SpA | Autorizzata |
+| 021643022 | ANAFRANIL\*50 cpr rivestite 10 mg | ALFASIGMA SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,7 +123,7 @@ I dati di sicurezza ricavati dal grafo di conoscenza indicano condizioni in cui 
 
 <!-- review:begin it-lic-20261106-clomipramine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamente autorizzati in Italia secondo i dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamente autorizzati in Italia secondo i dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-clomipramine-1 -->
 
@@ -146,7 +152,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 
 <!-- review:begin it-lic-20261106-clomipramine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Una verifica della disponibilità del prodotto sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Una verifica della disponibilità del prodotto sul mercato italiano, dato che tutte le autorizzazioni risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-clomipramine-2 -->
 
@@ -158,8 +164,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamen» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le autorizzazioni, intestate ad ALFASIGMA SpA, risultano cancellate: al momento non esistono prodotti a base di clomipramina validamen» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

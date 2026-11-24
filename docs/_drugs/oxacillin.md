@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxacillin: nuova indicazione prevista, Epiglottite (livello di evidenza L5). Indicazione originale: Infezioni da Staphylococcus aureus e infezioni stafilococciche (farin…"
 monitor_inn: "oxacillin"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
@@ -68,7 +68,7 @@ Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. La rile
 
 <!-- review:begin it-lic-20261106-oxacillin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Vi sono però limiti importanti: l'oxacillina ha scarsa attività su *H. influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata).» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oxacillin-1 -->
 
@@ -98,9 +98,15 @@ A titolo informativo, per la seconda previsione per evidenza (artrite batterica)
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 020711065 | PENSTAPHO*1 fiala IM EV 1 g + 1 fiala solv (LABORATOIRES DELBERT) | Non specificata (fiala per uso IM/EV con solvente) | Non disponibile; autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 020711065 | PENSTAPHO\*1 fiala IM EV 1 g + 1 fiala solv | LABORATOIRES DELBERT | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +129,7 @@ La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né p
 
 <!-- review:begin it-lic-20261106-oxacillin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il prodotto è inoltre revocato in Italia, e per le infezioni stafilococciche esistono alternative consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il prodotto è inoltre revocato in Italia, e per le infezioni stafilococciche esistono alternative consolidate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oxacillin-2 -->
 
@@ -136,7 +142,7 @@ La previsione per l'epiglottite si basa solo sul modello (L5), senza studi né p
 
 <!-- review:begin it-lic-20261106-oxacillin-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione di fattibilità regolatoria, dato lo stato di autorizzazione revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione di fattibilità regolatoria, dato lo stato di autorizzazione revocata» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-oxacillin-3 -->
 
@@ -148,9 +154,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Il prodotto è inoltre revocato in Italia, e p» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «influenzae* e il prodotto non è più in commercio in Italia (autorizzazione revocata)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Il prodotto è inoltre revocato in Italia, e p» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato lo stato di autorizzazione revocata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: oxacillin prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d893e45b-7f18-4c67-b10c-1e2e52a6b3ef) |
 
 <!-- review:end log -->

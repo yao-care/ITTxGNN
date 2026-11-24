@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Safinamide: nuova indicazione prevista, Encefalite subacuta di Rasmussen (livello di evidenza L5). Indicazione originale: Malattia di Parkinson (e sindromi parkinsoniane correlate)"
 monitor_inn: "SAFINAMIDE"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -83,10 +83,16 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043906039 | XADAGO*30 cpr rivestite 50 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 043906080 | XADAGO*30 cpr rivestite 100 mg (ZAMBON SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043906039 | XADAGO\*30 cpr rivestite 50 mg | ZAMBON SpA | Autorizzata |
+| 043906080 | XADAGO\*30 cpr rivestite 100 mg | ZAMBON SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +116,7 @@ La previsione si basa esclusivamente sul punteggio TxGNN, senza alcuna speriment
 
 <!-- review:begin it-lic-20261106-safinamide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo. Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il legame meccanicistico con l'encefalite di Rasmussen, a patogenesi prevalentemente autoimmune, è speculativo. Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-safinamide-1 -->
 
@@ -128,7 +134,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia le autorizzazioni disponibili risultano tutte annullate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "IDEBENONE"
 predicted_indications: ["hepatic porphyria", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 description: "Idebenone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -84,9 +84,15 @@ Attualmente non risulta alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044505016 | RAXONE 180 cpr rivestite 150 mg flacone (Chiesi Farmaceutici SpA) | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044505016 | RAXONE\*180 cpr rivestite 150 mg flacone | CHIESI FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -101,7 +107,7 @@ La previsione per la porfiria epatica si basa esclusivamente sul modello (livell
 
 <!-- review:begin it-lic-20261106-idebenone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni. Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la porfiria epatica si basa esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni. Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-idebenone-1 -->
 
@@ -120,7 +126,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sic» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, l'unica autorizzazione italiana è cancellata e mancano dati di sicurezza, per cui non è possibile procedere alla valutazione di sic» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

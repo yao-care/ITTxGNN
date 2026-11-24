@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 187
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: nuova indicazione prevista, Antithrombin deficiency type 2 (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -80,15 +80,37 @@ Per la predizione di rango 1 non è disponibile letteratura correlata. Di seguit
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Principali autorizzazioni:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
-| N. autorizzazione | Nome prodotto | Forma farmaceutica | Titolare | Stato |
-|---------|------|------|------|-----------|
-| 034678033 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Pfizer Italia Srl | Valida |
-| 045700010 | Aromasin 30 cpr rivestite 25 mg | Compresse rivestite | Medifarm Srl | Valida |
-| 040320018 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | EG SpA | Valida |
-| 040535041 | Exemestane 30 cpr rivestite 25 mg | Compresse rivestite | Sandoz SpA | Valida |
-| 040012015 | Axelta 30 cpr rivestite 25 mg | Compresse rivestite | Ist. Gentili Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 045700010 | AROMASIN\*30 cpr rivestite 25 mg | MEDIFARM Srl | Autorizzata |
+| 051334023 | AROMASIN\*30 cpr rivestite 25 mg | BB FARMA Srl | Autorizzata |
+| 040320018 | EXEMESTANE\*30 cpr rivestite 25 mg | EG SpA | Autorizzata |
+| 039850019 | EXEMESTANE\*30 cpr rivestite 25 mg | DOC GENERICI Srl | Autorizzata |
+| 040940013 | EXEMESTANE\*30 cpr rivestite 25 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041190048 | NIBESTAN\*30 cpr rivestite 25 mg | WAVE PHARMA Srl | Autorizzata |
+| 047266022 | AROMASIN\*30 cpr rivestite 25 mg | GMM FARMA Srl | Autorizzata |
+| 040012015 | AXELTA\*30 cpr rivestite 25 mg | IST.GENTILI Srl | Autorizzata |
+| 040886044 | EXEMESTANE\*30 cpr rivestite 25 mg | MYLAN SpA | Autorizzata |
+| 040535041 | EXEMESTANE\*30 cpr rivestite 25 mg | SANDOZ SpA | Autorizzata |
+| 040011013 | EXEGEN\*30 cpr rivestite 25 mg | GENETIC SpA | Autorizzata |
+| 051334047 | AROMASIN\*30 cpr rivestite 25 mg | BB FARMA Srl | Autorizzata |
+| 051334035 | AROMASIN\*30 cpr rivestite 25 mg | BB FARMA Srl | Autorizzata |
+| 051334011 | AROMASIN\*30 cpr rivestite 25 mg | BB FARMA Srl | Autorizzata |
+| 041398013 | MESTANE\*30 cpr rivestite 25 mg | SOPHOS BIOTECH Srl | Autorizzata |
+| 047266034 | AROMASIN\*30 cpr rivestite 25 mg | GMM FARMA Srl | Autorizzata |
+| 040275048 | EXEMESTANE\*30 cpr rivestite 25 mg | TEVA ITALIA Srl | Autorizzata |
+| 042474015 | STANEXAM\*30 cpr rivestite 25 mg | ELLEVA PHARMA Srl | Autorizzata |
+| 040900045 | MEXABREST\*30 cpr rivestite 25 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 034678033 | AROMASIN\*30 cpr rivestite 25 mg | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

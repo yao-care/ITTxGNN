@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 description: "Emicizumab: nuova indicazione prevista, Pseudo-malattia di von Willebrand (pseudo-von Willebrand disease) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
@@ -102,13 +102,19 @@ Per riferimento, nell'indicazione prevista con maggiori evidenze (emofilia A acq
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 046130047 | HEMLIBRA 1 flaconcino SC 150 mg/ml 1 ml | — | Valida |
-| 046130011 | HEMLIBRA 1 flaconcino SC 30 mg/ml 1 ml | — | Valida |
-| 046130023 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,4 ml | — | Valida |
-| 046130035 | HEMLIBRA 1 flaconcino SC 150 mg/ml 0,7 ml | — | Valida |
-| 046130062 | HEMLIBRA 1 flaconcino SC 30 mg/ml 0,4 ml | — | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046130047 | HEMLIBRA\*1 flaconcino SC 150 mg/ml 1 ml | ROCHE REGISTRATION GMBH | Autorizzata |
+| 046130011 | HEMLIBRA\*1 flaconcino SC 30 mg/ml 1 ml | ROCHE REGISTRATION GMBH | Autorizzata |
+| 046130023 | HEMLIBRA\*1 flaconcino SC 150 mg/ml 0,4 ml | ROCHE REGISTRATION GMBH | Autorizzata |
+| 046130035 | HEMLIBRA\*1 flaconcino SC 150 mg/ml 0,7 ml | ROCHE REGISTRATION GMBH | Autorizzata |
+| 046130062 | HEMLIBRA\*1 flaconcino SC 30 mg/ml 0,4 ml | ROCHE REGISTRATION GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Roche Registration GmbH.
 
@@ -136,7 +142,7 @@ La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello 
 
 <!-- review:begin it-lic-20261106-emicizumab-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello (L5): non ci sono studi clinici né letteratura, e il meccanismo (difetto di interazione piastrine-VWF) non coincide con quello di emicizumab. Inoltre tutte le autorizzazioni italiane sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-emicizumab-1 -->
 
@@ -149,7 +155,7 @@ La previsione per la pseudo-malattia di von Willebrand si basa solo sul modello 
 
 <!-- review:begin it-lic-20261106-emicizumab-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Verifica dello stato regolatorio attuale in Italia (autorizzazioni cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-emicizumab-2 -->
 
@@ -161,8 +167,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
 
 <!-- review:end log -->

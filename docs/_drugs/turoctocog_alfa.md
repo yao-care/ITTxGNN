@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
 description: "Turoctocog Alfa: nuova indicazione prevista, Disturbo primario del rilascio piastrinico (primary release disorder of platelets) (livello di evidenza L5). Indicazione originale: Non riportata nei dati…"
@@ -70,19 +70,26 @@ Attualmente non risulta alcuna letteratura correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Stato | Indicazione approvata |
-|---------|------|------|-----------|
-| 043153067 | NOVOEIGHT 3.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
-| 043153030 | NOVOEIGHT 1.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
-| 043153028 | NOVOEIGHT 500 UI + siringa solvente 4 ml | Valida | Non disponibile |
-| 043153055 | NOVOEIGHT 2.000 UI + siringa solvente 4 ml | Valida | Non disponibile |
-| 043153016 | NOVOEIGHT 250 UI + siringa solvente 4 ml | Valida | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043153067 | NOVOEIGHT\*1 flaconcino EV 3.000 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+| 043153030 | NOVOEIGHT\*1 flaconcino EV 1.000 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+| 043153028 | NOVOEIGHT\*1 flaconcino EV 500 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+| 043153055 | NOVOEIGHT\*1 flaconcino EV 2.000 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+| 043153016 | NOVOEIGHT\*1 flaconcino EV 250 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+| 043153042 | NOVOEIGHT\*1 flaconcino EV 1.500 Unita' Internazionali + 1 siringa solv 4 ml | NOVO NORDISK A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare: Novo Nordisk A/S.
 
 <!-- review:begin it-lic-20261106-turoctocog_alfa-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Titolare: Novo Nordisk A/S. Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-turoctocog_alfa-1 -->
 
@@ -101,7 +108,7 @@ Tutte le previsioni si fondano esclusivamente sul modello (livello L5), senza st
 
 <!-- review:begin it-lic-20261106-turoctocog_alfa-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Per la previsione principale manca un razionale meccanicistico, e il prodotto non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Per la previsione principale manca un razionale meccanicistico, e il prodotto non ha attualmente autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-turoctocog_alfa-2 -->
 
@@ -120,8 +127,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «e il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Esiste una sesta autorizzazione cancellata (043153042, 1.500 UI), non riportata nella tabella per il limite di 5 voci» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e il prodotto non ha attualmente autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286) |
 
 <!-- review:end log -->

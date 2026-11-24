@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 description: "Ketoprofen: nuova indicazione prevista, Acromesomelic dysplasia, Hunter-Thompson type (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -74,15 +74,38 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Testo dell'indicazione e forma farmaceutica non sono riportati nei dati compilati. Principali autorizzazioni (prime 5):
+Testo dell'indicazione e forma farmaceutica non sono riportati nei dati compilati.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 023183205 | ORUDIS 6 fiale IM 100 mg 2 ml | SANOFI Srl | Valida |
-| 034925040 | DOLGOSIN 28 cps 200 mg rilascio prolungato | DYMALIFE PHARMACEUTICAL Srl | Valida |
-| 023401110 | FLEXEN 30 cps 200 mg rilascio prolungato | ITALFARMACO SpA | Non più autorizzata |
-| 023183027 | ORUDIS 30 cps 50 mg | SANOFI Srl | Valida |
-| 034513022 | STEOFEN 30 cps 200 mg rilascio prolungato | LANOVA FARMACEUTICI Srl | Valida |
+|------|------|------|------|
+| 023183205 | ORUDIS\*6 fiale IM 100 mg 2 ml | SANOFI Srl | Autorizzata |
+| 034925040 | DOLGOSIN\*28 cps 200 mg rilascio prolungato | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 023183027 | ORUDIS\*30 cps 50 mg | SANOFI Srl | Autorizzata |
+| 034513022 | STEOFEN\*30 cps 200 mg rilascio prolungato | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 038723019 | KELIS\*orale polv 30 bust 80 mg | EPIFARMA Srl | Autorizzata |
+| 028511158 | OKI\*6 fiale IM 160 mg 2 ml | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 032836049 | ALKET\*28 cps 200 mg rilascio prolungato | S.F. GROUP Srl | Autorizzata |
+| 024994081 | IBIFEN\*30 cps 100 mg | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+| 050364076 | KETODIPIL\*30 cpr 100 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 033519036 | KETOPROFENE\*30 cps 50 mg | EG SpA | Autorizzata |
+| 024994117 | IBIFEN\*30 cps 50 mg | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+| 039412010 | KETOPROFENE SALE DI LISINA\*orale polv 30 bust 80 mg | DOC GENERICI Srl | Autorizzata |
+| 038760017 | KETOPROFENE SALE DI LISINA\*orale grat 30 bust 80 mg | EG SpA | Autorizzata |
+| 032901047 | KETOPLUS\*28 cps 200 mg rilascio prolungato | S.F. GROUP Srl | Autorizzata |
+| 034925053 | DOLGOSIN\*6 fiale IM 100 mg 2 ml | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 024022170 | ARTROSILENE\*6 fiale IM EV 2 ml 160 mg/2 ml | DOMPE' FARMACEUTICI SpA | Autorizzata |
+| 023401110 | FLEXEN\*30 cps 200 mg rilascio prolungato | ITALFARMACO SpA | Non più autorizzata |
+| 036468015 | KETOPROFENE\*6 fiale IM 100 mg 2,5 ml | EG SpA | Non più autorizzata |
+| 023183193 | ORUDIS\*30 cps 200 mg rilascio prolungato | SANOFI Srl | Non più autorizzata |
+| 023401108 | FLEXEN\*6 fiale IM 100 mg + 6 fiale solv 2,5 ml | ITALFARMACO SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lovastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lovastatin: nuova indicazione prevista, Deficit di proteina di trasferimento degli esteri del colesterolo (livello di evidenza L5). Indicazione originale: Disturbi dei lipidi"
 ---
 
@@ -72,15 +72,30 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-Le 14 autorizzazioni sono tutte valide e riguardano prodotti a singolo principio attivo. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Sono elencate le prime 5.
+Le 14 autorizzazioni sono tutte valide e riguardano prodotti a singolo principio attivo. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 046720025 | LOVASTATINA 30 cpr 20 mg (DOC Generici) | DOC GENERICI Srl | Non riportata |
-| 035638055 | REXTAT 30 cpr 20 mg | RECORDATI SpA | Non riportata |
-| 046720037 | LOVASTATINA 30 cpr 40 mg (DOC Generici) | DOC GENERICI Srl | Non riportata |
-| 035638067 | REXTAT 30 cpr 40 mg | RECORDATI SpA | Non riportata |
-| 047443027 | LOVASTATINA 30 cpr 20 mg (EG) | EG SpA | Non riportata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 046720025 | LOVASTATINA\*30 cpr 20 mg | DOC GENERICI Srl | Autorizzata |
+| 035638055 | REXTAT\*30 cpr 20 mg | RECORDATI SpA | Autorizzata |
+| 046720037 | LOVASTATINA\*30 cpr 40 mg | DOC GENERICI Srl | Autorizzata |
+| 035638067 | REXTAT\*30 cpr 40 mg | RECORDATI SpA | Autorizzata |
+| 047443027 | LOVASTATINA\*30 cpr 20 mg | EG SpA | Autorizzata |
+| 035623053 | TAVACOR\*30 cpr 20 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 035615057 | LOVINACOR\*30 cpr 40 mg | INNOVA PHARMA SpA | Autorizzata |
+| 035623077 | TAVACOR\*30 cpr 40 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 035615069 | LOVINACOR\*30 cpr 20 mg | INNOVA PHARMA SpA | Autorizzata |
+| 046526012 | LOVASTATINA\*30 cpr 20 mg | TEVA B.V. | Autorizzata |
+| 046526024 | LOVASTATINA\*30 cpr 40 mg | TEVA B.V. | Autorizzata |
+| 046527014 | LOVASTATINA\*30 cpr 20 mg | MYLAN SpA | Autorizzata |
+| 046527026 | LOVASTATINA\*30 cpr 40 mg | MYLAN SpA | Autorizzata |
+| 047443039 | LOVASTATINA\*30 cpr 40 mg | EG SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

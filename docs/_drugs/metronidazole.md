@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 description: "Metronidazole: nuova indicazione prevista, Pneumocistosi (pneumocystosis) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
@@ -88,7 +88,7 @@ Per la pneumocistosi (10 pubblicazioni; nessuna dimostra l'efficacia del metroni
 
 <!-- review:begin it-lic-20261106-metronidazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-metronidazole-1 -->
 
@@ -109,13 +109,19 @@ Per la pneumocistosi (10 pubblicazioni; nessuna dimostra l'efficacia del metroni
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 018505038 | FLAGYL*20 cpr 250 mg (TEOFARMA Srl) | — | Stato: valida |
-| 020689028 | VAGILEN*20 cps 250 mg (DYMALIFE PHARMACEUTICAL Srl) | — | Stato: valida |
-| 048155016 | METRONIDAZOLO*20 cpr 250 mg (AUROBINDO PHARMA ITALIA Srl) | — | Stato: valida |
-| 021299033 | DEFLAMON*1 flacone EV 500 mg 100 ml (SPA) | — | Stato: valida |
-| 041527019 | PYLERA*120 cps 140 mg + 125 mg + 125 mg flacone (LAB. JUVISE' PHARMACEUTICALS) | — | Stato: valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 018505038 | FLAGYL\*20 cpr 250 mg | TEOFARMA Srl | Autorizzata |
+| 020689028 | VAGILEN\*20 cps 250 mg | DYMALIFE PHARMACEUTICAL Srl | Autorizzata |
+| 048155016 | METRONIDAZOLO\*20 cpr 250 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 021299033 | DEFLAMON\*1 flacone EV 500 mg 100 ml | SPA (SOC.PRO.ANTIBIOTICI) SpA | Autorizzata |
+| 041527019 | PYLERA\*120 cps 140 mg + 125 mg + 125 mg flacone | LAB.JUVISE' PHARMACEUTICALS | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +147,7 @@ Per avvertenze e controindicazioni ufficiali si rimanda al foglietto illustrativ
 
 <!-- review:begin it-lic-20261106-metronidazole-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Evidenza di livello L5. Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 5 autorizzazioni per questo farmaco, di cui 5 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Evidenza di livello L5. Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-metronidazole-2 -->
 
@@ -159,8 +165,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte e 5 le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide nei dati compilati» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni del prodotto risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->

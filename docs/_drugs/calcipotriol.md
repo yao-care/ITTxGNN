@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 84
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Calcipotriol: nuova indicazione prevista, Cheratosi seborroica (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (testi delle indicazioni AIFA vuot…"
 monitor_inn: "calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -87,15 +87,31 @@ Attualmente non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-Tutte le 15 autorizzazioni risultano valide (15 su 15); le forme farmaceutiche e i testi delle indicazioni non sono riportati. Si elencano le principali 5:
+Tutte le 15 autorizzazioni risultano valide (15 su 15); le forme farmaceutiche e i testi delle indicazioni non sono riportati.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 028253019 | Daivonex unguento 30 g 0,005% (LEO Pharma) | Unguento (dal nome del prodotto) | Non disponibile |
-| 037726015 | Calcipotriolo unguento 30 g 0,05 mg/g (Sandoz) | Unguento (dal nome del prodotto) | Non disponibile |
-| 028253021 | Daivonex crema 30 g 0,005% (LEO Pharma) | Crema (dal nome del prodotto) | Non disponibile |
-| 044207013 | Enstilar schiuma cutanea 60 g (calcipotriolo + betametasone) | Schiuma cutanea (dal nome del prodotto) | Non disponibile |
-| 038767024 | Xamiol gel 30 g (calcipotriolo + betametasone) | Gel (dal nome del prodotto) | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 028253019 | DAIVONEX\*ung derm 30 g 0,005% | LEO PHARMA A/S | Autorizzata |
+| 037726015 | CALCIPOTRIOLO\*ung 30 g 0,05 mg/g | SANDOZ SpA | Autorizzata |
+| 028253021 | DAIVONEX\*crema derm 30 g 0,005% | LEO PHARMA A/S | Autorizzata |
+| 047840057 | CALBETA\*ung derm 60 g 50 mcg/g + 0,5 mg/g | MIBE PHARMA ITALIA Srl | Autorizzata |
+| 044207013 | ENSTILAR\*schiuma cutanea 60 g 50 mcg/g + 0,5 mg/g | LEO PHARMA A/S | Autorizzata |
+| 046861050 | PSOTRIOL\*gel 60 g flacone 50 mcg/g + 0,5 mg/g | MIBE PHARMA ITALIA Srl | Autorizzata |
+| 049447016 | ARIBEC\*gel 30 g tubo 50 mcg/g + 0,5 mg/g | ARISTO PHARMA GMBH | Autorizzata |
+| 046861023 | PSOTRIOL\*gel 30 g flacone 50 mcg/g + 0,5 mg/g | MIBE PHARMA ITALIA Srl | Autorizzata |
+| 038767024 | XAMIOL\*gel flacone 30 g 50 mcg/g + 0,5 mg/g | LEO PHARMA A/S | Autorizzata |
+| 049447028 | ARIBEC\*gel 60 g tubo 50 mcg/g + 0,5 mg/g | ARISTO PHARMA GMBH | Autorizzata |
+| 049572023 | WYNZORA\*crema 60 g 2 tubi 50 mcg/g + 0,5 mg/g | ALMIRALL S.A. | Autorizzata |
+| 047576020 | ZORIPOT\*ung derm 30 g 50 mcg/g + 0,5 mg/g | SANDOZ SpA | Autorizzata |
+| 047840020 | CALBETA\*ung derm 30 g 50 mcg/g + 0,5 mg/g | MIBE PHARMA ITALIA Srl | Autorizzata |
+| 047576032 | ZORIPOT\*ung derm 60 g 50 mcg/g + 0,5 mg/g | SANDOZ SpA | Autorizzata |
+| 035675141 | DOVOBET\*gel derm 30 g 50 mcg/g + 0,5 mg/g | LEO PHARMA A/S | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,7 +132,7 @@ L'evidenza per la cheratosi seborroica è di livello L3, costituita da piccole s
 
 <!-- review:begin it-lic-20261106-calcipotriol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre non esistono autorizzazioni italiane valide per il calcipotriolo e i dati di sicurezza del foglio illustrativo sono assenti.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre non esistono autorizzazioni italiane valide per il calcipotriolo e i dati di sicurezza del foglio illustrativo sono assenti.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-calcipotriol-1 -->
 
@@ -136,7 +152,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «noltre non esistono autorizzazioni italiane valide per il calcipotriolo e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «noltre non esistono autorizzazioni italiane valide per il calcipotriolo e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

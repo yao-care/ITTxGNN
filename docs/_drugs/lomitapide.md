@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "LOMITAPIDE"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "platelet storage pool deficiency"]
 description: "Lomitapide: nuova indicazione prevista, Marcothrombocytopenia with mitral valve insufficiency (livello di evidenza L5). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -81,11 +81,17 @@ Attualmente nessuna pubblicazione correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 042920025 | LOJUXTA 28 capsule rigide 10 mg | Chiesi Farmaceutici SpA | Valida |
-| 042920013 | LOJUXTA 28 capsule rigide 5 mg | Chiesi Farmaceutici SpA | Valida |
-| 042920037 | LOJUXTA 28 capsule rigide 20 mg | Chiesi Farmaceutici SpA | Valida |
+|------|------|------|------|
+| 042920025 | LOJUXTA\*28 cps rigide 10 mg flacone | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 042920013 | LOJUXTA\*28 cps rigide 5 mg flacone | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 042920037 | LOJUXTA\*28 cps rigide 20 mg flacone | CHIESI FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +116,7 @@ Per le avvertenze e le controindicazioni complete, fare riferimento al foglio il
 
 <!-- review:begin it-lic-20261106-lomitapide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità) e non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre lomitapide ha un profilo di rischio importante (epatotossicità, teratogenicità) e non ha autorizzazioni valide in Italia.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lomitapide-1 -->
 
@@ -127,7 +133,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e non ha autorizzazioni valide in Italia» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e non ha autorizzazioni valide in Italia» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

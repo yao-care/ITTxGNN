@@ -273,6 +273,72 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'zuclopenthixol' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'zuclopenthixol'"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "adrenalina",
+   "file": "adrenalina.md",
+   "status": "open",
+   "claim": "Tutte le autorizzazioni elencate sono valide e relative a prodotti a singolo principio attivo.",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "amiodarone",
+   "file": "amiodarone.md",
+   "status": "open",
+   "claim": "Le autorizzazioni elencate sono tutte valide; il testo dell'indicazione approvata non è riportato nei dati locali.",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "cortisone",
+   "file": "cortisone.md",
+   "status": "open",
+   "claim": "Lo stato di mercato in Italia è \"In commercio\": l'autorizzazione elencata risulta valida.",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "clozapina",
+   "file": "clozapina.md",
+   "status": "open",
+   "claim": "Tutte le autorizzazioni registrate sono valide.",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "levofloxacin",
+   "file": "levofloxacin.md",
+   "status": "open",
+   "claim": "Per tutte le autorizzazioni elencate il testo dell'indicazione approvata non è registrato nei dati locali.",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
+  },
+  {
+   "source": "程式許可證表取代舊表後仍描述「表上列出的許可」的句子（scripts/sync_license_tables.py，2026-11-24）",
+   "drug": "levofloxacin",
+   "file": "levofloxacin.md",
+   "status": "open",
+   "claim": "- Verifica della compatibilità delle vie di somministrazione, poiché le autorizzazioni locali elencate sono compresse orali",
+   "reason": "status-of-listed",
+   "added": "2026-11-24",
+   "record_ids": [],
+   "note": "市場段落的表已改成程式表（列出證據包全部紀錄），這句講「表上列出的許可」的狀態或劑型；2026-11-24 對照證據包與事實層仍成立，但沒有數字可由程式改寫，事實變動時不會自動跟著改（checker M3 會擋）。"
   }
  ]
 }

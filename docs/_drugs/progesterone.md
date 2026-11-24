@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 364
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROGESTERONE"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: nuova indicazione prevista, Malattia fibrocistica della mammella (breast fibrocystic disease) (livello di evidenza L4). In Italia, confezioni AIFA: 7 (autorizzate: 7)"
@@ -83,13 +83,21 @@ Attualmente non risultano studi clinici registrati correlati.
 
 Il progesterone risulta commercializzato in Italia, con licenze valide per prodotti a base di solo progesterone. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati locali.
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 032132033 | CRINONE gel vaginale 15 applicatori 8% (Merck Serono) | Gel vaginale | Autorizzazione valida |
-| 035042011 | PROGEFFIK 30 capsule molli orali o vaginali 100 mg (Effik Italia) | Capsule molli | Autorizzazione valida |
-| 005239052 | PRONTOGEST 3 fiale IM 100 mg/1 ml (IBSA) | Fiale intramuscolo | Autorizzazione valida |
-| 044825026 | AMELGEN 15 ovuli vaginali 400 mg (Gedeon Richter) | Ovuli vaginali | Autorizzazione valida |
-| 035042035 | PROGEFFIK 15 capsule molli orali o vaginali 200 mg (Effik Italia) | Capsule molli | Autorizzazione valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 032132033 | CRINONE\*gel vag 15 applic 8% | MERCK SERONO SpA | Autorizzata |
+| 035042011 | PROGEFFIK\*30 cps molli orali o vaginali 100 mg | EFFIK ITALIA SpA | Autorizzata |
+| 005239052 | PRONTOGEST\*3 fiale IM 100 mg 1 ml | IBSA FARMACEUTICI ITALIA Srl | Autorizzata |
+| 044825026 | AMELGEN\*15 ovuli vag 400 mg | GEDEON RICHTER PLC | Autorizzata |
+| 035042035 | PROGEFFIK\*15 cps molli orali o vaginali 200 mg | EFFIK ITALIA SpA | Autorizzata |
+| 029538028 | PROMETRIUM\*15 cps molli orali o vaginali 200 mg | BESINS HEALTHCARE IRELAND | Autorizzata |
+| 029538016 | PROMETRIUM\*30 cps molli orali o vaginali 100 mg | BESINS HEALTHCARE IRELAND | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

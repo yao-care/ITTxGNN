@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 459
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Valsartan: nuova indicazione prevista, Malattia renale ipertensiva maligna (livello di evidenza L4). Indicazione originale: Ipertensione (disturbo ipertensivo)"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -97,13 +97,35 @@ Le principali:
 
 <!-- review:end it-lic-20261106-valsartan-1 -->
 
-| N. autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 040782031 | Valsartan 80 mg, 28 cpr rivestite | EG SpA | Valida |
-| 040225043 | Valsartan 80 mg, 28 cps | Mylan SpA | Valida |
-| 039810066 | Valsartan 160 mg, 28 cpr rivestite | Laboratori Alter Srl | Valida |
-| 033178942 | Tareg 160 mg, 28 cpr rivestite | Novartis Farma SpA | Valida |
-| 033119138 | Valpression 40 mg, 14 cpr rivestite | A. Menarini Ind. Farm. Riun. Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040782031 | VALSARTAN\*28 cpr rivestite 80 mg | EG SpA | Autorizzata |
+| 040225043 | VALSARTAN\*28 cps 80 mg | MYLAN SpA | Autorizzata |
+| 039810066 | VALSARTAN\*28 cpr rivestite 160 mg | LABORATORI ALTER Srl | Autorizzata |
+| 039815372 | VALSARTAN\*28 cpr rivestite 320 mg | DOC GENERICI Srl | Autorizzata |
+| 041849098 | VALSARTAN\*28 cpr rivestite 80 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040723126 | VALSARTAN\*28 cpr rivestite 160 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041076011 | VALSARTAN\*14 cpr rivestite 40 mg | ALMUS Srl | Autorizzata |
+| 040723076 | VALSARTAN\*28 cpr rivestite 80 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041104098 | VALSARTAN\*28 cpr rivestite 80 mg | HCS BV | Autorizzata |
+| 040782120 | VALSARTAN\*28 cpr rivestite 160 mg | EG SpA | Autorizzata |
+| 041076100 | VALSARTAN\*28 cpr rivestite 160 mg | ALMUS Srl | Autorizzata |
+| 033119138 | VALPRESSION\*14 cpr rivestite 40 mg | A.MENARINI IND.FARM.RIUN.Srl | Autorizzata |
+| 033178942 | TAREG\*28 cpr rivestite 160 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 040318077 | VALSARTAN\*28 cpr rivestite 160 mg | SANDOZ SpA | Autorizzata |
+| 040723189 | VALSARTAN\*28 cpr rivestite 320 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 041168105 | PRESSLOVAL\*28 cpr rivestite 160 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041129204 | ALSARTIR\*28 cpr rivestite div 160 mg | EG SpA | Autorizzata |
+| 041104151 | VALSARTAN\*28 cpr rivestite 160 mg | HCS BV | Autorizzata |
+| 034776878 | RIXIL\*28 cpr rivestite 160 mg | SANDOZ SpA | Autorizzata |
+| 040723013 | VALSARTAN\*14 cpr rivestite 40 mg | ZENTIVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 Le forme farmaceutiche e i testi delle indicazioni approvate non sono disponibili nei dati compilati.
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 description: "Morphine: nuova indicazione prevista, sindrome miofasciale dolorosa (myofascial pain syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 9 (autorizzate: 9)"
@@ -77,15 +77,25 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-Risultano 9 autorizzazioni, tutte valide; l'elenco comprende le principali:
+Risultano 9 autorizzazioni, tutte valide.
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029611035 | Morfina cloridrato, 5 fiale 20 mg/1 ml (Molteni) | Fiale | Non disponibile (valida) |
-| 030798021 | Morfina cloridrato, 5 fiale SC IM EV 20 mg/1 ml (Monico) | Fiale | Non disponibile (valida) |
-| 030677013 | Morfina cloridrato, 5 fiale 10 mg/1 ml (SALF) | Fiale | Non disponibile (valida) |
-| 030677025 | Morfina cloridrato, 5 fiale 20 mg/1 ml (SALF) | Fiale | Non disponibile (valida) |
-| 030798033 | Morfina cloridrato, 1 fiala SC IM EV 10 mg/1 ml (Monico) | Fiale | Non disponibile (valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029611035 | MORFINA CLORIDRATO\*5 fiale 20 mg 1 ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 030798021 | MORFINA CLORIDRATO\*5 fiale SC IM EV 20 mg 1 ml | MONICO SpA | Autorizzata |
+| 030677013 | MORFINA CLORIDRATO\*5 fiale 10 mg 1 ml | SALF SpA | Autorizzata |
+| 030677025 | MORFINA CLORIDRATO\*5 fiale 20 mg 1 ml | SALF SpA | Autorizzata |
+| 030798033 | MORFINA CLORIDRATO\*1 fiala SC IM EV 10 mg 1 ml | MONICO SpA | Autorizzata |
+| 030798045 | MORFINA CLORIDRATO\*1 fiala SC IM EV 20 mg 1 ml | MONICO SpA | Autorizzata |
+| 029611023 | MORFINA CLORIDRATO\*5 fiale 10 mg 1 ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 029611124 | MORFINA CLORIDRATO\*1 fiala 50 mg 5 ml | MOLTENI & C. F.LLI ALITTI SpA | Autorizzata |
+| 030798019 | MORFINA CLORIDRATO\*5 fiale SC IM EV 10 mg 1 ml | MONICO SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

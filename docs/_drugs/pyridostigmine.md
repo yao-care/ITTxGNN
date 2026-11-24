@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
 description: "Pyridostigmine: nuova indicazione prevista, Autoimmune disease of peripheral nervous system (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -86,10 +86,16 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 009286042 | MESTINON*50 cpr 180 mg rilascio prolungato (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione valida) |
-| 009286016 | MESTINON*20 cpr 60 mg (Viatris Healthcare Limited) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 009286042 | MESTINON\*50 cpr 180 mg rilascio prolungato | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 009286016 | MESTINON\*20 cpr 60 mg | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,7 +117,7 @@ Il meccanismo sintomatico della piridostigmina è consolidato nella miastenia gr
 
 <!-- review:begin it-lic-20261106-pyridostigmine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati. Inoltre in Italia non esistono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tuttavia le evidenze specifiche per questo sottotipo sono limitate a revisioni, casi clinici e uno studio di coorte, senza studi dedicati. Inoltre in Italia non esistono attualmente autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pyridostigmine-1 -->
 
@@ -123,7 +129,7 @@ Il meccanismo sintomatico della piridostigmina è consolidato nella miastenia gr
 
 <!-- review:begin it-lic-20261106-pyridostigmine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarimento dello status regolatorio in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarimento dello status regolatorio in Italia, dato che le due autorizzazioni risultano revocate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pyridostigmine-2 -->
 
@@ -135,8 +141,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre in Italia non esistono attualmente autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre in Italia non esistono attualmente autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che le due autorizzazioni risultano revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

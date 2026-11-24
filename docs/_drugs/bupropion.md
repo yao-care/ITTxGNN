@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bupropion: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L1). Indicazione originale: Non riportata nei d…"
 ---
 
@@ -86,13 +86,24 @@ I dati compilati per questo report non contengono una descrizione dettagliata de
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037685029 | WELLBUTRIN 30 cpr 150 mg rilascio modificato flacone | — | — |
-| 043095013 | BUPROPIONE 30 cpr 150 mg rilascio modificato flacone | — | — |
-| 037697024 | ELONTRIL 30 cpr 150 mg rilascio modificato flacone | — | — |
-| 049922026 | BUPROPIONE 30 cpr 300 mg rilascio modificato | — | — |
-| 037685056 | WELLBUTRIN 30 cpr 300 mg rilascio modificato flacone | — | — |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037685029 | WELLBUTRIN\*30 cpr 150 mg rilascio modificato flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 043095013 | BUPROPIONE\*30 cpr 150 mg rilascio modificato flacone | SANDOZ SpA | Autorizzata |
+| 037697024 | ELONTRIL\*30 cpr 150 mg rilascio modificato flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 049922026 | BUPROPIONE\*30 cpr 300 mg rilascio modificato | ZENTIVA ITALIA Srl | Autorizzata |
+| 037685056 | WELLBUTRIN\*30 cpr 300 mg rilascio modificato flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 049440011 | WELLBUTRIN\*30 cpr 150 mg rilascio modificato flacone | GMM FARMA Srl | Autorizzata |
+| 050147026 | WELLBUTRIN\*30 cpr 150 mg rilascio modificato flacone | BB FARMA Srl | Autorizzata |
+| 048268015 | BUPROPIONE\*30 cpr 150 mg rilascio modificato flacone | DOC GENERICI Srl | Autorizzata |
+| 037697051 | ELONTRIL\*30 cpr 300 mg rilascio modificato flacone | GLAXOSMITHKLINE SpA | Autorizzata |
+| 048234013 | BUPROPIONE\*30 cpr 150 mg rilascio modificato flacone | TEVA B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

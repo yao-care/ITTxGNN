@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: nuova indicazione prevista, Obsolete bundle branch block (livello di evidenza L5). In Italia, confezioni AIFA: 12 (autorizzate: 12)"
@@ -80,21 +80,34 @@ Attualmente non è disponibile alcuna letteratura correlata al blocco di branca.
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati. Si elencano le prime 5:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.
 
 <!-- review:begin it-lic-20261106-verapamil-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono riportati nei dati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-verapamil-1 -->
 
-| Numero di autorizzazione | Prodotto | Titolare | Stato |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
 |------|------|------|------|
-| 034255048 | Verapamil 240 mg, 30 capsule a rilascio prolungato | DOC Generici Srl | Valida |
-| 032100036 | Verapamil 240 mg, 30 compresse a rilascio modificato | EG SpA | Valida |
-| 020609071 | Isoptin, 5 fiale EV 5 mg/2 ml | Viatris Italia Srl | Valida |
-| 032100024 | Verapamil 120 mg, 30 compresse a rilascio modificato | EG SpA | Valida |
-| 020609044 | Isoptin 120 mg, 30 compresse a rilascio prolungato | Viatris Italia Srl | Valida |
+| 034255048 | VERAPAMIL\*30 cps 240 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 032100036 | VERAPAMIL\*30 cpr 240 mg rilascio modificato | EG SpA | Autorizzata |
+| 020609071 | ISOPTIN\*5 fiale EV 5 mg 2 ml | VIATRIS ITALIA Srl | Autorizzata |
+| 032100024 | VERAPAMIL\*30 cpr 120 mg rilascio modificato | EG SpA | Autorizzata |
+| 020609044 | ISOPTIN\*30 cpr 120 mg rilascio prolungato | VIATRIS ITALIA Srl | Autorizzata |
+| 020609018 | ISOPTIN\*30 cpr rivestite 40 mg | VIATRIS ITALIA Srl | Autorizzata |
+| 020609095 | ISOPTIN\*30 cpr 180 mg rilascio prolungato | VIATRIS ITALIA Srl | Autorizzata |
+| 031228012 | VERAPAMIL\*30 cpr rivestite 80 mg | SANDOZ SpA | Autorizzata |
+| 031228024 | VERAPAMIL\*30 cpr rivestite 120 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 034255036 | VERAPAMIL\*30 cps 120 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 020609069 | ISOPTIN\*30 cpr 240 mg rilascio prolungato | VIATRIS ITALIA Srl | Autorizzata |
+| 020609083 | ISOPTIN\*30 cpr rivestite 80 mg | VIATRIS ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -117,7 +130,7 @@ La previsione per il blocco di branca non ha alcun supporto clinico o bibliograf
 
 <!-- review:begin it-lic-20261106-verapamil-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per il blocco di branca non ha alcun supporto clinico o bibliografico (L5), il meccanismo del verapamil è potenzialmente sfavorevole per i difetti di conduzione e il termine di malattia è obsoleto. Inoltre, in Italia non esistono autorizzazioni valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-verapamil-2 -->
 
@@ -129,7 +142,7 @@ La previsione per il blocco di branca non ha alcun supporto clinico o bibliograf
 
 <!-- review:begin it-lic-20261106-verapamil-3 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Chiarire lo stato regolatorio attuale del verapamil in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 12 autorizzazioni per questo farmaco, di cui 12 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Chiarire lo stato regolatorio attuale del verapamil in Italia (autorizzazioni tutte cancellate)» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-verapamil-3 -->
 
@@ -141,9 +154,9 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 12 autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «(autorizzazioni tutte cancellate)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

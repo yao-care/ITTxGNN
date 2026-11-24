@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "formoterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Formoterol: nuova indicazione prevista, Respiratory malformation (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -99,13 +99,35 @@ Di seguito le 5 principali:
 
 <!-- review:end it-lic-20261106-formoterol-1 -->
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 037316066 | Formoterolo Viatris Novolizer, polvere per inalazione 60 dosi 12 mcg | Viatris Healthcare Limited | Valida |
-| 035791058 | Atimos, soluzione per inalazione 100 erogazioni 12 mcg | Chiesi Farmaceutici SpA | Valida |
-| 027660075 | Foradil, polvere per inalazione 60 capsule 12 mcg | Sandoz SpA | Valida |
-| 033312012 | Oxis Turbohaler 4,5, polvere per inalazione 60 dosi | AstraZeneca SpA | Valida |
-| 037798016 | Inuver, soluzione per inalazione 120 erogazioni 100 mcg + 6 mcg (con beclometasone) | Chiesi Farmaceutici SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037316066 | FORMOTEROLO VIATRIS NOVOLIZER\*polv inal 60 dosi 12 mcg 1 inalatore + 1 cartuccia | VIATRIS HEALTHCARE LIMITED | Autorizzata |
+| 035791058 | ATIMOS\*soluz inal 100 erogazioni 12 mcg | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 036215010 | FORMOTEROLO\*polv inal 60 cps 12 mcg + erogatore | EG SpA | Autorizzata |
+| 036213015 | FORTASINT\*polv inal 60 cps 12 mcg + erogatore | S.F. GROUP Srl | Autorizzata |
+| 036210021 | LEVOVENT\*polv inal 100 cps 12 mcg + erogatore | GENETIC SpA | Autorizzata |
+| 036939066 | KUROVENT\*polv inal 60 cps 12 mcg + inalatore | ITALCHIMICI SpA | Autorizzata |
+| 036213027 | FORTASINT\*polv inal 100 cps 12 mcg + erogatore | S.F. GROUP Srl | Autorizzata |
+| 033312012 | OXIS TURBOHALER 4,5\*polv inal 60 dosi 4,5 mcg/dose | ASTRAZENECA SpA | Autorizzata |
+| 027660075 | FORADIL\*polv inal 60 cps 12 mcg | SANDOZ SpA | Autorizzata |
+| 033312024 | OXIS TURBOHALER\*polv inal 60 dosi 9 mcg/dose | ASTRAZENECA SpA | Autorizzata |
+| 035793052 | LIFEROL\*soluz inal 100 erogazioni 12 mcg | MASTER PHARMA Srl | Autorizzata |
+| 036210019 | LEVOVENT\*polv inal 60 cps 12 mcg + erogatore | GENETIC SpA | Autorizzata |
+| 036218028 | FOROTAN\*polv inal 100 cps 12 mcg + erogatore | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 037778077 | FORMODUAL\*soluz inal 120 erogazioni 200 mcg + 6 mcg | PROMEDICA Srl | Autorizzata |
+| 050213014 | BECLOMETASONE E FORMOTEROLO\*soluz inal 120 erogazioni 100 mcg + 6 mcg | DOC GENERICI Srl | Autorizzata |
+| 051667018 | BECLOMETASONE E FORMOTEROLO\*inalazioni 120 erogazioni 100 mcg + 6 mcg | GENETIC SpA | Autorizzata |
+| 037798016 | INUVER\*soluz inal 120 erogazioni 100 mcg + 6 mcg | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 051859015 | BECLOMETASONE E FORMOTEROLO\*soluzione pressurizzata per inalazione 120 erogazioni 100 mcg… | EG SpA | Autorizzata |
+| 037778038 | FORMODUAL\*polv inal 120 dosi 100 mcg + 6 mcg nexthaler | PROMEDICA Srl | Autorizzata |
+| 037798030 | INUVER\*polv inal 120 dosi 100 mcg + 6 mcg | CHIESI FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

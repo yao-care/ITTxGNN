@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5)."
@@ -74,13 +74,36 @@ Al momento non risultano studi clinici correlati registrati.
 
 Elenco parziale: i dati compilati per questo report potrebbero non comprendere tutte le autorizzazioni. Per tutte le autorizzazioni elencate il testo dell'indicazione approvata non è registrato nei dati locali.
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 033634039 | TAVANIC 5 cpr rivestite 500 mg | Sanofi Srl | Valida |
-| 040039024 | Levofloxacina 5 cpr rivestite 500 mg | Zentiva Italia Srl | Valida |
-| 040219139 | Levofloxacina 5 cpr rivestite 500 mg | Sandoz SpA | Valida |
-| 039686136 | Levofloxacina 5 cpr rivestite div 500 mg | Teva Italia Srl | Valida |
-| 040361053 | FALEV 5 cpr rivestite 500 mg | Lanova Farmaceutici Srl | Valida |
+|------|------|------|------|
+| 040039024 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 040362028 | LEVOXIGRAM\*5 cpr rivestite 250 mg | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 040043022 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | DOC GENERICI Srl | Autorizzata |
+| 040050027 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 040048023 | LEMAXIL\*5 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 039686136 | LEVOFLOXACINA\*5 cpr rivestite div 500 mg | TEVA ITALIA Srl | Autorizzata |
+| 044492027 | LEVOFLOXACINA\*5 cpr rivestite 250 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040219139 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | SANDOZ SpA | Autorizzata |
+| 040194021 | ARANDA\*5 cpr rivestite 250 mg | EG SpA | Autorizzata |
+| 040355024 | SINEFLOX\*5 cpr rivestite 500 mg | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 040047021 | SUMMAFLOX\*5 cpr rivestite div 500 mg | AGIPS FARMACEUTICI Srl | Autorizzata |
+| 040941155 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 033634039 | TAVANIC\*5 cpr rivestite 500 mg | SANOFI Srl | Autorizzata |
+| 040219038 | LEVOFLOXACINA\*5 cpr rivestite 250 mg | SANDOZ SpA | Autorizzata |
+| 040361053 | FALEV\*5 cpr rivestite 500 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 040361065 | FALEV\*7 cpr rivestite 500 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 044492078 | LEVOFLOXACINA\*5 cpr rivestite 500 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040041028 | GRAY\*5 cpr rivestite 500 mg | AURORA BIOFARMA Srl | Autorizzata |
+| 040521027 | KLEKTICA\*5 cpr rivestite 500 mg | S.F. GROUP Srl | Autorizzata |
+| 040046017 | LEVOFLOXACINA\*5 cpr rivestite 250 mg | ABC FARMACEUTICI SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

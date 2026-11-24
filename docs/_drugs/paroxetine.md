@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine: nuova indicazione prevista, Sindrome di Ohdo e varianti (Ohdo syndrome and variants) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -78,13 +78,35 @@ Di seguito le principali 5 (il testo dell'indicazione approvata e la forma farma
 
 <!-- review:end it-lic-20261106-paroxetine-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 027965033 | Sereupin, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Valida |
-| 027964030 | Eutimil, 28 cpr rivestite 20 mg | GlaxoSmithKline SpA | Valida |
-| 035444037 | Daparox, 28 cpr rivestite 20 mg | Angelini SpA | Valida |
-| 036063055 | Dropaxin, gocce orali 60 ml 10 mg/ml | Italfarmaco SpA | Valida |
-| 037870019 | Dapagut, gocce orali 18,5 ml 33,1 mg/ml | Angelini SpA | Valida |
+|------|------|------|------|
+| 048178040 | PAROXETINA\*28 cpr rivestite 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 036063055 | DROPAXIN\*orale gtt 60 ml 10 mg/ml | ITALFARMACO SpA | Autorizzata |
+| 050729019 | PAROXETINA\*28 cpr rivestite 20 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 038932048 | PAROXETINA\*28 cpr rivestite 20 mg | ALMUS Srl | Autorizzata |
+| 037870019 | DAPAGUT\*orale gtt 18,5 ml 33,1 mg/ml | ANGELINI SpA | Autorizzata |
+| 027965033 | SEREUPIN\*28 cpr rivestite 20 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 046288015 | PAROXETINA\*orale gtt 60 ml 10 mg/ml | TEVA ITALIA Srl | Autorizzata |
+| 035449192 | PAROXETINA\*28 cpr rivestite 20 mg | MYLAN SpA | Autorizzata |
+| 046286011 | PAROXETINA\*orale gtt 60 ml 10 mg/ml | PHARMACARE Srl | Autorizzata |
+| 027964030 | EUTIMIL\*28 cpr rivestite 20 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 047171018 | ECUTIN\*orale gtt 60 ml 10 mg/ml | ECUPHARMA Srl | Autorizzata |
+| 035444037 | DAPAROX\*28 cpr rivestite 20 mg | ANGELINI SpA | Autorizzata |
+| 050148016 | DAPAROX\*orale gtt 18,5 ml 33,1 mg/ml | FARMA 1000 Srl | Autorizzata |
+| 049441013 | DAPAROX\*orale gtt 18,5 ml 33,1 mg/ml | GMM FARMA Srl | Autorizzata |
+| 051069045 | PAROXETINA\*28 cpr rivestite 20 mg | TEVA B.V. | Autorizzata |
+| 040172025 | PAROXETINA\*28 cpr rivestite 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036614067 | PAROXETINA\*28 cpr rivestite 20 mg | SANDOZ SpA | Autorizzata |
+| 049970015 | PAROXETINA\*orale gtt 60 ml 10 mg/ml | EG SpA | Autorizzata |
+| 035700119 | PAROXETINA\*28 cpr rivestite 20 mg | EG SpA | Autorizzata |
+| 036874055 | PAROXETINA\*28 cpr rivestite 20 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

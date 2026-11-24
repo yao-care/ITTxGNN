@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -72,10 +72,16 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 003785033 | DOBETIN*5 fiale SC IM 1.000 mcg 1 ml | Non indicata | Non indicata |
-| 003785058 | DOBETIN*orale gtt 15 ml 20 mcg/ml | Non indicata | Non indicata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 003785033 | DOBETIN\*5 fiale SC IM 1.000 mcg 1 ml | ANGELINI SpA | Autorizzata |
+| 003785058 | DOBETIN\*orale gtt 15 ml 20 mcg/ml | ANGELINI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

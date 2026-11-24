@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metoprolol: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
 ---
 
@@ -86,15 +86,31 @@ Le evidenze sono contrastanti. Lo studio BLOCK-COPD (NCT02587351) è stato inter
 
 ## Informazioni sul mercato italiano
 
-Sono presenti 15 autorizzazioni valide, tutte per prodotti a singolo principio attivo. Il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati compilati. Le prime 5 sono:
+Sono presenti 15 autorizzazioni valide, tutte per prodotti a singolo principio attivo. Il testo delle indicazioni autorizzate e la forma farmaceutica non sono riportati nei dati compilati.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 041704038 | Metoprololo 100 mg, 30 compresse rivestite | Aurobindo Pharma Italia Srl | Non disponibile |
-| 029036098 | Metoprololo 100 mg, 30 compresse | EG SpA | Non disponibile |
-| 023616028 | Seloken 100 mg, 50 compresse | Recordati SpA | Non disponibile |
-| 032019034 | Metoprololo 200 mg, 28 compresse a rilascio prolungato | Sandoz SpA | Non disponibile |
-| 023610013 | Lopresor 100 mg, 30 compresse rivestite | Bruno Farmaceutici SpA | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041704038 | METOPROLOLO\*30 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 029036098 | METOPROLOLO\*30 cpr 100 mg | EG SpA | Autorizzata |
+| 023616028 | SELOKEN\*50 cpr 100 mg | RECORDATI SpA | Autorizzata |
+| 032019034 | METOPROLOLO\*28 cpr 200 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 029036050 | METOPROLOLO\*50 cpr 100 mg | EG SpA | Autorizzata |
+| 041704040 | METOPROLOLO\*50 cpr rivestite 100 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 023616042 | SELOKEN\*28 cpr 200 mg rilascio prolungato | RECORDATI SpA | Autorizzata |
+| 029036062 | METOPROLOLO\*100 cpr 100 mg | EG SpA | Autorizzata |
+| 023610013 | LOPRESOR\*30 cpr rivestite 100 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 029036074 | METOPROLOLO\*50 cpr 200 mg rilascio prolungato | EG SpA | Autorizzata |
+| 035054028 | METOPROLOLO\*100 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 035054016 | METOPROLOLO\*50 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 023610025 | LOPRESOR\*28 cpr 200 mg rilascio prolungato | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 035054055 | METOPROLOLO\*30 cpr 100 mg | DOC GENERICI Srl | Autorizzata |
+| 032019010 | METOPROLOLO\*30 cpr 100 mg | SANDOZ SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

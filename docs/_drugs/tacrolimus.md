@@ -5,7 +5,7 @@ parent: Prove elevate (L1-L2)
 nav_order: 417
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: nuova indicazione prevista, Dermatite seborroica (seborrheic dermatitis) (livello di evidenza L1). In Italia, confezioni AIFA: almeno 20"
@@ -96,13 +96,35 @@ Si precisa che questo collegamento meccanicistico si basa sulla farmacologia gen
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035575036 | PROTOPIC unguento dermatologico 30 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
-| 035575051 | PROTOPIC unguento dermatologico 10 g 0,03% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
-| 035575063 | PROTOPIC unguento dermatologico 10 g 0,1% (LEO Pharma) | Unguento | Non disponibile (autorizzazione valida) |
-| 043815048 | CARELIMUS unguento dermatologico 10 g 0,1% (Difa Cooper) | Unguento | Non disponibile (autorizzazione valida) |
-| 029485048 | PROGRAF 30 cps 5 mg (Astellas) | Capsule | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 041180466 | ADOPORT\*30 cps 2 mg | SANDOZ SpA | Autorizzata |
+| 029485048 | PROGRAF\*30 cps 5 mg | ASTELLAS PHARMA SpA | Autorizzata |
+| 047885076 | CONFEROPORT\*30 cps 2 mg rilascio prolungato blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 029485075 | PROGRAF\*60 cps 1 mg | ASTELLAS PHARMA SpA | Autorizzata |
+| 045865223 | TACFORIUS\*30x1 cpS 5 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+| 047885025 | CONFEROPORT\*30 cps 0,5 mg rilascio prolungato blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 040254029 | TACNI\*30 cps 0,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 047885114 | CONFEROPORT\*30 cps 5 mg rilascio prolungato blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 047885052 | CONFEROPORT\*60 cps 1 mg rilascio prolungato blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 035575036 | PROTOPIC\*ung derm 30 g 0,1% | LEO PHARMA A/S | Autorizzata |
+| 041180062 | ADOPORT\*30 cps 0,5 mg | SANDOZ SpA | Autorizzata |
+| 038218057 | ADVAGRAF\*60 cps 1 mg rilascio prolungato | ASTELLAS PHARMA EUROPE B.V. | Autorizzata |
+| 040254169 | TACNI\*30 cps 5 mg | TEVA ITALIA Srl | Autorizzata |
+| 045865161 | TACFORIUS\*30x1 cpS 3 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+| 035575051 | PROTOPIC\*ung derm 10 g 0,03% | LEO PHARMA A/S | Autorizzata |
+| 047885090 | CONFEROPORT\*30 cps 3 mg rilascio prolungato blister divisibile per dose unitaria | SANDOZ SpA | Autorizzata |
+| 035575063 | PROTOPIC\*ung derm 10 g 0,1% | LEO PHARMA A/S | Autorizzata |
+| 043531019 | ENVARSUS\*30 cpr 0,75 mg rilascio prolungato | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 043815048 | CARELIMUS\*ung derm 10 g 0,1% | DIFA COOPER SpA | Autorizzata |
+| 045865122 | TACFORIUS\*60x1 cps 1 mg rilascio prolungato | TEVA B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 La disponibilità effettiva dei prodotti deve essere verificata.
 

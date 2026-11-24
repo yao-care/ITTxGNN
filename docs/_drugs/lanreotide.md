@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 description: "Lanreotide: nuova indicazione prevista, Ipertricosi (hypertrichosis (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 6)"
@@ -71,19 +71,26 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 029399110 | IPSTYL siringa SC 60 mg | Ipsen SpA | Valida |
-| 029399122 | IPSTYL siringa SC 90 mg | Ipsen SpA | Valida |
-| 029399134 | IPSTYL siringa SC 120 mg | Ipsen SpA | Valida |
-| 048001010 | MYRELEZ siringa SC 60 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
-| 048001022 | MYRELEZ siringa SC 90 mg + ago con dispositivo di sicurezza | Amdipharm Ltd | Valida |
+|------|------|------|------|
+| 048001022 | MYRELEZ\*1 siringa SC 90 mg + ago con dispositivo di sicurezza | AMDIPHARM LTD | Autorizzata |
+| 029399122 | IPSTYL\*1 siringa SC 90 mg | IPSEN SpA | Autorizzata |
+| 029399110 | IPSTYL\*1 siringa SC 60 mg | IPSEN SpA | Autorizzata |
+| 048001010 | MYRELEZ\*1 siringa SC 60 mg + ago con dispositivo di sicurezza | AMDIPHARM LTD | Autorizzata |
+| 048001034 | MYRELEZ\*1 siringa SC 120 mg + ago con dispositivo di sicurezza | AMDIPHARM LTD | Autorizzata |
+| 029399134 | IPSTYL\*1 siringa SC 120 mg | IPSEN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-lanreotide-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd). Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd). Le forme farmaceutiche e il testo delle indicazioni approvate non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lanreotide-1 -->
 
@@ -103,7 +110,7 @@ La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, sen
 
 <!-- review:begin it-lic-20261106-lanreotide-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 6 autorizzazioni per questo farmaco, di cui 6 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione per l'ipertricosi (punteggio 0,9997) si basa solo sul modello, senza studi clinici né pubblicazioni (livello L5). Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lanreotide-2 -->
 
@@ -121,8 +128,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «È presente una sesta autorizzazione cancellata (MYRELEZ 120 mg, n. 048001034, Amdipharm Ltd)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le informazioni di sicurezza ufficiali non sono state acquisite» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d) |
 
 <!-- review:end log -->

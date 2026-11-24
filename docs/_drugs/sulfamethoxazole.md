@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: nuova indicazione prevista, Congiuntivite contagiosa acuta (acute contagious conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -71,10 +71,16 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 028313029 | BACTRIM PERFUSIONE*5 fiale EV 80 mg/5 ml + 400 mg/5 ml (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione valida) |
-| 021978046 | BACTRIM*16 cpr 160 mg + 800 mg (EUMEDICA PHARMACEUTICALS GmbH) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 028313029 | BACTRIM PERFUSIONE\*5 fiale EV 80 mg/5 ml + 400 mg/5 ml | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+| 021978046 | BACTRIM\*16 cpr 160 mg + 800 mg | EUMEDICA PHARMACEUTICALS GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 
@@ -96,7 +102,7 @@ La congiuntivite è già tra le indicazioni originali, quindi la previsione non 
 
 <!-- review:begin it-lic-20261106-sulfamethoxazole-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva) e tutte le autorizzazioni italiane sono cancellate, il che limita la rilevanza pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le prove sono scarse (nessuno studio clinico, una sola coorte retrospettiva) e tutte le autorizzazioni italiane sono cancellate, il che limita la rilevanza pratica.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-sulfamethoxazole-1 -->
 
@@ -115,7 +121,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte (rivisto il 2026-11-20; versione precedente conservata nel registro) | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
 
 <!-- review:end log -->

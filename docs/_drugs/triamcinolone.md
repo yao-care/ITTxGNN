@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 451
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "TRIAMCINOLONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Triamcinolone: nuova indicazione prevista, Alopecia mucinosa (livello di evidenza L4). In Italia, confezioni AIFA: 3 (autorizzate: 3)"
@@ -81,11 +81,17 @@ Attualmente non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 013972056 | KENACORT, 3 flaconcini sospensione iniettabile 40 mg/1 ml (Bristol-Myers Squibb) | Non indicata | Non disponibile (autorizzazione valida) |
-| 034262016 | TRIAMVIRGI, 3 flaconcini soluzione iniettabile 40 mg/1 ml (Fisiopharma) | Non indicata | Non disponibile (autorizzazione valida) |
-| 033919010 | TRIACORT, 3 fiale 40 mg/1 ml (Pharmatex Italia) | Non indicata | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 013972056 | KENACORT\*3 flaconcini sosp iniett 40 mg 1 ml | BRISTOL-MYERS SQUIBB Srl | Autorizzata |
+| 034262016 | TRIAMVIRGI\*3 flaconcini soluz iniett 40 mg 1 ml | FISIOPHARMA Srl | Autorizzata |
+| 033919010 | TRIACORT\*3 fiale 40 mg 1 ml | PHARMATEX ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +116,7 @@ La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche
 
 <!-- review:begin it-lic-20261106-triamcinolone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le uniche evidenze sono due casi clinici datati o non pertinenti al triamcinolone, non esistono studi clinici e le autorizzazioni italiane sono tutte cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-triamcinolone-1 -->
 
@@ -122,7 +128,7 @@ La predizione si basa quasi esclusivamente sul modello computazionale. Le uniche
 
 <!-- review:begin it-lic-20261106-triamcinolone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 3 autorizzazioni per questo farmaco, di cui 3 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione della disponibilità di formulazioni adatte alla via di somministrazione richiesta, dato che in Italia non risultano autorizzazioni valide» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-triamcinolone-2 -->
 
@@ -150,8 +156,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «e le autorizzazioni italiane sono tutte cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che in Italia non risultano autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

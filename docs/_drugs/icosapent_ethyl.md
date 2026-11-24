@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "icosapent ethyl"
 predicted_indications: ["hemoglobinopathy"]
 description: "Icosapent Ethyl: nuova indicazione prevista, Emoglobinopatia (hemoglobinopathy) (livello di evidenza L5). In Italia, confezioni AIFA: 1 (autorizzate: 1)"
@@ -68,15 +68,21 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 049428016 | VAZKEPA*120 cps molli 998 mg flacone | Amarin Pharma Ireland Limited | Valida |
+|------|------|------|------|
+| 049428016 | VAZKEPA\*120 cps molli 998 mg flacone | AMARIN PHARMAC IRELAND LIMITED | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
 <!-- review:begin it-lic-20261106-icosapent_ethyl-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Non esistono autorizzazioni attualmente valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Non esistono autorizzazioni attualmente valide.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-icosapent_ethyl-1 -->
 
@@ -93,7 +99,7 @@ La predizione si fonda esclusivamente su un punteggio TxGNN elevato (livello di 
 
 <!-- review:begin it-lic-20261106-icosapent_ethyl-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo, il che impedisce di proseguire con la valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre l'unica autorizzazione italiana è cancellata e mancano i dati di sicurezza dal foglio illustrativo, il che impedisce di proseguire con la valutazione di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-icosapent_ethyl-2 -->
 
@@ -112,8 +118,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Non esistono autorizzazioni attualmente valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Non esistono autorizzazioni attualmente valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre l'unica autorizzazione italiana è cancellata e m» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

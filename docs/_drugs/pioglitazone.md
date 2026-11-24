@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PIOGLITAZONE"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Pioglitazone: nuova indicazione prevista, Opsismodisplasia (opsismodysplasia) (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
@@ -76,13 +76,29 @@ Per completezza, per la quarta indicazione prevista, l'agenesia pancreatica, son
 
 Il testo dell'indicazione approvata non è disponibile.
 
-| N. autorizzazione | Prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 034946018 | ACTOS 28 cpr 15 mg | Cheplapharm Arzneimittel GmbH | Valida |
-| 034946044 | ACTOS 28 cpr 30 mg | Cheplapharm Arzneimittel GmbH | Valida |
-| 034946121 | ACTOS 28 cpr 45 mg | Cheplapharm Arzneimittel GmbH | Valida |
-| 040476032 | Pioglitazone 28 cpr 15 mg | Mylan SpA | Valida |
-| 042677221 | Pioglitazone 28 cpr 45 mg | Accord Healthcare SLU | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040633024 | PIOGLITAZONE\*28 cpr 15 mg | DOC GENERICI Srl | Autorizzata |
+| 040476032 | PIOGLITAZONE\*28 cpr 15 mg | MYLAN SpA | Autorizzata |
+| 034946121 | ACTOS\*28 cpr 45 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 042677221 | PIOGLITAZONE\*28 cpr 45 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040694150 | PIOGLITAZONE\*28 cpr 30 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 034946044 | ACTOS\*28 cpr 30 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 034946018 | ACTOS\*28 cpr 15 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 040476121 | PIOGLITAZONE\*28 cpr 30 mg | MYLAN SpA | Autorizzata |
+| 040694022 | PIOGLITAZONE\*28 cpr 15 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 042677029 | PIOGLITAZONE\*28 cpr 15 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 042677120 | PIOGLITAZONE\*28 cpr 30 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 040436141 | PIOGLITAZONE\*28 cpr 30 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040633125 | PIOGLITAZONE\*28 cpr 30 mg | DOC GENERICI Srl | Autorizzata |
+| 042700031 | PIOGLITAZONE\*28 cpr 45 mg | TECNIGEN Srl | Autorizzata |
+| 040436026 | PIOGLITAZONE\*28 cpr 15 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 
@@ -100,7 +116,7 @@ La previsione è basata solo sul modello (L5), senza studi clinici o letteratura
 
 <!-- review:begin it-lic-20261106-pioglitazone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Inoltre in Italia non esistono autorizzazioni valide e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Inoltre in Italia non esistono autorizzazioni valide e il profilo di sicurezza ufficiale non è disponibile.» Rimosso: il numero o lo stato delle autorizzazioni indicato non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pioglitazone-1 -->
 
@@ -113,7 +129,7 @@ La previsione è basata solo sul modello (L5), senza studi clinici o letteratura
 
 <!-- review:begin it-lic-20261106-pioglitazone-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutare la fattibilità regolatoria, dato che tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-pioglitazone-2 -->
 
@@ -125,8 +141,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «noltre in Italia non esistono autorizzazioni valide e i» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «noltre in Italia non esistono autorizzazioni valide e i» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «dato che tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
 
 <!-- review:end log -->

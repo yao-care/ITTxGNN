@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "folic acid"
 predicted_indications: ["biotin metabolic disease"]
 description: "Folic Acid: nuova indicazione prevista, Malattia del metabolismo della biotina (biotin metabolic disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -81,7 +81,7 @@ Le pubblicazioni raccolte sono quasi tutte revisioni narrative o studi indiretti
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati. Le principali autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati nei dati compilati.
 
 <!-- review:begin it-lic-20261106-folic_acid-1 -->
 
@@ -89,13 +89,36 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono riportati 
 
 <!-- review:end it-lic-20261106-folic_acid-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 045545023 | ACIDO FOLICO*28 cpr 5 mg | EG SpA | Valida |
-| 045532049 | NOVACID*120 cpr 5 mg | S.F. GROUP Srl | Valida |
-| 045534043 | FOLATEX*120 cpr 5 mg | S.F. GROUP Srl | Valida |
-| 045545050 | ACIDO FOLICO*28 cpr 400 mcg | EG SpA | Valida |
-| 036345027 | FOLIDEX*120 cpr 400 mcg | ITALFARMACO SpA | Valida |
+|------|------|------|------|
+| 045545023 | ACIDO FOLICO\*28 cpr 5 mg | EG SpA | Autorizzata |
+| 045532049 | NOVACID\*120 cpr 5 mg | S.F. GROUP Srl | Autorizzata |
+| 045534043 | FOLATEX\*120 CPR 5 mg | S.F. GROUP Srl | Autorizzata |
+| 045545050 | ACIDO FOLICO\*28 cpr 400 mcg | EG SpA | Autorizzata |
+| 036345027 | FOLIDEX\*120 cpr 400 mcg | ITALFARMACO SpA | Autorizzata |
+| 042186015 | BALFOLIC\*120 cpr 400 mcg | LABORATORI BALDACCI SpA | Autorizzata |
+| 040627010 | FOLIFILL\*28 cpr 5 mg | ITALFARMACO SpA | Autorizzata |
+| 040274072 | ACIDO FOLICO\*120 cpr 400 mcg | DOC GENERICI Srl | Autorizzata |
+| 042972024 | FOLICOM\*60 cpr 5 mg | MEDIC ITALIA Srl | Autorizzata |
+| 040274033 | ACIDO FOLICO\*28 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 036346017 | FERTIFOL\*28 cpr 400 mcg | EFFIK ITALIA SpA | Autorizzata |
+| 045545047 | ACIDO FOLICO\*120 cpr 5 mg | EG SpA | Autorizzata |
+| 045545062 | ACIDO FOLICO\*120 cpr 400 mcg | EG SpA | Autorizzata |
+| 036346029 | FERTIFOL\*120 cpr 400 mcg | EFFIK ITALIA SpA | Autorizzata |
+| 045533041 | ACIDO FOLICO SF\*120 cpr 5 mg | S.F. GROUP Srl | Autorizzata |
+| 040274058 | ACIDO FOLICO\*120 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 042972012 | FOLICOM\*20 cpr 5 mg | MEDIC ITALIA Srl | Autorizzata |
+| 045534017 | FOLATEX\*20 cpr 5 mg | S.F. GROUP Srl | Autorizzata |
+| 002309033 | FOLINA\*5 fiale IM 15 mg 2 ml | TEOFARMA Srl | Autorizzata |
+| 048957029 | ACIDO FOLICO\*28 cpr 5 mg | ARISTO PHARMA GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

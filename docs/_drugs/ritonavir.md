@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 384
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ritonavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Ritonavir: nuova indicazione prevista, Infezione da virus dell'immunodeficienza delle scimmie (simian immunodeficiency virus infection) (livello di evidenza L4). Indicazione originale: Non riportata …"
@@ -89,9 +89,15 @@ Al momento non risulta registrato alcuno studio clinico correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 049853017 | PAXLOVID (20 cpr rivestite da 150 mg + 10 cpr rivestite da 100 mg) | Compresse rivestite | Non disponibile (autorizzazione valida; titolare: Pfizer Europe MA EEIG) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049853017 | PAXLOVID\*20 cpr rivestite 150 mg + 10 cpr rivestite 100 mg | PFIZER EUROPE MA EEIG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +120,7 @@ L'evidenza è solo preclinica (L4): studi in vitro e su macachi, senza alcuno st
 
 <!-- review:begin it-lic-20261106-ritonavir-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento. Inoltre, in Italia la sola autorizzazione risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 1 autorizzazioni per questo farmaco, di cui 1 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Il SIV è un modello animale dell'HIV, già coperto dall'indicazione originale, quindi non esiste una reale opportunità di riposizionamento. Inoltre, in Italia la sola autorizzazione risulta cancellata.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-ritonavir-1 -->
 
@@ -132,7 +138,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, in Italia la sola autorizzazione risulta cancellata» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia la sola autorizzazione risulta cancellata» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 description: "Sirolimus: nuova indicazione prevista, Liposarcoma (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -89,12 +89,18 @@ Va però sottolineato che la predizione non è confermata da studi pubblicati su
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 035120070 | RAPAMUNE 100 cpr rivestite 1 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
-| 035120017 | RAPAMUNE soluzione orale 60 ml + 30 siringhe | Soluzione orale | Non riportata (autorizzazione valida) |
-| 035120094 | RAPAMUNE 30 cpr rivestite 2 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
-| 035120120 | RAPAMUNE 100 cpr rivestite 0,5 mg | Compresse rivestite | Non riportata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035120070 | RAPAMUNE\*100 cpr rivestite 1 mg | PFIZER EUROPE MA EEIG | Autorizzata |
+| 035120017 | RAPAMUNE\*orale soluz 60 ml + 30 siringhe | PFIZER EUROPE MA EEIG | Autorizzata |
+| 035120094 | RAPAMUNE\*30 cpr rivestite 2 mg | PFIZER EUROPE MA EEIG | Autorizzata |
+| 035120120 | RAPAMUNE\*100 cpr rivestite 0,5 mg | PFIZER EUROPE MA EEIG | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

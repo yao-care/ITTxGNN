@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENAZEPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benazepril: nuova indicazione prevista, Malattia renale ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: 6 (autorizzate: 5)"
 ---
 
@@ -68,15 +68,23 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 027573029 | ZINADRIL 14 compresse rivestite 10 mg | Compresse rivestite | Errekappa Euroterapici SpA |
-| 037465034 | BENAZEPRIL 28 compresse rivestite 5 mg | Compresse rivestite | Sandoz SpA |
-| 027573031 | ZINADRIL 28 compresse rivestite 5 mg | Compresse rivestite | Errekappa Euroterapici SpA |
-| 027516020 | CIBACEN 14 compresse rivestite 10 mg | Compresse rivestite | Viatris Healthcare Limited |
-| 037507213 | BENAZEPRIL 14 compresse rivestite 10 mg | Compresse rivestite | EG SpA |
+<!-- licenses:begin -->
 
-L'elenco mostra le prime 5 delle 6 autorizzazioni presenti; il testo dell'indicazione approvata non è riportato nei dati locali.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 027573029 | ZINADRIL\*14 cpr rivestite 10 mg | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 037465034 | BENAZEPRIL\*28 cpr rivestite 5 mg | SANDOZ SpA | Autorizzata |
+| 027573031 | ZINADRIL\*28 cpr rivestite 5 mg | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 037507213 | BENAZEPRIL\*14 cpr rivestite 10 mg | EG SpA | Autorizzata |
+| 037507035 | BENAZEPRIL\*28 cpr rivestite 5 mg | EG SpA | Autorizzata |
+| 027516020 | CIBACEN\*14 cpr rivestite 10 mg | VIATRIS HEALTHCARE LIMITED | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
+
+Il testo dell'indicazione approvata non è riportato nei dati locali.
 
 ## Considerazioni sulla sicurezza
 

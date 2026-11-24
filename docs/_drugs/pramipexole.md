@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 357
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 description: "Pramipexole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L4). Indicazione originale: Non riportata nei…"
@@ -79,15 +79,35 @@ Nessuna di queste pubblicazioni valuta direttamente il pramipexolo nell'ADHD.
 
 ## Informazioni sul mercato italiano
 
-Di seguito le prime 5 (tutte "single", cioè monocomponente).
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|------|
-| 039188026 | Pramipexolo 30 cpr 0,18 mg | EG SpA | Valida |
-| 042363034 | Pramipexolo 10 cpr 0,52 mg, rilascio prolungato | Towa Pharmaceutical SpA | Valida |
-| 041097142 | Pramipexolo 30 cpr 0,7 mg | Aurobindo Pharma Italia Srl | Valida |
-| 049577051 | Pramipexolo 30 cpr 2,1 mg, rilascio prolungato | DOC Generici Srl | Valida |
-| 034090035 | Mirapexin 30 cpr divisibili 0,18 mg | Boehringer Ingelheim Int. GmbH | Valida |
+|------|------|------|------|
+| 039188026 | PRAMIPEXOLO\*30 cpr 0,18 mg | EG SpA | Autorizzata |
+| 042363034 | PRAMIPEXOLO\*10 cpr 0,52 mg rilascio prolungato | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 041097142 | PRAMIPEXOLO\*30 cpr 0,7 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 049577051 | PRAMIPEXOLO\*30 cpr 2,1 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 042363059 | PRAMIPEXOLO\*30 cpr 2,1 mg rilascio prolungato | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 043042201 | PRAMIPEXOLO\*30 cpr 3,15 mg rilascio prolungato | SANDOZ A/S | Autorizzata |
+| 047845045 | PRAMIPEXOLO\*10 cpr 0,52 mg rilascio prolungato | EG SpA | Autorizzata |
+| 042309082 | PRAMIPEXOLO\*30 cpr 1,05 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 034090035 | MIRAPEXIN\*30 cpr div 0,18 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 045421132 | PRAMIPEXOLO\*30 cpr 1,05 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+| 042309144 | PRAMIPEXOLO\*30 cpr 2,1 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 049577048 | PRAMIPEXOLO\*30 cpr 1,05 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 047845134 | PRAMIPEXOLO\*30 cpr 3,15 mg rilascio prolungato | EG SpA | Autorizzata |
+| 042363046 | PRAMIPEXOLO\*30 cpr 1,05 mg rilascio prolungato | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 034090163 | MIRAPEXIN\*10 cpr 0,52 mg rilascio prolungato | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 042309207 | PRAMIPEXOLO\*30 cpr 3,15 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 034090136 | MIRAPEXIN\*10 cpr 0,26 mg rilascio prolungato | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 043042047 | PRAMIPEXOLO\*10 cpr 0,52 mg rilascio prolungato | SANDOZ A/S | Autorizzata |
+| 043042011 | PRAMIPEXOLO\*10 cpr 0,26 mg rilascio prolungato | SANDOZ A/S | Autorizzata |
+| 045421029 | PRAMIPEXOLO\*10 cpr 0,26 mg rilascio prolungato | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 Per queste autorizzazioni non è disponibile il testo dell'indicazione approvata.
 

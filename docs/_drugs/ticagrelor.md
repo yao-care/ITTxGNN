@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: nuova indicazione prevista, Arteriosclerosi intracranica (intracranial arteriosclerosis) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -88,7 +88,7 @@ L'evidenza diretta è però ancora in attesa: lo studio di fase 3 CAPTIVA (NCT05
 
 ## Informazioni sul mercato italiano
 
-I testi delle indicazioni approvate non sono disponibili. Si riportano le prime 5.
+I testi delle indicazioni approvate non sono disponibili.
 
 <!-- review:begin it-lic-20261106-ticagrelor-1 -->
 
@@ -96,13 +96,35 @@ I testi delle indicazioni approvate non sono disponibili. Si riportano le prime 
 
 <!-- review:end it-lic-20261106-ticagrelor-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|------|
-| 040546083 | BRILIQUE 56 cpr rivestite 60 mg (confezione calendarizzata) | AstraZeneca AB |
-| 040546044 | BRILIQUE 56 cpr rivestite 90 mg (confezione calendarizzata) | AstraZeneca AB |
-| 040546133 | BRILIQUE 56 cpr orodispersibili 90 mg | AstraZeneca AB |
-| 051014189 | Ticagrelor 56 cpr rivestite 60 mg con calendario | Teva B.V. |
-| 048405068 | Ticagrelor 56 cpr rivestite 90 mg | Krka d.d. Novo Mesto |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040546083 | BRILIQUE\*56 cpr rivestite 60 mg confezione calendarizzata | ASTRAZENECA AB | Autorizzata |
+| 051014189 | TICAGRELOR\*56 cpr rivestite 60 mg con calendario | TEVA B.V. | Autorizzata |
+| 048405068 | TICAGRELOR\*56 cpr rivestite 90 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040546044 | BRILIQUE\*56 cpr rivestite 90 mg confezione calendarizzata | ASTRAZENECA AB | Autorizzata |
+| 047613070 | TICAGRELOR\*56 cpr rivestite 60 mg | EG SpA | Autorizzata |
+| 050115070 | TICAGRELOR\*56 cpr rivestite 90 mg | DR.REDDY'S Srl | Autorizzata |
+| 049321045 | TICAGRELOR\*56 cpr rivestite 60 mg | MYLAN SpA | Autorizzata |
+| 050371018 | TICAGRELOR\*56 cpr rivestite 60 mg | DOC GENERICI Srl | Autorizzata |
+| 051014595 | TICAGRELOR\*56 cpr rivestite 90 mg con calendario | TEVA B.V. | Autorizzata |
+| 050615020 | TICAGRELOR\*56 cpr rivestite 90 mg | MEDICAL VALLEY INVEST AB | Autorizzata |
+| 050616034 | TICAGRELOR\*56 cpr rivestite 90 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 050615018 | TICAGRELOR\*56 cpr rivestite 60 mg | MEDICAL VALLEY INVEST AB | Autorizzata |
+| 050371032 | TICAGRELOR\*56 cpr rivestite 90 mg | DOC GENERICI Srl | Autorizzata |
+| 049850098 | TICAGRELOR\*56 cpr rivestite 90 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 049321235 | TICAGRELOR\*56 cpr rivestite 90 mg | MYLAN SpA | Autorizzata |
+| 047613183 | TICAGRELOR\*56 cpr rivestite 90 mg | EG SpA | Autorizzata |
+| 040546133 | BRILIQUE\*56 cpr orodispers 90 mg | ASTRAZENECA AB | Autorizzata |
+| 051143028 | AURETICA\*56 cpr rivestite 90 mg | AURORA LICENSING Srl | Autorizzata |
+| 048405029 | TICAGRELOR\*56 cpr rivestite 60 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 050616010 | TICAGRELOR\*56 cpr rivestite 60 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

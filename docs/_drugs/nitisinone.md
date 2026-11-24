@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitisinone: nuova indicazione prevista, Acidosi tubulare renale (livello di evidenza L5). Indicazione originale: Tirosinemia"
 monitor_inn: "NITISINONE"
 predicted_indications: ["renal tubular acidosis", "galactosemia", "serpinopathy with toxic serpin polymerization", "C1 inhibitor deficiency", "glycogen storage disease", "adult polyglucosan body disease", "glycogen storage disease due to glucose-6-phosphatase deficiency", "Griscelli syndrome", "granulomatous disease, chronic, X-linked", "ermine phenotype"]
@@ -82,19 +82,29 @@ Attualmente non risulta letteratura correlata disponibile per l'acidosi tubulare
 
 Il farmaco è in commercio in Italia: tutte le 9 autorizzazioni risultano valide.
 
-| Numero di autorizzazione | Nome del prodotto | Titolare |
-|---------|------|-----------|
-| 036870018 | ORFADIN orale, 60 cps 2 mg | Swedish Orphan Biovitrum Int. AB |
-| 036870020 | ORFADIN 60 cps 5 mg | Swedish Orphan Biovitrum Int. AB |
-| 036870032 | ORFADIN 60 cps 10 mg | Swedish Orphan Biovitrum Int. AB |
-| 036870044 | ORFADIN 60 cps 20 mg | Swedish Orphan Biovitrum Int. AB |
-| 036870057 | ORFADIN sospensione orale 4 mg/ml, flacone da 90 ml | Swedish Orphan Biovitrum Int. AB |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036870057 | ORFADIN\*orale sosp 1 flacone 90 ml 4 mg/ml | SWEDISH ORPHAN BIOVITR.INT.AB | Autorizzata |
+| 036870020 | ORFADIN\*60 cps 5 mg flacone | SWEDISH ORPHAN BIOVITR.INT.AB | Autorizzata |
+| 045829025 | NITISINONE\*60 cps 10 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 036870032 | ORFADIN\*60 cps 10 mg flacone | SWEDISH ORPHAN BIOVITR.INT.AB | Autorizzata |
+| 045829037 | NITISINONE\*60 cps 2 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 036870044 | ORFADIN\*60 cps 20 mg flacone | SWEDISH ORPHAN BIOVITR.INT.AB | Autorizzata |
+| 045829013 | NITISINONE\*60 cps 5 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 045829049 | NITISINONE\*60 cps 20 mg flacone | DIPHARMA ARZNEIMITTEL GMBH | Autorizzata |
+| 036870018 | ORFADIN\*60 cps 2 mg flacone | SWEDISH ORPHAN BIOVITR.INT.AB | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Il testo delle indicazioni approvate non è disponibile.
 
 <!-- review:begin it-lic-20261106-nitisinone-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH). Il testo delle indicazioni approvate non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 9 autorizzazioni per questo farmaco, di cui 9 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH). Il testo delle indicazioni approvate non è disponibile.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-nitisinone-1 -->
 
@@ -137,7 +147,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH)» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Sono presenti inoltre quattro autorizzazioni annullate per nitisinone generico (2, 5, 10 e 20 mg, titolare Dipharma Arzneimittel GmbH)» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Nityr (nitisinone) prescribing information, Cycle Pharmaceuticals Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00fd1905-27e4-420e-8dc5-a69e4ddc1526) |
 
 <!-- review:end log -->

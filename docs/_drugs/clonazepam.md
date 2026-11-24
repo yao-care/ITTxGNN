@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clonazepam: nuova indicazione prevista, Sindrome delle gambe senza riposo (restless legs syndrome) (livello di evidenza L3). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -81,10 +81,16 @@ Attualmente non risulta alcuno studio clinico registrato correlato.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044150011 | CLONAZEPAM*orale gtt 2,5 mg/ml 10 ml (EG SpA) | Gocce orali | Non registrata nei dati locali |
-| 023159039 | RIVOTRIL*orale gtt 10 ml 2,5 mg/ml (Cheplapharm Arzneimittel GmbH) | Gocce orali | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044150011 | CLONAZEPAM\*orale gtt 2,5 mg/ml 10 ml | EG SpA | Autorizzata |
+| 023159039 | RIVOTRIL\*orale gtt 10 ml 2,5 mg/ml | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

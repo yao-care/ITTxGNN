@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Carvedilol: nuova indicazione prevista, Nefropatia ipertensiva maligna (malignant hypertensive renal disease) (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -70,15 +70,37 @@ Al momento non risulta letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Di seguito sono elencate fino a 5 autorizzazioni. L'elenco può essere parziale e il testo dell'indicazione approvata non è registrato nei dati locali.
+L'elenco può essere parziale e il testo dell'indicazione approvata non è registrato nei dati locali.
 
-| N. autorizzazione | Nome prodotto | Titolare | Indicazione approvata |
-|---------|------|------|-----------|
-| 035987054 | ACARDEN*28 cpr 12,5 mg | SO.SE.PHARM Srl | Non registrata nei dati locali |
-| 036512022 | CURCIX*30 cpr div 25 mg | SO.SE.PHARM Srl | Non registrata nei dati locali |
-| 036470021 | COLVER*30 cpr 25 mg | S.F. GROUP Srl | Non registrata nei dati locali |
-| 042234068 | CARVEDILOLO*30 cpr rivestite 25 mg | AUROBINDO PHARMA ITALIA Srl | Non registrata nei dati locali |
-| 027604040 | DILATREND*28 cpr div 6,25 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 035987054 | ACARDEN\*28 cpr 12,5 mg | SO.SE.PHARM Srl | Autorizzata |
+| 036512022 | CURCIX\*30 cpr div 25 mg | SO.SE.PHARM Srl | Autorizzata |
+| 036470021 | COLVER\*30 cpr 25 mg | S.F. GROUP Srl | Autorizzata |
+| 042234068 | CARVEDILOLO\*30 cpr rivestite 25 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036454320 | CARVEDILOLO\*30 cpr 25 mg | SANDOZ SpA | Autorizzata |
+| 036779256 | CARVEDILOLO\*30 cpr 25 mg | TEVA ITALIA Srl | Autorizzata |
+| 036462012 | CARVEDILOLO\*28 cpr 6,25 mg | DOC GENERICI Srl | Autorizzata |
+| 042234017 | CARVEDILOLO\*28 cpr rivestite 6,25 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036512010 | CURCIX\*28 cpr div 6,25 mg | SO.SE.PHARM Srl | Autorizzata |
+| 036457556 | CARVEDILOLO\*30 cpr 25 mg | SANDOZ SpA | Autorizzata |
+| 036462024 | CARVEDILOLO\*30 cpr 25 mg | DOC GENERICI Srl | Autorizzata |
+| 036470019 | COLVER\*28 cpr 6,25 mg | S.F. GROUP Srl | Autorizzata |
+| 036407017 | CARVEDILOLO\*28 cpr 6,25 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 036339024 | CARAVEL\*30 cpr 25 mg | SPA (SOC.PRO.ANTIBIOTICI) SpA | Autorizzata |
+| 036453607 | CARVEDILOLO\*30 cpr rivestite 25 mg | MYLAN SpA | Autorizzata |
+| 036522023 | OMERIA\*30 cpr div 25 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 036355055 | CARVEDILOLO\*28 cpr 6,25 mg | EG SpA | Autorizzata |
+| 027604040 | DILATREND\*28 cpr div 6,25 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 036400012 | CARVEDILOLO\*28 cpr div 6,25 mg | TECNIGEN Srl | Autorizzata |
+| 036471023 | CARVEDILOLO\*30 cpr 25 mg | ALMUS Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

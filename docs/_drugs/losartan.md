@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 278
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LOSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: nuova indicazione prevista, Malignant hypertensive renal disease (livello di evidenza L4). In Italia, confezioni AIFA: almeno 20"
@@ -85,21 +85,41 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039198027 | LOSARTAN 28 cpr rivestite 50 mg (Towa Pharmaceutical) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 043614066 | LOSARTAN 28 cpr rivestite 50 mg (Aurobindo Pharma Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 029384043 | LORTAAN 28 cpr rivestite 100 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 029384017 | LORTAAN 28 cpr rivestite 50 mg (Organon Italia) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 039164037 | LOSARTAN 28 cpr rivestite 50 mg (Sandoz) | Compresse rivestite | Non disponibile (autorizzazione valida) |
-
-Sono elencate 5 delle 20 autorizzazioni.
-
 <!-- review:begin it-lic-20261106-losartan-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Sono elencate 5 delle 20 autorizzazioni; tutte risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Rimossa anche la frase sul numero di autorizzazioni elencate nella vecchia tabella: la tabella delle autorizzazioni è ora generata dal programma dai dati AIFA (2026-11-24). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-losartan-1 -->
+
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 039198027 | LOSARTAN\*28 cpr rivestite 50 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 043614066 | LOSARTAN\*28 cpr rivestite 50 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044693051 | LOSARTAN\*21 cpr rivestite 12,5 mg | DOC GENERICI Srl | Autorizzata |
+| 039383296 | LASTAN\*28 cpr rivestite 100 mg | SO.SE.PHARM Srl | Autorizzata |
+| 029384043 | LORTAAN\*28 cpr rivestite 100 mg | ORGANON ITALIA Srl | Autorizzata |
+| 039379211 | LOSARTAN\*28 cpr rivestite 50 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 039164037 | LOSARTAN\*28 cpr rivestite 50 mg | SANDOZ SpA | Autorizzata |
+| 038263051 | LOSARTAN\*21 cpr rivestite 12,5 mg | MYLAN SpA | Autorizzata |
+| 049872132 | LOSARTAN\*28 cpr rivestite 50 mg | EG SpA | Autorizzata |
+| 039374032 | LOSARTAN\*28 cpr rivestite 100 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 039374020 | LOSARTAN\*28 cpr rivestite 50 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 049872169 | LOSARTAN\*28 cpr rivestite 100 mg | EG SpA | Autorizzata |
+| 029385022 | NEOLOTAN\*21 cpr rivestite 12,5 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 039918026 | LOSARTAN\*28 cpr rivestite 50 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 039918053 | LOSARTAN\*28 cpr rivestite 100 mg | TECNIMEDE SOC.TECNICO-MED.S.A. | Autorizzata |
+| 029384017 | LORTAAN\*28 cpr rivestite 50 mg | ORGANON ITALIA Srl | Autorizzata |
+| 029393016 | LOSAPREX\*28 cpr rivestite 50 mg | ALFASIGMA SpA | Autorizzata |
+| 038870022 | PRECTEN\*28 cpr rivestite 50 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 029384029 | LORTAAN\*21 cpr rivestite 12,5 mg | ORGANON ITALIA Srl | Autorizzata |
+| 044693188 | LOSARTAN\*28 cpr rivestite 50 mg | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 
@@ -145,7 +165,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «tutte risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «tutte risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «In più, tutte le autorizzazioni italiane risultano cancellate e il rischio renale degli ARB nella stenosi dell'arteria renale è rilevante» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-06 | Rimosso: «dato che non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |

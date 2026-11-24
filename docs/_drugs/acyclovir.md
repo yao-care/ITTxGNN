@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Acyclovir: nuova indicazione prevista, Cheratocongiuntivite epiteliale puntata (punctate epithelial keratoconjunctivitis) (livello di evidenza L5). Indicazione originale: Non riportata nei dati local"
 ---
 
@@ -73,15 +73,36 @@ Nessuno dei due studi indaga direttamente la malattia prevista in relazione all'
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 050312038 | ACICLOVIR*35 cpr 800 mg (Towa Pharmaceutical) | – | Non registrata nei dati locali |
-| 033731035 | ACICLOVIR*orale sosp 100 ml 8% flacone (Sandoz) | – | Non registrata nei dati locali |
-| 033868011 | ACICLOVIR*35 cpr 800 mg (Almus) | – | Non registrata nei dati locali |
-| 025298050 | ZOVIRAX*25 cpr 200 mg (GlaxoSmithKline) | – | Non registrata nei dati locali |
-| 032307023 | ACICLOVIR*25 cpr 400 mg (EG) | – | Non registrata nei dati locali |
+<!-- licenses:begin -->
 
-L'elenco delle autorizzazioni può essere parziale.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 050312038 | ACICLOVIR\*35 cpr 800 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 033731035 | ACICLOVIR\*orale sosp 100 ml 8% flacone | SANDOZ SpA | Autorizzata |
+| 033868011 | ACICLOVIR\*35 cpr 800 mg | ALMUS Srl | Autorizzata |
+| 036110017 | ACICLOVIR\*35 cpr 800 mg | LABORATORI ALTER Srl | Autorizzata |
+| 033482047 | ACICLOVIR\*35 cpr 800 mg | ABC FARMACEUTICI SpA | Autorizzata |
+| 032307023 | ACICLOVIR\*25 cpr 400 mg | EG SpA | Autorizzata |
+| 032307086 | ACICLOVIR\*35 cpr 800 mg | EG SpA | Autorizzata |
+| 034738031 | ACICLOVIR\*25 cpr 400 mg | MYLAN SpA | Autorizzata |
+| 033868023 | ACICLOVIR\*orale sosp 100 ml 8% flacone | ALMUS Srl | Autorizzata |
+| 034583031 | ACICLOVIR\*35 cpr 800 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 033731050 | ACICLOVIR\*35 cpr 800 mg | SANDOZ SpA | Autorizzata |
+| 028467037 | ACICLOVIR\*25 cpr 400 mg | TEVA ITALIA Srl | Autorizzata |
+| 033551072 | ACICLOVIR\*35 cpr 800 mg | DOC GENERICI Srl | Autorizzata |
+| 028528077 | CITIVIR\*35 cpr 800 mg | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 028614055 | ACICLIN\*25 cpr 400 mg | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 035005014 | TUCLOR\*35 cpr 800 mg | LANOVA FARMACEUTICI Srl | Autorizzata |
+| 046032013 | ACICLOVIR\*25 cpr 200 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 046277063 | ACICLOVIR\*35 cpr 800 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 025298050 | ZOVIRAX\*25 cpr 200 mg | GLAXOSMITHKLINE SpA | Non più autorizzata |
+| 033429022 | ACICLOVIR\*orale sosp 100 ml 8% flacone | S.F. GROUP Srl | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
 description: "Evolocumab: nuova indicazione prevista, Forma sintomatica di emofilia nelle portatrici (symptomatic form of hemophilia in female carriers) (livello di evidenza L5). Indicazione originale: Non riporta…"
@@ -79,7 +79,7 @@ Al momento non è disponibile letteratura correlata.
 
 <!-- review:begin it-lic-20261106-evolocumab-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-evolocumab-1 -->
 
@@ -87,10 +87,16 @@ Al momento non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 044317028 | REPATHA 1 penna SC 140 mg 1 ml SureClick (AMGEN EUROPE B.V.) | Penna sottocutanea | Non riportata (autorizzazione valida) |
-| 044317030 | REPATHA 2 penne SC 140 mg 1 ml SureClick (AMGEN EUROPE B.V.) | Penna sottocutanea | Non riportata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 044317028 | REPATHA\*1 penna SC 140 mg 1 ml sureclick | AMGEN EUROPE B.V. | Autorizzata |
+| 044317030 | REPATHA\*2 penne SC 140 mg 1 ml sureclick | AMGEN EUROPE B.V. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -111,7 +117,7 @@ La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno st
 
 <!-- review:begin it-lic-20261106-evolocumab-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX. Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per lo screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione ha un punteggio elevato ma evidenza solo di livello L5: nessuno studio clinico, nessuna pubblicazione e nessun legame meccanicistico plausibile tra l'inibizione di PCSK9 e la coagulazione legata ai fattori VIII/IX. Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per lo screening di sicurezza.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-evolocumab-2 -->
 
@@ -130,8 +136,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per l» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Entrambe le autorizzazioni risultano cancellate; non vi sono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, le autorizzazioni italiane risultano tutte cancellate e mancano i dati di sicurezza dal foglio illustrativo, un gap bloccante per l» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->

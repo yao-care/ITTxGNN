@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: nuova indicazione prevista, Pulmonary hypertension owing to lung disease and/or hypoxia (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -83,15 +83,37 @@ Per completezza, le previsioni di rango inferiore dispongono di pochi riferiment
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati. Le prime 5:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono disponibili nei dati compilati.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 037426158 | LISINOPRIL*14 cpr 20 mg | Ratiopharm GmbH | Valida |
-| 026834022 | ZESTRIL*14 cpr 20 mg | Atnahs Pharma Netherlands BV | Valida |
-| 026837017 | ALAPRIL*14 cpr 5 mg | Neopharmed Gentili SpA | Valida |
-| 026837029 | ALAPRIL*14 cpr 20 mg | Neopharmed Gentili SpA | Valida |
-| 037471188 | LISINOPRIL*28 cpr 20 mg | Sandoz SpA | Valida |
+|------|------|------|------|
+| 037426158 | LISINOPRIL\*14 cpr 20 mg | RATIOPHARM GMBH | Autorizzata |
+| 026834022 | ZESTRIL\*14 cpr 20 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 026837017 | ALAPRIL\*14 cpr 5 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 026837029 | ALAPRIL\*14 cpr 20 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 037471188 | LISINOPRIL\*28 cpr 20 mg | SANDOZ SpA | Autorizzata |
+| 038060063 | LISINOPRIL\*14 cpr 20 mg | DOC GENERICI Srl | Autorizzata |
+| 038668048 | LISINOPRIL\*28 cpr 20 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037426044 | LISINOPRIL\*28 cpr 5 mg | RATIOPHARM GMBH | Autorizzata |
+| 026830012 | PRINIVIL\*14 cpr 5 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 037471036 | LISINOPRIL\*28 cpr 5 mg | SANDOZ SpA | Autorizzata |
+| 037710035 | LISINOPRIL\*28 cpr 5 mg | MYLAN SpA | Autorizzata |
+| 038668036 | LISINOPRIL\*28 cpr 5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037932011 | LISINOPRIL\*14 cpr 5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 037710011 | LISINOPRIL\*14 cpr 5 mg | MYLAN SpA | Autorizzata |
+| 037471024 | LISINOPRIL\*14 cpr 5 mg | SANDOZ SpA | Autorizzata |
+| 037258035 | LISINOPRIL\*28 cpr 5 mg | EG SpA | Autorizzata |
+| 037258011 | LISINOPRIL\*14 cpr 5 mg | EG SpA | Autorizzata |
+| 038060024 | LISINOPRIL\*28 cpr 5 mg | DOC GENERICI Srl | Autorizzata |
+| 026834010 | ZESTRIL\*14 cpr 5 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+| 040262228 | LISINOPRIL\*28 cpr 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

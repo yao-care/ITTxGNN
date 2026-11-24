@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: nuova indicazione prevista, Duodenal obstruction (livello di evidenza L5). In Italia, confezioni AIFA: almeno 20"
@@ -83,15 +83,37 @@ Studi preclinici sul ratto segnalano inoltre che il blocco acido associato al re
 
 ## Informazioni sul mercato italiano
 
-Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati. Esempi:
+Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.
 
-| Numero di autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 038082020 | Omeprazolo 14 cps gastroresistenti 10 mg | DOC Generici Srl | Valida |
-| 042236430 | Omeprazolo 28 cps gastroresistenti 20 mg | Teva Italia Srl | Valida |
-| 028245090 | Antra 14 cps gastroresistenti 20 mg | Cheplapharm Arzneimittel GmbH | Valida |
-| 037942024 | Limnos 28 cps gastroresistenti 20 mg | C.T. Lab. Farmaceutico Srl | Valida |
-| 037903010 | Maricrio 14 cps gastroresistenti 20 mg | Neopharmed Gentili SpA | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 038082020 | OMEPRAZOLO\*14 cps gastrores 10 mg | DOC GENERICI Srl | Autorizzata |
+| 042236430 | OMEPRAZOLO\*28 cps gastrores 20 mg | TEVA ITALIA Srl | Autorizzata |
+| 037176031 | OMEPRAZOLO\*28 cps gastrores 10 mg flacone | LABORATORI ALTER Srl | Autorizzata |
+| 028245090 | ANTRA\*14 cps gastrores 20 mg | CHEPLAPHARM ARZNEIMITTEL GMBH | Autorizzata |
+| 037942024 | LIMNOS\*28 cps gastrores 20 mg | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+| 037903010 | MARICRIO\*14 cps gastrores 20 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 037865021 | CLETUS\*28 cps gastrores 20 mg | SO.SE.PHARM Srl | Autorizzata |
+| 037623067 | OMEPRAZOLO\*28 cps gastrores 10 mg flacone | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 038082044 | OMEPRAZOLO\*28 cps gastrores 10 mg | DOC GENERICI Srl | Autorizzata |
+| 042275026 | OMEPRAZOLO\*14 cps gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 039610050 | OMEPRAZOLO\*14 cps gastrores 20 mg | HEXAL A/S | Autorizzata |
+| 038965291 | OMEPRAZOLO\*28 cps gastrores 20 mg | EG SpA | Autorizzata |
+| 043498056 | OMEPRAZOLO\*28 cps gastrores 20 mg | PHARMACARE Srl | Autorizzata |
+| 038965048 | OMEPRAZOLO\*28 cps gastrores 10 mg | EG SpA | Autorizzata |
+| 050952011 | OMEPRAZOLO\*14 cps gastroresistenti 20 mg | TECNIGEN Srl | Autorizzata |
+| 039758356 | OMEPRAZOLO\*14 cps gastrores 20 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 043499021 | OMEPRAZOLO P-CARE\*14 cps gastrores 20 mg | PHARMACARE Srl | Autorizzata |
+| 037907021 | NANSEN\*28 cps gastrores 20 mg | S.F. GROUP Srl | Autorizzata |
+| 042275014 | OMEPRAZOLO\*14 cps gastrores 10 mg | S.F. GROUP Srl | Autorizzata |
+| 037623016 | OMEPRAZOLO\*14 cps gastrores 10 mg flacone | TOWA PHARMACEUTICAL SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

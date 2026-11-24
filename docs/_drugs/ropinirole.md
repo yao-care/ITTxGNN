@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 388
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 description: "Ropinirole: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (attention deficit-hyperactivity disorder) (livello di evidenza L3). Indicazione originale: Non riportata nei …"
@@ -87,13 +87,35 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 040525038 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (KRKA) | n.d. | n.d. (autorizzazione valida) |
-| 040814194 | ROPINIROLO 28 cpr 8 mg rilascio prolungato (TEVA ITALIA) | n.d. | n.d. (autorizzazione valida) |
-| 040358020 | ROPINIROLO 28 cpr rivestite 2 mg rilascio prolungato (EG) | n.d. | n.d. (autorizzazione valida) |
-| 032261063 | REQUIP 21 cpr rivestite 0,25 mg (GlaxoSmithKline) | n.d. | n.d. (autorizzazione valida) |
-| 040257014 | ROPINIROLO 28 cpr 2 mg rilascio prolungato (DOC Generici) | n.d. | n.d. (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040525038 | ROPINIROLO\*28 cpr rivestite 2 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040814194 | ROPINIROLO\*28 cpr 8 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 040358020 | ROPINIROLO\*28 cpr rivestite 2 mg rilascio prolungato | EG SpA | Autorizzata |
+| 032261063 | REQUIP\*21 cpr rivestite 0,25 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 040257014 | ROPINIROLO\*28 cpr 2 mg rilascio prolungato | DOC GENERICI Srl | Autorizzata |
+| 032261101 | REQUIP\*21 cpr rivestite 0,5 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 038428823 | ROPINIROLO\*21 cpr rivestite 0,5 mg | EG SpA | Autorizzata |
+| 040819118 | ROPINIROLO\*28 cpr 4 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 032261125 | REQUIP\*21 cpr rivestite 1 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 032261164 | REQUIP\*21 cpr rivestite 5 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 042280077 | ROPIRAL\*28 cpr 4 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 040525192 | ROPINIROLO\*28 cpr rivestite 8 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040525115 | ROPINIROLO\*28 cpr rivestite 4 mg rilascio prolungato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040358083 | ROPINIROLO\*28 cpr rivestite 8 mg rilascio prolungato | EG SpA | Autorizzata |
+| 040819195 | ROPINIROLO\*28 cpr 8 mg rilascio prolungato | SANDOZ SpA | Autorizzata |
+| 032261190 | REQUIP\*28 cpr 2 mg rilascio prolungato | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 032261149 | REQUIP\*21 cpr rivestite 2 mg | LABORATOIRE GLAXOSMITHKLINE | Autorizzata |
+| 042280127 | ROPIRAL\*28 cpr 8 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 038428951 | ROPINIROLO\*21 cpr rivestite 2 mg | EG SpA | Autorizzata |
+| 040814030 | ROPINIROLO\*28 cpr 2 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ## Considerazioni di sicurezza
 

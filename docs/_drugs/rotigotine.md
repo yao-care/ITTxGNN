@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Rotigotine: nuova indicazione prevista, Disturbo da deficit di attenzione e iperattività (ADHD) (livello di evidenza L5). Indicazione originale: Sindrome delle gambe senza riposo…"
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -84,13 +84,22 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 037152028 | NEUPRO 28 cerotti transdermici 2 mg/die (UCB Pharma) | Cerotto transdermico | Non disponibile |
-| 037152055 | NEUPRO 28 cerotti transdermici 4 mg/die (UCB Pharma) | Cerotto transdermico | Non disponibile |
-| 037152081 | NEUPRO 28 cerotti transdermici 6 mg/die (UCB Pharma) | Cerotto transdermico | Non disponibile |
-| 037152117 | NEUPRO 28 cerotti transdermici 8 mg/die (UCB Pharma) | Cerotto transdermico | Non disponibile |
-| 050781083 | ROTIGOTINA 28 cerotti transdermici 2 mg/die (DOC Generici) | Cerotto transdermico | Non disponibile |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 037152028 | NEUPRO\*28 cerotti transdermici 2 mg/die | UCB PHARMA S.A. | Autorizzata |
+| 037152055 | NEUPRO\*28 cerotti transdermici 4 mg/die | UCB PHARMA S.A. | Autorizzata |
+| 050781083 | ROTIGOTINA\*28 cerotti transdermici 2 mg/die | DOC GENERICI Srl | Autorizzata |
+| 050781184 | ROTIGOTINA\*28 cerotti transdermici 4 mg/die | DOC GENERICI Srl | Autorizzata |
+| 037152117 | NEUPRO\*28 cerotti transdermici 8 mg/die | UCB PHARMA S.A. | Autorizzata |
+| 050781285 | ROTIGOTINA\*28 cerotti transdermici 8 mg/die | DOC GENERICI Srl | Autorizzata |
+| 050781234 | ROTIGOTINA\*28 cerotti transdermici 6 mg/die | DOC GENERICI Srl | Autorizzata |
+| 037152081 | NEUPRO\*28 cerotti transdermici 6 mg/die | UCB PHARMA S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -101,7 +110,7 @@ Al momento non risultano sperimentazioni cliniche correlate registrate.
 
 <!-- review:begin it-lic-20261106-rotigotine-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rotigotine-1 -->
 
@@ -118,7 +127,7 @@ La predizione si basa su un punteggio del modello (L4) con solo evidenza indiret
 
 <!-- review:begin it-lic-20261106-rotigotine-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 8 autorizzazioni per questo farmaco, di cui 8 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La predizione si basa su un punteggio del modello (L4) con solo evidenza indiretta, senza sperimentazioni cliniche né studi sulla rotigotina nell'ADHD. In Italia, inoltre, tutte le autorizzazioni sono cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-rotigotine-2 -->
 
@@ -137,8 +146,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 8 autorizzazioni risultano cancellate; ne sono mostrate 5» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «In Italia, inoltre, tutte le autorizzazioni sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

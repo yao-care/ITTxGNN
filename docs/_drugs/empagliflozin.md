@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Empagliflozin: nuova indicazione prevista, Sindrome dell'arto rigido focale (focal stiff limb syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -78,10 +78,16 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043443136 | JARDIANCE 28 compresse rivestite 10 mg | Non indicata | Non registrata nei dati locali |
-| 043443047 | JARDIANCE 28 compresse rivestite 25 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043443136 | JARDIANCE\*28 cpr rivestite 10 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+| 043443047 | JARDIANCE\*28 cpr rivestite 25 mg | BOEHRINGER INGELHEIM INT.GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 

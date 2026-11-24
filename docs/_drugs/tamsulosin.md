@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 description: "Tamsulosin: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riporta…"
@@ -90,7 +90,7 @@ Entrambi gli studi riflettono associazioni legate all'iperplasia prostatica beni
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati. Le prime 5 autorizzazioni:
+Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti nei dati compilati.
 
 <!-- review:begin it-lic-20261106-tamsulosin-1 -->
 
@@ -98,13 +98,36 @@ Il testo delle indicazioni approvate e la forma farmaceutica non sono presenti n
 
 <!-- review:end it-lic-20261106-tamsulosin-1 -->
 
-| N. autorizzazione | Nome prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 036908010 | ANTUNES 20 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Valida |
-| 037004037 | TAMSULOSIN 20 cps 0,4 mg rilascio modificato | MYLAN SpA | Valida |
-| 037010055 | TAMSULOSINA 30 cps 0,4 mg rilascio modificato | SANDOZ SpA | Valida |
-| 050808017 | OMNIC 20 cps 0,4 mg rilascio modificato | FARMA 1000 Srl | Valida |
-| 040917104 | TAMSULOSINA 30 cps 400 mcg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 036908010 | ANTUNES\*20 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Autorizzata |
+| 037004037 | TAMSULOSIN\*20 cps 0,4 mg rilascio modificato | MYLAN SpA | Autorizzata |
+| 037010055 | TAMSULOSINA\*30 cps 0,4 mg rilascio modificato | SANDOZ SpA | Autorizzata |
+| 050808017 | OMNIC\*20 cps 0,4 mg rilascio modificato | FARMA 1000 Srl | Autorizzata |
+| 040917104 | TAMSULOSINA\*30 cps 400 mcg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 037014053 | TAMSULOSIN\*30 cps 0,4 mg rilascio modificato | TEVA ITALIA Srl | Autorizzata |
+| 036953014 | SULOTAM\*20 cps 0,4 mg rilascio modificato | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 032647024 | OMNIC\*20 cps 0,4 mg rilascio modificato | ASTELLAS PHARMA SpA | Autorizzata |
+| 037007034 | TAMSULOSIN\*20 cps 0,4 mg rilascio modificato | DOC GENERICI Srl | Autorizzata |
+| 037001031 | RURIK\*20 cps 0,4 mg rilascio modificato | S.F. GROUP Srl | Autorizzata |
+| 047948017 | TAMSULOSINA\*20 cps 0,4 mg rilascio modificato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 040917080 | TAMSULOSINA\*20 cps 0,4 mg rilascio prolungato | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 036965010 | BOTAM\*20 cps 0,4 mg rilascio modificato | S.F. GROUP Srl | Autorizzata |
+| 037022035 | TAMSULOSIN\*20 cps 0,4 mg rilascio modificato | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 037010030 | TAMSULOSINA\*20 cps 0,4 mg rilascio modificato | SANDOZ SpA | Autorizzata |
+| 047948029 | TAMSULOSINA\*30 cps 0,4 mg rilascio modificato | KRKA D.D.NOVO MESTO | Autorizzata |
+| 045141037 | TAMSULOSINA\*30 cps 0,4 mg rilascio modificato | ZENTIVA ITALIA Srl | Autorizzata |
+| 045141025 | TAMSULOSINA\*20 cps 0,4 mg rilascio modificato | ZENTIVA ITALIA Srl | Autorizzata |
+| 036908022 | ANTUNES\*30 cps 0,4 mg rilascio modificato | SO.SE.PHARM Srl | Autorizzata |
+| 037016033 | TAMSULOSINA\*20 cps 0,4 mg rilascio modificato | ARISTO PHARMA GMBH | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

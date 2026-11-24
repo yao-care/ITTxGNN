@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB11742
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Ebastina: nuova indicazione prevista, Coronaropatia (coronary artery disease) (livello di evidenza L5). In Italia, confezioni AIFA: 10 (autorizzate: 10)"
 ---
 
@@ -73,15 +73,24 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Prodotto | Forma farmaceutica | Titolare |
-|---------|------|------|-----------|
-| 047251032 | Ebastina 30 cpr orodispersibili 10 mg | Compresse orodispersibili | Aurobindo Pharma Italia Srl |
-| 034930014 | Kestine 30 cpr rivestite 10 mg | Compresse rivestite | Almirall S.A. |
-| 034930141 | Kestine orale 30 dosi liofilizzato 10 mg | Liofilizzato orale | Almirall S.A. |
-| 044598035 | Ebastina 30 cpr orodispersibili 10 mg | Compresse orodispersibili | Aristo Pharma GmbH |
-| 043728029 | Ebastina 30 cpr orodispersibili 10 mg | Compresse orodispersibili | EG SpA |
+<!-- licenses:begin -->
 
-Sono elencate le prime 5 delle 10 autorizzazioni valide.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 047251032 | EBASTINA\*30 cpr orodispers 10 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 034930014 | KESTINE\*30 cpr rivestite 10 mg | ALMIRALL S.A. | Autorizzata |
+| 034930141 | KESTINE\*orale 30 dosi liof 10 mg | ALMIRALL S.A. | Autorizzata |
+| 044598035 | EBASTINA\*30 cpr orodispers 10 mg | ARISTO PHARMA GMBH | Autorizzata |
+| 043728029 | EBASTINA\*30 cpr orodispers 10 mg | EG SpA | Autorizzata |
+| 042597031 | EBASTINA\*30 cpr orodispers 10 mg | SANDOZ SpA | Autorizzata |
+| 040840035 | EBASTINA\*30 cpr orodispers 10 mg | TEVA ITALIA Srl | Autorizzata |
+| 042598033 | EBASTINA\*30 cpr orodispers 10 mg | DOC GENERICI Srl | Autorizzata |
+| 042599035 | EBASTINA\*30 cpr orodispers 10 mg | MYLAN SpA | Autorizzata |
+| 029353012 | CLEVER\*30 cpr rivestite 10 mg | ALMIRALL S.A. | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

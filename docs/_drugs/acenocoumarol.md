@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acenocoumarol: nuova indicazione prevista, Deficit del cofattore II dell'eparina (heparin cofactor 2 deficiency) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
 ---
 
@@ -70,10 +70,16 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 011782012 | SINTROM*20 cpr 4 mg | Non indicata | Non registrata nei dati locali |
-| 011782024 | SINTROM*20 cpr 1 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 011782012 | SINTROM\*20 cpr 4 mg | MERUS LABS LUXCO II SARL | Autorizzata |
+| 011782024 | SINTROM\*20 cpr 1 mg | MERUS LABS LUXCO II SARL | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

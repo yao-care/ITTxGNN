@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cyclosporine: nuova indicazione prevista, Malattia granulomatosa cronica, autosomica recessiva (granulomatous disease, chronic, autosomal recessive) (livello di evidenza L5). Indicazione originale: N…"
 ---
 
@@ -72,15 +72,31 @@ Nessuno studio citato esamina direttamente l'uso della ciclosporina nella malatt
 
 ## Informazioni sul mercato italiano
 
-Secondo i dati AIFA compilati, risultano 15 autorizzazioni per prodotti a base di sola ciclosporina; l'elenco seguente ne riporta le principali. Il testo delle indicazioni approvate non è registrato nei dati locali.
+Secondo i dati AIFA compilati, risultano 15 autorizzazioni per prodotti a base di sola ciclosporina. Il testo delle indicazioni approvate non è registrato nei dati locali.
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 029453040 | Sandimmun Neoral soluzione orale 50 ml 100 mg/ml | Soluzione orale | Non registrata |
-| 029453053 | Sandimmun Neoral 50 capsule molli 10 mg | Capsule molli | Non registrata |
-| 042787275 | Ciqorin 50x1 capsule molli 50 mg | Capsule molli | Non registrata |
-| 046918049 | Verkazia collirio emulsione 1 mg/ml | Collirio in emulsione | Non registrata |
-| 044013011 | Ikervis collirio emulsione 1 mg/ml | Collirio in emulsione | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 029453040 | SANDIMMUN NEORAL\*orale soluz 50 ml 100 mg/ml | NOVARTIS FARMA SpA | Autorizzata |
+| 029453053 | SANDIMMUN NEORAL\*50 cps molli 10 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 029453014 | SANDIMMUN NEORAL\*50 cps molli 25 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 042787275 | CIQORIN\*50x1 cps molli 50 mg | TEVA ITALIA Srl | Autorizzata |
+| 025306046 | SANDIMMUN\*50 cps molli 50 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 042787299 | CIQORIN\*30x1 cps molli 100 mg | TEVA ITALIA Srl | Autorizzata |
+| 025306059 | SANDIMMUN\*30 cps molli 100 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 029453026 | SANDIMMUN NEORAL\*50 cps molli 50 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 025306010 | SANDIMMUN\*orale soluz 50 ml 100 mg/ml + siringa | NOVARTIS FARMA SpA | Autorizzata |
+| 025306022 | SANDIMMUN\*10 fiale EV 50 mg/ml 5 ml | NOVARTIS FARMA SpA | Autorizzata |
+| 025306034 | SANDIMMUN\*50 cps molli 25 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 046918049 | VERKAZIA\*collirio emuls 120 contenitori monodose 1 mg/ml 0,3 ml | SANTEN OY | Autorizzata |
+| 042787263 | CIQORIN\*50x1 cps molli 25 mg | TEVA ITALIA Srl | Autorizzata |
+| 029453038 | SANDIMMUN NEORAL\*30 cps molli 100 mg | NOVARTIS FARMA SpA | Autorizzata |
+| 044013011 | IKERVIS\*collirio emuls 30 contenitori monodose 1 mg/ml 0,3 mg 0,3 ml | SANTEN OY | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Citotossicità
 

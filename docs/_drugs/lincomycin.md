@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lincomycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 description: "Lincomycin: nuova indicazione prevista, Iperamilasemia (hyperamylasemia) (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -83,10 +83,16 @@ Attualmente nessuna pubblicazione correlata risulta disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato | Titolare |
-|---------|------|------|-----------|------|
-| 020601098 | LINCOCIN*1 flaconcino iniett 600 mg 2 ml | Non indicata | Valida | Pfizer Italia Srl |
-| 020601023 | LINCOCIN*12 cps 500 mg | Non indicata | Valida | Pfizer Italia Srl |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 020601098 | LINCOCIN\*1 flaconcino iniett 600 mg 2 ml | PFIZER ITALIA Srl | Autorizzata |
+| 020601023 | LINCOCIN\*12 cps 500 mg | PFIZER ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +116,7 @@ La previsione è basata esclusivamente sul modello (livello L5), senza studi cli
 
 <!-- review:begin it-lic-20261106-lincomycin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La previsione è basata esclusivamente sul modello (livello L5), senza studi clinici né pubblicazioni, e non esiste un legame meccanicistico plausibile con l'iperamilasemia. Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-lincomycin-1 -->
 
@@ -129,7 +135,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane sono cancellate e le controindicazioni a carico dell'apparato digerente suggeriscono cautela» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263) |
 
 <!-- review:end log -->

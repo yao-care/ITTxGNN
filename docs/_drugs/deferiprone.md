@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Deferiprone: nuova indicazione prevista, Porfiria epatica (hepatic porphyria) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
 ---
 
@@ -73,13 +73,19 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034525028 | FERRIPROX orale soluz 250 ML 100 mg/ml | Non indicata | Non registrata |
-| 045565025 | DEFERIPRONE 50 cpr rivestite 1.000 mg | Compresse rivestite | Non registrata |
-| 034525042 | FERRIPROX 50 cpr rivestite 1.000 mg | Compresse rivestite | Non registrata |
-| 034525016 | FERRIPROX 100 cpr rivestite 500 mg | Compresse rivestite | Non registrata |
-| 047186010 | DEFERIPRONE 100 cpr rivestite 500 mg | Compresse rivestite | Non registrata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034525028 | FERRIPROX\*orale soluz 250 ML 100 mg/ml | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 045565025 | DEFERIPRONE\*50 cpr rivestite 1.000 mg | DOC GENERICI Srl | Autorizzata |
+| 034525042 | FERRIPROX\*50 cpr rivestite 1.000 mg | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 034525016 | FERRIPROX\*100 cpr rivestite 500 mg | CHIESI FARMACEUTICI SpA | Autorizzata |
+| 047186010 | DEFERIPRONE\*100 cpr rivestite 500 mg | LIPOMED GmbH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Atorvastatin: nuova indicazione prevista, Infezione da HIV (HIV infectious disease) (livello di evidenza L2). In Italia, confezioni AIFA: almeno 20"
 ---
 
@@ -106,15 +106,36 @@ Poiché nessuno studio citato valuta un effetto sull'infezione da HIV come malat
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 039996032 | ATORVASTATINA 30 cpr rivestite 10 mg (Laboratori Alter) | Non indicata | Non registrata |
-| 040497505 | ATORVASTATINA 30 cpr rivestite 40 mg (Sandoz) | Non indicata | Non registrata |
-| 033006026 | TOTALIP 30 cpr rivestite 10 mg (Laboratori Guidotti) | Non indicata | Non registrata |
-| 033007307 | TORVAST 30 cpr rivestite 80 mg (Viatris Pharma) | Non indicata | Non registrata |
-| 041325022 | VASTAT 30 cpr rivestite 10 mg (S.F. Group) | Non indicata | Non registrata |
+<!-- licenses:begin -->
 
-L'elenco è parziale: i dati compilati comprendono altre autorizzazioni non mostrate.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040497505 | ATORVASTATINA\*30 cpr rivestite 40 mg | SANDOZ GMBH | Autorizzata |
+| 033006026 | TOTALIP\*30 cpr rivestite 10 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 042978078 | ATORVASTATINA\*30 cpr rivestite 10 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 041325022 | VASTAT\*30 cpr rivestite 10 mg | S.F. GROUP Srl | Autorizzata |
+| 042949026 | ATORVASTATINA\*30 cpr rivestite 10 mg | TECNIGEN Srl | Autorizzata |
+| 040666024 | TORVACOL\*30 cpr rivestite 10 mg | EBERLIFE FARMACEUTICI SpA | Autorizzata |
+| 040909069 | ATORVASTATINA\*30 cpr rivestite 40 mg | S.F. GROUP Srl | Autorizzata |
+| 041199023 | TOVANIRA\*30 cpr rivestite 10 mg | S.F. GROUP Srl | Autorizzata |
+| 043009176 | ATORVASTATINA\*30 cpr rivestite 20 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 033007307 | TORVAST\*30 cpr rivestite 80 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 040678524 | ATORVASTATINA\*30 cpr rivestite 80 mg | SUN PHARMACEUTICAL IND.EU.B.V. | Autorizzata |
+| 041325046 | VASTAT\*30 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 042772020 | TAXAT\*30 cpr rivestite 20 mg | S.F. GROUP Srl | Autorizzata |
+| 045140011 | ATORVASTATINA DOCGEN\*30 cpr rivestite 10 mg | DOC GENERICI Srl | Autorizzata |
+| 041443437 | ATORVASTATINA\*30 cpr rivestite 20 mg | VIATRIS PHARMA Srl | Autorizzata |
+| 033006065 | TOTALIP\*30 cpr rivestite 40 mg | LABORATORI GUIDOTTI SpA | Autorizzata |
+| 041470028 | OMEGASTATIN\*30 cpr rivestite 10 mg | SO.SE.PHARM Srl | Autorizzata |
+| 039996032 | ATORVASTATINA\*30 cpr rivestite 10 mg | LABORATORI ALTER Srl | Non più autorizzata |
+| 045067055 | ATORVASTATINA\*30 cpr rivestite 60 mg | NISURA FARMACEUTICI Srl | Non più autorizzata |
+| 040090058 | ATORVASTATINA\*30 cpr rivestite 10 mg | TOWA PHARMACEUTICAL SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

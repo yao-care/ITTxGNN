@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 353
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Piperacillin: nuova indicazione prevista, Artrite reumatoide (livello di evidenza L5). Indicazione originale: Non disponibile nei dati compilati (antibiotico beta-lattamico per in…"
 monitor_inn: "piperacillin"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
@@ -99,17 +99,36 @@ Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili
 
 <!-- review:begin it-lic-20261106-piperacillin-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 18 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 18 autorizzazioni risultano cancellate; non esistono autorizzazioni valide. Il testo dell'indicazione approvata e la forma farmaceutica non sono disponibili nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-piperacillin-1 -->
 
+<!-- licenses:begin -->
+
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 033423029 | Piperacillina 2 g IM + solvente 4 ml | K24 Pharmaceuticals Srl | Valida |
-| 033958012 | Pipertex 1 g + solvente 2 ml | Pharmatex Italia Srl | Valida |
-| 028735025 | Piperital 2 g IM + solvente 4 ml | I.B.I. Giovanni Lorenzini SpA | Valida |
-| 037668011 | Piperacillina e Tazobactam 2 g + 250 mg IM | Mylan SpA | Valida |
-| 038717017 | Piperacillina Tazobactam 2 g + 0,25 g EV | Sandoz SpA | Valida |
+|------|------|------|------|
+| 033423029 | PIPERACILLINA\*1 fiala IM 2 g + 1 fiala solv 4 ml | K24 PHARMACEUTICALS Srl | Autorizzata |
+| 033958012 | PIPERTEX\*1 fiala 1 g + 1 fiala solv 2 ml | PHARMATEX ITALIA Srl | Autorizzata |
+| 028735025 | PIPERITAL\*1 flaconcino IM 2 g + 1 fiala solv 4 ml | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+| 033958024 | PIPERTEX\*1 fiala IM 2 g + 1 fiala solv 4 ml | PHARMATEX ITALIA Srl | Autorizzata |
+| 033423017 | PIPERACILLINA\*1 fiala IM 1 g + 1 fiala solv 2 ml | K24 PHARMACEUTICALS Srl | Autorizzata |
+| 028735013 | PIPERITAL\*1 flaconcino IM 1 g + 1 fiala solv 2 ml | I.B.I.GIOVANNI LORENZINI SpA | Autorizzata |
+| 038181018 | TAZOPENIL\*1 flaconcino IM 2 g + 0,25 g/4 ml | AESCULAPIUS FARMACEUTICI Srl | Autorizzata |
+| 037667019 | TAIPER\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | ERREKAPPA EUROTERAPICI SpA | Autorizzata |
+| 038558019 | TEXTAZO\*1 flaconcino IM 2 g + 250 mg/4 ml | PHARMATEX ITALIA Srl | Autorizzata |
+| 050537012 | PIPERACILLINA TAZOBACTAM KALCEKS\*1 flaconcino EV 2 g + 0,25 g | AS KALCEKS | Autorizzata |
+| 037668011 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 250 mg | MYLAN SpA | Autorizzata |
+| 037353012 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | FRESENIUS KABI ITALIA Srl | Autorizzata |
+| 038717017 | PIPERACILLINA TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | SANDOZ SpA | Autorizzata |
+| 039786013 | PIPERACILLINA TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | EUGIA PHARMA (MALTA) LIMITED | Autorizzata |
+| 038476014 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino EV 2 g + 0,25 g | IBIGEN Srl | Autorizzata |
+| 037666017 | PIPERACILLINA E TAZOBACTAM\*1 flaconcino IM 2 g + 0,25 g/4 ml | TEVA ITALIA Srl | Autorizzata |
+| 038110019 | IBITAZINA\*1 flaconcino IM 2 g + 250 mg/4 ml + 1 fiala solv 4 ml | IBIGEN Srl | Autorizzata |
+| 037360017 | LIMERIK\*1 fiala IM 2 g + 250 mg/4 ml | C.T. LAB.FARMACEUTICO Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -143,7 +162,7 @@ Dalla letteratura emergono inoltre segnali di cautela: possibile danno epatico i
 
 <!-- review:begin it-lic-20261106-piperacillin-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 18 autorizzazioni per questo farmaco, di cui 18 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Valutazione dello stato regolatorio, poiché tutte le autorizzazioni italiane sono cancellate» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-piperacillin-2 -->
 
@@ -155,8 +174,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 18 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «poiché tutte le autorizzazioni italiane sono cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 18 autorizzazioni risultano cancellate; non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «poiché tutte le autorizzazioni italiane sono cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

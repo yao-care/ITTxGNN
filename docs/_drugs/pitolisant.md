@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 description: "Pitolisant: nuova indicazione prevista, Insonnia (insomnia (disease)) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -91,12 +91,18 @@ Nessuna delle pubblicazioni recuperate valuta pitolisant come trattamento dell'i
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Stato |
-|---------|------|------|
-| 049682026 | OZAWADE, 30 compresse rivestite da 18 mg | Valida |
-| 044839025 | WAKIX, 30 compresse rivestite da 18 mg | Valida |
-| 044839013 | WAKIX, 30 compresse rivestite da 4,5 mg | Valida |
-| 049682014 | OZAWADE, 30 compresse rivestite da 4,5 mg | Valida |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 049682026 | OZAWADE\*30 cpr rivestite 18 mg flacone | BIOPROJET PHARMA | Autorizzata |
+| 044839025 | WAKIX\*30 cpr rivestite 18 mg flacone | BIOPROJET PHARMA | Autorizzata |
+| 044839013 | WAKIX\*30 cpr rivestite 4,5 mg flacone | BIOPROJET PHARMA | Autorizzata |
+| 049682014 | OZAWADE\*30 cpr rivestite 4,5 mg flacone | BIOPROJET PHARMA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 Titolare di tutte le autorizzazioni: BIOPROJET PHARMA. Tutte e 4 le autorizzazioni risultano valide.
 

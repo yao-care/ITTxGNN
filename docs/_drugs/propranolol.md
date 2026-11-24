@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
 description: "Propranolol: nuova indicazione prevista, Distal myopathy, Tateyama type (livello di evidenza L5). In Italia, confezioni AIFA: 2 (autorizzate: 2)"
@@ -71,10 +71,16 @@ Attualmente non risulta alcuna letteratura correlata a questa indicazione.
 
 ## Informazioni sul mercato italiano
 
-| N. autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 043368012 | HEMANGIOL soluzione orale, flacone 120 ml 3,75 mg/ml + siringa (Pierre Fabre Médicament) | Non indicata | Non indicata (autorizzazione valida) |
-| 020854028 | INDERAL 30 cpr 40 mg (Atnahs Pharma Netherlands BV) | Non indicata | Non indicata (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 043368012 | HEMANGIOL\*orale soluz flacone 120 ml 3,75 mg/ml + siringa | PIERRE FABRE MEDICAMENT | Autorizzata |
+| 020854028 | INDERAL\*30 cpr 40 mg | ATNAHS PHARMA NETHERLANDS BV | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

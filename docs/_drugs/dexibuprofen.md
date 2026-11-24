@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexibuprofen: nuova indicazione prevista, Sindrome brachidattilia-sindattilia (brachydactyly-syndactyly syndrome) (livello di evidenza L5). In Italia, confezioni AIFA: 5 (autorizzate: 5)"
 ---
 
@@ -68,13 +68,19 @@ Attualmente non è disponibile letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 034765228 | SERACTIL orale polv 30 bust 400 mg | Non indicata | Non registrata nei dati locali |
-| 035512045 | FENEXTRA 30 cpr rivestite 400 mg | Non indicata | Non registrata nei dati locali |
-| 035512072 | FENEXTRA orale grat 30 bust 300 mg | Non indicata | Non registrata nei dati locali |
-| 034765154 | SERACTIL 30 cpr rivestite 400 mg | Non indicata | Non registrata nei dati locali |
-| 035512084 | FENEXTRA orale grat 30 bust 400 mg | Non indicata | Non registrata nei dati locali |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 034765228 | SERACTIL\*orale polv 30 bust 400 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 035512045 | FENEXTRA\*30 cpr rivestite 400 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 035512072 | FENEXTRA\*orale grat 30 bust 300 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+| 034765154 | SERACTIL\*30 cpr rivestite 400 mg | NEOPHARMED GENTILI SpA | Autorizzata |
+| 035512084 | FENEXTRA\*orale grat 30 bust 400 mg | BRUNO FARMACEUTICI SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ## Considerazioni sulla sicurezza
 

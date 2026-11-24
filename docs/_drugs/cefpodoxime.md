@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cefpodoxime"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cefpodoxime: nuova indicazione prevista, osteoartrosi (osteoarthritis) (livello di evidenza L5). In Italia, confezioni AIFA: 11 (autorizzate: 11)"
 ---
 
@@ -68,15 +68,27 @@ Attualmente nessuna pubblicazione correlata disponibile.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 040010035 | PROXEDOX*orale sosp grat 100 ml 40 mg/5 ml | – | – |
-| 028463040 | CEFODOX*6 cpr rivestite 200 mg | – | – |
-| 040010011 | PROXEDOX*12 cpr rivestite 100 mg | – | – |
-| 028463014 | CEFODOX*12 cpr rivestite 100 mg | – | – |
-| 041859188 | CEFPODOXIMA*12 cpr rivestite 100 mg | – | – |
+<!-- licenses:begin -->
 
-Sono presenti 11 autorizzazioni, tutte valide e tutte per il medicinale a singolo principio attivo; la tabella ne mostra le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 040010035 | PROXEDOX\*orale sosp grat 100 ml 40 mg/5 ml | SO.SE.PHARM Srl | Autorizzata |
+| 028463040 | CEFODOX\*6 cpr rivestite 200 mg | SCHARPER SpA | Autorizzata |
+| 040010011 | PROXEDOX\*12 cpr rivestite 100 mg | SO.SE.PHARM Srl | Autorizzata |
+| 028463014 | CEFODOX\*12 cpr rivestite 100 mg | SCHARPER SpA | Autorizzata |
+| 041859188 | CEFPODOXIMA\*12 cpr rivestite 100 mg | MYLAN SpA | Autorizzata |
+| 039962079 | CEFPODOXIMA\*6 cpr rivestite 200 mg | SANDOZ SpA | Autorizzata |
+| 039962168 | CEFPODOXIMA\*orale sosp polv 100 ml 40 mg/5 ml | SANDOZ SpA | Autorizzata |
+| 028463038 | CEFODOX\*BB orale sosp grat 100 ml 40 mg/5 ml | SCHARPER SpA | Autorizzata |
+| 041859048 | CEFPODOXIMA\*6 cpr rivestite 200 mg | MYLAN SpA | Autorizzata |
+| 040010023 | PROXEDOX\*6 cpr rivestite 200 mg | SO.SE.PHARM Srl | Autorizzata |
+| 041859164 | CEFPODOXIMA\*orale sosp grat 100 ml 40 mg/5 ml | MYLAN SpA | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 11 autorizzazioni, tutte valide e tutte per il medicinale a singolo principio attivo.
 
 ## Considerazioni sulla sicurezza
 

@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 description: "Dutasteride: nuova indicazione prevista, Ipertricosi universale congenita di tipo Ambras (Ambras type hypertrichosis universalis congenita) (livello di evidenza L5). Indicazione originale: Non riport…"
@@ -79,15 +79,37 @@ Per l'indicazione principale non è disponibile alcuna letteratura correlata.
 
 ## Informazioni sul mercato italiano
 
-Il testo delle indicazioni approvate non è presente nei dati. Elenco delle principali 5:
+Il testo delle indicazioni approvate non è presente nei dati.
+
+<!-- licenses:begin -->
 
 | Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 044410025 | Dutasteride 30 cps molli 0,5 mg | Sandoz GmbH | Valida |
-| 045364027 | Dutasteride 30 cps molli 0,5 mg | Accord Healthcare SLU | Valida |
-| 043912056 | Prodirexan 90 capsule molli 0,5 mg | I.B.N. Savio Srl | Valida |
-| 035896012 | Duagen 30 cps molli 0,5 mg | GlaxoSmithKline SpA | Valida |
-| 046973018 | Durital 30 cps molli 0,5 mg | Pharmacare Srl | Valida |
+|------|------|------|------|
+| 044410025 | DUTASTERIDE\*30 cps molli 0,5 mg | SANDOZ GMBH | Autorizzata |
+| 045364027 | DUTASTERIDE\*30 cps molli 0,5 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 044746028 | DUTASTERIDE\*30 cps molli 0,5 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 043912056 | PRODIREXAN\*90 capsule molli 0,5 mg | I.B.N. SAVIO Srl | Autorizzata |
+| 044103024 | DUTASTERIDE\*30 cps molli 0,5 mg | ZENTIVA ITALIA Srl | Autorizzata |
+| 043941020 | DUTASTERIDE\*30 cps molli 0,5 mg | EG SpA | Autorizzata |
+| 045302027 | DUTASTERIDE\*30 cps molli 0,5 mg | AUROBINDO PHARMA ITALIA Srl | Autorizzata |
+| 044104026 | VIVISTER\*30 cps molli 0,5 mg | S.F. GROUP Srl | Autorizzata |
+| 046973018 | DURITAL\*30 cps molli 0,5 mg | PHARMACARE Srl | Autorizzata |
+| 045063017 | DUTASTERIDE\*30 cps molli 0,5 mg | TECNIGEN Srl | Autorizzata |
+| 045997018 | DUTAS\*30 cps molli 0,5 mg | PHARMACARE Srl | Autorizzata |
+| 044102022 | DECUSTER\*30 cps molli 0,5 mg | ECUPHARMA Srl | Autorizzata |
+| 044777023 | DUTASTERIDE\*30 cps molli 0,5 mg | KRKA D.D.NOVO MESTO | Autorizzata |
+| 044102059 | DECUSTER\*90 cps molli 0,5 mg | ECUPHARMA Srl | Autorizzata |
+| 042747030 | DUTASTERIDE\*30 cps molli 0,5 mg | TEVA ITALIA Srl | Autorizzata |
+| 035896012 | DUAGEN\*30 cps molli 0,5 mg | GLAXOSMITHKLINE SpA | Autorizzata |
+| 045395011 | DUTASTERIDE\*30 cps molli 0,5 mg | MYLAN SpA | Autorizzata |
+| 044105029 | DUTASTERIDE\*30 cps molli 0,5 mg | LABORATORI ALTER Srl | Autorizzata |
+| 044106058 | PRODUXEN\*90 cps molli 0,5 mg | S&R FARMACEUTICI SpA | Autorizzata |
+| 045117025 | DUTASTERIDE\*30 cps molli 0,5 mg | ARISTO PHARMA GMBH | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+I dati contengono solo una parte delle autorizzazioni; l'elenco può essere incompleto.
+
+<!-- licenses:end -->
 
 ---
 

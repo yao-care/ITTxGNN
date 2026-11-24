@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRAVOPROST"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 description: "Travoprost: nuova indicazione prevista, Visceral calciphylaxis (livello di evidenza L5). In Italia, confezioni AIFA: 15 (autorizzate: 15)"
@@ -120,19 +120,33 @@ Il testo dell'indicazione approvata non è disponibile nei dati compilati.
 
 <!-- review:begin it-lic-20261106-travoprost-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide. Il testo dell'indicazione approvata non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide. Il testo dell'indicazione approvata non è disponibile nei dati compilati.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-travoprost-1 -->
 
-| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
-|---------|------|------|-----------|
-| 035409010 | TRAVATAN collirio 2,5 ml 40 mcg/ml | Novartis Europharm Ltd | Valida |
-| 043310010 | IZBA collirio 2,5 ml 30 mcg/ml | Novartis Europharm Ltd (UK) | Valida |
-| 042869014 | ACAMBA collirio 1 flacone 2,5 ml 40 mcg/ml | Fidia Farmaceutici SpA | Valida |
-| 042874014 | MENEZON collirio 1 flacone 2,5 ml 40 mcg/ml | Visufarma SpA | Valida |
-| 043353010 | BRUNITRAV collirio 1 flacone 2,5 ml 40 mcg/ml | Bruschettini Srl | Valida |
+<!-- licenses:begin -->
 
-Elencate le prime 5 delle 15 autorizzazioni (le restanti sono generici e altri marchi di Teva, Zentiva, EG, Sandoz, Mylan, DOC Generici, A.G.F.).
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 042869026 | ACAMBA\*collirio 30 flaconi monod 0,1 ml 40 mcg/ml | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 042251013 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | TEVA ITALIA Srl | Autorizzata |
+| 042874014 | MENEZON\*collirio 1 flacone 2,5 ml 40 mcg/ml | VISUFARMA SpA | Autorizzata |
+| 035409010 | TRAVATAN\*collirio 2,5 ml 40 mcg/ml | NOVARTIS EUROPHARM LTD | Autorizzata |
+| 045143017 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | ZENTIVA ITALIA Srl | Autorizzata |
+| 043353010 | BRUNITRAV\*collirio 1 flacone 2,5 ml 40 mcg/ml | BRUSCHETTINI Srl | Autorizzata |
+| 042869014 | ACAMBA\*collirio 1 flacone 2,5 ml 40 mcg/ml | FIDIA FARMACEUTICI SpA | Autorizzata |
+| 042874026 | MENEZON\*collirio 30 flaconi monod 0,1 ml 40 mcg/ml | VISUFARMA SpA | Autorizzata |
+| 042240010 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | EG SpA | Autorizzata |
+| 043373012 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | SANDOZ SpA | Autorizzata |
+| 048106013 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | MYLAN SpA | Autorizzata |
+| 043310010 | IZBA\*collirio 2,5 ml 30 mcg/ml | NOVARTIS EUROPHARM LTD (UK) | Autorizzata |
+| 042865028 | TRAVIOP\*collirio 30 flaconi monod 0,1 ml 40 mcg/ml | DOC GENERICI Srl | Autorizzata |
+| 045531011 | UMOSTIL\*collirio 1 flacone 2,5 ml 40 mcg/ml | A.G.F. Srl | Autorizzata |
+| 042453011 | TRAVOPROST\*collirio 1 flacone 2,5 ml 40 mcg/ml | DOC GENERICI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -157,7 +171,7 @@ Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la mala
 
 <!-- review:begin it-lic-20261106-travoprost-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 15 autorizzazioni per questo farmaco, di cui 15 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le previsioni sono basate esclusivamente sul modello (livello L5; L4 per la malattia vascolare, dove gli studi associati riguardano solo il glaucoma) e non esiste un meccanismo plausibile che colleghi un collirio con esposizione sistemica minima a queste patologie vascolari. Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-travoprost-2 -->
 
@@ -176,8 +190,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Tutte le 15 autorizzazioni risultano **cancellate**; non esistono autorizzazioni valide» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, in Italia tutte le autorizzazioni sono attualmente cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
 
 <!-- review:end log -->

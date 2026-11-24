@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "isoniazid"
 predicted_indications: ["conjunctivitis"]
 description: "Isoniazid: nuova indicazione prevista, Congiuntivite (conjunctivitis) (livello di evidenza L5). In Italia, confezioni AIFA: 4 (autorizzate: 4)"
@@ -91,12 +91,18 @@ Gli altri lavori reperiti (tossicità epidermica necrolitica, poliartrite post-B
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 006455036 | NICOZID*50 cpr 200 mg | Compresse | Non disponibile (autorizzazione valida) |
-| 006455051 | NICOZID*5 fiale IM EV 500 mg 5 ml | Fiale | Non disponibile (autorizzazione valida) |
-| 025377033 | RIFINAH*24 cpr rivestite 300 mg + 150 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
-| 026981011 | RIFATER*40 cpr rivestite 50 mg + 300 mg + 120 mg | Compresse rivestite | Non disponibile (autorizzazione valida) |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 006455036 | NICOZID\*50 cpr 200 mg | PIAM FARMACEUTICI SpA | Autorizzata |
+| 006455051 | NICOZID\*5 fiale IM EV 500 mg 5 ml | PIAM FARMACEUTICI SpA | Autorizzata |
+| 025377033 | RIFINAH\*24 cpr rivestite 300 mg + 150 mg | SANOFI Srl | Autorizzata |
+| 026981011 | RIFATER\*40 cpr rivestite 50 mg + 300 mg + 120 mg | SANOFI Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +124,7 @@ La predizione si basa essenzialmente sul modello (livello di evidenza L4), senza
 
 <!-- review:begin it-lic-20261106-isoniazid-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 4 autorizzazioni per questo farmaco, di cui 4 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «La letteratura è composta in larga parte da casi clinici o da lavori indiretti, e il solo segnale favorevole (profilassi del 1965) riguarda la cheratocongiuntivite flittenulare di origine tubercolare, non la congiuntivite in generale. Inoltre, tutte le autorizzazioni italiane risultano cancellate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-isoniazid-1 -->
 
@@ -137,7 +143,7 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Inoltre, tutte le autorizzazioni italiane risultano cancellate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 | 2026-11-19 | Frase «dati sul meccanismo d'azione non disponibili» sostituita da un estratto del foglietto statunitense | Frase sull'assenza di dati sul meccanismo d'azione sostituita da un estratto con fonte | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
 
 <!-- review:end log -->

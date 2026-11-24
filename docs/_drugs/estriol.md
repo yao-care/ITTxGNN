@@ -5,7 +5,7 @@ parent: Prove moderate (L3-L4)
 nav_order: 180
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Estriol: nuova indicazione prevista, Amenorrea (livello di evidenza L3). Indicazione originale: Non disponibile nei dati compilati (il testo delle indicazioni autori…"
 monitor_inn: "estriol"
 predicted_indications: ["amenorrhea (disease)"]
@@ -42,7 +42,7 @@ L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN
 
 <!-- review:begin it-lic-20261106-estriol-1 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale, ma le due autorizzazioni risultano oggi tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «L'estriolo è un estrogeno debole, commercializzato in Italia (prodotto COLPOGYN) per uso vaginale, ma le due autorizzazioni risultano oggi tutte revocate.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-estriol-1 -->
 
@@ -83,10 +83,17 @@ Al momento non risultano studi clinici correlati registrati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Stato |
-|---------|------|------|-----------|
-| 025851066 | COLPOGYN*20 ov vag 1 mg | Ovuli vaginali | Valida |
-| 025851027 | COLPOGYN*crema vag 30 g 0,0125% + 6 applicatori | Crema vaginale | Non più autorizzata |
+<!-- licenses:begin -->
+
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 025851066 | COLPOGYN\*20 ov vag 1 mg | ANGELINI PHARMA ITALIA SpA | Autorizzata |
+| 025851027 | COLPOGYN\*crema vag 30 g 0,0125% + 6 applicatori | ANGELINI PHARMA ITALIA SpA | Non più autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+«Non più autorizzata»: la confezione non figura più nell'elenco AIFA delle confezioni autorizzate.
+
+<!-- licenses:end -->
 
 Titolare di entrambe: Angelini Pharma Italia SpA. Il testo delle indicazioni approvate non è disponibile.
 
@@ -105,7 +112,7 @@ L'evidenza si ferma a un piccolo studio clinico e a una revisione, limitati alla
 
 <!-- review:begin it-lic-20261106-estriol-2 -->
 
-> **Correzione di verifica (2026-11-06)**: Testo originale: «Le autorizzazioni italiane sono tutte revocate e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). Nei dati (AIFA, elenco delle confezioni autorizzate) risultano 2 autorizzazioni per questo farmaco, di cui 2 valide; i numeri aggiornati sono nella panoramica rapida e nelle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
+> **Correzione di verifica (2026-11-24)**: Testo originale: «Le autorizzazioni italiane sono tutte revocate e mancano i dati di sicurezza dal foglio illustrativo.» Rimosso: l'affermazione che le autorizzazioni fossero revocate, annullate o non valide non corrispondeva ai dati delle autorizzazioni (AIFA, elenco delle confezioni autorizzate, al 2026-11-06). I numeri aggiornati delle autorizzazioni sono nella panoramica rapida e nella tabella delle informazioni sul mercato. Fonte: [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv).
 
 <!-- review:end it-lic-20261106-estriol-2 -->
 
@@ -123,8 +130,8 @@ Di seguito il registro delle verifiche di questa pagina: affermazioni controllat
 
 | Data di verifica | Voce | Intervento | Fonte |
 |------|------|------|------|
-| 2026-11-06 | Rimosso: «ma le due autorizzazioni risultano oggi tutte revocate» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
-| 2026-11-06 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e m» | Corretto | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «ma le due autorizzazioni risultano oggi tutte revocate» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
+| 2026-11-24 | Rimosso: «Le autorizzazioni italiane sono tutte revocate e m» | Corretto (rivisto il 2026-11-24; versione precedente conservata nel registro) | [AIFA – Elenco confezioni (open data)](https://drive.aifa.gov.it/farmaci/confezioni.csv) |
 
 <!-- review:end log -->
 

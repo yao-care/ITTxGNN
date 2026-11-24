@@ -5,7 +5,7 @@ parent: Solo previsione del modello (L5)
 nav_order: 365
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 description: "Propafenone: nuova indicazione prevista, Disturbo affettivo bipolare di tipo maniacale (manic bipolar affective disorder) (livello di evidenza L5)."
@@ -72,15 +72,30 @@ Attualmente non risultano studi clinici registrati correlati.
 
 ## Informazioni sul mercato italiano
 
-| Numero di autorizzazione | Nome del prodotto | Forma farmaceutica | Indicazione approvata |
-|---------|------|------|-----------|
-| 024862106 | RYTMONORM 28 cps 425 mg rilascio prolungato (Teva Italia) | Non disponibile | Non disponibile |
-| 024862029 | RYTMONORM 30 cpr rivestite 300 mg (Teva Italia) | Non disponibile | Non disponibile |
-| 024862017 | RYTMONORM 30 cpr rivestite 150 mg (Teva Italia) | Non disponibile | Non disponibile |
-| 024862031 | RYTMONORM 5 fiale EV 70 mg/20 ml (Teva Italia) | Non disponibile | Non disponibile |
-| 024862094 | RYTMONORM 28 cps 325 mg rilascio prolungato (Teva Italia) | Non disponibile | Non disponibile |
+<!-- licenses:begin -->
 
-Sono presenti 14 autorizzazioni valide; l'elenco mostra le prime 5.
+| Numero di autorizzazione | Nome del prodotto | Titolare | Stato |
+|------|------|------|------|
+| 024862106 | RYTMONORM\*28 cps 425 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+| 033737014 | PROPAFENONE\*30 cpr rivestite 150 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 033804016 | PROPAFENONE\*30 cpr rivestite 150 mg | EG SpA | Autorizzata |
+| 044771020 | PROPAFENONE\*30 cpr rivestite 150 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 024862029 | RYTMONORM\*30 cpr rivestite 300 mg | TEVA ITALIA Srl | Autorizzata |
+| 033804028 | PROPAFENONE\*30 cpr rivestite 300 mg | EG SpA | Autorizzata |
+| 044771071 | PROPAFENONE\*30 cpr rivestite 300 mg | ACCORD HEALTHCARE SLU | Autorizzata |
+| 024862031 | RYTMONORM\*5 fiale EV 70 mg 20 ml | TEVA ITALIA Srl | Autorizzata |
+| 034079020 | PROPAFENONE\*30 cpr rivestite 300 mg | DOC GENERICI Srl | Autorizzata |
+| 024862017 | RYTMONORM\*30 cpr rivestite 150 mg | TEVA ITALIA Srl | Autorizzata |
+| 034123012 | PROPAFENONE\*30 cpr rivestite 150 mg | RATIOPHARM GMBH | Autorizzata |
+| 034079018 | PROPAFENONE\*30 cpr rivestite 150 mg | DOC GENERICI Srl | Autorizzata |
+| 033737026 | PROPAFENONE\*30 cpr rivestite 300 mg | TOWA PHARMACEUTICAL SpA | Autorizzata |
+| 024862094 | RYTMONORM\*28 cps 325 mg rilascio prolungato | TEVA ITALIA Srl | Autorizzata |
+
+Fonte: AIFA, elenco delle confezioni autorizzate (open data), stato amministrativo; confezioni autorizzate per prime.
+
+<!-- licenses:end -->
+
+Sono presenti 14 autorizzazioni valide.
 
 ## Considerazioni sulla sicurezza
 
